@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: AeroDrone Mk2 Spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: bbf49b0922ab3534ab2b2c9d016357d4, type: 3}
+  materials:
+  - {fileID: 2100000, guid: b00d28abf6b8c8745a7cf7be0d21eb93, type: 2}
+  - {fileID: 2100000, guid: 085b617cde2839246995bc7f12bbac39, type: 2}
+  - {fileID: 2100000, guid: ee084d9598c81da4cabb35545ad180f6, type: 2}

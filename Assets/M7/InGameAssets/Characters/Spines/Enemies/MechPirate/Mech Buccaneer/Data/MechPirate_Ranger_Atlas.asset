@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: MechPirate_Ranger_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: cab872f91844f344ba689f2d01e1b1ef, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cc55c7e159f105249b193b87e5e5581c, type: 2}
+  - {fileID: 2100000, guid: 1574f23255f3cd94c8da7e7ec9bcc254, type: 2}
+  - {fileID: 2100000, guid: afeeadbd070f78b449f7462d3a984332, type: 2}

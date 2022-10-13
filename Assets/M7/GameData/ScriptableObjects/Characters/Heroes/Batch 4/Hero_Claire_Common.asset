@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Claire_Common
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Claire
+    descriptionText: 
+    icon:
+      m_AssetGUID: 6f8b87ae022a3ab408762a34cc653ddb
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 3c73123bbfc90cb47a5928bcd3aa19ed
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 1
+    mainSpine:
+      m_AssetGUID: 388a2ffa0ca979b4fabeb7a9beaa593d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ceb9f0cc9d9c6114fafef565b7caef79
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12e304b0e83901d4090c9ef123a5c371
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 21c2e6be15d207b4c812bed14e348193
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: db7b4ae1a28b2db4994637bc8bdfe89e
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10385884223cb8147952a1d295c14fad
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aac80d07053be0647a02fb73695c6cfe
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 49036118bbd763c43b0cca1fb77276d4
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5214859e1244eae4395f12aeb509f847
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ca4c59e066c7cd5458de01788c928476
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8ae013380a32dff4bbbee72de2ff6c5f
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3e1b3349e8c73d34b995d0d377e709b3
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f6ab1dc7dc9d65344ba0e3ef2c224078
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 328dc2749c481964ea94518ceaead4f9
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ce8d1c83ae502d447ac6e90997fb0afe
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 71480a535cba3784f9165abd9aad70f6
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f1298b74f3fbb0843a1486b20790642c
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1cf1a347059fbf240bd2edfe196cd31a
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 30777d1e617fe714882a93753e4be5b0
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e71cfcb266dc1d42be69f756e59ab2d
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0fd79fefe2f93854aababa1c5bbb09f9
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b7a89c9e36904214c9b110b64be20d93
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e93be25aaec15149991f68dfbc06c43
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf4da9be17b31284a89f943f8835b304
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9d0e826e6b87b72408535b48c5af6764
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f14e596d6f89fe14eb9fcd5c7a2eb2ee
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3f975cb567165ce45b881ab4a1e27f34
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fff6b5f67490fbc4bb481cfa14c86497
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8f20eb1ca0cf529449312097670b8d29
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 170d63d16db52d24fb72d27069fe6f4b
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: afbfab32ee52eee40bce5bebdeb3525b
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Claire_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e5db1a32f8f2f2644ad76c046cacaab3
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 89192e892ac7d064b87a6fa042544402
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45ea4de5466d70948ac0269ea537be00
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9e88a39cf404c8e4b85daf9b7fed2b86
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e76fa20fc39f0441aa78899be5c2d72
+        subObjectName: 
+      - assetName: EquipmentItem_Claire_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6efcc9e430281e5448071dd9e40ac295
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 5422695e3cabee849935f8b96c68c051
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 9c1239c3f43a7b940859e9373fe70da9, type: 2}

@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="basic" style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; border-left-color: rgb(103, 103, 103); border-right-color: rgb(103, 103, 103); border-top-color: rgb(103, 103, 103); border-bottom-color: rgb(103, 103, 103); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 5px;">
+        <ui:Label text="Basic" display-tooltip-when-elided="true" style="-unity-font-style: bold; margin-top: 3px;" />
+        <uie:PropertyField name="activation-trigger" />
+        <uie:PropertyField name="instance-prefab" />
+        <uie:PropertyField name="apply-as-permanent" />
+        <uie:PropertyField name="computation-type" />
+        <uie:PropertyField name="target-stats" />
+        <uie:PropertyField name="value" />
+    </ui:VisualElement>
+    <ui:VisualElement name="expiration" style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; border-left-color: rgb(103, 103, 103); border-right-color: rgb(103, 103, 103); border-top-color: rgb(103, 103, 103); border-bottom-color: rgb(103, 103, 103); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 5px;">
+        <ui:Label text="Expiration" display-tooltip-when-elided="true" style="-unity-font-style: bold; margin-top: 3px;" />
+        <uie:PropertyField name="expireCount" binding-path="expiration.expireCount" />
+        <uie:PropertyField name="trigger" binding-path="expiration.trigger" />
+    </ui:VisualElement>
+    <ui:VisualElement name="conditionals" style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; border-left-color: rgb(103, 103, 103); border-right-color: rgb(103, 103, 103); border-top-color: rgb(103, 103, 103); border-bottom-color: rgb(103, 103, 103); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 5px;">
+        <ui:Label text="Conditionals" display-tooltip-when-elided="true" style="-unity-font-style: bold; margin-top: 3px;" />
+    </ui:VisualElement>
+</ui:UXML>

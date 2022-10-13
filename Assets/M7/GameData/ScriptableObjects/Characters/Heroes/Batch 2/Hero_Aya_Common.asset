@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Aya_Common
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Aya
+    descriptionText: 
+    icon:
+      m_AssetGUID: 34318d0d6abbc624e90ec73ed2a17402
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 1ffbb9b43243b0e47a06aeab1c8d6a4d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 1
+    mainSpine:
+      m_AssetGUID: f1356fa5a12556946859048ea35f6993
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d5c7cd33f3a007d4192e1d9ce9325bcc
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 95045deb936148843b037a04d4f01cd2
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5eb866a12c54ccc4db7c9454e7d64799
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 30aea03a9f6ccd74ea88cc99524fe58c
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 61a490f8e87656849b9d43e0791cd8d5
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 68210ce3215f83c41bf45f57a942cb1a
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6f60b3bcecadc71438b743ec682270fb
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 216aeb4db12953949b46d467c2352ad6
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fc1003a519a262f4b9719f11034102ea
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a61fd40d4bb365438c7f1c6cf0266f9
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 06ba704bb8dd4bc49829e9a11502830d
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9049c31316abfed419083fb85dc38606
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12255421d27dce244a36e7a9ba444026
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9288ae841d152404692134302f7004e3
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 512c9ddc5f93bed4abf8a32a8a4496a1
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9cf52d36fcca50843a620a63613f011e
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 408a43808a8983a4099d52a0b682b9c4
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 44ce7500d383d3f478c55ec301e0165e
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: adf5514aff327074fbff8f1fd97a0250
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2a317b934959cbd4880f78dd45bf7208
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92c50e7562a6d2546872d6b777525481
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5cfd4fe3541f01c44888a8c3bcaf2463
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 36ff8a66668040343aba58ee93a2b10d
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c4708410304a45146840fb8712f2772d
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bd4b645692c237440aac6fea0b9b3e77
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 26a4ea6baec2523488bb078a18d4862e
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2396ec4b987cf1549b29c76c52f7482a
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 426bba9edeb46d141b8933155a957970
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72fa7aa99909daa4bbd241a65bc3fc98
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 95c26e8584b538f4fb138dc0c3b71f77
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Aya_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b89e3680c66ee2c4b9f8598a92b37680
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6f81dd50059e5a34687c7c629887a14c
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0049e7f81714b43439ec8c77f0748c08
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ef887820a36420a4aae89578349fb922
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a09ab219f5d5fa46b678c0d52a6c2ea
+        subObjectName: 
+      - assetName: EquipmentItem_Aya_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c93f02056519b8641bd175a664448cd6
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 6c4e244c3e564d04488355270298eaf6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: a2ba5089d3e62794088aa87f36382ae7, type: 2}

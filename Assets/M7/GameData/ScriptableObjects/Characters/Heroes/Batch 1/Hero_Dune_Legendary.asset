@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Dune_Legendary
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Dune
+    descriptionText: 
+    icon:
+      m_AssetGUID: 9adeb3b989afdc64088db98c33e4f919
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 39a42a4889ebaad46a480138c5c4b983
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 16
+    mainSpine:
+      m_AssetGUID: 3271db76530451647be9fb220057d16e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e406cf237c4d1d4c85bae70c03a504b
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1a9b3e24cc808f049833e4eaf7c62fd7
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d70bdc4ae18699c4996fb255d8f99313
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fc6b4b163707ca64f8859cdc04b728fe
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f22b14fdc05d0684c9c80fcff659a03d
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c32898970f6b5fb41bfbdf35c9b7bda2
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a84d06410cf51d4d88482c8a3ec8e51
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d29965387663c94409b3a208df7e23f2
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0739f511b28ebe447af81a12e02975e2
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45ba26c434b61e646ae8eff532b090c2
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 536f031a6551fa341b75c4234183cdf9
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc5cbbf31ea5d4b48abc2f134bf43c16
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 66ebcb54bff1e5340aa7109ed751c7bc
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e5988cd567f601d41863aa05eb4a033b
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a22c411bb56ddf34c90919c6bcfa4a5b
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d2aab38e4a1d70f4dbefbaf58ec40f03
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 188d24ad198f7914c9ced7a8b627cbe1
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 757b850d2aa75c742a62e71ddbeace8c
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3690f6e59323b7e468e68def035c4040
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 61fe99be5fe5f8a4588a1d0a331220b2
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 63f16418919a6134ea48ec468ab44574
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 87c7a271bc377144d838e225ba56e49a
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c2ba3be533d2e540b9776d3236adf94
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 312687fa7844a6548ab55428413dcd9b
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc56e6d6f0624fb48b3a6d92af03694c
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a066b583fc16095439067678a00ff5f9
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: af2240308ef12974f90e66b40ff121a7
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac6a2b963a46aae479df798bab5d440c
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 88ad98a1753ce2c45a4d4a57e2d0ac77
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 62a3aa1ed74916a40aa584b00f395285
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Alicia_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3cfb652de4ddbdd4298d6a571823ae9e
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 73cd7dc446831684a980fd754c17b421
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c4bcb66e5fba0e4ab8a05b8ab56fcb6
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cefd2737e86673b4ba94872c879bfc84
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ec4f029c840293145bc904846f6f4eb4
+        subObjectName: 
+      - assetName: EquipmentItem_Alicia_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 29e748b9ffb98d542baa00fdbba89ffd
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 62b8d123f614b1942822efe6e1da4380
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 8145fdd6c799566499535bb918ea71bd, type: 2}

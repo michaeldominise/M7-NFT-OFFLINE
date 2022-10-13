@@ -1,0 +1,69 @@
+TentacleBot2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+body
+bounds:816,58,150,108
+head
+bounds:289,71,265,284
+rotate:90
+tentacle A_A
+bounds:968,73,50,29
+offsets:1,1,52,31
+tentacle A_B
+bounds:968,137,51,29
+offsets:1,1,53,31
+tentacle A_C
+bounds:2,10,284,235
+tentacle A_D
+bounds:669,21,32,26
+offsets:1,1,34,28
+tentacle B_A
+bounds:763,54,44,25
+offsets:1,1,46,27
+tentacle B_B
+bounds:716,52,45,27
+offsets:1,1,47,29
+tentacle B_C
+bounds:2,247,285,89
+tentacle B_D
+bounds:751,2,28,25
+offsets:1,1,30,27
+tentacle C_A
+bounds:622,43,45,36
+offsets:1,1,47,38
+tentacle C_B
+bounds:669,49,45,30
+offsets:1,1,47,32
+tentacle C_C
+bounds:575,81,239,111
+offsets:0,0,239,218
+tentacle C_D
+bounds:763,29,35,23
+offsets:1,1,37,25
+tentacle D_A
+bounds:968,104,50,31
+offsets:1,1,52,33
+tentacle D_B
+bounds:575,42,37,45
+offsets:1,1,39,47
+rotate:90
+tentacle D_C
+bounds:823,168,180,168
+tentacle D_D
+bounds:716,25,33,25
+offsets:1,1,35,27
+tentacle E_A
+bounds:968,42,48,29
+offsets:1,1,50,31
+tentacle E_B
+bounds:809,25,31,40
+offsets:1,1,33,41
+rotate:90
+tentacle E_C
+bounds:622,14,27,29
+offsets:1,1,29,31
+rotate:90
+tentacle E_D
+bounds:575,194,246,142

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_Zephyr_A06
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  iconSprite:
+    m_AssetGUID: 0bf351033b7e52f43b4d141eff0ad6da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: 352829b2329803140a27839e816867ca
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: armor
+    slotKey: armor
+  - sprite:
+      m_AssetGUID: 1c639948dff82834eac0852dfea201a1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: armor2
+    slotKey: armor2
+  - sprite:
+      m_AssetGUID: 0c83ec220989a1c4bba9d6db02f04b3d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: armor3
+    slotKey: armor3
+  - sprite:
+      m_AssetGUID: bac3c2c8558511a4b835a28760bd56ce
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: leftarm1
+    slotKey: leftarm1
+  - sprite:
+      m_AssetGUID: d7d7a21ef6fe1d04997c5e92de8a2c2e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: leftarm2
+    slotKey: leftarm2
+  - sprite:
+      m_AssetGUID: 1da457589e75a0645ac7589ffeeac32f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: lefthand
+    slotKey: lefthand
+  - sprite:
+      m_AssetGUID: 842876414f5a17646a794e80d310d732
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: leftleg
+    slotKey: leftleg
+  - sprite:
+      m_AssetGUID: 63751f1a0cde1c64ab860ade8c4189ce
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: rightarm1
+    slotKey: rightarm1
+  - sprite:
+      m_AssetGUID: 57eaa52c122d945419a91b46014ac820
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: rightarm2
+    slotKey: rightarm2
+  - sprite:
+      m_AssetGUID: 1beaa9d007d9b724990f50ef627ba792
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: righthand
+    slotKey: righthand
+  - sprite:
+      m_AssetGUID: 88a44573ba02c3e4a95c357700a2f1cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: rightleg
+    slotKey: rightleg
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 1
+  isSubSpine: 0

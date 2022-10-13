@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7209a8dc2f445bd4589c1352a6bea7fc, type: 3}
+  m_Name: BattleSceneSettings
+  m_EditorClassIdentifier: 
+  initialTeamSkillPoints: 3
+  maxTeamSkillPoints: 10
+  adventureTurnCoundownDuration: 30
+  pvpTurnCoundownDuration: 30
+  waveTransitionDelay: 1
+  waveTransitionDuration: 3
+  chargeToHeroIntervalPerOrb: 0.35
+  chargeToHeroDurationPerOrb: 0.6
+  heroToEnemyAttackDelay: 1
+  enemyToHeroAttackDelay: 1
+  attackIntervalPerCharacter: 1
+  heroToEnemyTurnDelay: 1.5
+  enemyToHeroTurnDelay: 1
+  enemyTurnCountdownDelay: 0
+  victoryShowDelay: 0.5
+  victoryToRocketDelay: 0
+  movesToRocketTransformInterval: 0.23
+  movesToRocketTransformDuration: 0.5
+  rocketStartExplosionDelay: 1.5
+  resultScreenShowDelay: 1

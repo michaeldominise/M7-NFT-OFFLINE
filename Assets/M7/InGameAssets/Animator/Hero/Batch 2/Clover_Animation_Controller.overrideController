@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clover_Animation_Controller
+  m_Controller: {fileID: 9100000, guid: decd4c20a1979c749a8a0a08efb81a88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 9146531902742547347, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 1348427438632999993, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: -5606539013438704022, guid: 5ee1eddc9346fdc4eb4fe77291e6c1ac, type: 2}
+    m_OverrideClip: {fileID: 5277868085000773541, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: -3760644281336881268, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 2955221832313456014, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: 2900425966320157111, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -1107971373375981746, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: -3334444367521475222, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -7884260342128730586, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: 3081813404227013163, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -1480594571828533659, guid: 13bde5c85bf01ab4d9c94bd06cf31e7a, type: 2}
+  - m_OriginalClip: {fileID: 2049409672310465941, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -8085088667019438372, guid: 01aae36bcbac3bd43a61d3fa050e11c1, type: 2}

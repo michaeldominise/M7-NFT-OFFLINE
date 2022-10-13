@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:ScrollView horizontal-scroller-visibility="Hidden" style="flex-grow: 1; background-color: rgb(75, 75, 75);">
+        <PrefabComponentInspector header-label="Target Manager" name="target-manager-inspector" />
+        <PrefabComponentInspector header-label="VFX" name="vfx-inspector" style="margin-top: 8px;">
+            <uie:PropertyField name="vfx" binding-path="vfx" />
+        </PrefabComponentInspector>
+        <PrefabComponentInspector header-label="Status Effects" name="status-effects" style="margin-top: 8px; min-height: 75px;">
+            <ui:ListView focusable="true" name="status-effects-list" show-bound-collection-size="false" item-height="48" fixed-item-height="55" virtualization-method="DynamicHeight" />
+        </PrefabComponentInspector>
+    </ui:ScrollView>
+</ui:UXML>

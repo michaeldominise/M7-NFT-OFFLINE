@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; border-left-color: rgb(103, 103, 103); border-right-color: rgb(103, 103, 103); border-top-color: rgb(103, 103, 103); border-bottom-color: rgb(103, 103, 103); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px;">
+        <ui:Label text="Label" display-tooltip-when-elided="true" binding-path="displayStats.displayName" />
+        <ui:Label text="Filters" display-tooltip-when-elided="true" style="-unity-font-style: bold;" />
+        <uie:PropertyField binding-path="filter.filter.teamFilter" name="team-filter" />
+        <uie:PropertyField binding-path="filter.filter.selectionFilter" name="selection-filter" />
+        <uie:PropertyField binding-path="filter.filter.hpStatusFilter" name="hp-status-filter" />
+        <uie:PropertyField binding-path="filter.filter.elementFilter" name="element-filter" />
+        <PrefabComponentInspector header-label="Custom Filters" name="custom-filters-inspector" style="min-height: 75px;">
+            <ui:ListView focusable="true" header-title="Custom FIlters" show-foldout-header="false" show-add-remove-footer="false" reorderable="true" name="custom-filters-list" virtualization-method="DynamicHeight" show-bound-collection-size="false" item-height="65" binding-path="filter.filter.targetFilterItemCustomList" show-border="false" show-alternating-row-backgrounds="All" fixed-item-height="79" style="flex-grow: 1; display: flex; background-color: rgba(0, 0, 0, 0);" />
+        </PrefabComponentInspector>
+        <PrefabComponentInspector header-label="Fallback Filters" name="fallback-filters-inspector" style="margin-top: 2px; min-height: 75px;" />
+    </ui:VisualElement>
+    <ui:VisualElement style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; border-left-color: rgb(103, 103, 103); border-right-color: rgb(103, 103, 103); border-top-color: rgb(103, 103, 103); border-bottom-color: rgb(103, 103, 103); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-top: 5px;">
+        <ui:Label text="Sorters" display-tooltip-when-elided="true" style="-unity-font-style: bold; margin-top: 3px;" />
+        <uie:PropertyField name="randomize-last-sort" binding-path="sorter.randomizeLastSort" />
+        <PrefabComponentInspector header-label="Sorter Items" name="sorter-items-inspector" style="min-height: 75px;">
+            <ui:ListView focusable="true" name="sorters-list" item-height="65" binding-path="sorter.sorterItems" reorderable="true" show-bound-collection-size="false" virtualization-method="DynamicHeight" fixed-item-height="44" style="flex-grow: 1;" />
+        </PrefabComponentInspector>
+    </ui:VisualElement>
+    <ui:Foldout text="Default Inspector&#10;" name="default-inspector-foldout">
+        <ui:IMGUIContainer name="default-inspector" />
+    </ui:Foldout>
+</ui:UXML>

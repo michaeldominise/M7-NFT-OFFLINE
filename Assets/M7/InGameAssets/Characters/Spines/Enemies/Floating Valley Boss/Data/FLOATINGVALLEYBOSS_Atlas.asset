@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: FLOATINGVALLEYBOSS_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: c0dfadf60eaf79c4cbaf0d2323f1d82e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 782443c827e6a3643a0df26766f1a938, type: 2}
+  - {fileID: 2100000, guid: 35da7b45e816f054e9c6c1cded97fd77, type: 2}
+  - {fileID: 2100000, guid: cd360b2706e62db48a397063471d3304, type: 2}

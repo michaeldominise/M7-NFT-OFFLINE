@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_Hale_A06
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  iconSprite:
+    m_AssetGUID: 0bf351033b7e52f43b4d141eff0ad6da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: dc99076ed1ba0934ca4fd3549f8fe88e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: belt
+    slotKey: belt
+  - sprite:
+      m_AssetGUID: 597d9c585943d654d8090b20e33bbcc7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: hands
+    slotKey: hands
+  - sprite:
+      m_AssetGUID: c073bbadf7493d24d9b1a7c22429a789
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-leg
+    slotKey: left-leg
+  - sprite:
+      m_AssetGUID: 4c4d4120dc49f194aaec3a1364eaca62
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: lower-armL
+    slotKey: lower-armL
+  - sprite:
+      m_AssetGUID: be662b16f6d34a240b3abbdf032c5686
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-arm
+    slotKey: right-arm
+  - sprite:
+      m_AssetGUID: 4f6fb0fc90652364c9717ac64231112a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-leg
+    slotKey: right-leg
+  - sprite:
+      m_AssetGUID: 573a3fea0f1463f4ea8e6a225683346f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: upper-armL
+    slotKey: upper-armL
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 1
+  isSubSpine: 0

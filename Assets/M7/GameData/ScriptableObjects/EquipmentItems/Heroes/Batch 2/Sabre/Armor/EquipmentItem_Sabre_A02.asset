@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_Sabre_A02
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  iconSprite:
+    m_AssetGUID: 0bf351033b7e52f43b4d141eff0ad6da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: 999ba0d1ce831514db2f921fa6861b2c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-leg
+    slotKey: left-leg
+  - sprite:
+      m_AssetGUID: 1e0f7f134debf264bbfaf386bb6d5a65
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-lower-arm
+    slotKey: left-lower-arm
+  - sprite:
+      m_AssetGUID: f2f8e0d569a7a2743aa78885ecee7325
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-upper-arm
+    slotKey: left-upper-arm
+  - sprite:
+      m_AssetGUID: 68a8c6c022724824195ca700bd49cb95
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left
+    slotKey: left
+  - sprite:
+      m_AssetGUID: 87382ea8c0b50764884a7c2e7e0c47bb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-arm
+    slotKey: right-arm
+  - sprite:
+      m_AssetGUID: 97eede69d7b5961478e7844dc8e0e78c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-leg
+    slotKey: right-leg
+  - sprite:
+      m_AssetGUID: 55ae7d06297c0cd40a1e5aaf04774d5b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right
+    slotKey: right
+  - sprite:
+      m_AssetGUID: cda2262cc005fc9409068b033132ef88
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: torso
+    slotKey: torso
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 1
+  isSubSpine: 0

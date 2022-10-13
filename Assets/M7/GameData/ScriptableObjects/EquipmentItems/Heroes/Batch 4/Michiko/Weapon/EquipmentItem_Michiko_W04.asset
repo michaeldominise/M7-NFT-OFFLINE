@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_Michiko_W04
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  iconSprite:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: ddde6ab93224da14d8361ac77085cf5d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    slot: weapon-circle
+    slotKey: weapon-circle
+  - sprite:
+      m_AssetGUID: 84e23dff9ed5c57458c7b137d0e9d2a9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon-console
+    slotKey: weapon-console
+  - sprite:
+      m_AssetGUID: f2326c79865b906428f78562ad774227
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon2-3
+    slotKey: weapon2-3
+  - sprite:
+      m_AssetGUID: 6022f163dac459f40989a3cc8045495a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon4
+    slotKey: weapon4
+  - sprite:
+      m_AssetGUID: 3ec4420624f723a47a58a23eaa28ba3d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon5
+    slotKey: weapon5
+  - sprite:
+      m_AssetGUID: 5d207ee6b81ab354c90faa8edee1870a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon6
+    slotKey: weapon6
+  - sprite:
+      m_AssetGUID: 86e23fd0d64565c41b0ab4c587e0146f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: weapon7
+    slotKey: weapon7
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 5
+  isSubSpine: 0

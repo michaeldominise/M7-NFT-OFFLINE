@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Narcissa_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Narcissa
+    descriptionText: 
+    icon:
+      m_AssetGUID: 722dc3dc75a057f478e1535df33287de
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: f4f33563edbabfe49ab2a537b56a097f
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: d5ebd9f1701214c42b0a0e6ef823d48f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86e5143fe5bb281448443bbad7047989
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3240aef09280aa5458a090ae1c03bde5
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9fff6a5253349884da839a300dc4dbff
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 21b0bc3a76bca1641aea86f4a552c5de
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 181f84b8489c2bf439b8445da36a929b
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 740d87f6a6d10544796f684a3bc63499
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f860028d1f64ee8459fcc63f21130ff8
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 50aad4115260e4841a765de631b8e243
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e7c50834f1af56b44bf5dc13c52e9834
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10980bc8ddf2976458959b42ef59ee4a
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e6c4018159f4cd8449a8b213d5a2c073
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1fb75ff3c3462c044869922b3b455db4
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b3ddf080420f4bb4c84efae28d589559
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a91cd0ce222b6294b9b2fed72933cd4c
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5d7ef02345a4e3145b89cc211832a963
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cac8db26730e9ef46b63f2911bc7e655
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d5927f037c678b14ebb673f62b186f35
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fee6253fe57b07444b5a1d94521637cb
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 768c84fd26e5201489b3f71156049cff
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e24e360043d1eb44b7c7f91278f4bfe
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f39f411691c14f04bb956c735771513e
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: debcdd878d35cad4aa2536db48d3f1c4
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a953a9acebc7bc488f850af4e23d686
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 083af03ea92d32941acf6d7dc3c25fe2
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c385970bd2966e46a7508fc35a4ec22
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 065f962a94af1d1449ec036ced55778f
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8137ca2b2c80cf147a1c04d4dfb8ab2e
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d5c39eff196158744ab42f8ab5a0b059
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b7030fc684af8a444915cdfa802f2487
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 32e8a837492bee341a23417ab3f75900
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Narcissa_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4a4b9c820cc223644b7f383ae100ce9e
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 785fd7cc2feb1c647a2ac09355c5d373
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d97f2c276ba235f449873067133cc32e
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f21a96aab3c65ea49b4b2156062fefe5
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2b10742f5851db441bb4d9a1b3a9a618
+        subObjectName: 
+      - assetName: EquipmentItem_Narcissa_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e8dd29aa5c695ff48a775685db8eea4d
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 558e1af4d6b56da4fbef64f76b3a0ea7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: bb1da35c44213314b998d453ad96166c, type: 2}

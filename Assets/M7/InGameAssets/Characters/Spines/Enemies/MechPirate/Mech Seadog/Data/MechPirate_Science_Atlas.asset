@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: MechPirate_Science_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: ba8ee43b989537b45b61a8baeaa65649, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 4ee2adde9f30b7940a30504d5559401a, type: 2}
+  - {fileID: 2100000, guid: 9ab0201a583d6e243bd80b99e1648b27, type: 2}
+  - {fileID: 2100000, guid: 48117845d26579e4e9919e3d7a85abc0, type: 2}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5142013572767229337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 338448126723415901, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714286426697584860, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_RenderAlignment
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549482685833755634, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: m_Name
+      value: VFX_FireAttack_Weapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7476841067044985336, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: randomSeed
+      value: 422
+      objectReference: {fileID: 0}
+    - target: {fileID: 7476841067044985336, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: autoRandomSeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7994565096613300441, guid: df0e41950a26f294db75f733245f5c97, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 60
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df0e41950a26f294db75f733245f5c97, type: 3}

@@ -1,0 +1,1292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Environments CND1
+  m_EditorClassIdentifier: 
+  m_GroupName: Environments CND1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 71ca40eaabe098743aa310ae50d6edc0
+  m_SerializeEntries:
+  - m_GUID: dcc6eba785003324fb4b5b95e0a1a0a3
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f5fbe0aa29b7ce4ea6809945e39202a
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 360dd698794afe7409caf772f0de1a93
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch placeholder.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff1b78c7c22307e4193a7c43762357bd
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch4.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09fed42ab7a962b46ad01198680b0c89
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch5.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 074e2ea8bc577354490312fd0eca69e8
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e05c0440617685c4491f3a63b19050e4
+    m_Address: Assets/M7/InGameAssets/UI/NewUIs-July-14/map/assets/ch 6.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ac4fdcbd2cc3d4f8614189bf9963f1
+    m_Address: Assets/M7/UI/Map/ch 8.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bd57cdf8d6ce2c4787da6e938081481
+    m_Address: Assets/M7/UI/Map/ch 7.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7c8ee6e70ae38b48939107371892042
+    m_Address: Assets/M7/UI/Map/ch 9.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e09a578e52de2ea418baa55356b23f45
+    m_Address: Assets/M7/UI/Map/ch 10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0023846966d8b644ca16fcc65ca8c297
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBeachHorizon_FrozenPathwayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10e60c90c5e389c439f16dee2d93a1ce
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBeachHorizon_IceRoadArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 207842e70516c724c9acbc2f8cd22e55
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrostbiteLakeHorizon_FrozenForest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 309629093a688ac459a51b2955e2d728
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/BeachFrontHorizon_StoneForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 503d4482a20ac004e9e6b62834004006
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostEdenHorizon_FrostBiteCavernArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80a5a14c14d0a6c4aa3e69b9b7423aa6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/FrozenPathwayHorizon_FrozenPathwayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8067c23e55dee3b48aaffe639ba85ef3
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/LittleIsleHorizon_LittleIsleArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9042b0bd9deb78a44966a45046e72d7d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/TropicalBeachHorizon_TropicalBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90bfaee732b05534ebb7c6f584614346
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianPlainsHorizon_XentrianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0978c353b97ce547ae233cb8f648b78
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/CoralReefHorizon_CoralReefArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a05e0f573f87fc44288e22b57c7439e9
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/VillageStallsHorizon_DesertPrimeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0c9d31209abb084e99ca2ec09b710b4
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/FieldHorizon_FieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c003fdefeb3605f4bacbcff331797ed9
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/DesertPrimeHorizon_VillageStallsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0e3a8d527bef2644bd6517128ffac6b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaForestHorizon_NovaForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0108f749229f7ca4daf647dcf9ad7a45
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MistForestHorizon_AncientForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31965793847048641900e654a1403c97
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/SnowIsleHorizon_FrostBiteCavernArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41ac08f5d4d2f3b42bc2b0109f9085bd
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/SakuraForestHorizon_NovaTowerArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 417e6ddc256ecfd419fbf2b3bc06c916
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/EdianTundraHorizon_SnowfieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5128417033d57e24bb33418723dfcaec
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/NightStreetsHorizon_NightStreetsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61b5ac6c521fef24188fb177ea32d025
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/VillageStallsHorizon_PrimeanDesertArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e65e7fec5e86146879007d9c8637a0
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/LittleIsleHorizon_StoneForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81db63508cca68248b39b1641d7ff75c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/NeoAtlantisHorizon_LuminousCoralsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a10df86bbc3f5944f9fb8bc14cfdd205
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCrystalCaveHorizon_XentrianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19e144161725b14c9454b09721135ce
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimeanDesertHorizon_DesertPrimeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1d192508836ec249a0d0ff4c4da67e9
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaGreenHorizon_NovaForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0269ef2d8eb8c584395ae6fca4b3de32
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/TheBlackForestHorizon_NovaForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22025e3238a2b1b4fa1bbbe65ff3e469
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/OceanFloorHorizon_LuminousCoralsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 226d6b448b68d6a44a34b47cb4f11a55
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/ForestRiverHorizon_ForestRiverArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3220b2e88831feb4cba19615857ff980
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceRoadHorizon_IceBridgeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 322495d67dcacd8488a9d8f28ac3bd50
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimalPyramidHorizon_DesertPrimeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 424d26c660f276e47b9d3b0802ff4312
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MistForestHorizon_ForestRiverArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6219756cdb3d88c40b06aed60663f7c3
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/TropicalBeachHorizon_StoneForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62cb22e6e3046214eaeadca81bc5c3f6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/DesertPrimeHorizon_DesertPrimeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62dfb0959726715418506c368ba29450
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimalPyramidHorizon_VillageStallsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 720b6e4f6bb060049b1f4659f5071d52
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/FieldHorizon_XentrixArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c23f94888bbedbd44aea7ac9cc30ad65
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianForestHorizon_XentrianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43a002415e064c749ab98ba660ad5fb5
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/SandDunesHorizon_PrimalPyramidArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43279f62820a4c644ad539a4cfe45c71
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MapleForestHorizon_ForestRiverArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43c92053ed13b814c86b81f1151821e3
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/CoconutForestHorizon_StoneForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 437b845141ecbee4d99c116211a874e9
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianIceFieldHorizon_XentrianIceFieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53649bf5443c30e40875ccf90571db2f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/StoneForestHorizon_TropicalBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 634666a65caf40747bec4901c8692d0b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowfieldHorizon_FrostbiteLakeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 631c76533313bed429c4b869b8dd1659
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianIceFieldHorizon_XentrianCanyonArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7342279790824ef4591230024d201b5c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/SnowIsleHorizon_IceCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93efcce71763f9744addc4dffe9233e5
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCanyonHorizon_XentrianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3b386ca4bad3be44b7ffa9157c661c8
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/AlleyHorizon_AlleyArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b375aace35a2f4647ae9a1908919f1a7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaTowerHorizon_NovaTowerArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b35b413c38576004fb55aba4fcbe973b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/CrystalCaveHorizon_FrostEdenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b38be4cb1df1ef7418a80cf462259dc6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceBridgeHorizon_NorthAtlanteanBayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3d19ecf538530243abb1be7a6da422b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MistForestHorizon_MapleForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d38717b7607287a4dbf8b21bd7a6cf48
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/CoralReefHorizon_LuminousCoralsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3524839faa6abc428e546146fc538d9
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/UnderwaterCaveHorizon_NeoAtlantisArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3696a4c96764ed44a79f4555d9c7e13
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/EdianTundraHorizon_SnowpeakMountainArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f35ca220e5c084649ac4a2bbe7b9a646
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/DesertPrimeHorizon_PrimeanDesertArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04c66fcabd12fbe48a2b9f575f9242fa
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCrystalCaveHorizon_XentrianPlainsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24395504d60f87c42bdbb45620549a4b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimeanDesertHorizon_PrimalPyramidArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34de6a5905f80634d8563ad01fdbaa99
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/IceCaveHorizon_IceCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 544015833c274294e806e5e50a94e4f2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/StoneForestHorizon_StoneForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54405f9e633c00f42922ddefff11e675
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/CoconutForestHorizon_CoconutForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5480d1eff7c45544aae02ee6f707f123
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrozenForestHorizon_SnowpeakMountainArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64a59039073402d4eb5dd1cc12ce1f43
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/OceanFloorHorizon_CoralReefArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6409f81901c838e4ca6eee4c79793825
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowPeakMountainHorizon_SnowPeakMountainArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 749ea92e52f08dc448a4e3ce60b67952
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/FrozenPathwayHorizon_IceRoadArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 840ac9dd8d9e5804e8fe478c5ad9e1b0
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/ForestRiverHorizon_MistForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4b2a943f85816b4eb6584412bc90bcc
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MapleForestHorizon_MapleForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a45eb294499ef974c94723f3b06e60b1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrozenForestHorizon_EdianTundraArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f9526d85c27ce4f845e90c99b90c09
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostEdenHorizon_IceCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e426351e07f6b9f48939af7ba473499d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/ForestRiverHorizon_AncientForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e46ed8ec40a119e47b313e74cea12d1d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostbiteCavernHorizon_FrostbiteCavernArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4257b8bbfaf2964baeae05840dcbda1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/CoralReefHorizon_OceanFloorArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e5c3aab59116f4e9a6f61ac400a55c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrostbiteLakeHorizon_FrostbiteLakeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4513b6f3b1f42094095363118b0a355d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/SandDunesHorizon_VillageStallsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55febec5e4fd6694c90bd401c828e9f2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowPeakMountainHorizon_SnowfieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65cb8b843487cc54e969b1563796dcd8
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/LuminousCoralsHorizon_OceanFloorArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8501f4354a500d847940c66679784e51
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/AncientForestHorizon_NovianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95922852113305741b3ee7399d084416
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MistForestHorizon_NovianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b56f7984fec5db1419b02ccbd7678b51
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/ParkHorizon_ParkArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5c1ff2dd132c7c4dac89f539b9450d8
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/CoconutForestHorizon_BeachFrontArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c55455a1b9f54c3498d18613a381d350
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/TropicalBeachHorizon_BeachFrontArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5bd38b7d29a25a42bfb64166b11b398
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/SnowIsleHorizon_FrostEdenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5bdaa121bcbf9247aac60a25e1bbd59
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCanyonHorizon_XentrianPlainsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5de051aac9b3fe4a905ef9c42fc1803
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianIceFieldHorizon_XentrianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f53073bf40da1634089a97a043cf5cbe
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/XentrixHorizon_NightStreetsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065856aefbdb3c34aa06a324da0425fa
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowfieldHorizon_FrozenForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16e9e258fb5da254b83251dc1346023f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/SandDunesHorizon_DesertPrimeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 260c8cdbf2823d3459c99d6942e226ab
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianForestHorizon_XentrianCanyonArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 265e95da1355dc74b8aac94bee05cb72
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBayHorizon_IceRoadArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 366c68cd7f2603e45901025e998e8a9d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowPeakMountainHorizon_EdianTundraArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46a6186550adbbe4284201ddd7f79a12
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/NovianForestHorizon_NovianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46fd6589d5e5d4e49829b2128e09729c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/NovianForestHorizon_AncientForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56a09ac0e4cd964489c59869bf755a8a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/FieldHorizon_AlleyArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56e929cc432d64d49b1a85dc8fcaddc3
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/TheBlackForestHorizon_TheBlackForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56cbefd5181ae704f9d6a73cea7d68c5
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/NightStreetsHorizon_FieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6173807fe234314db3173e3c1528896
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/EdianTundraHorizon_EdianTundraArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e657449dee5fbee419d00793512b5726
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCrystalCaveHorizon_XentrianCrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1789783e618fcf648b803be2d399f44b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MapleForestHorizon_MistForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17cf74b2b3e81f3468533751cf7c71d7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/LuminousCoralsHorizon_NeoAtlantisArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57bc431def224af44bc2e6cccf2139a1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaGreenHorizon_NovaGreenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8700b7e5a77a901409b88b80a85608f1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/NeoAtlantisHorizon_OceanFloorArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a722cdf09733c034fb44ccafaa5d3b2f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/XentrixHorizon_FieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c76bee2f7ecc1c549a3db7aaca3ecc67
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/AlleyHorizon_FieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c79b1990aabfc2b4a9423a200ee98b7b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/TropicalBeachHorizon_CoconutForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76a75ea7a4a35c4c8e335525033d74d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/ParkHorizon_FieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2881aa8dbe17fa740bd5578008537af2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/UnderwaterCaveHorizon_UnderwaterCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486bf9578b6a2f14099c9cbbf23b8160
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/XentrixHorizon_XentrixArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8810c2ee8255c81408a5d81f858ade93
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceRoadHorizon_IceRoadArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 881534ec7f5506846a95092035ee1a08
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBayHorizon_FrozenPathwayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a873e62fa5bdd164585fbd2fcca103d2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianPlainsHorizon_XentrianCanyonArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ec04ff3ac05684e8f34bda1ef9558f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianPlainsHorizon_XentrianPlainsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8adad9e9be790543b67b630de0d995a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceRoadHorizon_NorthAtlanteanBayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8eda8bded243ad4c94a4d6a115a33d2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCanyonHorizon_XentrianCanyonArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195502fb9d4c05d41a725229e63c22bb
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostbiteCavernHorizon_CrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19b92cd166b6e10489b6ff83b512590d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/OceanFloorHorizon_OceanFloorArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49e4244d762bd924f848acd34f993f97
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/NightStreetsHorizon_AlleyArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 598dec498eeea3c4398834d373c0ae14
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/CrystalCaveHorizon_CrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79c1d575d69bf8c46a4ae9ddec571ed1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBeachHorizon_NorthAtlanteanBayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79176a4159f5e7046979f97043fe6eac
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaTowerHorizon_SakuraForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79ec6b764278e124e827381f8ae561d7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimalPyramidHorizon_PrimeanDesertArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9216ce502dc77848a55fd67f4826136
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceBridgeHorizon_FrozenPathwayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9fddd3451e7bd54caea386695d7ef05
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/TheBlackForestHorizon_NovaTowerArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9c01140e118b2d4caf371924c2e32ab
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostEdenHorizon_SnowIsleArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b91e2df659920644691ebdd35a620bb2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/NeoAtlantisHorizon_CoralReefArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9c283eb3ecfc5e4d8df9aa503ae99a8
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/MapleForestHorizon_NovianForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9679009891b48b4f979c51de2e3dd5b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/UnderwaterCaveHorizon_LuminousCoralsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c949da485e80bb04ca983e61e281a6d0
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/IceCaveHorizon_FrostbiteCavernArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af655241c417064287fb48ae67c294b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/NovianForestHorizon_ForestRiverArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ae5fd1393bff98408d5fb126e688dc3
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/SandDunesHorizon_SandDunesArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6833460b343f44aa67dfd3510f3728
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/LittleIsleHorizon_TropicalBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a2c0f9608c5ce04c81efab3a9a655cc
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/CoconutForestHorizon_TropicalBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3abfb3150d6c001478cb96f4ea0e337e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/BeachFrontHorizon_CoconutForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a526f0f1c2823641941de39cc7c3882
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/AncientForestHorizon_AncientForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a6a2f6940917514e85f6439dc0a2d36
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimeanDesertHorizon_VillageStallsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aad42e5bee99e74688a73f45c919831
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/AncientForestHorizon_ForestRiverArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a00eaccaca24ec4d95cb1b868a1e8d4
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/NeoAtlantisHorizon_NeoAtlantisArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad4b61ba14675f4e994ca0d3e14e966
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceBridgeHorizon_IceRoadArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da16b0ab11b61a14d9dd2a0ce12ed177
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceRoadHorizon_FrozenPathwayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da277522cdc15f54d9bfcb89ac1bc5fe
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostbiteCavernHorizon_SnowIsleArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa81bed84cdcd4b47a37e890bc6c0053
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaTowerHorizon_NovaForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: facbb1d1953efa442a11240dac4a8c99
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaForestHorizon_NovaTowerArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fafe275772844fa4fbd9127305e20f3a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/SnowIsleHorizon_SnowIsleArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b7bae3163704804190336e2d649852c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/BeachFrontHorizon_TropicalBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b31e1ef1459524419c1af2b8669802b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/StoneForestHorizon_CoconutForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b613f08169b6fb49919159af5e881ef
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostEdenHorizon_FrostEdenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bb33177a6b2d364fbd868216446bde0
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCanyonHorizon_CrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b462a4140da23a4a8621805a864a90b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBayHorizon_IceBridgeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b3dd32533cc4964bbd29cf966aa72bb
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/IceCaveHorizon_CrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb95b4027cbdc894b8405c633c481b1e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/LuminousCoralsHorizon_LuminousCoralsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbbbd0e25f0955e499e1fe07b9db80e6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/OceanFloorHorizon_UnderwaterCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbcfb774f995eeb4d9cb531b92f24d25
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaGreenHorizon_NovaTowerArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba5df679f26f704cb9c1773979dbf8e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianIceFieldHorizon_XentrianCrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c1aeb12bc015404fba8d0c983f71729
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/VillageStallsHorizon_VillageStallsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cde9b103dc95d042b010b6697d6b1d6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/SakuraForestHorizon_TheBlackForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce3fba01ff48464a838bd20cc937ac6
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianPlainsHorizon_XentrianCrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cad8c13a038d65469d3f16889bef32e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/TheBlackForestHorizon_NovaGreenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c41f5b1a9e247d40beb2a1e0f5014aa
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrostbiteLakeHorizon_SnowpeakMountainArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cc99824f548ac544b99d6071c39ec0e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/StoneForestHorizon_BeachFrontArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c1b345d1fc906744a2c85441e97500a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/XentrixHorizon_ParkArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc52179af06a79b47949dbdeb7a3e59f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianForestHorizon_XentrianCrystalCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc7641ac78a806e49bb023366543e0db
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/AlleyHorizon_NightStreetsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc8c3719e64ac6742b489df72ef927a4
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/SakuraForestHorizon_NovaForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc79904c19aeeee42a3bb40232fe792a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/SakuraForestHorizon_SakuraForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcec2c8ab8f332f4aa260688c657425d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaForestHorizon_NovaGreenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc17db10c59265045809236848928634
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/NovianForestHorizon_MapleForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d564bd5590b5c94e98bea6fce6e3227
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/DesertPrimeHorizon_SandDunesArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc1122f9ab512549b780f9830d69d6b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/AncientForestHorizon_MistForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d3d24152e1b8234eaa34193d2391f54
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/FrostbiteCavernHorizon_FrostEdenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d7a5dc4942b35c4da19d3746d759f9c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowPeakMountainHorizon_FrozenForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d79f118204704b4fa41ea665a8427f7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/FrozenPathwayHorizon_IceBridgeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ded341cb3650a246adffc97bb4633a5
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBeachHorizon_NorthAtlanteanBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adf1bf8afa1db9844a16fac799bbc204
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianCrystalCaveHorizon_XentrianCanyonArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad830b17d88b35b4c89034a781057c0e
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaGreenHorizon_SakuraForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad15f61148751d94db9c74a44fbf57e2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/EdianTundraHorizon_FrozenForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd0c06e0a1a07554db1f3cdc3cc7efcb
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaForestHorizon_TheBlackForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdedd6f273dd1a54baf31a853a1b1061
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/BeachFrontHorizon_BeachFrontArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd43fbb8d048da9429abb2f0202a76ee
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/8 Location_Nova_Green/NovaTowerHorizon_NovaGreenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edfd3e07d660fad46a7aa58771c75a03
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/FrozenPathwayHorizon_NorthAtlanteanBeachArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e7cdccff2dc7e34a892cb7a7e16cd7c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/9 Location_Novian_Forest/ForestRiverHorizon_MapleForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e59c78172d7e284792a7e5302b3b0bb
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrozenForestHorizon_
+      FrostbiteLakeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3eb9a33faac922940837e3f41c5712cc
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrostbiteLakeHorizon_EdianTundraArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e228cf8dcbf12c42a761c02c584e83f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowfieldHorizon_SnowPeakMountainArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e438951a3d882046a8519ff3d1e417d
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/FrozenForestHorizon_FrozenForestArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e322dcc22ea97a49a1a0fbdfba425fa
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/CrystalCaveHorizon_IceCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ef5fd0a724ce1b438361e5f5add9f0c
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/CoralReefHorizon_UnderwaterCaveArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae5d5e5e0ef1cfb43ba4c5acc1755653
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimeanDesertHorizon_PrimeanDesertArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2fb30fa1b24f446b86da3d2bd135b1
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/IceBridgeHorizon_IceBridgeArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deeaa4d7abd38744dac1b696ab1289e7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/ParkHorizon_AlleyArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe4fbc0962a9d0341a49fbb403c63cff
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/LuminousCoralsHorizon_CoralReefArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feefafa8a89cbad4798096048c0c0e64
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/PrimalPyramidHorizon_PrimalPyramidArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ff631ef3ab91d740833a3c31ad2c99b
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/NightStreetsHorizon_ParkArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f0c21f2873029149aefe923cabea37f
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/IceCaveHorizon_FrostEdenArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fb48debab05c084c9585b78d1170ec7
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/ParkHorizon_NIghtStreetsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2feea2539261f754382d2db485e0160a
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/4 Location_Edian_Tundra/SnowfieldHorizon_SnowfieldArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff755ab518df6d4281de26ec53e5847
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/10 Location_Desert_Prime/VillageStallsHorizon_PrimalPyramidArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f4927a0248703140a926ae3b6ae8137
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/AlleyHorizon_XentrixArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f2d8f65272629e4cb53b371f0feb3f2
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/6 Location_Neo_Atlantis/UnderwaterCaveHorizon_CoralReefArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fe81d98915f7ed419646d4eec2e2f49
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/5 Location_North_Atlantean_Bay/NorthAtlanteanBayHorizon_NorthAtlanteanBayArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f390856ed7daa447a8c0121f52b2f30
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/2 Location_Xentrian_Plains/XentrianForestHorizon_XentrianPlainsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf7ed60e7d2f56d46a09f36a7862c664
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/3 Location_Frost_Eden/CrystalCaveHorizon_FrostbiteCavernArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfed8dcc747f88f499bf5e89f2d045cb
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/1 Location_Xentrix_Alpha/FieldHorizon_NightStreetsArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff82c5f5b559e5945a673651fec3d079
+    m_Address: Assets/M7/InGameAssets/Environments/Prefab/7 Location_South_Atlantean_Bay/LittleIsleHorizon_BeachFrontArena.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48aa137789a1b7e4ab9ceaf2c46ddaa5, type: 2}
+    - {fileID: 11400000, guid: 86f40c40db652e444b95624e707a11bd, type: 2}

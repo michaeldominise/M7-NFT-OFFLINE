@@ -1,0 +1,434 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2628730dd86778a43b5a3f74fd739d9e, type: 3}
+  m_Name: Stage_5
+  m_EditorClassIdentifier: 
+  gameMode: 0
+  teamData:
+    teamName: Default
+    waves:
+    - saveableCharacters:
+      - masterID: Enemy_QuadruBot_MkI_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 15
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_QuadruBot_MkI_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 15
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: Enemy_InfantryBot_MkI_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 15
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_InfantryBot_MkI_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 15
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_AeroDrone_MkI_Earth
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 9
+          attack: 9
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_InfantryBot_MkI_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 15
+          attack: 12
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_InfantryBot_MkI_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 15
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNonNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+  environment:
+    m_AssetGUID: b56f7984fec5db1419b02ccbd7678b51
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  matchGridEditorSavedLevelData: {fileID: 11400000, guid: caa7e0ec07fed4a5ca1cb5bee25c6404, type: 2}
+  totalMoveCount: 30
+  goalConditions: []

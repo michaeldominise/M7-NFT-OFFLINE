@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e8e8b2bbe5b941d0971c0cefaa7e348, type: 3}
+  m_Name: MatchInterpreterData
+  m_EditorClassIdentifier: 
+  matchData:
+  - tileType: {fileID: 3813250855098491185, guid: e3ae370e8efdb4648bbe43e404643dd1, type: 3}
+    element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+    effectiveElementType: 1
+    weaknessElementType: 8
+    effectiveMultiplier: 2
+    weakMultiplier: 0.5
+  - tileType: {fileID: 3813250855098491185, guid: 16ff0436d59a0f24985d4b8901359159, type: 3}
+    element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+    effectiveElementType: 4
+    weaknessElementType: 1
+    effectiveMultiplier: 2
+    weakMultiplier: 0.5
+  - tileType: {fileID: 3813250855098491185, guid: c9979020572103e4e9b0ae032bb35679, type: 3}
+    element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+    effectiveElementType: 2
+    weaknessElementType: 2
+    effectiveMultiplier: 2
+    weakMultiplier: 0.5
+  - tileType: {fileID: 3813250855098491185, guid: 24509018eb637a7469f7c2502205a57a, type: 3}
+    element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+    effectiveElementType: 8
+    weaknessElementType: 4
+    effectiveMultiplier: 2
+    weakMultiplier: 0.5
+  - tileType: {fileID: 3813250855098491185, guid: ad0bc696a3ff3ad4b96e5922632204a7, type: 3}
+    element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+    effectiveElementType: 16
+    weaknessElementType: 16
+    effectiveMultiplier: 2
+    weakMultiplier: 0.5

@@ -1,0 +1,295 @@
+FloatingValleyFlyingMob3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/body
+bounds:466,558,236,152
+Dark/foot back A
+bounds:602,953,37,38
+offsets:1,1,39,40
+rotate:90
+Dark/foot back B
+bounds:397,954,36,39
+offsets:1,1,38,41
+rotate:90
+Dark/foot front A
+bounds:192,955,35,39
+offsets:1,1,37,40
+rotate:90
+Dark/foot front B
+bounds:2,957,33,36
+offsets:1,1,35,37
+rotate:90
+Dark/head
+bounds:240,435,181,200
+rotate:90
+Dark/leg back A
+bounds:130,894,60,61
+offsets:1,1,62,63
+Dark/leg back B
+bounds:2,896,62,59
+offsets:1,1,64,61
+Dark/leg front A
+bounds:802,942,48,56
+offsets:1,1,50,58
+rotate:90
+Dark/leg front B
+bounds:802,942,48,56
+offsets:1,1,50,58
+rotate:90
+Dark/tail
+bounds:332,720,131,94
+Dark/thigh back A
+bounds:636,884,67,111
+offsets:1,1,69,112
+rotate:90
+Dark/thigh back B
+bounds:228,818,74,100
+offsets:1,1,76,102
+rotate:90
+Dark/thigh front A
+bounds:350,618,99,114
+offsets:0,0,209,114
+rotate:90
+Dark/thigh front B
+bounds:738,782,89,108
+offsets:1,1,91,109
+rotate:90
+Dark/wing B
+bounds:810,151,222,188
+rotate:90
+Earth/body
+bounds:704,529,236,152
+Earth/foot back A
+bounds:642,953,37,38
+offsets:1,1,39,40
+rotate:90
+Earth/foot back B
+bounds:438,954,36,39
+offsets:1,1,38,41
+rotate:90
+Earth/foot front A
+bounds:233,955,35,39
+offsets:1,1,37,40
+rotate:90
+Earth/foot front B
+bounds:40,957,33,36
+offsets:1,1,35,37
+rotate:90
+Earth/head
+bounds:2,284,181,200
+rotate:90
+Earth/leg back A
+bounds:384,892,60,61
+offsets:1,1,62,63
+rotate:90
+Earth/leg back B
+bounds:66,896,62,59
+offsets:1,1,64,61
+Earth/leg front A
+bounds:860,942,48,56
+offsets:1,1,50,58
+rotate:90
+Earth/leg front B
+bounds:860,942,48,56
+offsets:1,1,50,58
+rotate:90
+Earth/tail
+bounds:465,719,131,94
+Earth/thigh back A
+bounds:749,873,67,111
+offsets:1,1,69,112
+rotate:90
+Earth/thigh back B
+bounds:330,816,74,100
+offsets:1,1,76,102
+rotate:90
+Earth/thigh front A
+bounds:864,683,97,114
+rotate:90
+Earth/thigh front B
+bounds:848,782,89,108
+offsets:1,1,91,109
+rotate:90
+Earth/wing B
+bounds:2,62,222,188
+Fire/body
+bounds:2,467,236,152
+Fire/foot back A
+bounds:682,953,37,38
+offsets:1,1,39,40
+rotate:90
+Fire/foot back B
+bounds:479,954,36,39
+offsets:1,1,38,41
+rotate:90
+Fire/foot front A
+bounds:274,955,35,39
+offsets:1,1,37,40
+rotate:90
+Fire/foot front B
+bounds:78,957,33,36
+offsets:1,1,35,37
+rotate:90
+Fire/head
+bounds:204,252,181,200
+rotate:90
+Fire/leg back A
+bounds:447,892,60,61
+offsets:1,1,62,63
+rotate:90
+Fire/leg back B
+bounds:192,894,62,59
+offsets:1,1,64,61
+Fire/leg front A
+bounds:918,942,48,56
+offsets:1,1,50,58
+rotate:90
+Fire/leg front B
+bounds:918,942,48,56
+offsets:1,1,50,58
+rotate:90
+Light/leg front A
+bounds:918,942,48,56
+offsets:1,1,50,58
+rotate:90
+Light/leg front B
+bounds:918,942,48,56
+offsets:1,1,50,58
+rotate:90
+Fire/tail
+bounds:598,712,131,94
+Light/tail
+bounds:598,712,131,94
+Fire/thigh back A
+bounds:862,873,67,111
+offsets:1,1,69,112
+rotate:90
+Fire/thigh back B
+bounds:432,816,74,100
+offsets:1,1,76,102
+rotate:90
+Fire/thigh front A
+bounds:2,635,97,114
+rotate:90
+Fire/thigh front B
+bounds:2,736,89,108
+offsets:1,1,91,109
+rotate:90
+Fire/wing B
+bounds:226,31,222,188
+Light/body
+bounds:442,404,236,152
+Light/foot back A
+bounds:722,953,37,38
+offsets:1,1,39,40
+rotate:90
+Light/foot back B
+bounds:520,954,36,39
+offsets:1,1,38,41
+rotate:90
+Light/foot front A
+bounds:315,955,35,39
+offsets:1,1,37,40
+rotate:90
+Light/foot front B
+bounds:116,957,33,36
+offsets:1,1,35,37
+rotate:90
+Light/head
+bounds:406,221,181,200
+rotate:90
+Light/leg back A
+bounds:510,892,60,61
+offsets:1,1,62,63
+rotate:90
+Light/leg back B
+bounds:256,894,62,59
+offsets:1,1,64,61
+Light/thigh back A
+bounds:2,827,67,111
+offsets:1,1,69,112
+rotate:90
+Light/thigh back B
+bounds:534,815,74,100
+offsets:1,1,76,102
+rotate:90
+Light/thigh front A
+bounds:118,626,97,114
+rotate:90
+Light/thigh front B
+bounds:112,734,89,108
+offsets:1,1,91,109
+rotate:90
+Light/wing B
+bounds:450,2,222,188
+Water/body
+bounds:680,375,236,152
+Water/foot back A
+bounds:762,953,37,38
+offsets:1,1,39,40
+rotate:90
+Water/foot back B
+bounds:561,954,36,39
+offsets:1,1,38,41
+rotate:90
+Water/foot front A
+bounds:356,955,35,39
+offsets:1,1,37,40
+rotate:90
+Water/foot front B
+bounds:154,957,33,36
+offsets:1,1,35,37
+rotate:90
+Water/head
+bounds:608,192,181,200
+rotate:90
+Water/leg back A
+bounds:573,891,60,61
+offsets:1,1,62,63
+rotate:90
+Water/leg back B
+bounds:320,894,62,59
+offsets:1,1,64,61
+Water/leg front A
+bounds:976,934,48,56
+offsets:1,1,50,58
+Water/leg front B
+bounds:976,934,48,56
+offsets:1,1,50,58
+Water/tail
+bounds:731,686,131,94
+Water/thigh back A
+bounds:115,825,67,111
+offsets:1,1,69,112
+rotate:90
+Water/thigh back B
+bounds:636,808,74,100
+offsets:1,1,76,102
+rotate:90
+Water/thigh front A
+bounds:234,621,97,114
+rotate:90
+Water/thigh front B
+bounds:222,725,89,108
+offsets:1,1,91,109
+rotate:90
+
+FloatingValleyFlyingMob3_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/wing A
+bounds:226,200,325,196
+Earth/wing A
+bounds:553,200,325,196
+Fire/wing A
+bounds:2,2,325,196
+Light/wing A
+bounds:329,2,325,196
+Water/wing A
+bounds:656,2,325,196
+Water/wing B
+bounds:2,208,222,188

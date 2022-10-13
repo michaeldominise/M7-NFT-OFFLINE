@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="main-container" style="flex-grow: 1; background-color: rgb(56, 56, 56); border-left-color: rgb(42, 42, 42); border-right-color: rgb(42, 42, 42); border-top-color: rgb(42, 42, 42); border-bottom-color: rgb(42, 42, 42); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;">
+        <ui:VisualElement name="list-view" style="flex-grow: 1;">
+            <uie:Toolbar>
+                <uie:ToolbarPopupSearchField focusable="true" name="option-search" style="flex-grow: 1; min-width: 32px; width: 32px;" />
+                <uie:ToolbarMenu display-tooltip-when-elided="true" text="Add" name="add-option-menu" style="display: none;" />
+            </uie:Toolbar>
+            <ui:ListView focusable="true" show-foldout-header="false" show-alternating-row-backgrounds="All" name="options-list" selection-type="Multiple" show-bound-collection-size="false" style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="add-template-view" style="flex-grow: 1; display: none;">
+            <uie:PropertyField style="flex-grow: 1;" />
+            <ui:Button text="Add Template" display-tooltip-when-elided="true" name="add-template-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,92 @@
+Chameleon.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.25
+Chameleon/claw lower right
+bounds:93,104,44,43
+Chameleon/eyes
+bounds:41,156,55,27
+offsets:0,1,55,28
+Chameleon/head
+bounds:157,2,76,70
+Chameleon/left_arm hand
+bounds:39,186,19,15
+offsets:0,0,20,16
+Chameleon/left_arm lower
+bounds:201,182,22,19
+Chameleon/left_arm upper
+bounds:110,184,17,28
+offsets:1,0,18,28
+rotate:90
+Chameleon/left_leg lower
+bounds:2,163,21,37
+offsets:0,0,22,37
+rotate:90
+Chameleon/left_leg upper
+bounds:166,183,18,33
+offsets:0,0,19,33
+rotate:90
+Chameleon/lower left
+bounds:139,74,99,52
+Chameleon/lower left claw
+bounds:2,113,43,41
+offsets:0,0,43,42
+Chameleon/mask
+bounds:2,59,73,52
+Chameleon/mouth
+bounds:2,194,12,7
+Chameleon/right leg upper
+bounds:98,154,28,33
+offsets:0,0,29,33
+rotate:90
+Chameleon/right leglower
+bounds:225,169,27,32
+Chameleon/right_arm hand
+bounds:60,185,19,16
+offsets:0,0,19,17
+Chameleon/right_arm lower
+bounds:140,184,24,17
+offsets:0,0,25,17
+Chameleon/right_arm upper
+bounds:81,185,16,27
+offsets:0,0,17,27
+rotate:90
+Chameleon/torso
+bounds:133,149,32,54
+rotate:90
+Chameleon/upper left claw
+bounds:189,128,41,39
+Chameleon/upper right claw
+bounds:47,113,44,41
+tentacles 11
+bounds:77,3,69,78
+rotate:90
+xx
+bounds:16,189,12,21
+rotate:90
+
+Chameleon_2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.25
+Chameleon/bangs
+bounds:103,101,85,98
+rotate:90
+Chameleon/lower right
+bounds:2,105,99,81
+Chameleon/uppe right
+bounds:2,12,87,120
+rotate:90
+Chameleon/upper left
+bounds:124,2,97,111
+rotate:90
+
+Chameleon_3.png
+size:128,256
+filter:Linear,Linear
+pma:true
+scale:0.25
+Chameleon/Hair_back
+bounds:2,2,100,160

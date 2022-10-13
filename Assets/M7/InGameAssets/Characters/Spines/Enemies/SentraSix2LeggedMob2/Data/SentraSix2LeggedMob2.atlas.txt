@@ -1,0 +1,170 @@
+SentraSix2LeggedMob2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/arm L
+bounds:604,213,305,209
+offsets:1,1,307,211
+Dark/arm R
+bounds:2,472,299,205
+offsets:1,1,301,207
+Dark/foot L
+bounds:551,778,135,97
+Dark/foot R
+bounds:551,778,135,97
+Dark/hip
+bounds:276,679,132,113
+offsets:1,1,134,115
+Dark/leg L
+bounds:2,910,89,49
+Dark/leg R
+bounds:2,910,89,49
+Dark/thigh L
+bounds:457,877,114,82
+offsets:0,0,114,83
+Dark/thigh R
+bounds:921,845,114,83
+rotate:90
+Earth/arm L
+bounds:2,38,305,209
+offsets:1,1,307,211
+Earth/arm R
+bounds:303,456,299,205
+offsets:1,1,301,207
+Earth/foot L
+bounds:688,778,135,97
+Earth/foot R
+bounds:688,778,135,97
+Earth/hip
+bounds:410,677,132,113
+offsets:1,1,134,115
+Earth/leg L
+bounds:93,910,89,49
+Earth/leg R
+bounds:93,910,89,49
+Earth/thigh L
+bounds:573,877,114,82
+offsets:0,0,114,83
+Earth/thigh R
+bounds:118,825,114,83
+Fighter/arm L
+bounds:309,2,305,209
+offsets:1,1,307,211
+Fighter/arm R
+bounds:604,424,299,205
+offsets:1,1,301,207
+Fighter/foot L
+bounds:825,746,135,97
+Fighter/foot R
+bounds:825,746,135,97
+Fighter/hip
+bounds:544,663,132,113
+offsets:1,1,134,115
+Fighter/leg L
+bounds:184,910,89,49
+Fighter/leg R
+bounds:184,910,89,49
+Fighter/thigh L
+bounds:689,877,114,82
+offsets:0,0,114,83
+Fighter/thigh R
+bounds:234,825,114,83
+Light/arm L
+bounds:616,2,305,209
+offsets:1,1,307,211
+Light/arm R
+bounds:2,265,299,205
+offsets:1,1,301,207
+Light/foot L
+bounds:2,726,135,97
+Light/foot R
+bounds:2,726,135,97
+Light/hip
+bounds:678,663,132,113
+offsets:1,1,134,115
+Light/leg L
+bounds:275,910,89,49
+Light/leg R
+bounds:275,910,89,49
+Light/thigh L
+bounds:805,877,114,82
+offsets:0,0,114,83
+Light/thigh R
+bounds:350,794,114,83
+rotate:90
+Water/arm R
+bounds:303,249,299,205
+offsets:1,1,301,207
+Water/foot L
+bounds:139,726,135,97
+Water/foot R
+bounds:139,726,135,97
+Water/hip
+bounds:812,631,132,113
+offsets:1,1,134,115
+Water/leg L
+bounds:366,910,89,49
+Water/leg R
+bounds:366,910,89,49
+Water/thigh L
+bounds:2,826,114,82
+offsets:0,0,114,83
+Water/thigh R
+bounds:435,792,114,83
+
+SentraSix2LeggedMob2_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/head
+bounds:2,475,442,471
+offsets:1,1,444,473
+Earth/head
+bounds:2,2,442,471
+offsets:1,1,444,473
+Fighter/head
+bounds:446,475,442,471
+offsets:1,1,444,473
+Light/head
+bounds:446,2,442,471
+offsets:1,1,444,473
+
+SentraSix2LeggedMob2_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/shield
+bounds:309,650,322,459
+offsets:1,1,324,461
+rotate:90
+Earth/shield
+bounds:2,326,322,459
+offsets:1,1,324,461
+rotate:90
+Fighter/shield
+bounds:463,326,322,459
+offsets:1,1,324,461
+rotate:90
+Light/shield
+bounds:2,2,322,459
+offsets:1,1,324,461
+rotate:90
+Water/arm L
+bounds:2,763,305,209
+offsets:1,1,307,211
+Water/shield
+bounds:463,2,322,459
+offsets:1,1,324,461
+rotate:90
+
+SentraSix2LeggedMob2_4.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Water/head
+bounds:2,2,442,471
+offsets:1,1,444,473

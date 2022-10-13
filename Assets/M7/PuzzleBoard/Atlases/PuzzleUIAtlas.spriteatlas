@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PuzzleUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e14c88992d2ff4d41b240e754e5bdfaa, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a59327c0a0cf75e499efd9ee3f264ea7, type: 3}
+  - {fileID: 21300000, guid: 5468c8f06d9128042882c2c6a30efbf7, type: 3}
+  - {fileID: 21300000, guid: 83335a46f880ee448a08382d80d7437c, type: 3}
+  - {fileID: 21300000, guid: 0b863896ae605564bb4a64acd15d9af4, type: 3}
+  - {fileID: 21300000, guid: 204ba5e79f3fe4553b6eb4fb32c6f37a, type: 3}
+  - {fileID: 21300000, guid: 86bac1f7d6e3a5b4d9b3b54819b73dd0, type: 3}
+  - {fileID: -365261246508512397, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -3556726463359620191, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -8218307913912748023, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 6054417873906385291, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -8049052556286450192, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 3084075331603688353, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 7777602709482933203, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -7337752134468256963, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -3785024503678505952, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 8989351606245801948, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -2759490279661621936, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 3930706903698115235, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -5847308251941369062, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 5993970282124549574, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: -887042977995205741, guid: 5471fdf7da688724e80f24184994a7af, type: 3}
+  - {fileID: 21300000, guid: 4a27834901f5e344191cc79ed79fb2b6, type: 3}
+  - {fileID: 21300000, guid: bf2c746b1819f444b92efbc6f5c868a5, type: 3}
+  - {fileID: 21300000, guid: bde828eb1c76ac34f9e9b02f1ecbbd37, type: 3}
+  - {fileID: 21300000, guid: 9aa3e7dc4a5c35847850d286a21f4bb4, type: 3}
+  - {fileID: 21300000, guid: 6291177da61b0e3429c867f8d70f8553, type: 3}
+  - {fileID: 21300000, guid: 25f3f8bd6e44ad946bebe29f462026d1, type: 3}
+  - {fileID: 21300000, guid: 1ec97c0eee1986c44b34d675e21d12ab, type: 3}
+  - {fileID: 21300000, guid: e5312f0e0df0af9479e3a34c5384b42c, type: 3}
+  - {fileID: 21300000, guid: 51ca372ec4a7dc8458d95a34994a6701, type: 3}
+  - {fileID: 21300000, guid: 218c7c4f7f2f3aa4f98fe0032b922a61, type: 3}
+  - {fileID: 21300000, guid: 51d5c97f7e564f04dbd2c8adc90b9d4a, type: 3}
+  - {fileID: 21300000, guid: 144e918f733f3f0439068741ee23a697, type: 3}
+  - {fileID: 21300000, guid: f584a1ff60f8abb46bfb7adbade45aa0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Group 240
+  - fire
+  - light
+  - frame bg
+  - header effect1
+  - combo timer bar fill
+  - convex_topright
+  - top
+  - concave_bottomright
+  - fill
+  - concave_bottomlef
+  - CrossPositive
+  - concave_topleft
+  - concave_toprigh
+  - convex+bottomright
+  - convex_bottomleft
+  - left
+  - bottom
+  - convex_topleft
+  - CrossNegative
+  - right
+  - combo timer bar
+  - gaia counter fill
+  - gaianite
+  - dark
+  - frame
+  - gaianite counter
+  - pause button
+  - earth
+  - health bar fill
+  - frame fill mask
+  - water
+  - health bar
+  - circle loader 1
+  m_RenderDataMap: {}
+  m_Tag: PuzzleUIAtlas
+  m_IsVariant: 0

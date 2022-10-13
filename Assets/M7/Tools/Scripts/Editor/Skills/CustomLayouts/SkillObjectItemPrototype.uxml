@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement picking-mode="Ignore" style="flex-grow: 1; flex-direction: row; justify-content: flex-start; align-items: center;">
+        <ui:VisualElement name="skill-item-icon" picking-mode="Ignore" style="width: 24px; height: 24px;" />
+        <ui:Label text="Skill Name" display-tooltip-when-elided="true" name="skill-item-name" picking-mode="Ignore" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

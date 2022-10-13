@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4007704446651588823
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5196852507955290153}
+  - component: {fileID: 4007704446651588821}
+  m_Layer: 0
+  m_Name: vfx_skill_SkillAttack_Lyana_V2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5196852507955290153
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4007704446651588823}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.35, y: 0.35, z: 0.35}
+  m_Children:
+  - {fileID: 7779182379132178003}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4007704446651588821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4007704446651588823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac6a297f1766dc34fb3f239921f1c6e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startVfxTargetData:
+    _targetType: 1
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: Villain - Lyana Skill
+    _targetParticle: {fileID: 7459994736904681876}
+  projectileVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: 
+    _projectileObject: {fileID: 0}
+    travelDuration: 0.5
+    playSimultaneously: 1
+    waitAllProjectileToFinish: 0
+    intervalPerProjectile: 0
+  endVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: 
+    _targetParticle: {fileID: 0}
+  onHitExecuteDelay: 1.4
+  onFinishExecuteDelay: 2
+  onMoveCounter: 0
+  closingSfxName: 
+  useCameraShake: 0
+  cameraShakeEvent: {fileID: 0}
+  SFXPlayer: {fileID: 0}
+  shakeTimes: 1
+  shakeIntervals: 1
+--- !u!1001 &8273618402681046774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5196852507955290153}
+    m_Modifications:
+    - target: {fileID: 115414920008582407, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 115414920008582407, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 115414920008582407, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 115414920008582407, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 115414920008582407, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 518933070685241254, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584256104511311398, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.6754
+      objectReference: {fileID: 0}
+    - target: {fileID: 1631655350666236465, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632323384931341899, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1646766683800928493, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320191372721885861, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_Name
+      value: VFX_Lyana_Skill
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475230543385035807, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475304932690245353, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477971457896311767, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4905297396916635796, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5091832792833009216, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104267932024650984, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104705375534516388, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: startDelay.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6714325685558209794, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6986073363381894876, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6986073363381894876, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6986073363381894876, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6986073363381894876, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066007361352537905, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.534375
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066007361352537905, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -3.1693
+      objectReference: {fileID: 0}
+    - target: {fileID: 7523317526469029010, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+--- !u!4 &7779182379132178003 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1811846944962021541, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+  m_PrefabInstance: {fileID: 8273618402681046774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &7459994736904681876 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 1537686434185281378, guid: d19f05cd4562e5d47a53d79438ef7092, type: 3}
+  m_PrefabInstance: {fileID: 8273618402681046774}
+  m_PrefabAsset: {fileID: 0}

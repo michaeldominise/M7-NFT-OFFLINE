@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Naomi_Legendary
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Naomi
+    descriptionText: 
+    icon:
+      m_AssetGUID: 689fbe3f56026e84daa417602ea0331a
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: b1e3b7052e198434590c29a155dd51b3
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 16
+    mainSpine:
+      m_AssetGUID: 7b2026a500bf8bf4497319116cb84f99
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5d6e1641a6c442c4dab38f1e8a66bf00
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2d5141dbda9dfbf4ab46f114e4c65a0f
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f809686c40540934285d9f077afb9163
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6078215a3de3a374fb54642ce9dd38e0
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 792db36d338f73a47aaabf288d464fd3
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f78a5670ebea83641b77223ff9397310
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 355b2202ee1343646a138896bf71c8c0
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c75dbaf63cbb31046ac6a49332cc7b76
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 07dfa823a80831042b7c859dd3e0a028
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f7cf03dc6b4612f479d987003d68c0b3
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 78517e37def4cd5458d139ab34cf88d5
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f4556f5c57793b46b1451121cda8eef
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_H13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7561c8e46c8f0ed41a903394fecada54
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1b3a8a51a3578a540b6e08cf53fb6508
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cebc00f56de82764299d70a8c0fe14db
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c22a0fe231f930245a6e7cebb773a3c9
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 91baf8402ad7fd747ab0ca0abea6504b
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e9acfc382d110f140a33614c530f04c0
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d8ae3a0081caffb4399a184c44982eec
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8c1fb4fa7232fc147bcf00b0f720071d
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a69cbcda8d5705c49bd112efbeff5723
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5fc20caf8fe1ada41b8ce310d445d4dd
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 963e72c95d416a842b41bbe8adef0a05
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2562fb857dae14747b01210578da32ee
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5cca3ebf0a1b13b49a9fc76657a12ad1
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_A13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: adc8b775b07bc174989624d2532d0b3b
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b50aa3efcf949814794457e4a680ad56
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a8a1db41717ae3949a1849e3e5301834
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 29b7cf2feba28aa40a6c81f7d1eb8dab
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8bb8f488086187f45ab86ac1aa39b5aa
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1c339759724f28049affb0a298d82ce0
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7ff985a841beec34e8ddf8df731268aa
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fdd647064fb4dab4faa0edd8ce5aa3a8
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 35d3c9f6818278344b52dee99472fb42
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9ed530ba4dedcdf43bafc95c57ecb181
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4937a94bfc5572e4aa965facb8ba075c
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 851d4086af79ea34dacab1ef98c07c76
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 639731610a9f8b94b954a480df0ece71
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_G13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0c23e6c9562bb5149837310122dd608a
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3c0cecefb5a6a54e8a4fbab4954c5cf
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d11c78542d6f48549b60e4494215e8e3
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f7b576e4e920e07449b09cae3592e8e5
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f65937674ffdd1c4cb920010e7b2d994
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 13a6840766a7c004aa1da5b67dc7862f
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cd39d65f63738a94fb5e4b789fc54e75
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34b29b1723a01f143afeb74f694accd6
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f2785d3ce95f8743838a8fab1cb2e81
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dd15e34a5aa65c140b059e3c37e9a635
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d3e6021d28559144db1e0c7cb8257994
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 35e5edae1be946245b6a0d293da56a1b
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ef72f9795e4f8804287536b7a092d844
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_W13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eef1b037dd077cc4dbbe0740a338b6b7
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3b07f45615c5c343bc463b1e12974ae
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9802312f34b92945910d2f2f39f3fd7
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2929b5e5df19397418bd105098ac24a1
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9651cb52d4e71ca4e9a1f610e05e557f
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 82f2758f553a4fb43905a2b6866623b5
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4b78e79311806a14ab35141928c4678b
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 07e313f1856c58f46a45fbd3abc00803
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d28e75e5dc9bbf24a881bece1a3683dd
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b334bc4e66c9d3b4fbcfb601c62b3906
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a067f726f63930c4296f4e6a32de56cb
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e820870b39384684982c1361a28953e3
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 47fa5fbc6397d6b4b9b4304451142ecc
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_AC13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a493f34d59e08d645b0255a01a5c2f0d
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Naomi_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 506c70f050a023840a45ab2703f27895
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aad952f97204d2d40889ba8200c32fff
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ddf997f19b5af72468fac07bca8dc028
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5422a0322a58aa647ae2744ca7777ff5
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8e19cda0cadc99a4eaa971b942de3dd6
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 527aab5ec41524446b8a6e0f26762daa
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 665b9733361587049b211274f0a6090a
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f1c67665cadd3874aa4ba77434aabb4d
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6b354571f61a6654d802aae969b7d482
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b44973f2cb005674b9c7f3df8f242ba2
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e50ea6ba3aba8af4ebac00f9a5fc96f8
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0ac8d3307e91a604c8c9e48d03d5527a
+        subObjectName: 
+      - assetName: EquipmentItem_Naomi_S13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3a083877cc9c2674d928963a9e027615
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 88ca0cafff94e79488df7043834ba656
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 9d09836446e35cf44a61d8d6296b4a25
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 93331cee4392db644bfb8bbf5c21b6a8, type: 2}

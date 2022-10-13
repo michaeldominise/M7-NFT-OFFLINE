@@ -1,0 +1,2178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharacterAvatars CDN1
+  m_EditorClassIdentifier: 
+  m_GroupName: CharacterAvatars CDN1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 63b9d0260579c5a4b92c883e647e71a0
+  m_SerializeEntries:
+  - m_GUID: fe312e30c5b95094c87f58472bf4758e
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad1c6218b2c435942a0bc60c42b212e2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e682c8230af7c154d92f3527c1b4c4f2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52648f770b252cd4284efdd7014bca8c
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6f46349d380c044d90d61268fe6161e
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddb6fc0bd4bb3ef419005528ce4bd123
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4ae46e42b0994e4db112b1c0e1a0443
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e193dc731abaca4794953f3e275d0e2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 441e1993fd3752e4aa596e10c7a85bb9
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57bbc1d3cea981f4cb09e97d5d00ba93
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk2/Aerodrone_MK2_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 497bdbaa48b788f43be28aec3a6830dc
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Aerodrone mk1/aerodronemk1_dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3ebeec5c825a9a4d8bd0aebcccc2b3b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk1/aerodronemk1_dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ece9aa3c3c7c904e9c84e2cf7c5e3a6
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Aerodrone mk1/aerodronemk1_earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f95a2d41bcfc94dafcff66bed7a402
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk1/aerodronemk1_earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1cc9e4686686ec45b192ec6dae64793
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Aerodrone mk1/aerodronemk1_fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f88f9cde18109a439561110afdf49ab
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk1/aerodronemk1_fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f857cac52b096a4459d57cb5e9cfe3a8
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Aerodrone mk1/aerodronemk1_light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f20d6e9ee35541645ab529bbb0cb6b61
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk1/aerodronemk1_light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ceb07a301709c42b02b02dc1ead01d
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Aerodrone mk1/aerodronemk1_water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf2822490be86014eb15f4563bbbb71b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Aerodrone mk1/aerodronemk1_water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6adf0e5b5baf09242b31880b88033aaa
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 1/Alicia.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d49317b4226e7a7449ac4cc6c848ef5b
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 1/Alicia (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7f912ada7ac3bf428760c47f8041488
+    m_Address: Assets/M7/UI/Avatars/Villians/AquaMantisBot_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c912b5775f6358f4098352a63a33246e
+    m_Address: Assets/M7/UI/Avatars/Villians/AquaMantisBot_color (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4a8bc19ffdf087408d3800c84778151
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b36cf85a2edc7248a93f1d98bbca192
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 711caacd038a5564fa84facc1ca0eb6f
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a7564be0796cca44b76d9fb6af308db
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4765a9a0572a04047becce51cacb472b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e74f1ae1b34114c96c028af60bd5dd
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 414e997f5b9798744ae969255a0b8a12
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f33d5c8e2c58924c9f4dacd74eefa1e
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c17c239098574149b0910ef9fb1b570
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef6c28a5e7ee43b449d3a81265646384
+    m_Address: Assets/M7/UI/Avatars/Enemy/Artillerybot MK2/ArtilleryBot_MK2_water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b54a9710b0544104a9484c0cee83853b
+    m_Address: Assets/M7/UI/Avatars/Villians/Ava.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7135c3f7a63f6c949bbe1942f8d36df3
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Ava (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ffbb9b43243b0e47a06aeab1c8d6a4d
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 2/Aya.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34318d0d6abbc624e90ec73ed2a17402
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 2/Aya (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1152ec1c158a6d4397e224a0bc97aab
+    m_Address: Assets/M7/UI/Avatars/Villians/BlackMaw.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f5bf173fe4eb3438066c2f5d07ac08
+    m_Address: Assets/M7/UI/Avatars/Villians/BlackMaw (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc35c9306ec40d419a09041abf41795
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 3/Brenda.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb3c41cc35e3dc74980d3d4b447f0695
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 3/Brenda (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00848668ea7269c4cabf1783b7763321
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 3/Cadenza.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bcb344c79755594e965b20b1ab1905f
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 3/Cadenza (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9c6497f555a9ba42aa3a4f7bdf825c9
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 3/Camellia.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a9e71a57b84a3644a40eef028c7447c
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 3/Camellia (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d24deec1605e3e42a97bb02c53fe640
+    m_Address: Assets/M7/UI/Avatars/Villians/Cannon bot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25de602afb84adf408ef967e62dd43d4
+    m_Address: Assets/M7/UI/Avatars/Villians/Cannon bot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8473aa8e976cecb4ea10f020d2ab383e
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Centibot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b167da8ad11cd8741982565bd71594bc
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Centibot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6ec324b7b2b47841ac0b94d531839a5
+    m_Address: Assets/M7/UI/Avatars/Villians/Chameleon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2276bf2633c2cd8478569faefd5d914d
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Chameleon (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c73123bbfc90cb47a5928bcd3aa19ed
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 4/Claire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f8b87ae022a3ab408762a34cc653ddb
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 4/Claire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0272f14be25b243419e9994387191065
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 2/Clover.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53acaa704ab25a24a97453886d25b6ee
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 2/Clover (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc552ed1cb103f4459ff442527475e0a
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2a897af49494eb4b994f6320b515dd9
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a40f49a48ea8d4249b85346cf4f0299c
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c90d8f18a587234aa8acccc76ad85f2
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c445a497c3e30245b9e909edf5354ca
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22119be004f267b479d84240d8c8f838
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 509ae84bb34340c43bcbdb922e078012
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88e742b277a2ea845a6ffcaa47bb6b30
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bf29eebed1ae2444b04f4b9bbb81858
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f6a14184a553344b19e9b64fe4095f
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK2/CORRUPTED GUARDBOT
+      MK2-Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56d9b6405f58d2845ba6e47ce3a74b7d
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69ac761d42e7d264e88cd08eca1efbec
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 829bb06023436194bb5b3f97f49ff836
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9f477a05d199bc428dadaa89e29e443
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01f8c7d10692de7488fa72bad6699318
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54268fafa2bef1c48abe16925843b123
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb7eec7b1fff40b4eb769f476c5f6565
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d1f7dc28666f864fbdcc6e42a4e4487
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0040ac802c79e954c916fcd26265d434
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe38d9df192fdc4d95d52469f87ee63
+    m_Address: Assets/M7/UI/Avatars/Enemy/CorruptedGuardBot MK1/CorruptedGuardBot_MK1_Dark_spine-Water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0330593edea6b67498447401642bd184
+    m_Address: Assets/M7/UI/Avatars/Villians/Cyclone Stormbot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b06ffdff86f8b4458c7697b85cbc599
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Cyclone Stormbot
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39a42a4889ebaad46a480138c5c4b983
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 1/Dune.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9adeb3b989afdc64088db98c33e4f919
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 1/Dune (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e8a29b412d768046aa2bdeba76e505d
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 1/Lady Luck (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5af0a88ae393114b9d1847da25e723a
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 1/Oya (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b359293546b06c4bb2c5e503a677253
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 1/Eliza (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7370dae1c14b74941b808d6a50dc36d3
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Quadrubot mk1/QUADRUBOT_MK1_WATER.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7dff77c857e3004e90c353ab9b3638c
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Infantry mk1/infantrymk1_water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cc9fc1b543519d41b55f2ea34f2c8ba
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Infantry mk1/infantrymk1_fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 128a2722da5789e41a749bb43edab843
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Quadrubot mk1/QUADRUBOT_MK1_LIGHT.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f5370f65e1a58344a8e4d0d168a512d
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Quadrubot mk1/QUADRUBOT_MK1_DARK.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97158fb074882434eb2f6b823e3f3dc4
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/SentryBot/SentryBot-Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2b6511241f028040942d34e64f37b36
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Quadrubot mk1/QUADRUBOT_MK1_EARTH.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4dc449fae92dc14686572e67f4e8bea
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/SentryBot/SentryBot-Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdca755c60f63704eae0c0fac6cebc30
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Infantry mk1/infantrymk1_earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 967aa5cfe2600e74c9be64a00145a440
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Quadrubot mk1/QUADRUBOT_MK1_FIRE.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b551e3172ef9146409ad53e34b4125b9
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/SentryBot/SentryBot-Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31175411decd85c4b90f8ecfd0bbefe7
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/SentryBot/SentryBot-Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04fafe8e194575e498fa3346f64c2260
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Infantry mk1/infantrymk1_dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1402ab25b5c62704b8a6a093ec0bcae3
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/SentryBot/SentryBot-Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 948d5594467a9e34bbf5dfe5767d49ff
+    m_Address: Assets/M7/InGameAssets/UI/StageInfo/Enemy/Infantry mk1/infantrymk1_light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cb93a63a9218fb4bbe118c8a40754b5
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 2/Tink (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d25edc290e615f7448c188dd322c9a39
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 2/Saber (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 722dc3dc75a057f478e1535df33287de
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 2/Narcissa (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 897420fa9d30aae42bbee9651994ec74
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 3/Holly (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b7b67d11b84dc04baeb29c6a3e9dd13
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 3/Sheba (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90571d2899f69194fabfc02413a5e3cb
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 4/Jade (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 495e4c3b1d1a637479990046d4051f4d
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 4/Valiant (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34a1bc474f0bc19468dab2c9c7b1b667
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 4/Michiko (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f50e922c9c370145afbed5666b22457
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 4/Kairi (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddfc4a16aa34e6347aac0e411499fd3d
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 5/Marcus (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 511f969b0b4df1b4a97a2c72cbd6b0ba
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 5/Silas (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5be17860cebb8ea4ead4d77c8d3d08e1
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 5/Neil (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cffb65b2253a0e941800cc9931990ea3
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 5/Zephyr (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff0c423c57cfe8b4abcab5d7445ab13e
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Batch 5/Maven (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ba26ce3511f3d1479d64b8eae822c52
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/enforcerstormbot
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a37a8e10c5a3e740867b3de4a7a5755
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Frost Thrasher
+      Bot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d685283e0bab75145add88975c467b21
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Incinerator StormBot
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d5c65d28cd1ee048a9f92b58d3c6869
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/QuadruBot Frost
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58b74ae9b6842854bb82d05feadce0b8
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Smasherstormbot
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea1e16459bc82a844b9c13de6dc48465
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Lyana (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba8bd4117ea1d134990580dd7692065b
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Nubia (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84948a1678987ff4bae011f60bffacd9
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Riot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065d2df451a09324888e067d62b4bba2
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Roana (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8215b4518743084093e5c11395090f2
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Villians/Sasha (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c17c404285057943bfb7f5500874286
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Original 5/Ellie (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee17b1bdd99bbcd4ab9711c270b8bfc3
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Original 5/Hale (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 591177c17fe7c2f4cb140fd8937f5f0e
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Original 5/Lexy (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e727472d8259e3948bc5bfb2af62ffed
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Original 5/Lily (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 689fbe3f56026e84daa417602ea0331a
+    m_Address: Assets/M7/InGameAssets/Characters/Avatars/Hero/Original 5/Naomi (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6fe1ed5c07fb794fa2047f7691c7ff6
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9972befdfce2a004c87b33f99cba53c8
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30982b994c0ff6c46b8e3f11d894ef39
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce4414f1b1b467248a6e5d59ef73a756
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aecaf84f434ae9e4991e4206f187554f
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c26459c9b8a2ac428bb0286da8181e0
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12ff3e43c26f9394bb51e7d3b4fdd453
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ac59a57b8b79994ca81f14dfed2beac
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e1ecfa5010952a40af668980cc4cb0d
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f0368ddc694874c87210445179a192
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8751a337dc86764e8c58ec18615f425
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 861dcfe0030d8774ea146e2d3cf6df64
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7a2210b213bebb439f588dd00af458a
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f66ffb533a932d4b827664cdcb31f25
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f4d5f7828687f042b59df9f9332b309
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad817de24fa1e4245a08f04066cd343b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b396407927cf314da2dd5da99f72163
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5358a695776e09c43b4fddde634a92c3
+    m_Address: Assets/M7/UI/Avatars/Enemy/Hammer Head StormBot/HammerheadStormBot_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c26e1e9e3b197be48b56456d2f0bd0d8
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 fighter
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35fb5bea4f9bd444ba785e5b98c55716
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 fighter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db0794d6088f8e744bd5bd8bb535a6c3
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 magitech
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe5fac42d2b1ee43a3270de90679c38
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 magitech.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7254442ba375c6c43a5848d73489c8db
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 mechanic
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91c835b26c58d8940b9285ff2ea6a641
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 mechanic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8f31390f5e71634a8e0601fc16e4c4e
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 ranger
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0626368a037e5243bc908e069358b47
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 ranger.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32c5269fd1a631d479ed6d0e08075743
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 science
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b9fe428f07fc9047ad4bdf5fa5b94b3
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Cowboy/infanrtygunner2 science.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 563c37f94259e0d49aa8ec7abddfcf48
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd961a1ea3c74945b1da4664bd055fe
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cadcd1970c0f0c44db2d22b2d86162b9
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03fb358b6f37614bb33f6ccb5fbb173
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3b2d6394671ea645ba1938789bc859c
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67ca293d60038304583f86ca439f2272
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7795b0819afdcfb49bdb529b733b76e9
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10b81d5610cd4a94e8010595f5b1fc73
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk1/infantrymk1_light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c896b6a88f017348afb24d729469c17
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d23cea1da6bc41b42ba529ef767fcc91
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f2369fa60fc38e4aa159d363c4cd7a1
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Harpooner dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 069c6c986950f004fa4577688d281a31
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cce906d5e16a8147b642fa79b79e857
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f50635502e8cb34fba9746d57cd3f04
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ccf7bc998f11e84c90f7f9631aad4a5
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings mechanic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c368868ab4c71114282f57f7e784b060
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2011b76a05e7b24abee8832f4065983
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11d8eb00b33de834485e04d501a30f68
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk1/QUADRUBOT_MK1_DARK (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9333d4be3c32d354cb8ab95f0feed5bd
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0366e23bda235d840985bbc30144d982
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa08a907480d6eb44b3cca943179c19e
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06c438563bb28cb42bcdf8dc0d768c3a
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7401246ede3ae84a92aa2b9e6ccc5a9
+    m_Address: Assets/M7/UI/Avatars/Enemy/GrizClaw/GrizClaw earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28a8ee8ed172e0d45b70eee29376059e
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings ranger
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f763c1a4b4fd5674db40eb2c8f89c223
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f4bcea1d5c3ec14f962a2d0768f41e1
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af00482b55ddfb443b5f5471928e2e73
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94837de003b554e4b8d1cf61ad042ced
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Scallywag water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b6d66e17bc5c654ab5bb099a97c9f36
+    m_Address: Assets/M7/UI/Avatars/Enemy/SentryBot/SentryBot-Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01546c149121e6a468476620aa9ebc9e
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97511be45b2b2694e92fe79777357d9e
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418b5623e97977441b421293ded27910
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk1/QUADRUBOT_MK1_EARTH (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83310441fa311d941bd2fa88ce4092bb
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4d338b24bedfda458570f9ee0a6f331
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c601d04d22d23ff4cb6deafe4c370cb8
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11fb589fc1bf07d4fa914d5106dae423
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b274015e13bcc7745a9b6f905aa742c1
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1faf79fe9cbb75641b054ea7a509f83d
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5879a8c6ac683414697391f3299d3076
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e177fa5692743f54d95339fb4a4e8aa2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 897616c7dabae39418081d5214403007
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54d33e229f8d49e4b862d081cc444519
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Scallywag earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b863fbdb15c20b8429b2b067f3f87ae0
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24ff4c4877cd71e44baf5af014fc0d69
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb221cb1dbd85d74388e0e006923f931
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 114d3b701ad2fad459f017523abda847
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings fighter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fa5ca04511ba7449aec74e4a7f19cb4
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d2de32c8d77f5a4ca75db2369ea4176
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings fighter
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c504d89670300e49927e0716eb9cffc
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk1/QUADRUBOT_MK1_WATER (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb6274ba61fac3478743e003c67529e
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d747d97f42894b4699cf052b03d66dc
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b55ba9bf3d833b4ab109195807255da
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f93b6e82ae8387e4a8c78e95ac989180
+    m_Address: Assets/M7/UI/Avatars/Enemy/SentryBot/SentryBot-Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa263f1e064bab64c8eae48aabb2fffa
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43eb2dba70be5364db4de93a917b8f8a
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a9f9793f63d7064f9b137e316722531
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk1/infantrymk1_water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eee463820081f10498ece9a8f0b28d70
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d094e8233b9cf2343b9e94dbe90fb898
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11ea666416b2f5d4882c54b56f4d02c2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85c97ff931ace2249be8472fdceff89f
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4541604221dfe444bb505f50c1c802f
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b215f0aefd0e6084ba1164ee9fb66c5d
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e87920b6da399442b9efc8e20306842
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19bd7127d7021440a4cfb7fdfb20686
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c2c91f7e9df1e74f94e179d42853e31
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b347d829df325143abd490bcd536474
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk1/infantrymk1_fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f612c50522944ad44ab50517b967de43
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be916a87045b25d498f108a3a33483bd
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c49c476350441d44d98a5f520fc7ceef
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97f81f8492c3bb240a16d68bcf65d57f
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk1/QUADRUBOT_MK1_LIGHT (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbec2fb6bad55dc489155e17bc716105
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63ff4802d71359643a3b98926f6dd356
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d3ddc9d80c7af94599c59f959bce403
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Harpooner dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d724d122ae77242bd85319506a5426
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8adf6518065888442a2ae2a499291197
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69c0b520087a0b0489f20190621e9d0c
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87de106b49f9b60428826d53dbb9d982
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 143a48cd99c87bd43a57b6a65489aafb
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings magitech.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f91aadafdee628648a12af3407de1c3e
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings mechanic
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a2dcf9bd1237e4db303b377b048d42
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ce9b3f34e63ff94cba71629f24293d5
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings magitech
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff82b6effef2b174787fa10f5ceff4c5
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 984805dd46cb76543bebd07102788487
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Scallywag earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f5c0879e32bcef4984fbe83875ab7e6
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f8cf11aaf3fe0742a7d361d4bd47710
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e7381e60db4e564789d79a191e6e2b8
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 110e1cda8f77a4e44867aa736d71b0ad
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcfd10147aff0be4ba3912a75dc93125
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f34a152034d7440af3e1fcc49eb5ff
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings science
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 290739dd3bffeac4da490480e372f457
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f72deb5d61f9b0f4db5f13d9972b9b35
+    m_Address: Assets/M7/UI/Avatars/Enemy/SentryBot/SentryBot-Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea345357be854234492fce2d38453f83
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Buccaneer light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb342eeecc8745d4eb35ea6d728bca1b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c1be86eab35fcf49a839f04a8f57639
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97211d4539a00bf449328fb2712a80d6
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ec38ab21c6de6e4aadf2d3ca952720e
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc800859fa4f7324f8095b1197d9a904
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05570d2a9ce56c04f880c388ee618f04
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Earth
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d186c6b04f5d4408003783147d8ece
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98f01f2637c71564ab57c6dcbb287a98
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a05ce62c7ec2f574bab37cd73e234c68
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Buccaneer light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb1c38e23e717c5469d97f5d6c745378
+    m_Address: Assets/M7/UI/Avatars/Enemy/SentryBot/SentryBot-Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89ae1e68e057835448441a4e90b31d9e
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0507e8f77b2c53740b191dbfb467b57c
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a7e28af36a842149898296cf7779ce2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7802bf9434a2c7c4b85f5710df92fcdf
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings science.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71acb2a45c780fe40bb8255f9ade23ba
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfc66fcd3c1f67a4d9e1c2d236a8237a
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ac6db08a4c7d7d4a825222a0cbbdd41
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mech Pirates/Mech Scallywag water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c029c7ef20df3eb42bb98bdede38c78a
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd98e6cbfe734b64fb1ad7839a53eda2
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Fire
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92fad68ab43cd434eaab33fa95c288f8
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c0809b5b3e2cfb4c8f2952463a3fb5e
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 019800e3f2181694c9d50529612bac52
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f14bfc5acca2ff4e9572aff0c12cc0b
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0379abe763543ac4591448e8f8d92f7d
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43f892e7ed97b124f987fd4053de07ea
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28bf67a71d522d4448d45bf05c712864
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Water
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f860c25ecef98ef439b68788ab838f58
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 437ab3e1d4eaa2d4c8bd71b87691c4e5
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edbd3ea614470544c81e10fbe1f33447
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f5d8c57a5b56694ea6767e8feac0a61
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5c188481be314c41820300f529ece74
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 180fad9387483784fbcbb88f3ac03bbf
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05a2cf4e5876e534ea865faa75c506c0
+    m_Address: Assets/M7/UI/Avatars/Enemy/Thrasher_StormBot/Thrasher_StormBot light
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dd28836f4877d14a8943dc8e8da1f30
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 061485478e716814ca06200ea0bf1b56
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cc134a57eb1ad7489775c9c2d2ebb6b
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f28481e4e19f564a84d912e0d6781ad
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0600cf4eedae4534e81d04c617e79703
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBot Demolisher mk2/QuadruBot_Demolisher_MK2_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9950e3298d95904b9a2e1f3042663ed
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Dark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a9f6c8e810dc3e408144b89146997a2
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b932e393ce986f41b0a7055b8a12f08
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Light (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b23423f57686e9c46bd4aeb39071b530
+    m_Address: Assets/M7/UI/Avatars/Enemy/QuadruBotDestroyer/QuadruBot_MK2_Destroyer_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b9c58306e756884c8202f772a9f98e9
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b2de24dd280e76459ed0bd113eaa80f
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8460cbe4a78634548bc7c762fe2d18f0
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mechbandit/MechBandit_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4285b2dd15d88bf41aa2d851621a2eb4
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk2/Infantrymk2 water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0c4534f4b6d9e478e5be661aa91e82
+    m_Address: Assets/M7/UI/Avatars/Enemy/MechBandit_Hardened/MechBandit_Hardened
+      fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7729efd217a0dd94cbbc3f13be429e4d
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0fc639e9dcf52f4bb8c42b1556e3874
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327db651a592df84d9f8231e34a0a67b
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk1/QUADRUBOT_MK1_FIRE (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ee401f5dffbfc344a6ac4882a9ef358
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1409987335c352d42873b81fe3228e50
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ded54ac9b4e5084d9b18ff8ca5768a9
+    m_Address: Assets/M7/UI/Avatars/Enemy/SentryBot/SentryBot-Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c7138c96b7e70c409874e761c7b0f63
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk1/infantrymk1_dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ff454f7cfaed640bebc484ede917ee
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone_MK2/StingDrone_MK2_Dark (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b4bba88e0ad0374786e8d9648bf13b7
+    m_Address: Assets/M7/UI/Avatars/Enemy/Quadrubot mk2/QUADRUBOT_MK2_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e67a145ecf1a574ea30f5a713ccc31d
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infantry mk1/infantrymk1_earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71a39b21539286642be05ec8c8c17189
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Fire (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03962395fbd09234996738d817a7e2e6
+    m_Address: Assets/M7/UI/Avatars/Enemy/Infanrty gunner/infanrty gunner water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf13b149f5adf541a6daca71d603c4e
+    m_Address: Assets/M7/UI/Avatars/Enemy/InfantryBot Viking/infanrtyvikings ranger.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9aae54ecd9f48343b37c952da31d362
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone/StingDrone_MK1_Light.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8173205ff1be1be4594b2d9ff23589a9
+    m_Address: Assets/M7/UI/Avatars/Enemy/Mega ArtilleryBot/MegaArtilleryBot_Dark
+      (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b3651b45abdead41aaff72545e5ebbd
+    m_Address: Assets/M7/UI/Avatars/Enemy/StingDrone mk3/StingDrone_MK3_Earth (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e3a8df708279814d861bc95965bfa99
+    m_Address: Assets/M7/UI/Avatars/Villians/Eenforcerstormbot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c5812644ee00c9458e7a551ac698de1
+    m_Address: Assets/M7/UI/Avatars/Hero/Original 5/Lexy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c3ae528542633c499291c1468275c6f
+    m_Address: Assets/M7/UI/Avatars/Hero/Original 5/Hale.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33bf5acd32c8f7b498debd6cf9f6bda9
+    m_Address: Assets/M7/UI/Avatars/Hero/Original 5/Lily.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1e3b7052e198434590c29a155dd51b3
+    m_Address: Assets/M7/UI/Avatars/Hero/Original 5/Naomi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bceab567695251347adea8728f4274ef
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 1/Eliza.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c440c40728bf474f891fa973e30eeb8
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 1/Oya.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4f33563edbabfe49ab2a537b56a097f
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 2/Narcissa.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b168b7d9eb088e94baf382419ed965dd
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 2/Saber.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30c4ec8cf424570488b2654e5a2d5b40
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 2/Tink.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc65bf71c71b4004d91404d9280fe03a
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 3/Holly.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de84afdddaa9e0c46ab1973b88494745
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 3/Sheba.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a9dc7b4bb45d8549a87d02001edc5cd
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 4/Jade.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30f058751910bfb46a4c04791908055a
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 4/Kairi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9376389df17db8c40867a40753762c20
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 4/Michiko.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0cef96447593744aaacb514b38c2d7a
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 4/Valiant.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16135ff14f1f9a547a4f1a87d75c06b7
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 5/Marcus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a579f0e57df65b45993ca257cb9ee73
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 5/Maven.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b32ea9f62ef73c04cb83a830f4466b4d
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 5/Neil.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b429a0b6d9fce744a52b0c5f5457ee1
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 5/Silas.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ec6cbdb62cd7b4799f03e3d8a29dfa
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 5/Zephyr.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e114d4dc4a6b84db00716b1c3207ef
+    m_Address: Assets/M7/UI/Avatars/Villians/Lyana.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48dd8a2a2dda61449baf6f533e5483bd
+    m_Address: Assets/M7/UI/Avatars/Villians/Nubia.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6761b7c830bff0a4eb8ae52e0b600082
+    m_Address: Assets/M7/UI/Avatars/Villians/Riot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982b68bf0ec208d449526fb4527aabdd
+    m_Address: Assets/M7/UI/Avatars/Villians/Roana.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ea165dafe191e4baba24e3d02bf500
+    m_Address: Assets/M7/UI/Avatars/Villians/Sasha.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7b8d9304408c9f4a8a47aa7efe2a9cf
+    m_Address: Assets/M7/UI/Avatars/Hero/Original 5/Ellie.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c111fce4c6593ee4e941d143aef66fc3
+    m_Address: Assets/M7/UI/Avatars/Villians/enforcerstormbot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd53ef5182775c0459329e8b44a7587b
+    m_Address: Assets/M7/UI/Avatars/Villians/Frost Thrasher Bot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e61f3e69c4e1354bae2ccf43239c056
+    m_Address: Assets/M7/UI/Avatars/Villians/Incinerator StormBot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1c0dedc11ae95840a56ed8b538a67e7
+    m_Address: Assets/M7/UI/Avatars/Hero/Batch 1/Lady Luck.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 303d9fc5198185947b8cd8a8ee5bb8c8
+    m_Address: Assets/M7/UI/Avatars/Villians/QuadruBot Frost.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4548ff4e65e09f4898d571c95377bf8
+    m_Address: Assets/M7/UI/Avatars/Villians/Smasherstormbot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083cae1523bdf9644983d51f9788b00d
+    m_Address: Assets/M7/UI/Avatars/Villians/StingRayBot_water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb71fe1ee33805240bbf7e8030310fa0
+    m_Address: Assets/M7/UI/Avatars/Villians/StingRayBot_water (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d4e2100151f87d408484c6096eefc93
+    m_Address: Assets/M7/UI/Avatars/Villians/Tank Bot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9876f5c5fa06c142b39f0f6e8ad8b87
+    m_Address: Assets/M7/UI/Avatars/Villians/Tank Bot (Custom).png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4c64d28e6c97bce438fcaa6eb8341852, type: 2}
+    - {fileID: 11400000, guid: 47a3f23560b203a489ca18747b2f98d4, type: 2}

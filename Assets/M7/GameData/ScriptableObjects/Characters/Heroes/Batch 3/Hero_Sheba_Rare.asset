@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Sheba_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Sheba
+    descriptionText: 
+    icon:
+      m_AssetGUID: 7b7b67d11b84dc04baeb29c6a3e9dd13
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: de84afdddaa9e0c46ab1973b88494745
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: 426aeb8fc3077b5418f09f7a0d4a8a14
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b80643af6a04bb947a5674ac283f48e5
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b5191f5b69f8e974fbcc4200e5920112
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9338e54492f95d4eb165e097ec0908a
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c6f720b6d429b4a4187396cb203a35c0
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10454e7de2de3be46b2a2908348ef878
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 535c4fd3ed0e9a34284c36025dd41e56
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 97d58d842b8118e49805f65e0a6d5c09
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: efb7da0dc842033488235b586f479328
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: db9c68bfecee9b84e8de5880988ecf1b
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ee86378b24dbda147ae5d2a43b3f2c9f
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 76076683ed41a0f4280374ae41a10198
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 847fbb60da96db848870a5191b92fb47
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 567e5ec4c70e92d44b913a50a653613e
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6dd8bfec8db42734b85d7f4c08e1ecb7
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 88062141251953740a3a81b5f9a88101
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eb8c502082bda21469af589cc9a46b4c
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3af951ab3fde21644991dac368ff5949
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 846218c28e04d4840ab4545c7eb22982
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fa5d985894c0de14e9777119fc565a0d
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fceeed3ce4c44c24b9ea51d995a12a02
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cd8c84c5f1b2d2044b050622cd8d15b2
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2af590b9eae16db4ea0704a92e2dde8b
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b58281f10eb69ad4a8765598ef0c4a4d
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9c7816439a277dd46b50cb0b42812176
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 854a4dbbbf378904891c0908d54bf2d1
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 268fdf64c3b1dcf409468319e39435cf
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9b5159a19d7ed4e4fb15daf75cb5200a
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1c12a3d290a31a84e9a344944604ab22
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be41d2d3c43d40c45a937942c70eef75
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b42cbb180374bf942b8206c0404f8f30
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Sheba_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6896a2788cb0bf74bbf8abbfea459fd1
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a4854dc6903357643a2006c2b8e15748
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc1d8d2e6e52f814ca66de149bc04fe0
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4d67b1e8aa6b0dd4eb793995d0e98617
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ff62f608929fb4544a7005f81e1d0286
+        subObjectName: 
+      - assetName: EquipmentItem_Sheba_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1589c961d878d7849a2248c316b67100
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 48a44c845e1c5f34b8db8c37b21d8ef0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: f8d937b96e829b84298e5080be741941, type: 2}

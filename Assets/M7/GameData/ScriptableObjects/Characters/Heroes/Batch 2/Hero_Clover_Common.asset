@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Clover_Common
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Clover
+    descriptionText: 
+    icon:
+      m_AssetGUID: 53acaa704ab25a24a97453886d25b6ee
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 0272f14be25b243419e9994387191065
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 1
+    mainSpine:
+      m_AssetGUID: 665226b8bbd567b4d99c583cdf27ba60
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8f83c87848ea29f48a76f17c9fbbe6df
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf5d1506ac1df914ea865ba9a3363b19
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f0b80d95f0027624983e24a8fae28108
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cd3b74e3c21254147a5244232b12aa5a
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5b950610024cb4a4c91cc36c86a53c74
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 55f885d7fd15e3548a06f1821cdb5476
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c265c89408d52414d9f5abd65d9b27c7
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5332d3127f612d24aa360bbcef26788a
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 14640ad6f407b42458efd4735c499a04
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ad93502ed3b81749a1543d6368715eb
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f993815b04546ed4fba9e54174a69618
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34f7a2e08fd7d89419ee9285b6f04046
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3dd76851329faf74a82e98683c93bcac
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0f4f56bdedd77a749a0015bfd38e0283
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8a383755b846afc45a0aab04799a0624
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 70ecedc9d87412a44a8d77c21cd6dfa5
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 78ffd76aa5291b24e9700279a8dd9f61
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 76e59d90a52d10e40a2b09667c185056
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ca8024c42842d4840a86fd53001cb0a3
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2572fdff22cdc544bbab3453a0b5838b
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8ae1062486447e04bbf51da21833935e
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e56dd9620bffa76408d8e57af221a5dc
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f684ffdb135d0c4b91d4f814924b19c
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2063e05299e92a9419c89d7d67b18ad7
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 076bfde85d2266845af1fdf78b495649
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a9a09d2fe15c9b94781c1c7c2d6bab70
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45b884b0d8e41da48a8261243a52c028
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5a7de727970bc234da5953b035e28622
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c2e3c878e28cf5541890abeabdf9583f
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb959ac565e06604db550154c481398d
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Clover_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a21b39c7cac1eef4aba845e6f1e4b7d3
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4910896ad2db5b44b882af6df58737af
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4207889d51b3858469ffa99de22a7781
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7ee103f08368ce246b9fafae89d4afde
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f1d0a3a1c090a0843a97a67a8a8b4e00
+        subObjectName: 
+      - assetName: EquipmentItem_Clover_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72add849f307f3d42a771ed6288cce2c
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 2378d5c53571f01449c4ab605a85634e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 9212d1b26514b5247b1e8c77d56aca34, type: 2}

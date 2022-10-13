@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Sabre_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Sabre
+    descriptionText: 
+    icon:
+      m_AssetGUID: d25edc290e615f7448c188dd322c9a39
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: b168b7d9eb088e94baf382419ed965dd
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: 0b5e7776abd84fc41b6dadf558eca969
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e91d2d67b8b45c4fa5bf7155c2d9e79
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7681b284b455b9241a5bc6a9f3c3ab9c
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7f5df4a9207110745b45226a14f990bb
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8c87b1c682b1f62468eee48aeb4b5cd5
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 213faac3170b7a641834db4eb2a3bd65
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ea83dd9e8fe8a6542a059742173e0709
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5e660149bff832b4cacd6e3b4b28415f
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 41cdd10af519eba40bfbf723aaa8f235
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 41325d9e93163fa4c8363ae761bc1d03
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f81d0c10d7a960e42ac5d21b745fb30c
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 56da68d468ccc5c4e8acc971bc7aaf97
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e0c42ac652964204d9b8b090ec5a80e8
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c9dbc92bfd997a34e82fef72c59774fd
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86f8f28396cafac4aba902b325a4ec86
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9cf2e3f26c0a3df4eaff0207a0d89d91
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2a3869b71aac029408f23df15ac529a9
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10c6f68a514ac8e4b8b8f05e56198a65
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9c2963aa7c86c424f98a7d64aa57d9f8
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be99eb1bfd399de409a1df93500d2056
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 52934cb02cc96e644a2f617fd3f030f5
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 80ad027581b7a1043bec3c50e3880891
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 488d0964ff7955446bf12ec3df93a7d7
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6328c11b1d3cc054cae6329bdb32f4c1
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9399faba96181874f94ad2977fd2c22b
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf41b2a0c3b199a49a142689ab6c8168
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 00afccc3c8308ed418c14486a04b1b75
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72da6474333e6ca45a1b442dc512d333
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7b3d503835372914d9b01555fb416bb0
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 25071e5c003991d418e59ee5a81f7c92
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 617f90c0bbd3ce64fb9ccab251efb783
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Sabre_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c3b16eceb7a87a40978018a5fb12c52
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 25566a61c233f12419b363e4d873e63e
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2a265d9897e9fe14783b61a0c97df9c9
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4f3c82be98cd8a84caa5382df0254ccd
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 571c5e5ebeecc4946ad05ec1eedbc1ed
+        subObjectName: 
+      - assetName: EquipmentItem_Sabre_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b33cd7a4d8d93574c97aabec7540a0ef
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: e256bfcc1faa51b4bbc266fa28782634
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: a0efe6ac6b3046d468c94a73dcbc94e8, type: 2}

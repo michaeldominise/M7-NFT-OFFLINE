@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0701081e6b1b06e42a4df9fe20bc87cb, type: 3}
+  m_Name: Element_Water
+  m_EditorClassIdentifier: 
+  elementType: 4
+  elementColor: {r: 0, g: 0.61960787, b: 0.9176471, a: 1}
+  displaySprite: {fileID: 21300000, guid: 49ebfcd9922f7f24da271a11dd64623a, type: 3}
+  displayGemSprite: {fileID: 21300000, guid: 122595e41b8112f4e8f879e47a105157, type: 3}
+  vfxElement: {fileID: 5100398215179339334, guid: b4ffbb27633b4e44ea29b1bab8eec91d, type: 3}

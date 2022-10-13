@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d630fbb638a775840940fbeb1845dd90, type: 3}
+  m_Name: MinterCostData
+  m_EditorClassIdentifier: 
+  itemMints:
+  - id: 0
+    requiredItems:
+    - rarity: 0
+      quantiy: 1
+    - rarity: 0
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 100
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 0
+  - id: 1
+    requiredItems:
+    - rarity: 0
+      quantiy: 1
+    - rarity: 1
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 50
+    - rarity: 1
+      chances: 49
+    - rarity: 2
+      chances: 1
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 0
+  - id: 2
+    requiredItems:
+    - rarity: 0
+      quantiy: 1
+    - rarity: 2
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 50
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 49
+    - rarity: 3
+      chances: 1
+    - rarity: 4
+      chances: 0
+  - id: 3
+    requiredItems:
+    - rarity: 0
+      quantiy: 1
+    - rarity: 3
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 50
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 49
+    - rarity: 4
+      chances: 1
+  - id: 4
+    requiredItems:
+    - rarity: 0
+      quantiy: 1
+    - rarity: 4
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 50
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 50
+  - id: 5
+    requiredItems:
+    - rarity: 1
+      quantiy: 1
+    - rarity: 1
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 98
+    - rarity: 2
+      chances: 2
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 0
+  - id: 6
+    requiredItems:
+    - rarity: 1
+      quantiy: 1
+    - rarity: 2
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 49
+    - rarity: 2
+      chances: 50
+    - rarity: 3
+      chances: 1
+    - rarity: 4
+      chances: 0
+  - id: 7
+    requiredItems:
+    - rarity: 1
+      quantiy: 1
+    - rarity: 3
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 49
+    - rarity: 2
+      chances: 1
+    - rarity: 3
+      chances: 49
+    - rarity: 4
+      chances: 1
+  - id: 8
+    requiredItems:
+    - rarity: 1
+      quantiy: 1
+    - rarity: 4
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 49
+    - rarity: 2
+      chances: 1
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 50
+  - id: 9
+    requiredItems:
+    - rarity: 2
+      quantiy: 1
+    - rarity: 2
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 98
+    - rarity: 3
+      chances: 2
+    - rarity: 4
+      chances: 0
+  - id: 10
+    requiredItems:
+    - rarity: 2
+      quantiy: 1
+    - rarity: 3
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 49
+    - rarity: 3
+      chances: 50
+    - rarity: 4
+      chances: 1
+  - id: 11
+    requiredItems:
+    - rarity: 2
+      quantiy: 1
+    - rarity: 4
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 49
+    - rarity: 3
+      chances: 1
+    - rarity: 4
+      chances: 50
+  - id: 12
+    requiredItems:
+    - rarity: 3
+      quantiy: 1
+    - rarity: 3
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 98
+    - rarity: 4
+      chances: 2
+  - id: 13
+    requiredItems:
+    - rarity: 3
+      quantiy: 1
+    - rarity: 4
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 49
+    - rarity: 4
+      chances: 51
+  - id: 14
+    requiredItems:
+    - rarity: 4
+      quantiy: 1
+    - rarity: 4
+      quantiy: 1
+    mintPercentages:
+    - rarity: 0
+      chances: 0
+    - rarity: 1
+      chances: 0
+    - rarity: 2
+      chances: 0
+    - rarity: 3
+      chances: 0
+    - rarity: 4
+      chances: 100

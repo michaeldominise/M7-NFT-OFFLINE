@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Eliza_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Eliza
+    descriptionText: 
+    icon:
+      m_AssetGUID: 0b359293546b06c4bb2c5e503a677253
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: bceab567695251347adea8728f4274ef
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: 5e8bfe85ab0463243af331ff3c93422a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 584ab4817b40b1441acf8488901617f1
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3d6bbc0ec755a79488c0a1efac6b4069
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5ab14859235253448381cea255cf446
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8d614df872979504f90b285b7efb2c17
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4ddd7329ea629e448b4f1e79fc1ad258
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c634c6d2a7397f448a11ad30e38dddb5
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8e91d5e9cbd1cb84393484210648ca83
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5dd0a366ed525d4fab05bcf00185021
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2e9a971173e85c544929052f7b6736ea
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ce351889b64b6fc40b213257e52a5ec7
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cdbe7e95b0c3084429a2a02510c571cd
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c39a7887dcdae5429df7d576ef3cb19
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 61f110d7277f55e45ac04ef5c984c0b1
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f19f31bbc0322a64ab8a3ec315874490
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e2cc4932b3ca75f4da0bb8f2e3795a84
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a026868004d59664b8b972ec2436fe57
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 018bece5a5cf22d4faff3dc47e2a285d
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 357065e44f214b04489a867ac8e8f31e
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 77572eb40c6977e4ebf9323789f42282
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e5d52f4552064642be85f92e7079adb
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: faa7650b7c39bcc4a9ad42081dda0325
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 19235920e4c748a469b5287007f328a9
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 24078d77a66a77e429ad5e92ec0b19ea
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 53a52f4ef63517c48b72f8a40332a7d8
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2ff2f635c8d0c1c4d944e7e0bafa9a1a
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e17c515d33fa64e4a8f2ef71a2c3eb0f
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0b43489f6d5d72645935cb3c6e1b92c8
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf4a709916c1ee74fbeee1d91cd62c21
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bd192ff21f437e547980f4b21442ce33
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1f669c43da2bdf94a9c158c153163c75
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Eliza_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: abc8934d708bfff4b8ff9e98ffa96a57
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6a576ebbe7a555447ac86fce8a0f90da
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7f2f63016054a784da620266488d729b
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a913fdf1e1a5ff948a4e5a3bee619175
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 84ed3776f4e50c04fa2bbdff2a960083
+        subObjectName: 
+      - assetName: EquipmentItem_Eliza_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 07c79001556747c4da1d20e3f199c2d4
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: e89e3eadcb5b37b4c866835cf0ebb6b8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: b99667f2a107ad14c932da135cad6392, type: 2}

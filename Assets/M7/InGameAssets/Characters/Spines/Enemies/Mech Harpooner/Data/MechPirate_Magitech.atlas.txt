@@ -1,0 +1,44 @@
+MechPirate_Magitech.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+arm_L
+bounds:386,605,98,177
+arm_R
+bounds:386,498,137,105
+body
+bounds:386,784,241,232
+rotate:90
+cape_parts A
+bounds:525,578,176,74
+cape_parts B
+bounds:331,158,262,324
+foot_L
+bounds:54,10,54,38
+foot_R
+bounds:2,2,50,46
+hand part
+bounds:620,831,51,52
+head
+bounds:2,50,327,432
+hip
+bounds:486,654,128,127
+rotate:90
+leg_L
+bounds:620,885,60,71
+leg_R
+bounds:620,958,65,67
+shoulder_L
+bounds:331,5,151,164
+rotate:90
+shoulder_R
+bounds:497,7,149,156
+rotate:90
+thigh_L
+bounds:525,492,84,103
+rotate:90
+thigh_R
+bounds:615,677,77,105
+weapon
+bounds:2,484,382,541

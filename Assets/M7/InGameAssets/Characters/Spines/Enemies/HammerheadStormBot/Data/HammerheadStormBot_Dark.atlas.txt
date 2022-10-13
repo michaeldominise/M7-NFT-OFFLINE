@@ -1,0 +1,110 @@
+HammerheadStormBot_Dark.png
+size:1976,1556
+filter:Linear,Linear
+pma:true
+scale:0.5
+Dark/body B
+bounds:954,401,401,511
+rotate:90
+Dark/fin L
+bounds:0,1400,420,154
+Dark/fin R
+bounds:1680,1296,266,258
+Dark/tail
+bounds:840,1153,247,422
+rotate:90
+Earth/body B
+bounds:1465,401,401,511
+rotate:90
+Earth/fin L
+bounds:420,1400,420,154
+Earth/fin R
+bounds:1262,1142,266,258
+Earth/tail
+bounds:1528,1049,247,422
+rotate:90
+Fire/body B
+bounds:0,329,401,511
+rotate:90
+Fire/fin L
+bounds:840,1400,420,154
+Fire/fin R
+bounds:422,988,266,258
+Fire/tail
+bounds:0,999,247,422
+rotate:90
+Light/body B
+bounds:511,137,401,511
+Light/fin L
+bounds:1260,1400,420,154
+Light/fin R
+bounds:1110,884,266,258
+Light/tail
+bounds:688,906,247,422
+rotate:90
+Omni/body B
+bounds:912,0,401,511
+rotate:90
+Omni/fin L
+bounds:0,1246,420,154
+Omni/fin R
+bounds:422,730,266,258
+Omni/tail
+bounds:1376,802,247,422
+rotate:90
+Water/body B
+bounds:1423,0,401,511
+rotate:90
+Water/fin L
+bounds:420,1246,420,154
+Water/fin R
+bounds:688,648,266,258
+Water/tail
+bounds:0,752,247,422
+rotate:90
+
+HammerheadStormBot_Dark_2.png
+size:1884,1736
+filter:Linear,Linear
+pma:true
+scale:0.5
+Dark/body A
+bounds:1026,798,937,855
+rotate:90
+Dark/head
+bounds:0,937,1026,798
+Earth/body A
+bounds:0,0,937,855
+rotate:90
+Earth/head
+bounds:855,0,1026,798
+
+HammerheadStormBot_Dark_3.png
+size:1884,1736
+filter:Linear,Linear
+pma:true
+scale:0.5
+Fire/body A
+bounds:1026,798,937,855
+rotate:90
+Fire/head
+bounds:0,937,1026,798
+Light/body A
+bounds:0,0,937,855
+rotate:90
+Light/head
+bounds:855,0,1026,798
+
+HammerheadStormBot_Dark_4.png
+size:1964,1712
+filter:Linear,Linear
+pma:true
+scale:0.5
+Omni/body A
+bounds:1026,855,937,855
+Omni/head
+bounds:0,912,1026,798
+Water/body A
+bounds:1026,0,937,855
+Water/head
+bounds:0,114,1026,798

@@ -1,0 +1,19 @@
+Chameleon_Tentacle.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.25
+tentacles 21
+bounds:103,40,36,105
+rotate:90
+tentacles 22
+bounds:2,41,35,99
+offsets:0,0,36,100
+rotate:90
+tentacles 23
+bounds:2,2,36,118
+rotate:90
+tentacles 24
+bounds:122,2,36,125
+offsets:0,0,36,126
+rotate:90

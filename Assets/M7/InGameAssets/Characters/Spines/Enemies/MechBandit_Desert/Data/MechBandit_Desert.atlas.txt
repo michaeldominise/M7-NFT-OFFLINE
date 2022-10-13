@@ -1,0 +1,127 @@
+MechBandit_Desert.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fighter/arm L
+bounds:222,237,84,94
+Fighter/arm R
+bounds:308,251,80,90
+rotate:90
+Fighter/body
+bounds:423,504,153,142
+offsets:1,1,155,144
+rotate:90
+Fighter/cloth back
+bounds:423,114,233,118
+offsets:0,0,233,119
+rotate:90
+Fighter/cloth front
+bounds:2,514,239,143
+Fighter/foot L
+bounds:400,292,39,16
+offsets:1,1,41,18
+rotate:90
+Fighter/foot R
+bounds:98,57,39,17
+offsets:1,1,41,18
+rotate:90
+Fighter/head
+bounds:243,478,179,178
+rotate:90
+Fighter/hip
+bounds:392,61,58,51
+offsets:0,1,58,52
+Fighter/leg L
+bounds:257,119,30,34
+offsets:1,1,32,36
+rotate:90
+Fighter/leg R
+bounds:182,481,31,33
+offsets:1,1,33,35
+rotate:90
+Fighter/shoulder L
+bounds:218,20,93,90
+offsets:1,1,95,92
+rotate:90
+Mechanic/shoulder L
+bounds:218,20,93,90
+offsets:1,1,95,92
+rotate:90
+Fighter/shoulder R
+bounds:318,184,65,92
+offsets:1,1,67,93
+rotate:90
+Mechanic/shoulder R
+bounds:318,184,65,92
+offsets:1,1,67,93
+rotate:90
+Fighter/thigh L
+bounds:567,618,39,54
+offsets:1,1,41,55
+rotate:90
+Fighter/thigh R
+bounds:512,71,41,46
+offsets:1,1,43,48
+rotate:90
+Fighter/tube L
+bounds:122,224,107,98
+rotate:90
+Fighter/tube R
+bounds:122,19,94,94
+Fighter/tube shoulder L
+bounds:329,128,54,55
+rotate:90
+Mechanic/tube shoulder L
+bounds:329,128,54,55
+rotate:90
+Mechanic/arm L
+bounds:222,151,84,94
+rotate:90
+Mechanic/arm R
+bounds:310,27,80,90
+Mechanic/body
+bounds:423,349,153,142
+offsets:1,1,155,144
+rotate:90
+Mechanic/cloth back
+bounds:2,98,233,118
+offsets:0,0,233,119
+rotate:90
+Mechanic/cloth front
+bounds:182,333,239,143
+Mechanic/foot L
+bounds:400,251,39,16
+offsets:1,1,41,18
+rotate:90
+Mechanic/foot R
+bounds:98,16,39,17
+offsets:1,1,41,18
+rotate:90
+Mechanic/head
+bounds:2,333,179,178
+rotate:90
+Mechanic/hip
+bounds:452,61,58,51
+offsets:0,1,58,52
+Mechanic/leg L
+bounds:293,119,30,34
+offsets:1,1,32,36
+rotate:90
+Mechanic/leg R
+bounds:222,118,31,33
+offsets:1,1,33,35
+rotate:90
+Mechanic/thigh L
+bounds:567,577,39,54
+offsets:1,1,41,55
+rotate:90
+Mechanic/thigh R
+bounds:543,306,41,46
+offsets:1,1,43,48
+rotate:90
+Mechanic/tube L
+bounds:122,115,107,98
+rotate:90
+Mechanic/tube R
+bounds:2,2,94,94

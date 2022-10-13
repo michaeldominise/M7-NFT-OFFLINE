@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Frost_Eden
+  m_EditorClassIdentifier: 
+  index: 2
+  displayName: Frost Eden
+  bannerAssetReference:
+    m_AssetGUID: 074e2ea8bc577354490312fd0eca69e8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: 1a44e40f2533ed34eb7291102adf6a85, type: 2}
+  - {fileID: 11400000, guid: a635d5e50bb2a4344a5be3ac823a4ea7, type: 2}
+  - {fileID: 11400000, guid: f0bb0826566d7304cbe08f3c02880391, type: 2}
+  - {fileID: 11400000, guid: e1beef6ba5d64ba4e8c30068ff147ab2, type: 2}
+  - {fileID: 11400000, guid: 673f1ee8fdd77ee4a946e2a2092a4796, type: 2}
+  - {fileID: 11400000, guid: 9504b9d79b50285468225ca382b919f7, type: 2}
+  - {fileID: 11400000, guid: c1443fa5c163a694e9388e4a7dff0c80, type: 2}
+  - {fileID: 11400000, guid: 78646d4e739b30142a6a578c957c84c6, type: 2}
+  - {fileID: 11400000, guid: bd74df7f3a94a1649b55ccb6618f0557, type: 2}
+  - {fileID: 11400000, guid: e5a9ffc796802e345802fd529a819c83, type: 2}
+  - {fileID: 11400000, guid: d4d3f07f71a47b94fa5d70b7e6c64fe9, type: 2}
+  - {fileID: 11400000, guid: d4e0c8368329dc6419cef0de0732ca1f, type: 2}
+  - {fileID: 11400000, guid: 12ba3d10f3e37744b802fc4babc8779c, type: 2}
+  - {fileID: 11400000, guid: 7ef46b69d4c4e0b4fbe432952d2061a5, type: 2}
+  - {fileID: 11400000, guid: 02b40741032dc3d4790e195acd84aea5, type: 2}
+  - {fileID: 11400000, guid: 697d18a470ae91144b675e6d101136a1, type: 2}
+  - {fileID: 11400000, guid: f853708c50b61674790821867f647d3c, type: 2}
+  - {fileID: 11400000, guid: 7e5236b6b591dec4aaf18b1e20c3bac2, type: 2}
+  - {fileID: 11400000, guid: aad09de3670c94a4c8d85f881bbfbd17, type: 2}
+  - {fileID: 11400000, guid: 33d01ecb6813c4c4cbb19cdb4b3ac6c8, type: 2}

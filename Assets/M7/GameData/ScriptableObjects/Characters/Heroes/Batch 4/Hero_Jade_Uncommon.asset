@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Jade_Uncommon
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Jade
+    descriptionText: 
+    icon:
+      m_AssetGUID: 90571d2899f69194fabfc02413a5e3cb
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 0a9dc7b4bb45d8549a87d02001edc5cd
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 2
+    mainSpine:
+      m_AssetGUID: 2128defa7a62ce74f8dee336c9fe8dba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12ff3962a5d0c14429e7809a02ad4dbd
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 43bcae9226197a443a0e25fd52c7e968
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 51e55eaf8ab94be429062b4b6258c3b2
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ef47ffe87187a79459be10a7ceb02790
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f7c197c6e12ec54aa9145ede08f1b4a
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ae26cd329cc471145b3ad4c1d7cf2e2f
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 442df558ec0bba1449395849d37d2c5a
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2f0e8c6a32454da4a96ed706314819c2
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8656486da71eb1345a62f2fbe4d35893
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ef80ffc4ad940247af8954e3a160b8c
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac952387014756746a0b33dc08131976
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 617a796ad914be74da4db1aa5d443d7c
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 94712cae4b4c6464db1c4e1acff90831
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d1e4350f5eb27084caf1edc7be493c0b
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9b36a084be87c949a58c3e4c87950e3
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e02197cda058aec43a3e7aa94ac5fb35
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 30f94957abffeca489cc3ce77be6b0ff
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6372bb80417a919479cf92ee9302b979
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6d103a7f438f32744819d3f1ba28d485
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 748ef644c524e2a498c54e2e95395333
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b1409a1124cf21c4eb170efe1f1ab6c3
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 98653734b2ad639479df7f96280bda74
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6d64d6c7e7a6a814abb74e3947cdb64b
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5199599c92c854d4cad6828e0b068344
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf6066c018595814bb6939e4148d416c
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d64db95a9dd33ad4588daef8619c0dea
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 455d485b24d7a764dbfab73ae161fa4d
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3c4898e9c6d9bed418d70bc6ebf3ee81
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a1d73bcb84e812840a2d9cfed81aef4a
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b178f0700293fae4c99c216f3254486d
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Jade_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e13192147cec104db334aaf966db1f6
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: af856c39755779643b1713663ded81fa
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c0eff8d23ecac18469be2b4f9bcd410e
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d2fc3fa4babdd149a9fbdb9dd92649e
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 686e0bc7f03fed445895ec3fa6bed67b
+        subObjectName: 
+      - assetName: EquipmentItem_Jade_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d923cba414c33ba46bb7f28a6cdaa4f5
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 8d7f1feb66c097045841a0a3b5bda43f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 4832a2c15d12b6043be0d72322d18754, type: 2}

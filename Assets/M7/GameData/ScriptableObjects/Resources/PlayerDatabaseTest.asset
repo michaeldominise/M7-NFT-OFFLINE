@@ -1,0 +1,414 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 862b119a764f0ad4bbe87a6d3ca4f815, type: 3}
+  m_Name: PlayerDatabaseTest
+  m_EditorClassIdentifier: 
+  accountProfile:
+    playFabId: AB9533EDAEE875F9
+    id: 
+    email: nikocarl.perez@web3tec.io
+    username: player_082620224936
+    avatarId: Hero_Ellie_Common
+    walletAddress: 0x09c45631d2f547967609f2d13949899a44681258
+    playerType: 0
+    playerStatus: 1
+    deviceId: 6b0804d36e8a4882dc43697199a1c445e03fe2fe
+    sessionTicket: AB9533EDAEE875F9--366240889F1C2545-73D8D-8DA9528015351DF-GNp8mNplUU4T9eYhfo3wmoi2xTAinQ+iaF/ORNqbwzQ=
+    avatarID: 
+  inventories:
+    characters:
+      items:
+      - masterID: Hero_Ellie_Common
+        instanceID: 552
+        displayName: 4-Leaf Warden Ellie
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 8
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 10
+          durability: 100
+        saveableStats:
+          hp: 8
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 10
+          durability: 100
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs:
+        - EquipmentItem_Ellie_W12
+        - EquipmentItem_Ellie_A10
+        - EquipmentItem_Ellie_H03
+        - EquipmentItem_Ellie_G11
+        - EquipmentItem_Ellie_S06
+        - EquipmentItem_Ellie_AC08
+      - masterID: Hero_Naomi_Common
+        instanceID: 748
+        displayName: Lean Captain Naomi
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 5
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 4
+          durability: 100
+        saveableStats:
+          hp: 5
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 4
+          durability: 100
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs:
+        - EquipmentItem_Naomi_W09
+        - EquipmentItem_Naomi_A06
+        - EquipmentItem_Naomi_H06
+        - EquipmentItem_Naomi_G10
+        - EquipmentItem_Naomi_S12
+        - EquipmentItem_Naomi_AC01
+      - masterID: Hero_Lily_Uncommon
+        instanceID: 611
+        displayName: Enhanced Flaming Lily
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 18
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 11
+          durability: 100
+        saveableStats:
+          hp: 18
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 11
+          durability: 100
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs:
+        - EquipmentItem_Lily_W03
+        - EquipmentItem_Lily_A10
+        - EquipmentItem_Lily_H05
+        - EquipmentItem_Lily_G08
+        - EquipmentItem_Lily_S12
+        - EquipmentItem_Lily_AC05
+      - masterID: Hero_Lexy_Common
+        instanceID: 988
+        displayName: Simple Ivy Lexy
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 8
+          attack: 5
+          defense: 0
+          passion: 0
+          luck: 2
+          durability: 100
+        saveableStats:
+          hp: 8
+          attack: 5
+          defense: 0
+          passion: 0
+          luck: 2
+          durability: 100
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs:
+        - EquipmentItem_Lexy_W02
+        - EquipmentItem_Lexy_A12
+        - EquipmentItem_Lexy_H12
+        - EquipmentItem_Lexy_G06
+        - EquipmentItem_Lexy_S07
+        - EquipmentItem_Lexy_AC05
+      - masterID: Hero_Lexy_Common
+        instanceID: 857
+        displayName: Flowery Aqua Lexy
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 1
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 3
+          durability: 100
+        saveableStats:
+          hp: 1
+          attack: 8
+          defense: 0
+          passion: 0
+          luck: 3
+          durability: 100
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs:
+        - EquipmentItem_Lexy_W02
+        - EquipmentItem_Lexy_A04
+        - EquipmentItem_Lexy_H02
+        - EquipmentItem_Lexy_G02
+        - EquipmentItem_Lexy_S02
+        - EquipmentItem_Lexy_AC09
+    incubators:
+      items: []
+    gems:
+      items: []
+    currencies:
+      items:
+      - masterID: Gaianite
+        instanceID: Gaianite
+        amount: 1000
+        isVC: 0
+      - masterID: M7
+        instanceID: M7
+        amount: 0
+        isVC: 0
+    systemCurrencies:
+      items:
+      - masterID: Gaianite_Today
+        instanceID: Gaianite_Today
+        amount: 0
+        isVC: 0
+      - masterID: Gaianite_MaxTotal
+        instanceID: Gaianite_MaxTotal
+        amount: 5
+        isVC: 0
+    boosters:
+      items:
+      - masterID: BoosterObject_Shuffle
+        instanceID: BoosterObject_Shuffle
+        amount: 0
+      - masterID: BoosterObject_Laser Sword
+        instanceID: BoosterObject_Laser Sword
+        amount: 0
+      - masterID: BoosterObject_Hammer
+        instanceID: BoosterObject_Hammer
+        amount: 0
+      - masterID: BoosterObject_Blaster
+        instanceID: BoosterObject_Blaster
+        amount: 0
+    energy:
+      currentEnergy: 0
+      energyCap: 0
+      time: 
+      isClockTicking: 0
+  teams:
+    selectedTeamName: Team 1
+    teamDataList:
+    - teamName: Team 1
+      waves:
+      - instanceIDList:
+        - 748
+        - 988
+        - 552
+        - 611
+        - 857
+    - teamName: Team 2
+      waves:
+      - instanceIDList:
+        - 
+        - 
+        - 
+        - 
+        - 
+    - teamName: Team 3
+      waves:
+      - instanceIDList:
+        - 
+        - 
+        - 
+        - 
+        - 
+  campaignData:
+    currentStage: PreviewStage
+    customStage: 
+    saveableStageDataList:
+    - stageID: PreviewStage
+      starsCompleted: 0
+    - stageID: Stage_2
+      starsCompleted: 0
+    - stageID: Stage_3
+      starsCompleted: 0
+  globalSettings:
+    stageAllData:
+      stageDataSettingsList:
+      - stageId: PreviewStage
+        stageBonus: 0.001
+        gaianiteCap: 10
+        totalMoveCount: 10
+      - stageId: Stage_2
+        stageBonus: 0.002
+        gaianiteCap: 20
+        totalMoveCount: 10
+      - stageId: Stage_3
+        stageBonus: 0.003
+        gaianiteCap: 30
+        totalMoveCount: 10
+    playerAllLevelChartData:
+      playerLevelChartDataSettings:
+      - levels: 0
+        time: 0
+        gaiCost: 0
+        m7Cost: 0
+      - levels: 1
+        time: 1
+        gaiCost: 1
+        m7Cost: 1
+      - levels: 2
+        time: 2
+        gaiCost: 2
+        m7Cost: 2
+      - levels: 3
+        time: 3
+        gaiCost: 3
+        m7Cost: 3
+      - levels: 4
+        time: 4
+        gaiCost: 10
+        m7Cost: 10
+      - levels: 5
+        time: 5
+        gaiCost: 5
+        m7Cost: 5
+      - levels: 6
+        time: 6
+        gaiCost: 6
+        m7Cost: 6
+      - levels: 7
+        time: 7
+        gaiCost: 7
+        m7Cost: 7
+      - levels: 8
+        time: 8
+        gaiCost: 8
+        m7Cost: 8
+      - levels: 9
+        time: 9
+        gaiCost: 30
+        m7Cost: 30
+      - levels: 10
+        time: 10
+        gaiCost: 10
+        m7Cost: 10
+      - levels: 11
+        time: 11
+        gaiCost: 11
+        m7Cost: 11
+      - levels: 12
+        time: 12
+        gaiCost: 12
+        m7Cost: 12
+      - levels: 13
+        time: 13
+        gaiCost: 13
+        m7Cost: 13
+      - levels: 14
+        time: 14
+        gaiCost: 14
+        m7Cost: 14
+      - levels: 15
+        time: 15
+        gaiCost: 15
+        m7Cost: 15
+      - levels: 16
+        time: 16
+        gaiCost: 16
+        m7Cost: 16
+      - levels: 17
+        time: 17
+        gaiCost: 17
+        m7Cost: 17
+      - levels: 18
+        time: 18
+        gaiCost: 18
+        m7Cost: 18
+      - levels: 19
+        time: 19
+        gaiCost: 60
+        m7Cost: 60
+      - levels: 20
+        time: 20
+        gaiCost: 20
+        m7Cost: 20
+      - levels: 21
+        time: 21
+        gaiCost: 21
+        m7Cost: 21
+      - levels: 22
+        time: 22
+        gaiCost: 22
+        m7Cost: 22
+      - levels: 23
+        time: 23
+        gaiCost: 23
+        m7Cost: 23
+      - levels: 24
+        time: 24
+        gaiCost: 24
+        m7Cost: 24
+      - levels: 25
+        time: 25
+        gaiCost: 25
+        m7Cost: 25
+      - levels: 26
+        time: 26
+        gaiCost: 26
+        m7Cost: 26
+      - levels: 27
+        time: 27
+        gaiCost: 27
+        m7Cost: 27
+      - levels: 28
+        time: 28
+        gaiCost: 28
+        m7Cost: 28
+      - levels: 29
+        time: 29
+        gaiCost: 29
+        m7Cost: 29
+      - levels: 30
+        time: 30
+        gaiCost: 100
+        m7Cost: 100
+    recoveryCostAllChartData:
+      recoveryCostDataSettings:
+        common_cost: []
+        uncommon_cost: []
+        rare_cost: []
+        epic_cost: []
+        legendary_cost: []
+  dontLoadServerData: 1
+  json: '[{"level":5,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":0.0},"equipmentIDs":["EquipmentItem_Ellie_AC01","EquipmentItem_Ellie_A04","EquipmentItem_Ellie_G04","EquipmentItem_Ellie_H03","EquipmentItem_Ellie_S04","EquipmentItem_Ellie_W06"],"masterID":"Hero_Ellie_Common","instanceID":"0"},{"level":1,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":0.0},"equipmentIDs":["EquipmentItem_Hale_AC01","EquipmentItem_Hale_A04","EquipmentItem_Hale_G04","EquipmentItem_Hale_H03","EquipmentItem_Hale_W06","EquipmentItem_Hale_S01"],"masterID":"Hero_Hale_Common","instanceID":"1"},{"level":7,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":0.0},"equipmentIDs":["EquipmentItem_Naomi_AC01","EquipmentItem_Naomi_A04","EquipmentItem_Naomi_G04","EquipmentItem_Naomi_H01","EquipmentItem_Naomi_S04","EquipmentItem_Naomi_W06"],"masterID":"Hero_Naomi_Common","instanceID":"2"},{"level":1,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":0.0},"equipmentIDs":["EquipmentItem_Lily_AC01","EquipmentItem_Lily_A04","EquipmentItem_Lily_G04","EquipmentItem_Lily_H03","EquipmentItem_Lily_S04","EquipmentItem_Lily_W06"],"masterID":"Hero_Lily_Common","instanceID":"3"},{"level":1,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":0.0},"equipmentIDs":["EquipmentItem_Lexy_AC01","EquipmentItem_Lexy_A04","EquipmentItem_Lexy_G04","EquipmentItem_Lexy_H01","EquipmentItem_Lexy_S04","EquipmentItem_Lexy_W06"],"masterID":"Hero_Lexy_Common","instanceID":"4"},{"level":1,"mintCount":0,"saveableStats":{"hp":10.0,"attack":10.0,"defense":0.0,"mining":0.0,"luck":0.0,"durability":1.0},"equipmentIDs":["EquipmentItem_Hale_AC01","EquipmentItem_Hale_A04","EquipmentItem_Hale_G04","EquipmentItem_Hale_H03","EquipmentItem_Hale_W06","EquipmentItem_Hale_S01"],"masterID":"Hero_Hale_Common","instanceID":"6"}]'

@@ -1,0 +1,85 @@
+BlazeQuadruBotMK2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/BODY
+bounds:158,516,262,180
+Dark/FRONT LEFT LEG
+bounds:629,693,159,154
+Dark/FRONT LEFT THIGH
+bounds:2,881,86,95
+rotate:90
+Earth/FRONT LEFT THIGH
+bounds:2,881,86,95
+rotate:90
+Fire/FRONT LEFT THIGH
+bounds:2,881,86,95
+rotate:90
+Dark/FRONT RIGHT LEG
+bounds:196,849,118,187
+rotate:90
+Dark/HIND LEFT LEG
+bounds:385,849,118,157
+rotate:90
+Earth/HIND LEFT LEG
+bounds:385,849,118,157
+rotate:90
+Dark/HIND RIGHT LEG
+bounds:161,698,154,149
+Dark/HIND RIGHT THIGH
+bounds:99,881,86,95
+rotate:90
+Earth/HIND RIGHT THIGH
+bounds:99,881,86,95
+rotate:90
+Fire/HIND RIGHT THIGH
+bounds:99,881,86,95
+rotate:90
+Dark/LEFT BLASTER
+bounds:2,265,254,249
+Dark/RIGHT BLASTER
+bounds:770,217,292,256
+rotate:90
+Earth/BODY
+bounds:422,511,262,180
+Earth/FRONT LEFT LEG
+bounds:790,693,159,154
+Earth/FRONT RIGHT LEG
+bounds:544,849,118,187
+rotate:90
+Earth/HIND RIGHT LEG
+bounds:317,698,154,149
+Earth/LEFT BLASTER
+bounds:258,260,254,249
+Earth/RIGHT BLASTER
+bounds:2,2,292,256
+Fire/BODY
+bounds:686,511,262,180
+Fire/FRONT LEFT LEG
+bounds:2,600,159,154
+rotate:90
+Fire/FRONT RIGHT LEG
+bounds:733,849,118,187
+rotate:90
+Fire/HIND LEFT LEG
+bounds:2,761,118,157
+rotate:90
+Fire/HIND RIGHT LEG
+bounds:473,698,154,149
+Fire/LEFT BLASTER
+bounds:514,260,254,249
+Fire/RIGHT BLASTER
+bounds:296,2,292,256
+
+BlazeQuadruBotMK2_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/HEAD
+bounds:2,426,431,422
+Earth/HEAD
+bounds:2,2,431,422
+Fire/HEAD
+bounds:435,426,431,422

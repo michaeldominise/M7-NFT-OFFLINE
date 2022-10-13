@@ -1,0 +1,19 @@
+{
+    "name": "M7.PuzzleBoard.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cc270b255d103f14e98369a2f73a3430",
+        "GUID:09749db676e56b24ea796fd7843f9b33"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

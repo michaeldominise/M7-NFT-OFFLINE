@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: infantrybot vikings_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: c30f8330779d03c46a47eb3dbae5e32f, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cbbaa6d58746933468ee313630ba701c, type: 2}
+  - {fileID: 2100000, guid: d4098c5805c0f1d4782b95ebfca4544a, type: 2}
+  - {fileID: 2100000, guid: 4d6607b82e4d6704990b301736cb803a, type: 2}
+  - {fileID: 2100000, guid: f4a193a8a34281b4895b2485f5efbcb0, type: 2}

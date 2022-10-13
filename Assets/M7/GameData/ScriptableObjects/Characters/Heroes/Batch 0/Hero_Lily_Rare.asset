@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Lily_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Lily
+    descriptionText: 
+    icon:
+      m_AssetGUID: e727472d8259e3948bc5bfb2af62ffed
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 33bf5acd32c8f7b498debd6cf9f6bda9
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: eb7273e643e702147af7ad9151a5ec03
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1b1edea7c56956b428da46d42adcada4
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 145af145ef5b4ff4397890cd43b6dbef
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 192b98e3df4ccab43a308062c91ec50b
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 455bf8fb768a1104c8f7710499819ca5
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d4bc3ab937f6e334facb3a8a4cb041a2
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b65e7db71cf02f245930a5c0d895b49b
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2120ee488f7f802458c6be43b5924949
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3bb0242f85d991348a7f0bc3ddb2f1f3
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a4e18ed0a2246904eae8d55f61e03c7a
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4800eda1a801fdb4fafa673511b66752
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1e2943ec68527de45a9aab206c568284
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45fbdb4624e728b478c952be8910c180
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_H13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 11e8bdacd56794944baeddc4c026ccf4
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 56757700a16f54c4c94ffa5605f40297
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 267e049bb9986d541902e3e1564a08e4
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 343ef7062541ed5478c75a379709d079
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5e1b99ad058b3ea439a87ea7cbbbe1f1
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a2834719317561e4cb9f9b449af6c09f
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e46b8af72e51ec4b84428d0c191abed
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72ca259f29d86d945889e215920bb7e9
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aeb0f4fbb92e2f8429bc470598abacf9
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 920b1fbbf83bba34d844471d3f821258
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 14d7c1e24a6cc0c4ba5268ae9d13c375
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0d7dcbfb14163ae42ade9ae09012b0b9
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a234e4bf190746d48b54a9dbc96b3a2e
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_A13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 08f2d0d703b5a8d4895f2ceadf931cbf
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bfc12e8dcb8eab447867a65b20fbf116
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e33fae29088e6164e9bf5f81b05342de
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6afe87ddfb43ae45bb0360c4f46206d
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d27634b6070b45e47877042aab67c49c
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aced5be75ef8f8d40a33b81b19d66f88
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6ac12683a856bf44ae5a0531695b704
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: adbee88faaa340f4fb4ed9b21eb06e7f
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1926befc50749e54b826e14c50a0d4b3
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 53023a7875e2cf14d905b22a94c2a237
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f875ba23fdc42a2458c387ba931d025e
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 068e984560a264240979acd63051e525
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cd81da8691e8d3a479cd3c09a27d71b6
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_G13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7278c5c0765beaa4b95bfc2d1e7f33d9
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9c80e9d23de8d346bf5adff0aa0bb97
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5ed84a67f747d43418f29158200ec6ae
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1bbda02925e6c3c4088877cba443a59d
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 41d1a46062e58bc4f8c59454abb0642e
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 25ae7c9bf4c5f0140b0f63e84caac886
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c06ecc62e6daf6c4eb4b52bb4bea2ab5
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9d85befae46693b40acb993f50c67241
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3fcbefd8ccf01d41afb9bb21bbe02ad
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6026a1bc96b74d40a0122612dac4cd8
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bd2eac53c16b3474d87c075f01cfa9ac
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bed21af7eebf9dd47b92804d3aa74c51
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc442e926ed4c574886ee0826823caca
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_W13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f0b41435acf7d894f9b2dda324fe35c2
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9b143dec67b521408949c34922b6af9
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6c7e7ad0f70d71548afe2065e35788e4
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3e0f3c09c8b14fe429e9aac00f66e695
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4261b9cbd5aa7d24f9a6839c61323158
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0d0546f62e4e84749b50e612413b84cb
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 671bb825bcd761f4894036dea1a0eda8
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 89368a0d3db28b24187fa0572d840cd3
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 371d06111e8dfd84883a9832b37afe2a
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c3c09e0059ec3ad4798c6c240463eab8
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b05188db231851948a79297b79b50d2b
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dba63a7bf2adf5247a073353e249eb1d
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 337f4033de4081840a02ea7cf96daea4
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_AC13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b06019bf46e47b5438966e1ed60fae28
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Lily_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9388f4a71936a24faed0f3825d4fe56
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: faa40ef929422214bba8cc3667426ff3
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 270d446f22c55a149acdcb13c424e2f5
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc1c0133678da294f8e029bd851fb223
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 99781200c73ab604aab25ceafc7f6a99
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 88b2ae15eb19e8c4eb4538f74a10e553
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 73aa1b025a1bbd0429aea7d714e840c1
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 07e095d95e1e9cd4b8979daf6421ddb7
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 67ba3ac16fc874049b62c1ae4f3aa8f8
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 63e2daca98d2dd349b2840cf47e79bf4
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 44701ba4501170c44b025eb945fb4cf5
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bdee34d5f8902b5468c3595f42a0b3bf
+        subObjectName: 
+      - assetName: EquipmentItem_Lily_S13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d81fdc78738a7f1489eac93a6b60fc56
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 88ca0cafff94e79488df7043834ba656
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: d4cec3e469b0d814e8504bd684d5b88d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 9c17ab30b0691c14598cf93a31b2d63a, type: 2}

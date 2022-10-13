@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Holly_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Holly
+    descriptionText: 
+    icon:
+      m_AssetGUID: 897420fa9d30aae42bbee9651994ec74
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: dc65bf71c71b4004d91404d9280fe03a
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: 9b6c75ff7c8d49b46a5697833724c62d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c767946622f9c5b4dba405b5578e7a7c
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a8a530fa442fc8044803d543e1280ae6
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 43f0e19aa61d4464aa685718fd878b6e
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 744c37821e8f815498f9574685dc02aa
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf80cadc743b00f469a047a994c96187
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e463cbb1c4001e9408f2862c4785112b
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60e0ca4fe01ecfd4a802197186378767
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3bd0107c2fe427a4a82a705dca07b47c
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 360cd28fbe871694d86eddfb41596157
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a042d56933ad92e4c8307072e7a38a0a
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 15be410ec182f0d4cb0316c8d5261b31
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8e2ea8f17327c9a43947d60c0b210d23
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fd0a4c6851bbb8444b58f26456e95847
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 68c3e40c323f69540bcd68b719c09f18
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0cd0a923e56d59747a0107a870dca862
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7f133e2268e851e43b54a8c96faa6145
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 553e122e99d334645a2f4093617bdf2a
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c76e283f9d51fda4eabe18311bd44016
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7afacc5af726c17488232de3f4aa2495
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2859a3ead233c194580bb5bd68100bef
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 43fc53294929c4d45bca2eb3f50aa5e6
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8abbe1fbb07ee434bad17065bc7753d3
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3d4f05a81d8ef44eac81d9878c9df45
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86b57b8b73788c147993a81ec1575e1e
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: abd47f711b56e71419d45500a0a0f750
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b5c622c701c4ab443b93bbf1ca663638
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4cc6e9c0bc2b2a94e9f3484f1d51fd22
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 286ea82008894f54a868f5af7786c4bb
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a1566648869ea7d47b2b3b19af4b8b5c
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 27229587e37d361489e08787c3c4113e
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Holly_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2bf0e60b1c2d4344d8af9fecb4638b1e
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ff4edf71e6830f246a629292d23ea97a
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d8565259ea5b0f4b9d44cee84c9af83
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2ecab646d588b6242899a6d8213f8e82
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 62354277ec36c6e49903ffcc1da8182d
+        subObjectName: 
+      - assetName: EquipmentItem_Holly_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c8363ae263875a94ca7937ee84bc32c0
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 15f8642b3ac72994eadb3738aecaa0e7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 0b4e83569ee81bf4599283ad9a497737, type: 2}

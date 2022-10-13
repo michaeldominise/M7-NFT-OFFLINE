@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &952532924870513985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 950035801106451393}
+  - component: {fileID: 911584919189989759}
+  - component: {fileID: 4708843363135746308}
+  m_Layer: 11
+  m_Name: CellDeathManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &950035801106451393
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952532924870513985}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &911584919189989759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952532924870513985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e73712eee29c41f5a53c69474e272cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxName: Elemental Cube Pop
+  lockPairs:
+  - tileType: {fileID: 3813250855098491185, guid: e3ae370e8efdb4648bbe43e404643dd1, type: 3}
+    lockParticle:
+    - {fileID: 418120624975045215, guid: 7308cc1ba16f6e34fae58bb60af9150d, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 16ff0436d59a0f24985d4b8901359159, type: 3}
+    lockParticle:
+    - {fileID: 982100860934853803, guid: 373cbdd0bcba84241a2d832d1add7720, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: c9979020572103e4e9b0ae032bb35679, type: 3}
+    lockParticle:
+    - {fileID: 982100860934853803, guid: 45aaaaaa46bbe2a48bc5093cccc3a1d3, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 24509018eb637a7469f7c2502205a57a, type: 3}
+    lockParticle:
+    - {fileID: 982100860934853803, guid: 84dd41374f1d15447a8194fc6df350d5, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: ad0bc696a3ff3ad4b96e5922632204a7, type: 3}
+    lockParticle:
+    - {fileID: 982100860934853803, guid: f3933958ca7a14342b376502403f7429, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 8241ad51ab2fbe144acdf691732ed7ee, type: 3}
+    lockParticle:
+    - {fileID: 1866796147932186717, guid: bd054e2a94a434cbd9c4d6753581fe73, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: dcf64153a32fb41d38553d88b925a8ea, type: 3}
+    lockParticle:
+    - {fileID: 1866796147932186717, guid: bd054e2a94a434cbd9c4d6753581fe73, type: 3}
+    - {fileID: 8856294739515508761, guid: fb59718cb76b54293ba2abadc288ccb6, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 8703e97855fae435b8b03748478dbb25, type: 3}
+    lockParticle:
+    - {fileID: 1866796147932186717, guid: bd054e2a94a434cbd9c4d6753581fe73, type: 3}
+    - {fileID: 8856294739515508761, guid: fb59718cb76b54293ba2abadc288ccb6, type: 3}
+    - {fileID: 6235319567243593527, guid: 0978b1fccdf4140e1afbab58e3cd717c, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: ea72d88aba6f2a34f8724fd7e89446d7, type: 3}
+    lockParticle:
+    - {fileID: 8303579924462287715, guid: 2446e34d2e023485b8c65bdcf6fca081, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: e5b32b91c2887469b819e12f67495c3b, type: 3}
+    lockParticle:
+    - {fileID: 8303579924462287715, guid: 2446e34d2e023485b8c65bdcf6fca081, type: 3}
+    - {fileID: 4194360783778933943, guid: 52b05a3bd7c574bc181024b7bf30ff56, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: dcda7d6dc0b944402a1086e312d34422, type: 3}
+    lockParticle:
+    - {fileID: 8303579924462287715, guid: 2446e34d2e023485b8c65bdcf6fca081, type: 3}
+    - {fileID: 4194360783778933943, guid: 52b05a3bd7c574bc181024b7bf30ff56, type: 3}
+    - {fileID: 8829367061118139885, guid: 4f8862b00171d473ab2c42e9ee23b8b3, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: b0bf2002082b99a46bde00b3ea39a537, type: 3}
+    lockParticle:
+    - {fileID: 8705657203025369386, guid: 959f6535765bb43a6b90326516ae68df, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: fd28978d773c740e5a7f0a885fc592ff, type: 3}
+    lockParticle:
+    - {fileID: 8705657203025369386, guid: 959f6535765bb43a6b90326516ae68df, type: 3}
+    - {fileID: 7911628458642479827, guid: 717db2ae6cb9b4a64b56cd5207d8c4ca, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 1325d8519e1d446009ad2a7aea80f128, type: 3}
+    lockParticle:
+    - {fileID: 8705657203025369386, guid: 959f6535765bb43a6b90326516ae68df, type: 3}
+    - {fileID: 7911628458642479827, guid: 717db2ae6cb9b4a64b56cd5207d8c4ca, type: 3}
+    - {fileID: 6436591490252102290, guid: a66d7777bc2e447b69ddb3a0320d5133, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: b3e48ba37540b2441b7c6158e6eb54a5, type: 3}
+    lockParticle:
+    - {fileID: 5146256000683496078, guid: 0fb93c820ab7a4cfb960a680e4b24b78, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: f8507d040b7e74a3081ad176d3831801, type: 3}
+    lockParticle:
+    - {fileID: 5146256000683496078, guid: 0fb93c820ab7a4cfb960a680e4b24b78, type: 3}
+    - {fileID: 7849199290329273709, guid: 47e5e38e2795044ada921acb1a55369d, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 392b4aa86c92b41ba949c019334fdfba, type: 3}
+    lockParticle:
+    - {fileID: 5146256000683496078, guid: 0fb93c820ab7a4cfb960a680e4b24b78, type: 3}
+    - {fileID: 7849199290329273709, guid: 47e5e38e2795044ada921acb1a55369d, type: 3}
+    - {fileID: 4844880870063811352, guid: 1d94885f8c0204ed3917daecb2650de9, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 40c6b1f5b00bcfe42bf720a64405b022, type: 3}
+    lockParticle:
+    - {fileID: 6212848000291151281, guid: 83a34c458c3884e7687619d7156c2518, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 701bcf97fd81a47e0b8bf3e22ab99080, type: 3}
+    lockParticle:
+    - {fileID: 6212848000291151281, guid: 83a34c458c3884e7687619d7156c2518, type: 3}
+    - {fileID: 7705369099740121731, guid: fb4339e46996548a292271e0ddc09c0a, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: fa01da4bc7bf94ee5add50a484c6d2c9, type: 3}
+    lockParticle:
+    - {fileID: 6212848000291151281, guid: 83a34c458c3884e7687619d7156c2518, type: 3}
+    - {fileID: 7705369099740121731, guid: fb4339e46996548a292271e0ddc09c0a, type: 3}
+    - {fileID: 2781517326509254794, guid: 4b857a2b1ff2a43b1a045e23e790ce8d, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 219f1181f8f874a40a836e5eb0ab7715, type: 3}
+    lockParticle:
+    - {fileID: 9163874724590371885, guid: 057dd485b0c0d45a49509df77a630b7a, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 1deb0147fdc324e399e02c5be8d4af67, type: 3}
+    lockParticle:
+    - {fileID: 9163874724590371885, guid: 057dd485b0c0d45a49509df77a630b7a, type: 3}
+    - {fileID: 351790252198043137, guid: d6c6966880f5f4b5791eebffa830aa1f, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 2ec0f2759b2204b71b0e19fa977a2753, type: 3}
+    lockParticle:
+    - {fileID: 9163874724590371885, guid: 057dd485b0c0d45a49509df77a630b7a, type: 3}
+    - {fileID: 351790252198043137, guid: d6c6966880f5f4b5791eebffa830aa1f, type: 3}
+    - {fileID: 4835497419069046780, guid: 5e9ed81ea5f3f404d99d8607fc8fbc93, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: c228294954dc80840b10c972fb2b5e45, type: 3}
+    lockParticle:
+    - {fileID: 507497700922218138, guid: 9d4fc7ca4db47d743b19a38870b80903, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 478664a8531e9f6459c13ab99bbed922, type: 3}
+    lockParticle:
+    - {fileID: 6561619124618432933, guid: 3e580074589a13d4cb89bbca8dfe93a0, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 7e8c437348ffee74c9286a0778c18086, type: 3}
+    lockParticle:
+    - {fileID: 4005245938989154021, guid: 7371886b69d97164e8f20d96af5bcf53, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 13a9c301f1ba2c248a7ee79ec0fb214a, type: 3}
+    lockParticle:
+    - {fileID: 3034002181873055040, guid: ff454ce0cc1b6cb41bb2c5e0b6287bba, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 425c9c9658c5a244783e38894dc41ed0, type: 3}
+    lockParticle:
+    - {fileID: 4163973377566369790, guid: 0967c41ed79fe5b499f4448be5621ad5, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: aeda6f2508f50f5419c5e6b538203ae9, type: 3}
+    lockParticle:
+    - {fileID: 507497700922218138, guid: 13d40d13e071f574e9687d3c6e934f07, type: 3}
+  - tileType: {fileID: 3813250855098491185, guid: 685de37044d7648ab84d212832ac13c5, type: 3}
+    lockParticle:
+    - {fileID: 5185857286419585902, guid: d2f71bf535d65d745bcf63d4ef615708, type: 3}
+  pool: {fileID: 4708843363135746308}
+--- !u!114 &4708843363135746308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952532924870513985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59dfbc0f4f3a98b4ebf4ad40fc3f43aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolName: 
+  matchPoolScale: 0
+  matchPoolLayer: 0
+  dontReparent: 0
+  _dontDestroyOnLoad: 0
+  logMessages: 0
+  _perPrefabPoolOptions: []
+  maxParticleDespawnTime: 300

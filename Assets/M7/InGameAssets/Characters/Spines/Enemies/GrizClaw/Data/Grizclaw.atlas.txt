@@ -1,0 +1,263 @@
+Grizclaw.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fighter/arm L
+bounds:856,2,169,229
+Fighter/foot L
+bounds:2,967,74,35
+Fighter/foot R
+bounds:458,966,80,36
+Fighter/hand L
+bounds:280,267,169,147
+Fighter/hand R
+bounds:479,403,132,137
+rotate:90
+Fighter/hip
+bounds:512,865,161,99
+Fighter/hip part
+bounds:818,516,122,157
+rotate:90
+Fighter/leg L
+bounds:950,902,64,100
+Fighter/leg_L
+bounds:838,850,102,114
+Fighter/shoulder L
+bounds:344,82,254,155
+Fighter/thigh L
+bounds:234,693,104,133
+rotate:90
+Fighter/thigh R
+bounds:2,578,134,116
+Mechanic/foot L
+bounds:78,967,74,35
+Mechanic/foot R
+bounds:540,966,80,36
+Mechanic/hand L
+bounds:451,239,169,147
+Mechanic/hand R
+bounds:618,388,132,137
+rotate:90
+Science/hand R
+bounds:618,388,132,137
+rotate:90
+Mechanic/hip
+bounds:675,865,161,99
+Mechanic/hip part
+bounds:2,451,122,157
+rotate:90
+Science/hip part
+bounds:2,451,122,157
+rotate:90
+Mechanic/leg L
+bounds:2,901,64,100
+rotate:90
+Mechanic/leg_L
+bounds:654,761,102,114
+rotate:90
+Mechanic/shoulder L
+bounds:600,76,254,155
+Mechanic/thigh L
+bounds:369,664,104,133
+Mechanic/thigh R
+bounds:138,575,134,116
+Omni/foot L
+bounds:154,967,74,35
+Omni/foot R
+bounds:622,966,80,36
+Omni/hand L
+bounds:622,233,169,147
+Omni/hand R
+bounds:757,382,132,137
+rotate:90
+Omni/hip
+bounds:2,800,161,99
+Omni/hip part
+bounds:161,422,122,157
+rotate:90
+magitech/hip part
+bounds:161,422,122,157
+rotate:90
+Omni/leg L
+bounds:104,901,64,100
+rotate:90
+Omni/leg_L
+bounds:770,746,102,114
+rotate:90
+Omni/thigh L
+bounds:475,658,104,133
+rotate:90
+Omni/thigh R
+bounds:274,546,134,116
+Ranger/foot L
+bounds:230,967,74,35
+Ranger/foot R
+bounds:704,966,80,36
+Ranger/hand L
+bounds:793,233,169,147
+Ranger/hand R
+bounds:2,317,132,137
+rotate:90
+Ranger/hip
+bounds:165,800,161,99
+Ranger/hip part
+bounds:320,416,122,157
+rotate:90
+Ranger/leg L
+bounds:206,901,64,100
+rotate:90
+Ranger/leg_L
+bounds:886,746,102,114
+rotate:90
+Ranger/thigh L
+bounds:610,655,104,133
+rotate:90
+Ranger/thigh R
+bounds:410,540,134,116
+Science/foot L
+bounds:306,967,74,35
+Science/foot R
+bounds:786,966,80,36
+Science/hand L
+bounds:2,139,169,147
+Science/hip
+bounds:328,799,161,99
+Science/leg L
+bounds:308,901,64,100
+rotate:90
+Science/leg_L
+bounds:2,696,102,114
+rotate:90
+Science/thigh L
+bounds:745,640,104,133
+rotate:90
+Science/thigh R
+bounds:546,537,134,116
+magitech/foot L
+bounds:382,967,74,35
+magitech/foot R
+bounds:868,966,80,36
+magitech/hand L
+bounds:173,118,169,147
+magitech/hand R
+bounds:141,288,132,137
+rotate:90
+magitech/hip
+bounds:491,764,161,99
+magitech/leg L
+bounds:410,900,64,100
+rotate:90
+magitech/leg_L
+bounds:118,696,102,114
+rotate:90
+magitech/thigh L
+bounds:880,640,104,133
+rotate:90
+magitech/thigh R
+bounds:682,522,134,116
+
+Grizclaw_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fighter/body
+bounds:516,2,375,365
+rotate:90
+Fighter/head
+bounds:2,379,368,512
+Fighter/shoulder R
+bounds:742,658,252,233
+Mechanic/head
+bounds:372,379,368,512
+Mechanic/shoulder R
+bounds:742,423,252,233
+Science/shoulder R
+bounds:742,423,252,233
+Omni/head
+bounds:2,9,368,512
+rotate:90
+
+Grizclaw_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fighter/arm R
+bounds:233,237,174,195
+rotate:90
+Mechanic/arm L
+bounds:2,413,169,229
+rotate:90
+Mechanic/arm R
+bounds:430,237,174,195
+rotate:90
+Science/arm R
+bounds:430,237,174,195
+rotate:90
+Omni/arm L
+bounds:233,413,169,229
+rotate:90
+Omni/arm R
+bounds:627,237,174,195
+rotate:90
+magitech/arm R
+bounds:627,237,174,195
+rotate:90
+Omni/shoulder L
+bounds:2,584,254,155
+Omni/shoulder R
+bounds:2,2,252,233
+Ranger/arm L
+bounds:464,413,169,229
+rotate:90
+Ranger/arm R
+bounds:824,237,174,195
+rotate:90
+Ranger/shoulder L
+bounds:258,584,254,155
+Ranger/shoulder R
+bounds:256,2,252,233
+Science/arm L
+bounds:695,413,169,229
+rotate:90
+Science/shoulder L
+bounds:514,584,254,155
+magitech/arm L
+bounds:2,242,169,229
+rotate:90
+magitech/shoulder L
+bounds:770,584,254,155
+magitech/shoulder R
+bounds:510,2,252,233
+
+Grizclaw_4.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Mechanic/body
+bounds:2,369,375,365
+Omni/body
+bounds:379,369,375,365
+Science/body
+bounds:2,2,375,365
+magitech/body
+bounds:379,2,375,365
+
+Grizclaw_5.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Ranger/body
+bounds:2,2,375,399
+rotate:90
+Ranger/head
+bounds:2,379,368,512
+Science/head
+bounds:372,523,368,512
+rotate:90
+magitech/head
+bounds:403,9,368,512

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Neo_Atlantis
+  m_EditorClassIdentifier: 
+  index: 5
+  displayName: Neo Atlantis
+  bannerAssetReference:
+    m_AssetGUID: e05c0440617685c4491f3a63b19050e4
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: 9a241181f697c4444a9b9cebd37acda1, type: 2}
+  - {fileID: 11400000, guid: ac91b97f3ed1cc34399225593e815622, type: 2}
+  - {fileID: 11400000, guid: 2abca4627c3f4724da30606fbac4db3d, type: 2}
+  - {fileID: 11400000, guid: bd2127f2149868547bf5aad37b87c1dc, type: 2}
+  - {fileID: 11400000, guid: 7bebf2df78545cf4cbd379245aba04e6, type: 2}
+  - {fileID: 11400000, guid: e93be896568e88544bf7e0b8fa149dcb, type: 2}
+  - {fileID: 11400000, guid: f785c9afddae5e14ea50980c90a8bc60, type: 2}
+  - {fileID: 11400000, guid: 609c6f62aa00aa54b91a8ff8c15e626f, type: 2}
+  - {fileID: 11400000, guid: e246325ad3a785348b1bd6f608b4a842, type: 2}
+  - {fileID: 11400000, guid: 613551c6f69abe144b12b77502f3431d, type: 2}
+  - {fileID: 11400000, guid: a0cea25357e23044f9d5689f316bbf06, type: 2}
+  - {fileID: 11400000, guid: 007b7f83c5c7953479dae9d5930cf1d1, type: 2}
+  - {fileID: 11400000, guid: 89711164404f81946ba8dc18bfec3a0d, type: 2}
+  - {fileID: 11400000, guid: c2d3bdd2fa719154fa8c614bab41b5dd, type: 2}
+  - {fileID: 11400000, guid: d77681de2db98084db11b6a10602cd8e, type: 2}
+  - {fileID: 11400000, guid: c27a350f553375840b0978ea7a133ba9, type: 2}
+  - {fileID: 11400000, guid: b93ab215e172fac4faabf91c52cca5b7, type: 2}
+  - {fileID: 11400000, guid: 4ae5b17ba8d3caa4ba6ebecda49ef462, type: 2}
+  - {fileID: 11400000, guid: 8d71dee875b798149bcc8b1ce6a79533, type: 2}
+  - {fileID: 11400000, guid: 740f05a93c910a74ab3eb1356c7648ca, type: 2}

@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2628730dd86778a43b5a3f74fd739d9e, type: 3}
+  m_Name: PreviewStage Modified
+  m_EditorClassIdentifier: 
+  gameMode: 0
+  teamData:
+    teamName: Default
+    waves:
+    - saveableCharacters:
+      - masterID: Villians_Ava
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_Frost_ThrasherBot_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_Cyclone_StormBot_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_InfantryBot_MkI_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 3
+          attack: 2
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_InfantryBot_MkI_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 1e+10
+          attack: 1e+10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 1
+  environment:
+    m_AssetGUID: acac88e0227d7b6468adac83eb88494c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  matchGridEditorSavedLevelData: {fileID: 11400000, guid: 8b2d5b0b7ebf347a1855d46134e94d4c, type: 2}
+  totalMoveCount: 50
+  goalConditions: []

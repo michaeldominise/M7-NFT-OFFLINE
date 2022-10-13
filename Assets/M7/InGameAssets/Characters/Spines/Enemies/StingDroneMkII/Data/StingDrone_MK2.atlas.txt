@@ -1,0 +1,289 @@
+StingDrone_MK2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/head
+bounds:2,693,437,329
+Dark/tail part B
+bounds:880,364,104,67
+Dark/tail part D
+bounds:880,827,195,101
+rotate:90
+Dark/tail part E
+bounds:909,7,128,86
+rotate:90
+Dark/tail part L A
+bounds:441,2,133,154
+rotate:90
+Dark/wing L
+bounds:441,137,284,223
+Earth/head
+bounds:2,362,437,329
+Earth/tail part D
+bounds:880,630,195,101
+rotate:90
+Earth/tail part L A
+bounds:597,2,133,154
+rotate:90
+Earth/wing L
+bounds:727,137,284,223
+Fire/head
+bounds:441,693,437,329
+Fire/tail part D
+bounds:880,433,195,101
+rotate:90
+Fire/tail part L A
+bounds:753,2,133,154
+rotate:90
+Light/head
+bounds:2,31,437,329
+Water/head
+bounds:441,362,437,329
+
+StingDrone_MK2_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/head part L
+bounds:651,464,116,128
+rotate:90
+Dark/head part R
+bounds:2,617,89,140
+rotate:90
+Dark/leg  L part A
+bounds:712,582,96,103
+offsets:3,0,99,103
+rotate:90
+Dark/leg  L part B
+bounds:2,401,116,160
+rotate:90
+Dark/leg  R part A
+bounds:2,708,74,98
+rotate:90
+Dark/leg  R part B
+bounds:785,841,68,160
+rotate:90
+Dark/propeller
+bounds:2,922,96,48
+Dark/tail part A
+bounds:314,73,239,172
+Dark/tail part C
+bounds:2,854,91,66
+Dark/tail part F
+bounds:947,815,94,71
+rotate:90
+Dark/tail part L B
+bounds:704,911,59,59
+Dark/tail part R A
+bounds:394,914,60,56
+Dark/tail part R B
+bounds:294,247,150,119
+Earth/head part L
+bounds:781,415,116,128
+rotate:90
+Earth/head part R
+bounds:144,617,89,140
+rotate:90
+Earth/leg  L part A
+bounds:817,533,96,103
+offsets:3,0,99,103
+rotate:90
+Earth/leg  L part B
+bounds:164,375,116,160
+rotate:90
+Earth/leg  R part A
+bounds:102,708,74,98
+rotate:90
+Earth/leg  R part B
+bounds:2,784,68,160
+rotate:90
+Earth/propeller
+bounds:100,922,96,48
+Earth/tail part A
+bounds:555,2,239,172
+Earth/tail part B
+bounds:467,845,104,67
+Earth/tail part C
+bounds:95,854,91,66
+Earth/tail part E
+bounds:502,687,128,86
+Earth/tail part F
+bounds:650,769,94,71
+Earth/tail part L B
+bounds:765,911,59,59
+Earth/tail part R A
+bounds:456,914,60,56
+Earth/tail part R B
+bounds:446,247,150,119
+Fire/head part L
+bounds:326,368,116,128
+rotate:90
+Fire/head part R
+bounds:286,608,89,140
+rotate:90
+Fire/leg  L part A
+bounds:922,526,96,103
+offsets:3,0,99,103
+Fire/leg  L part B
+bounds:456,368,116,160
+rotate:90
+Fire/leg  R part A
+bounds:202,708,74,98
+rotate:90
+Fire/leg  R part B
+bounds:164,784,68,160
+rotate:90
+Fire/propeller
+bounds:198,922,96,48
+Light/propeller
+bounds:198,922,96,48
+Fire/tail part B
+bounds:573,845,104,67
+Light/tail part B
+bounds:573,845,104,67
+Fire/tail part C
+bounds:188,854,91,66
+Fire/tail part E
+bounds:632,680,128,86
+Fire/tail part F
+bounds:746,768,94,71
+Fire/tail part L B
+bounds:826,911,59,59
+Fire/tail part R A
+bounds:518,914,60,56
+Fire/tail part R B
+bounds:598,194,150,119
+rotate:90
+Light/head part L
+bounds:618,346,116,128
+rotate:90
+Light/head part R
+bounds:428,596,89,140
+rotate:90
+Light/leg  L part A
+bounds:2,519,96,103
+offsets:3,0,99,103
+rotate:90
+Light/leg  L part B
+bounds:748,297,116,160
+rotate:90
+Light/leg  R part A
+bounds:302,699,74,98
+rotate:90
+Light/leg  R part B
+bounds:326,775,68,160
+rotate:90
+Light/tail part C
+bounds:281,854,91,66
+Light/tail part D
+bounds:257,493,195,101
+Light/tail part E
+bounds:762,680,128,86
+Light/tail part F
+bounds:842,768,94,71
+Light/tail part L A
+bounds:2,122,133,154
+rotate:90
+Light/tail part L B
+bounds:887,911,59,59
+Light/tail part R A
+bounds:580,914,60,56
+Light/tail part R B
+bounds:719,176,150,119
+Water/head part L
+bounds:2,283,116,128
+rotate:90
+Water/head part R
+bounds:570,589,89,140
+rotate:90
+Water/leg  L part A
+bounds:107,519,96,148
+offsets:3,0,99,148
+rotate:90
+Water/leg  L part B
+bounds:132,257,116,160
+rotate:90
+Water/leg  R part A
+bounds:402,699,74,98
+rotate:90
+Water/leg  R part B
+bounds:488,775,68,160
+rotate:90
+Water/propeller
+bounds:296,922,96,48
+Water/tail part B
+bounds:679,842,104,67
+Water/tail part C
+bounds:374,846,91,66
+Water/tail part D
+bounds:454,486,195,101
+Water/tail part E
+bounds:892,631,128,86
+Water/tail part F
+bounds:938,719,94,71
+rotate:90
+Water/tail part L A
+bounds:158,112,133,154
+rotate:90
+Water/tail part L B
+bounds:948,911,59,59
+Water/tail part R A
+bounds:642,914,60,56
+Water/tail part R B
+bounds:871,176,150,119
+
+StingDrone_MK2_3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/wing L Copy
+bounds:248,2,284,210
+Dark/wing R
+bounds:2,237,244,209
+Dark/wing R  Copy
+bounds:725,622,244,195
+Earth/wing L Copy
+bounds:534,2,284,210
+Earth/wing R
+bounds:248,237,244,209
+Earth/wing R  Copy
+bounds:2,448,244,195
+Fire/tail part A
+bounds:2,645,239,172
+Fire/wing R
+bounds:494,214,244,209
+Fire/wing R  Copy
+bounds:248,448,244,195
+Light/tail part A
+bounds:243,645,239,172
+Light/wing R
+bounds:740,214,244,209
+Light/wing R  Copy
+bounds:494,425,244,195
+Water/tail part A
+bounds:484,645,239,172
+Water/wing R
+bounds:2,26,244,209
+Water/wing R  Copy
+bounds:740,425,244,195
+
+StingDrone_MK2_4.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fire/wing L
+bounds:2,2,284,223
+Fire/wing L Copy
+bounds:2,227,284,210
+Light/wing L
+bounds:288,2,284,223
+Light/wing L Copy
+bounds:288,227,284,210
+Water/wing L
+bounds:574,2,284,223
+Water/wing L Copy
+bounds:574,227,284,210

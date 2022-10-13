@@ -1,0 +1,156 @@
+QUADRUBOTMK2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/BEHIND RIGHT LEG
+bounds:709,47,178,317
+rotate:90
+Dark/BODY Copy
+bounds:709,605,376,199
+rotate:90
+Dark/LEG BEHIND Copy
+bounds:2,2,89,207
+rotate:90
+Dark/gun head thingy
+bounds:2,538,705,443
+Earth/BODY Copy
+bounds:709,227,376,199
+rotate:90
+Earth/LEG BEHIND Copy
+bounds:211,2,89,207
+rotate:90
+Earth/gun head thingy
+bounds:2,93,705,443
+Fire/LEG BEHIND Copy
+bounds:420,2,89,207
+rotate:90
+Light/LEG BEHIND Copy
+bounds:910,774,89,207
+Water/LEG BEHIND Copy
+bounds:910,565,89,207
+
+QUADRUBOTMK2_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Earth/BEHIND RIGHT LEG
+bounds:709,2,178,317
+rotate:90
+Fire/BODY Copy
+bounds:709,560,376,199
+rotate:90
+Fire/gun head thingy
+bounds:2,493,705,443
+Light/BODY Copy
+bounds:709,182,376,199
+rotate:90
+Light/gun head thingy
+bounds:2,48,705,443
+
+QUADRUBOTMK2_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/FRONT RIGHT LEG
+bounds:709,174,170,348
+Dark/HEAD
+bounds:352,12,443,323
+rotate:90
+Earth/FRONT RIGHT LEG
+bounds:2,2,170,348
+rotate:90
+Fire/FRONT RIGHT LEG
+bounds:2,285,170,348
+rotate:90
+Light/FRONT RIGHT LEG
+bounds:677,2,170,348
+rotate:90
+Water/BODY Copy
+bounds:709,524,376,199
+rotate:90
+Water/gun head thingy
+bounds:2,457,705,443
+
+QUADRUBOTMK2_4.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/BEHIND RIGHT THIGH
+bounds:321,43,175,188
+rotate:90
+Earth/BEHIND RIGHT THIGH
+bounds:511,43,175,188
+rotate:90
+Earth/HEAD
+bounds:2,665,443,323
+Fire/BEHIND RIGHT LEG
+bounds:772,671,178,317
+Fire/HEAD
+bounds:447,545,443,323
+rotate:90
+Light/BEHIND RIGHT LEG
+bounds:772,352,178,317
+Light/HEAD
+bounds:2,220,443,323
+rotate:90
+Water/BEHIND RIGHT LEG
+bounds:2,40,178,317
+rotate:90
+Water/FRONT RIGHT LEG
+bounds:772,2,170,348
+Water/HEAD
+bounds:327,220,443,323
+
+QUADRUBOTMK2_5.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/FONT LEFT LEG
+bounds:2,736,151,283
+offsets:0,0,151,286
+Dark/FRONT LEFT THIGH
+bounds:155,169,165,185
+Dark/FRONT RIGHT THIGH
+bounds:485,846,157,173
+Earth/FONT LEFT LEG
+bounds:2,451,151,283
+offsets:0,0,151,286
+Earth/FRONT LEFT THIGH
+bounds:287,2,165,185
+rotate:90
+Earth/FRONT RIGHT THIGH
+bounds:332,469,157,173
+Fire/BEHIND RIGHT THIGH
+bounds:155,546,175,188
+Fire/FONT LEFT LEG
+bounds:2,166,151,283
+offsets:0,0,151,286
+Fire/FRONT LEFT THIGH
+bounds:322,169,165,185
+Fire/FRONT RIGHT THIGH
+bounds:489,294,157,173
+Light/BEHIND RIGHT THIGH
+bounds:308,831,175,188
+Light/FONT LEFT LEG
+bounds:2,13,151,283
+offsets:0,0,151,286
+rotate:90
+Light/FRONT LEFT THIGH
+bounds:474,2,165,185
+rotate:90
+Light/FRONT RIGHT THIGH
+bounds:491,469,157,173
+Water/BEHIND RIGHT THIGH
+bounds:155,356,175,188
+Water/FONT LEFT LEG
+bounds:155,736,151,283
+offsets:0,0,151,286
+Water/FRONT LEFT THIGH
+bounds:332,644,165,185
+Water/FRONT RIGHT THIGH
+bounds:499,671,157,173

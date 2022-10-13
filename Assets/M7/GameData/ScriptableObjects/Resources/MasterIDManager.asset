@@ -1,0 +1,1493 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4618faabee32047bc91dd1d6e07a9f78, type: 3}
+  m_Name: MasterIDManager
+  m_EditorClassIdentifier: 
+  rpgObjectReference:
+    AllData:
+      assetReferences:
+      - assetName: BoosterObject_Blaster
+        objectTypeName: <M7.GameData.Scripts.RPGObjects.Boosters.BoosterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9da124555c0b0db4c9b502bbe8a80860
+        subObjectName: 
+      - assetName: BoosterObject_Hammer
+        objectTypeName: <M7.GameData.Scripts.RPGObjects.Boosters.BoosterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34b28cdbbd352be43811b222725f4acf
+        subObjectName: 
+      - assetName: BoosterObject_Laser Sword
+        objectTypeName: <M7.GameData.Scripts.RPGObjects.Boosters.BoosterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b512b8d497f15c141921a6cbc8d5b22a
+        subObjectName: 
+      - assetName: BoosterObject_Shuffle
+        objectTypeName: <M7.GameData.Scripts.RPGObjects.Boosters.BoosterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ad786f4e9cbde5b4da9aec514ff6b6e6
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkI_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 53a40f76aba1ebf4a817d91198ffdfeb
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkI_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 058c7ad70e0aa594a8343a66f5fbb703
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkI_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4d2b4cbbc23c53b4c863aad85bcdbe68
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkI_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 39b1c6954409cdf4883ea132cd35edf8
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8199499dc7815154c94c3659e1f872e6
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fd16dc7c0b2663f409220a36187adf61
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1d9ce8919814883469ef27a8ff0e3b74
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f78523ef97f70a04f87a65f481f06fc3
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0b6039eea99c7384e81b852d441f6d5b
+        subObjectName: 
+      - assetName: Enemy_AeroDrone_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 16908dbe3e727df48b0d1ee86345f9c3
+        subObjectName: 
+      - assetName: Enemy_AquaMantisBot
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ed35a51ceb80ad44a892d75204933b43
+        subObjectName: 
+      - assetName: Enemy_ArtilleryBot_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1b47f87b674801944acf455faefcc880
+        subObjectName: 
+      - assetName: Enemy_ArtilleryBot_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6ecfff8dbed47be46a4894b3f4062741
+        subObjectName: 
+      - assetName: Enemy_ArtilleryBot_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bccfb03e5bcb33f4eb03f8724822f2ff
+        subObjectName: 
+      - assetName: Enemy_ArtilleryBot_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e07a32d6fcc7f494d95fde3ad1d079dd
+        subObjectName: 
+      - assetName: Enemy_ArtilleryBot_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 41588eb1a9c183f44ad5d2fd315e1e25
+        subObjectName: 
+      - assetName: Enemy_BlackMaw_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f269624f6623cb9449da42f7d273492d
+        subObjectName: 
+      - assetName: Enemy_BlazeQuadruBotMkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6374b5e92c512cd4eb85e26677ecab59
+        subObjectName: 
+      - assetName: Enemy_BlazeQuadruBotMkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7441feed78479774898a6bebf0553235
+        subObjectName: 
+      - assetName: Enemy_BlazeQuadruBotMkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0652fa2c26890ee488f3546d572bf0b6
+        subObjectName: 
+      - assetName: Enemy_CannonBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4ef8b5785b002764e9bf3191c17caf39
+        subObjectName: 
+      - assetName: Enemy_CentiBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3399fc9c77917e4bb7c1b585ab9210e
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkI_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d8b0d5a4cc150114680359a5f24e5db6
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkI_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86ec48c5def8a0247a7cb174bbd681bc
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkI_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6cff7de86ac219b418826d8b835465c4
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkI_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48dfb19347477ce42b8f3fb0c853ce56
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4b672911b8370fc4681c0e04bf8f43f5
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c47d109864fcb684ea482f28c73473d3
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d166ebc774b62ad499db246a81e76f37
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6ba0698f005873142921065cebdc99ae
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10205ce0b11870f49a8e24fca524d2f5
+        subObjectName: 
+      - assetName: Enemy_Corrupted_GuardBot_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a7b9b69115da32b45b647fd4218c7bb2
+        subObjectName: 
+      - assetName: Enemy_CorruptedDesertGuardBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 32115812f4c3ab74c906c93e7fbffaeb
+        subObjectName: 
+      - assetName: Enemy_CorruptedDesertGuardBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac1abfbd8b2945345a9937c23be73c35
+        subObjectName: 
+      - assetName: Enemy_CorruptedDesertGuardBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4da552b6df3388d4e99ece89caeb626b
+        subObjectName: 
+      - assetName: Enemy_CorruptedDesertGuardBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c551b61baefef3e44a920398c5cc43d0
+        subObjectName: 
+      - assetName: Enemy_CorruptedDesertGuardBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3b49ba0c5b76224e84f95f614c37ecd
+        subObjectName: 
+      - assetName: Enemy_Cyclone_StormBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 88fd893ea07d3e24a8155ab549562576
+        subObjectName: 
+      - assetName: Enemy_Desert Guardian_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e91639821eec2c747b1f2173d5529069
+        subObjectName: 
+      - assetName: Enemy_Desert Guardian_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5927033b257e864696cc5023ee6cca5
+        subObjectName: 
+      - assetName: Enemy_Desert Guardian_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 814a0226ec8eec3459bcdeb89bf3eca3
+        subObjectName: 
+      - assetName: Enemy_Desert Guardian_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bf8ba1d44051ad44d89ebdac79982022
+        subObjectName: 
+      - assetName: Enemy_Desert Guardian_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1948bb2c8e94469458f6a9cde8da5d8d
+        subObjectName: 
+      - assetName: Enemy_Enforcer_StormBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1254f56e52753f247a39e645e7611031
+        subObjectName: 
+      - assetName: Enemy_FloatingValleyFlyingMob3_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 54a4e8b36c16ed24a8fb6004fb393beb
+        subObjectName: 
+      - assetName: Enemy_FloatingValleyFlyingMob3_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c13f34d7a3fb76549a628b74692da105
+        subObjectName: 
+      - assetName: Enemy_FloatingValleyFlyingMob3_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b99615ebbfef3dd45964ee392249b384
+        subObjectName: 
+      - assetName: Enemy_FloatingValleyFlyingMob3_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c2ecee8c06be73b44927cf2cf8cec3b0
+        subObjectName: 
+      - assetName: Enemy_FloatingValleyFlyingMob3_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a092055910dbafb4f923d6adca88f772
+        subObjectName: 
+      - assetName: Enemy_Frost_ThrasherBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c984d0ce581c9884f948a31b70ebaaa4
+        subObjectName: 
+      - assetName: Enemy_Grizz_Claw_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5273a663434be8459efa9469adf9df8
+        subObjectName: 
+      - assetName: Enemy_Grizz_Claw_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0b68f96755ad2f24c8a430e1e166cc1b
+        subObjectName: 
+      - assetName: Enemy_Grizz_Claw_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f33e23b0dd15069468978968a1627f52
+        subObjectName: 
+      - assetName: Enemy_Grizz_Claw_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2dc4bfd35878d2142baa1b42e682d660
+        subObjectName: 
+      - assetName: Enemy_Grizz_Claw_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: af4fbab5e564d2f48bc1f40dea98401d
+        subObjectName: 
+      - assetName: Enemy_Hammerhead_StormBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1ed1f4c01e655de4c9603f393e5fdd65
+        subObjectName: 
+      - assetName: Enemy_Hammerhead_StormBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1c0a868a681a8d941ae29b6f3d5d2ca3
+        subObjectName: 
+      - assetName: Enemy_Hammerhead_StormBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 53e19137ae2cd774cbf5cb021dc8389c
+        subObjectName: 
+      - assetName: Enemy_Hammerhead_StormBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1c98318c429da3e46b4f23b87d347408
+        subObjectName: 
+      - assetName: Enemy_Hammerhead_StormBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c0fc897275eb37f46af39c6e1be07692
+        subObjectName: 
+      - assetName: Enemy_Incinerator_Bot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e43db62defef41f4085f1452121babcb
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Bandit_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d8025be72a1780a47be7642b030fbefd
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Bandit_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ff27f3ea56c057047bd647449d9246d4
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Bandit_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18b310927fe52b94a8c87db1dc338b60
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Bandit_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0178d36f841f3be4c96a0a9bac982af6
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Bandit_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 89edd1af59f53db45a625039e920369d
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Cowboy_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 47ddab87e9513294da47f8cd0621bad2
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Cowboy_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 38c8dcc7a9243bb4e9c10282bc9ea98b
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Cowboy_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 29b8c4b13e6078b4397f1868debefae8
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Cowboy_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5f4c2d79d6e5a04db07099eda2ea37d
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Cowboy_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c7ccb343db3b82647a981ff892c936d6
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Gunner_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e3786e4214afc74c86fa25b2a4e7e41
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Gunner_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c102d716607ec3c4cb59fc794206914c
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Gunner_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b26f9fe183f359948b3ccc867217530f
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Gunner_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e0d6fe9e6a7e7841a72b96e8372835f
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Gunner_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c1654aa94b3cce541b4c905f3d9bb6ff
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkI_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1e84e12645bbad346a62da0216851e64
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkI_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1789539e064385d449c3b068a5b50e29
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkI_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 17d3a5a3dd89e7e46a56a7c973899a98
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkI_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3776d8d4a3f472f4aa7608354e420127
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7291124907c3da94a8084cfa09d61ddb
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cec1736c9a813c24abcd71dd3102f4b8
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 09f6db7f7b7191644b879c5df7a4f24f
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bf92cbebafa118749b431b9ad2e4bdec
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3609f6f5e883814098e3b2c44388435
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bf258cd497833024d8bb9edcc914dd9a
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Pirate_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 84f79d21ca076b64b8e85169ab3cab64
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Pirate_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2855aa3df96494547b02686f069224e8
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Pirate_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dc6299199b56f0549bd9af81872a347b
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Pirate_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0b748f2177c2f574abef9a5b36ca8f68
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Pirate_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a2885f00c9fe0d4c8a0eca34ca50caa
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Viking_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a2467d45b112c3499edbfef2770fa7c
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Viking_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 39b7ffa07bb12fb4da4c389f8676a4af
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Viking_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 80497a22c5c23224e8ee5bc3b86256c4
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Viking_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b1b4307cc1256474da81ebedc823475c
+        subObjectName: 
+      - assetName: Enemy_InfantryBot_Viking_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6571d71bf3c93a041835f268c7e8fb77
+        subObjectName: 
+      - assetName: Enemy_InfantryBotMk.I_DesertPrime_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 32556c2442a5293419cab4fbcd1fd74a
+        subObjectName: 
+      - assetName: Enemy_InfantryBotMk.I_DesertPrime_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 01fb2985e39e70e4bae8fd764c1659fe
+        subObjectName: 
+      - assetName: Enemy_InfantryBotMk.I_DesertPrime_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9dfaaab38fa3f644a553e0ba2b528ce
+        subObjectName: 
+      - assetName: Enemy_InfantryBotMk.I_DesertPrime_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c9d6bfa5c1a6cdb4cace5f6e54a9bf32
+        subObjectName: 
+      - assetName: Enemy_InfantryBotMk.I_DesertPrime_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bae14a9b6bbf93a4f9d7ed5807406a49
+        subObjectName: 
+      - assetName: Enemy_MagmaJaw
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b378e70fb0da53c4280caf52d0b7afb3
+        subObjectName: 
+      - assetName: Enemy_Mech_Buccaneer_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a5a16a90c51e0094ca5743fe89085415
+        subObjectName: 
+      - assetName: Enemy_Mech_Harpooner_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f66f8bd04b5f81f44b442d361be22142
+        subObjectName: 
+      - assetName: Enemy_Mech_Scallywag_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a8d5cae2674882c40a6c4b598a27abf7
+        subObjectName: 
+      - assetName: Enemy_Mech_Seadog_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 05ec152f92486e941bc2778904bf7a8b
+        subObjectName: 
+      - assetName: Enemy_MechBandit_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 51842f6b0c2bde54f8a2194c5a86818f
+        subObjectName: 
+      - assetName: Enemy_MechBandit_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0bb4a6abbbfd9b3438944d5a5ea52e9c
+        subObjectName: 
+      - assetName: Enemy_MechBandit_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d14f5d49c2722a54680125a946eaa019
+        subObjectName: 
+      - assetName: Enemy_MechBandit_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 271ac3dd40caa354a8870c4d94550f8e
+        subObjectName: 
+      - assetName: Enemy_MechBandit_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: baf4c643af2db0e479c8fe868cfb8aec
+        subObjectName: 
+      - assetName: Enemy_MechBanditDesert_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 438a137964f307c4baa74ba5449ba675
+        subObjectName: 
+      - assetName: Enemy_MechBanditDesert_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 15f6adaa4fd63c4478cbf0e1c7687ebd
+        subObjectName: 
+      - assetName: Enemy_MechBanditHardened_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8b9b6455549899c4398df931e9e24dce
+        subObjectName: 
+      - assetName: Enemy_MechBanditHardened_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ce016dcf8a25f6541baa3159b49a7af1
+        subObjectName: 
+      - assetName: Enemy_MechBanditHardened_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d0537bd0143041245bcd663d103909fe
+        subObjectName: 
+      - assetName: Enemy_MechBanditHardened_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 66fb5963ddaaf2c4a9d7924eccf0c200
+        subObjectName: 
+      - assetName: Enemy_MechBanditHardened_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e0353ebcf38602141a1c08eac0ee5537
+        subObjectName: 
+      - assetName: Enemy_MechPirate_Magitech
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f873b0b15f9c25243aad49c1ee38c1d6
+        subObjectName: 
+      - assetName: Enemy_MechPirate_Mechanic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4059a7aa20f34694cb4fe501cdbf5cb4
+        subObjectName: 
+      - assetName: Enemy_MechPirate_Ranger
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9ffee242b660c114e9ad8261d84e8c21
+        subObjectName: 
+      - assetName: Enemy_MechPirate_Science
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eed4e972b7236384bbfa214be9e4677a
+        subObjectName: 
+      - assetName: Enemy_Mega_ArtilleryBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 768baaa9207d8354db8ef9aee6bd9542
+        subObjectName: 
+      - assetName: Enemy_Mega_ArtilleryBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5ecaebb2ea6190a4980a4ae31b3cc4f1
+        subObjectName: 
+      - assetName: Enemy_Mega_ArtilleryBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 44c4e923fde5d3645a1099073416ca42
+        subObjectName: 
+      - assetName: Enemy_Mega_ArtilleryBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 25822051ad0edda42a33a91e7773e645
+        subObjectName: 
+      - assetName: Enemy_Mega_ArtilleryBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 08a310dd3c309884a8d1202885f3bd8f
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Demolisher_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6a1fd2a7652e96e4c86d33ace85897a2
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Demolisher_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bbb496f8bab2abe4eb672cd8b1b097a2
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Demolisher_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b66729dc47e65f1469603512bdf26eb1
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Demolisher_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 449e376be2a300b44ba1a5c920566110
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Demolisher_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3db1c2313f3ece34798363aabceec373
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Destroyer_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be0aa2c62b94e5d438417086b3dc4ef1
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Destroyer_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 55321919594c8d74caf83b19673dfdfe
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Destroyer_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d1f834c30c409b4cab57234b1e49c01
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Destroyer_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c289ffb912082aa4e97bf4766829f8d8
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Destroyer_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 13b189fb12cb5384eb88925288d44bf7
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_Frost_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a3a3fe003f36f484fbbae96d1bfe5842
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkI_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ba0beec24d45c478a8718ed19e42c637
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkI_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2d4bbecd7b2da44979157a2d2d1ff657
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkI_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f5cc2a76237b24c7cac6859a7b88092d
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkI_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5b1d7ceb2420d47d1a5f927191aa9673
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7194ef7e7bf4776498788ca6196a90fb
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72e8d03d54562f449ad327c91688f80b
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a730a85cae1173419cc5baaa4390b80
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5c020ef9b91f49542891be46d1721903
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b07f4ea20e30b084da17c9787b4338dc
+        subObjectName: 
+      - assetName: Enemy_QuadruBot_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dfb02c70b73e25d4fab35da0fe1e8498
+        subObjectName: 
+      - assetName: Enemy_Rampage_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d822e3abbc76f5346b63298e0ebefc50
+        subObjectName: 
+      - assetName: Enemy_Rampage_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 82c6b4645c2141540ad356a02704c39c
+        subObjectName: 
+      - assetName: Enemy_Rampage_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 607d2784928f54c4a90a9b14f99cdba9
+        subObjectName: 
+      - assetName: Enemy_Rampage_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9588d7ab4e369ee4f9394a77e2904976
+        subObjectName: 
+      - assetName: Enemy_Rampage_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c028404a93897b489babf9a3d30cf92
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob1_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d075e8769254a2842bb3b6b96867c579
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob1_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e9118f228ada0aa44b492b134ecb51f1
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob1_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0e75fcc2eabb37542926a9b279296eaf
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob1_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 63a6a66f3a5b8f34fa96952d757c25a0
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob1_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 88955a98a3625984eb860458e1e40bbc
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob2_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c1a8575d5b5551c4ab791920c5b6561c
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob2_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9e51dbbc8307ff7428c6b2a839706bbe
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob2_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ea3f9572003811c4695252390131104c
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob2_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fed051ad3cf47f345af08f379c0b5c45
+        subObjectName: 
+      - assetName: Enemy_SentraSix2LeggedMob2_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92440c5911396b24d889e78b19f02b46
+        subObjectName: 
+      - assetName: Enemy_SentryBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bab95c8098944bd45a737a02ad0c38f9
+        subObjectName: 
+      - assetName: Enemy_SentryBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d5cb8524a3a2f754fb9fd6440471572a
+        subObjectName: 
+      - assetName: Enemy_SentryBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1a8bac8705d397c44bf64c3a4b33dded
+        subObjectName: 
+      - assetName: Enemy_SentryBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1b4be97c043fdef47a3bf0e2b4053b2a
+        subObjectName: 
+      - assetName: Enemy_SentryBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4ff33ce20755bd94a8980023f8cc0485
+        subObjectName: 
+      - assetName: Enemy_Smasher_StormBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f44cb08583ff3764a82f91484a92dba6
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkI_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5d2a3a9104b060d49819df8e679b337c
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkI_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ef14246a2d1b994bb4bde68c7f7e087
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkI_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3c6dd7f577981ce4480e21e9109f3f4c
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkI_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 204f89af37d499243a41ebe157d34ad0
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 74a4e58093c248741ac1ea6c65875567
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkII_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0cfd10440fc5e4a4ba044ac8e21bd66b
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkII_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ef881cd7ef41c948889776bd8c5b38e
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkII_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 29ce1c3455717b9409fe4283682cf720
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkII_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5fc40964b41c4d64a8ae139e6fc5b7d1
+        subObjectName: 
+      - assetName: Enemy_StingDrone_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 69e0d6e8654515f46b85ef3f042b3f2c
+        subObjectName: 
+      - assetName: Enemy_StingRayBot
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9b0f2c47288173746a8e01929ee3d4dc
+        subObjectName: 
+      - assetName: Enemy_TankBot
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 54a67369481d37b49aa6f2388103c2e3
+        subObjectName: 
+      - assetName: Enemy_Tentacle_Bot_MkI_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2ee5a77917266cb48a749793af300583
+        subObjectName: 
+      - assetName: Enemy_Tentacle_Bot_MkII_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7957a4db341fabc468bb0ff0629b2735
+        subObjectName: 
+      - assetName: Enemy_Thrasher_StormBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e372b0dd9813e404a88a5087143db2cc
+        subObjectName: 
+      - assetName: Enemy_Thrasher_StormBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9ae9f4a9246b7ed4baf6fdb85b9165f2
+        subObjectName: 
+      - assetName: Enemy_Thrasher_StormBot_Fire
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0ddfdefa8b738ce4d8232bd19ab808b4
+        subObjectName: 
+      - assetName: Enemy_Thrasher_StormBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 018f9cde518d80b4b8ed6feefbce4b9b
+        subObjectName: 
+      - assetName: Enemy_Thrasher_StormBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6a2610a45ce10144b06bc8651ef6c14
+        subObjectName: 
+      - assetName: Enemy_WurmBot_Dark
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 928acb4d0ac40ab489750b4ec4cc1dc1
+        subObjectName: 
+      - assetName: Enemy_WurmBot_Earth
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 445f2d3e82185b447a8cf1d8a2e247d1
+        subObjectName: 
+      - assetName: Enemy_WurmBot_Light
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f539d9009017c524a996bda18b2ed685
+        subObjectName: 
+      - assetName: Enemy_WurmBot_Water
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 32a184c04bbf9ea459508f12dd88c8e9
+        subObjectName: 
+      - assetName: Hero_Ellie_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 899551d15b500714bb330c070990e258
+        subObjectName: 
+      - assetName: Hero_Ellie_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b3dfc0ee4d75af34b968c0bf5e37814f
+        subObjectName: 
+      - assetName: Hero_Ellie_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a607ec1fe57d9e4469315e70909a8f49
+        subObjectName: 
+      - assetName: Hero_Ellie_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 69284f62f15d09a4ebc185b06187d47e
+        subObjectName: 
+      - assetName: Hero_Ellie_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3f4d7aa92b1757d41a6a8e82f190f00b
+        subObjectName: 
+      - assetName: Hero_Hale_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9508a29be1f766b4ab556e5e0e888cb4
+        subObjectName: 
+      - assetName: Hero_Hale_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e5d7f514dc16d424885d134d8a5aac22
+        subObjectName: 
+      - assetName: Hero_Hale_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6b5a1573accdff4cb1f356db2e39de9
+        subObjectName: 
+      - assetName: Hero_Hale_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: df293ac4da240c546860f41631cf23ee
+        subObjectName: 
+      - assetName: Hero_Hale_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8b9f5b5a34c123c4d9199c242f3e5a52
+        subObjectName: 
+      - assetName: Hero_Lexy_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 696f902162262c54fb57a06b9ef74ed3
+        subObjectName: 
+      - assetName: Hero_Lexy_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7b11c608a72ba9b44b8ec7520447f387
+        subObjectName: 
+      - assetName: Hero_Lexy_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b6bca9bdbdefe0943899e2e00ddbe436
+        subObjectName: 
+      - assetName: Hero_Lexy_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12269961111c1514fbc28c5464556573
+        subObjectName: 
+      - assetName: Hero_Lexy_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 09c392da7aaf15b47bf5749bad9b8ce9
+        subObjectName: 
+      - assetName: Hero_Lily_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0996cfdd1ebaeee4fb10b552a9201730
+        subObjectName: 
+      - assetName: Hero_Lily_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 49d16e33d966b354ba94d7014a02d8b1
+        subObjectName: 
+      - assetName: Hero_Lily_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e55b243d58edcd24b96f283a45e525bb
+        subObjectName: 
+      - assetName: Hero_Lily_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 76d0c3ece7d4fd545ad722755cd14b86
+        subObjectName: 
+      - assetName: Hero_Lily_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ed9cb61b8552faf44be397d6b8d5d374
+        subObjectName: 
+      - assetName: Hero_Naomi_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1bdd5542dfdb5204789c47ef177590ca
+        subObjectName: 
+      - assetName: Hero_Naomi_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 36f93d5591e0821469b2cb69ba116485
+        subObjectName: 
+      - assetName: Hero_Naomi_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7009fc48f567d2e4f8df90176e5e375d
+        subObjectName: 
+      - assetName: Hero_Naomi_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 09acc2435bf066543ba2d4ae8f0f27fd
+        subObjectName: 
+      - assetName: Hero_Naomi_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4779d345f396892478c237d49e0d8977
+        subObjectName: 
+      - assetName: Hero_Alicia_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b7cddd5e0cd69a249b9daec3d8a10f22
+        subObjectName: 
+      - assetName: Hero_Alicia_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9463d3dac14dcab41a43d24ff54053f8
+        subObjectName: 
+      - assetName: Hero_Alicia_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 37e75a8955182aa4492723060ba90225
+        subObjectName: 
+      - assetName: Hero_Alicia_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48f5924b52095da47960776ba2927283
+        subObjectName: 
+      - assetName: Hero_Alicia_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d2ec4d22c0e361f4a8f9b7770fcac7bf
+        subObjectName: 
+      - assetName: Hero_Dune_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: afe9ec3b5b8884343a97362893920a89
+        subObjectName: 
+      - assetName: Hero_Dune_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e96339c81e41635438865fe874305bb3
+        subObjectName: 
+      - assetName: Hero_Dune_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7fa62ee0b429cce41b7982372ff9a585
+        subObjectName: 
+      - assetName: Hero_Dune_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 901046299b7d37e46adb2e2d63fa6b48
+        subObjectName: 
+      - assetName: Hero_Dune_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2ac52a69e3bdbe4428f5f57f6ad427db
+        subObjectName: 
+      - assetName: Hero_Eliza_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: deb7a7bc0fb67724391ae0bd32738fc4
+        subObjectName: 
+      - assetName: Hero_Eliza_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d57f74d71091b6344b8dd67382adc990
+        subObjectName: 
+      - assetName: Hero_Eliza_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 049ee304dd2f1914aae7b9d795d3602a
+        subObjectName: 
+      - assetName: Hero_Eliza_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a67a176afdcabc4487d966a53f3ba31
+        subObjectName: 
+      - assetName: Hero_Eliza_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 155f7188ded035d4aad2a8d555f5f568
+        subObjectName: 
+      - assetName: Hero_LadyLuck_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 886c8952b62b68a4d87759df5d2099b7
+        subObjectName: 
+      - assetName: Hero_LadyLuck_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 31b7cff1398ce8b429ccf2f55498b0be
+        subObjectName: 
+      - assetName: Hero_LadyLuck_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d50324e55ea76f344829b804d820a812
+        subObjectName: 
+      - assetName: Hero_LadyLuck_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e135177e39b12414e974713cc909f17b
+        subObjectName: 
+      - assetName: Hero_LadyLuck_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8141d11cf493d224b955de174866930c
+        subObjectName: 
+      - assetName: Hero_Oya_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0e8b6adda7a3f9344b0ea143dc9d5d29
+        subObjectName: 
+      - assetName: Hero_Oya_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 19f412ebb52a89246bb57554bac73691
+        subObjectName: 
+      - assetName: Hero_Oya_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0848a1c6f706c2d449b03ca75a972faf
+        subObjectName: 
+      - assetName: Hero_Oya_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eb45a5257f2af1f4b9568928343f28ea
+        subObjectName: 
+      - assetName: Hero_Oya_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 307d6c7667265d84a8ba7fb69cf35712
+        subObjectName: 
+      - assetName: Hero_Aya_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc368a05108afa44fb378a8cf01539ac
+        subObjectName: 
+      - assetName: Hero_Aya_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 400262a6c0357e44bb49c65a17f8679e
+        subObjectName: 
+      - assetName: Hero_Aya_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b233a808446a31d419d63f95d1c2caff
+        subObjectName: 
+      - assetName: Hero_Aya_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 42726c9cc02a9cd469c570705ebee6fa
+        subObjectName: 
+      - assetName: Hero_Aya_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 213672224d80f2c479ee08dea84af19b
+        subObjectName: 
+      - assetName: Hero_Clover_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b5eddb5f7c3acf54ca4efae825f22c4f
+        subObjectName: 
+      - assetName: Hero_Clover_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6a20ab1d5fd9abb45a8ffb3288ccf4d4
+        subObjectName: 
+      - assetName: Hero_Clover_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12735b3606d271d48bd5b11485752e64
+        subObjectName: 
+      - assetName: Hero_Clover_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a8f9c1a26c541243b98e5321b5e1b20
+        subObjectName: 
+      - assetName: Hero_Clover_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3249ea1bc218e1c4b92755cea3790ab9
+        subObjectName: 
+      - assetName: Hero_Narcissa_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b76940fe28ab119478538a22607c9577
+        subObjectName: 
+      - assetName: Hero_Narcissa_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 847c5ec2c1a4fa842a9d3beb206ec413
+        subObjectName: 
+      - assetName: Hero_Narcissa_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c254fc881ee9e7649b361795e906ba7c
+        subObjectName: 
+      - assetName: Hero_Narcissa_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 909c9d3b125d1274ea0e005ae1801f84
+        subObjectName: 
+      - assetName: Hero_Narcissa_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a14db3198776c6241a38b04ca8173c3c
+        subObjectName: 
+      - assetName: Hero_Sabre_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0aad9650aca550a40acbfc25cd3d64c7
+        subObjectName: 
+      - assetName: Hero_Sabre_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3f78d6f95be318a468194f8e152a528b
+        subObjectName: 
+      - assetName: Hero_Sabre_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4fd3498d5d586de4b9c494e8d62d220c
+        subObjectName: 
+      - assetName: Hero_Sabre_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ba751893ad4fdc4fa3817965b9d2183
+        subObjectName: 
+      - assetName: Hero_Sabre_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c6a4a8b7906136944873c2cc78ce8b3e
+        subObjectName: 
+      - assetName: Hero_Tink_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6467db4624c0cbe4bbaae0c0eee99ebe
+        subObjectName: 
+      - assetName: Hero_Tink_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8a20fa4b7f24ada4ba077d5147185f57
+        subObjectName: 
+      - assetName: Hero_Tink_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9b8a7de67f95d8146b7e3e9ebded7061
+        subObjectName: 
+      - assetName: Hero_Tink_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d134697ac6103564f9cafe638f49a8d9
+        subObjectName: 
+      - assetName: Hero_Tink_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8a2d0044b31e3f546ba434a024d2cc2c
+        subObjectName: 
+      - assetName: Hero_Brenda_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d9afe54ffd67fc4f80df1e31d2a161e
+        subObjectName: 
+      - assetName: Hero_Brenda_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 97c6eddbc71f8c24ebe4a152d3aea459
+        subObjectName: 
+      - assetName: Hero_Brenda_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 03a40d01c46f008459781d2fd8387c32
+        subObjectName: 
+      - assetName: Hero_Brenda_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3b838e322e700da4cbd165bbc8bb063a
+        subObjectName: 
+      - assetName: Hero_Brenda_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1497ef5c2883d4c418bfcc7857c4a1fd
+        subObjectName: 
+      - assetName: Hero_Cadenza_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: df2f935fa0fe6c545a45970a36fd98bf
+        subObjectName: 
+      - assetName: Hero_Cadenza_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c20c4ce46f3b19f4a96e601b307a95d1
+        subObjectName: 
+      - assetName: Hero_Cadenza_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dc2ce6bb9235fc944beb5cb48be7522e
+        subObjectName: 
+      - assetName: Hero_Cadenza_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 97332b1c56428e746b1713b7409f773e
+        subObjectName: 
+      - assetName: Hero_Cadenza_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b6791c2627cb04b488d153a494a2650c
+        subObjectName: 
+      - assetName: Hero_Camellia_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 75c607b2622f10843ab286f3a3fc1d40
+        subObjectName: 
+      - assetName: Hero_Camellia_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1f8e57d92ec0e454cad8f63bf56c3590
+        subObjectName: 
+      - assetName: Hero_Camellia_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 76b2ae4d8620305489e493dfafd89ab1
+        subObjectName: 
+      - assetName: Hero_Camellia_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5c95c362f3e85a14c801455f4e6eb338
+        subObjectName: 
+      - assetName: Hero_Camellia_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 51bfaaf0d181c5241b91d32d951fd9aa
+        subObjectName: 
+      - assetName: Hero_Holly_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f6669fdb925a83a409735e684560d47f
+        subObjectName: 
+      - assetName: Hero_Holly_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 63a331618556cf545b89aed6420c21c6
+        subObjectName: 
+      - assetName: Hero_Holly_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 20ab600336157d24aa73e1aabca4983d
+        subObjectName: 
+      - assetName: Hero_Holly_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b6609fe3998c0e841aa40a1abeb02773
+        subObjectName: 
+      - assetName: Hero_Holly_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c63a745b7067cbc42b7a90c15d9bcd7e
+        subObjectName: 
+      - assetName: Hero_Sheba_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0e8f2e8b31f0abd409eb9bb206865822
+        subObjectName: 
+      - assetName: Hero_Sheba_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0bb51ef77fc48034983826a0decc7e34
+        subObjectName: 
+      - assetName: Hero_Sheba_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 73b48e569c620ad4a9e3585715674613
+        subObjectName: 
+      - assetName: Hero_Sheba_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4dd504a89bdd99a4c9d335ec7b4545fd
+        subObjectName: 
+      - assetName: Hero_Sheba_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 04e649f1be17a7549a346372ae204e40
+        subObjectName: 
+      - assetName: Hero_Claire_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 00de86471ef7fa742be31aa7ee0c8868
+        subObjectName: 
+      - assetName: Hero_Claire_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c9e09f1de6687f34291283e81caf1084
+        subObjectName: 
+      - assetName: Hero_Claire_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 14a485ee4ee12b643bfc7ca5cab56fc1
+        subObjectName: 
+      - assetName: Hero_Claire_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e382b845b699e246b3693f0b2d27eae
+        subObjectName: 
+      - assetName: Hero_Claire_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5bbe1b3ab195ba94699975bf5bc98d21
+        subObjectName: 
+      - assetName: Hero_Jade_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1bcd69da40989d54ebfc804e1c6148b4
+        subObjectName: 
+      - assetName: Hero_Jade_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7690720c7cec90f428a1eca2c254da55
+        subObjectName: 
+      - assetName: Hero_Jade_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e76392c8ae69c874a839ccd398534d6e
+        subObjectName: 
+      - assetName: Hero_Jade_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: db7b8bd4829c4584d81edff2d55d05d5
+        subObjectName: 
+      - assetName: Hero_Jade_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b36eb6f7667527a4a90f6490d93ce7cf
+        subObjectName: 
+      - assetName: Hero_Kairi_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b12fb19af9d58654ab29ac0ac45e24ec
+        subObjectName: 
+      - assetName: Hero_Kairi_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 097461f0ac40e2f42ba3f6e8373972af
+        subObjectName: 
+      - assetName: Hero_Kairi_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 423526c59510a1c43a8fb42cfeea89e3
+        subObjectName: 
+      - assetName: Hero_Kairi_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 05d357dfbd4037146836946617ae3dcb
+        subObjectName: 
+      - assetName: Hero_Kairi_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d463fc2f64bbab640b8422dcd98b4973
+        subObjectName: 
+      - assetName: Hero_Michiko_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0528b35556d8b184ca2a1d8cf6c93786
+        subObjectName: 
+      - assetName: Hero_Michiko_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e95f54f34a9b6445b5882d2e6678f26
+        subObjectName: 
+      - assetName: Hero_Michiko_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 735ff947470dc1c438733f4d85f72f57
+        subObjectName: 
+      - assetName: Hero_Michiko_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0f051f98c67f460499a442c7ab5b157e
+        subObjectName: 
+      - assetName: Hero_Michiko_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2825762387a0c4f45b6bfe3eb511a3b1
+        subObjectName: 
+      - assetName: Hero_Valiant_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 09ce56e491958144b80c9fee0b742171
+        subObjectName: 
+      - assetName: Hero_Valiant_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc7e41a1c3778174d9eec2d78ca59713
+        subObjectName: 
+      - assetName: Hero_Valiant_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7518aac7cebb75547a50d36cc093f1c1
+        subObjectName: 
+      - assetName: Hero_Valiant_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e54a63f591c551946ba6b2025149e8a5
+        subObjectName: 
+      - assetName: Hero_Valiant_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c65fb07b3b53ec049b8b02ba4cdcfb37
+        subObjectName: 
+      - assetName: Hero_Marcus_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc28cdcd12b197441ac8f8633782a2e8
+        subObjectName: 
+      - assetName: Hero_Marcus_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 123643cb922f60342aa427ad91516ff1
+        subObjectName: 
+      - assetName: Hero_Marcus_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eda92d411ea783d469123b62679f3ae6
+        subObjectName: 
+      - assetName: Hero_Marcus_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 84f2a4d879560314cbf6d0ace32c5b34
+        subObjectName: 
+      - assetName: Hero_Marcus_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2600cce82f625a94b9fb9040e46d1066
+        subObjectName: 
+      - assetName: Hero_Maven_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ce5af837aad169e489bd2ad55ac9f968
+        subObjectName: 
+      - assetName: Hero_Maven_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7826e105b24ca104b93f5ef0e390704d
+        subObjectName: 
+      - assetName: Hero_Maven_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 671b7a389c9ca9d45926767b24520b4f
+        subObjectName: 
+      - assetName: Hero_Maven_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 83be1604800835e4db656f8914a741dd
+        subObjectName: 
+      - assetName: Hero_Maven_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 96a59e58082e1cc4daa8237f8e3d1a4c
+        subObjectName: 
+      - assetName: Hero_Neil_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18990153a3234154c96fd2ccd8bf5398
+        subObjectName: 
+      - assetName: Hero_Neil_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 99deac850b2a6dc46ae491df0944533b
+        subObjectName: 
+      - assetName: Hero_Neil_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9288fd39298b3eb469155eb37673ff54
+        subObjectName: 
+      - assetName: Hero_Neil_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1510f448e5c5d5842be70faf54e6793e
+        subObjectName: 
+      - assetName: Hero_Neil_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a5c3185e3f3fd134a9f57c3529c8516c
+        subObjectName: 
+      - assetName: Hero_Silas_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3d263e233c8876c46b5a6ffc0e51d775
+        subObjectName: 
+      - assetName: Hero_Silas_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e6130b39312d2842ae1d016d36130d5
+        subObjectName: 
+      - assetName: Hero_Silas_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 22b2aca493fb62448bfae40d55723871
+        subObjectName: 
+      - assetName: Hero_Silas_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3e12646166437a14fab0bb9730a3d8ab
+        subObjectName: 
+      - assetName: Hero_Silas_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3335e1196db4324dbe659dd5af7c10b
+        subObjectName: 
+      - assetName: Hero_Zephyr_Common
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ddc59ade0c1037641aca34222084aac0
+        subObjectName: 
+      - assetName: Hero_Zephyr_Epic
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: da01caa282e170f4b89032bda82455df
+        subObjectName: 
+      - assetName: Hero_Zephyr_Legendary
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fca8af4704fa3284ba6ff10c1dc534ca
+        subObjectName: 
+      - assetName: Hero_Zephyr_Rare
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45493dafb05e547439b9f555323bd61d
+        subObjectName: 
+      - assetName: Hero_Zephyr_Uncommon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2badbae8ffd41b94aa0d4f5e72cf8322
+        subObjectName: 
+      - assetName: Villians_Ava
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5ac22a1d2455b5440b955bd1bb5be726
+        subObjectName: 
+      - assetName: Villians_Chameleon
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4c9e962718b70e248b580923d1f0070a
+        subObjectName: 
+      - assetName: Villians_Lyana
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dc0b438271767374682af50658a0b343
+        subObjectName: 
+      - assetName: Villians_Nubia
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e38615dfe43a9b46baa9d795b2fb0bc
+        subObjectName: 
+      - assetName: Villians_Riot
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 317c6561ddbb2514c8d3c77e68fdca82
+        subObjectName: 
+      - assetName: Villians_Roana
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d4acb1bd1d440a04486077ee0df38f22
+        subObjectName: 
+      - assetName: Villians_Sasha
+        objectTypeName: <M7.GameData.CharacterObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d081dc694194ee74da5fec73b95ee113
+        subObjectName: 
+      - assetName: Bnb
+        objectTypeName: <M7.GameData.CurrencyObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4fa9395236b432c448cae1c330fb4e5d
+        subObjectName: 
+      - assetName: Energy
+        objectTypeName: <M7.GameData.CurrencyObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 289becfecc3efad44abce9cb00fd9f5c
+        subObjectName: 
+      - assetName: Gaianite
+        objectTypeName: <M7.GameData.CurrencyObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 341c927b54ed12948b5b333f7b75dff6
+        subObjectName: 
+      - assetName: M7
+        objectTypeName: <M7.GameData.CurrencyObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f912741b4ad0bc348ae4a1535707ddaa
+        subObjectName: 
+      - assetName: GemDark
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 656411ecde2a342429ba77c19d99b820
+        subObjectName: 
+      - assetName: GemEarth
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d3de7114d29582a4ea3fbb5120055eda
+        subObjectName: 
+      - assetName: GemFire1
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b1cba4d8c95177d40b08d5e4b20790b8
+        subObjectName: 
+      - assetName: GemFire2
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0d5747fe6738787429c289fb21a48798
+        subObjectName: 
+      - assetName: GemFire3
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4a910ee3f052368498a3174f67df7fb3
+        subObjectName: 
+      - assetName: GemLight
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c96f073938809fb4d84d18e1fbd485bc
+        subObjectName: 
+      - assetName: GemWater
+        objectTypeName: <M7.GameData.GemObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 741c8c3be9bf6744cbb002b8832c2be9
+        subObjectName: 
+      - assetName: IncubatorObject_Common
+        objectTypeName: <M7.GameData.IncubatorObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2fdd3cb8830259f4c9e6cb98581369a8
+        subObjectName: 
+      - assetName: IncubatorObject_Epic
+        objectTypeName: <M7.GameData.IncubatorObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0acb74fe4d4a3164d8ef9bf5fcae3aae
+        subObjectName: 
+      - assetName: IncubatorObject_Legendary
+        objectTypeName: <M7.GameData.IncubatorObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 096d35be0bd3cb0408f65c6d153702fd
+        subObjectName: 
+      - assetName: IncubatorObject_Rare
+        objectTypeName: <M7.GameData.IncubatorObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1d285c2351d94c94392a68252243d70b
+        subObjectName: 
+      - assetName: IncubatorObject_Ucommon
+        objectTypeName: <M7.GameData.IncubatorObject<M7.GameData.RPGObject<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fdfe1f5df0be6fe43b26e0ff5ff76137
+        subObjectName: 

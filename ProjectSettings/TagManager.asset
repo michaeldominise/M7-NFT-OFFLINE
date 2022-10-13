@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IOSConnectMenu
+  - MainMenu
+  - QrConnectMenu
+  - AndroidConnectMenu
+  - ErrorPanel
+  - CanBeAttacked
+  - Bullet
+  - MainCanvas
+  - FX
+  - FxTemporaire
+  - blue
+  - bomb
+  - missile
+  - upmissile
+  - corrupted
+  - green
+  - red
+  - violet
+  - yellow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wrold
+  - Particle
+  - Selection
+  - Preload
+  - SettingsUI
+  - PuzzleBoard
+  - MenuObject
+  - PopOutUI
+  - GaiUI
+  - BoosterInfo
+  - PuzzleBoardParticle
+  - Heroes
+  - OnBoarding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PrismMask
+    uniqueID: 999399203
+    locked: 0
+  - name: PopOutUI
+    uniqueID: 1949037577
+    locked: 0
+  - name: OnBoarding
+    uniqueID: 724237705
+    locked: 0
+  - name: Highlight
+    uniqueID: 2204620103
+    locked: 0

@@ -1,0 +1,41 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <uie:Toolbar>
+        <uie:ToolbarBreadcrumbs name="skill-breadcrumbs" />
+    </uie:Toolbar>
+    <ui:VisualElement name="content-container" style="flex-grow: 1;">
+        <ui:ScrollView name="top-level" horizontal-scroller-visibility="Hidden" style="flex-grow: 1; display: flex;">
+            <Box header-label="General Info" name="general-info-box" style="margin-top: 8px;">
+                <ui:VisualElement name="display-stats-view" style="flex-direction: row;">
+                    <ui:VisualElement name="left-display-stats-view" style="flex-grow: 1;">
+                        <ui:Label text="#skill-id" display-tooltip-when-elided="true" name="skill-id" binding-path="MasterID" style="color: rgb(132, 132, 132);" />
+                        <ui:TextField picking-mode="Ignore" label="Name" value="Awesome Skill Name" text="Awesome Skill Name" binding-path="displayStats.displayName" name="skill-name" />
+                        <ui:TextField picking-mode="Ignore" label="Description" value="filler text" text="filler text" multiline="true" binding-path="displayStats.description" style="height: 75px; white-space: normal;" />
+                        <uie:PropertyField name="skill-type" binding-path="displayStats.skillType" />
+                        <uie:PropertyField name="skill-element" binding-path="displayStats.element" />
+                        <uie:PropertyField binding-path="skillTag" label="Tags" style="height: 24px;" />
+                        <uie:PropertyField binding-path="cardType" />
+                        <uie:EnumField label="Tags" value="Center" name="skill-tags" style="display: none;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="right-display-stats-view" style="width: 150px; min-width: 150px; max-width: 150px; margin-left: 5px;">
+                        <ui:VisualElement name="skill-icon" style="width: 150px; height: 150px; background-color: rgb(48, 48, 48);" />
+                        <uie:ObjectField type="UnityEngine.Sprite, UnityEngine.CoreModule" name="skill-icon" binding-path="displayStats.skill_Image" style="width: 150px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </Box>
+            <Box name="animation-box" header-label="Animation" style="margin-top: 8px;">
+                <uie:PropertyField binding-path="animationType" />
+                <uie:PropertyField binding-path="startCameraType" />
+                <uie:PropertyField binding-path="endCameraType" />
+            </Box>
+            <Box header-label="Skill Effects" name="skill-effects-box" style="margin-top: 8px; background-color: rgba(202, 106, 106, 0);">
+                <PrefabComponentInspector header-label="Initial Target Manager" name="initial-target-manager-inspector-box" style="display: flex;" />
+                <PrefabComponentInspector name="multiple-effects-inspector" header-label="Multiple Effects" style="margin-top: 8px; min-height: 75px;">
+                    <ui:ListView focusable="true" item-height="60" show-bound-collection-size="false" name="data-list" show-alternating-row-backgrounds="All" virtualization-method="DynamicHeight" fixed-item-height="55" style="min-height: 55px;" />
+                </PrefabComponentInspector>
+            </Box>
+            <ui:Foldout text="Default Inspector" name="default-inspector-foldout">
+                <ui:IMGUIContainer name="default-inspector" />
+            </ui:Foldout>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

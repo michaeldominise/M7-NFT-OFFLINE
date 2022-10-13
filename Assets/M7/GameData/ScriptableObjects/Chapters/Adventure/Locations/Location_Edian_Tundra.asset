@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Edian_Tundra
+  m_EditorClassIdentifier: 
+  index: 3
+  displayName: Edian Tundra
+  bannerAssetReference:
+    m_AssetGUID: ff1b78c7c22307e4193a7c43762357bd
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: b087fd2e2f6622940a2b8ba57473504f, type: 2}
+  - {fileID: 11400000, guid: d70700e5aff243d46b76bfc423b3a229, type: 2}
+  - {fileID: 11400000, guid: 9b43c9f96791faf43bc0b61943c31380, type: 2}
+  - {fileID: 11400000, guid: 9a27079995efe9549932f527a7bf25ee, type: 2}
+  - {fileID: 11400000, guid: 2f432d82b6f3954429e944ed911bf071, type: 2}
+  - {fileID: 11400000, guid: af514c464a821064da76c9fff946344a, type: 2}
+  - {fileID: 11400000, guid: 5ef51579be4ad124b9193c764e4e5806, type: 2}
+  - {fileID: 11400000, guid: ddce00d6c2e606f4d9839a97b0f1576e, type: 2}
+  - {fileID: 11400000, guid: e982e70acb668594985e522e0da31927, type: 2}
+  - {fileID: 11400000, guid: c416251199e3fc24a8c924dad2c0dc1d, type: 2}
+  - {fileID: 11400000, guid: a31e13a3af0422b42977c5d45419c825, type: 2}
+  - {fileID: 11400000, guid: 5b79a99d9223ccc4599c054b77de8075, type: 2}
+  - {fileID: 11400000, guid: 76c3e6b4ad1b2194ab1203f97b99b228, type: 2}
+  - {fileID: 11400000, guid: a81989b46d6e3ed43b8b6da5f8c322ba, type: 2}
+  - {fileID: 11400000, guid: 81923d8e2880f1c4e9e10cae4cdf79e1, type: 2}
+  - {fileID: 11400000, guid: cf118d6c129c4634cb939bc90cca7e1d, type: 2}
+  - {fileID: 11400000, guid: 2dfac035107e6e14ca1cae8708d29990, type: 2}
+  - {fileID: 11400000, guid: 2fe9131ba9d13b14e95ee0a764416eea, type: 2}
+  - {fileID: 11400000, guid: 2537d09ae63d8054c8fd478c51d3e548, type: 2}
+  - {fileID: 11400000, guid: 7bcefd93003d9394a9e3c34d33333d20, type: 2}

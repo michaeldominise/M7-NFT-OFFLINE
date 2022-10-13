@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2628730dd86778a43b5a3f74fd739d9e, type: 3}
+  m_Name: PreviewLevelData
+  m_EditorClassIdentifier: 
+  stageId: 
+  gameMode: 0
+  displayName: Preview Level
+  teamData:
+    teamName: Default
+    waves:
+    - saveableCharacters:
+      - masterID: Enemy_InfantryBot_Pirate
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyFireWeapon 1_Blue
+        attackTurn: 3
+      - masterID: Enemy_SmasherStormBot
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyFireWeapon 1_Blue
+        attackTurn: 3
+      - masterID: Enemy_InfantryBot_Mk1
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyFireWeapon 1_Blue
+        attackTurn: 3
+      - masterID: Enemy_Quadroped_Mk1
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyEarthWeapon 1_Blue
+        attackTurn: 0
+      - masterID: Enemy_Aero_Drone_Mk2
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyWaterWeapon 1_Blue
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: Enemy_Quadroped_Mk1
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyEarthWeapon 1_Blue
+        attackTurn: 3
+      - masterID: Enemy_Aero_Drone_Mk2
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyWaterWeapon 1_Blue
+        attackTurn: 3
+      - masterID: Enemy_Aero_Drone_Mk2
+        instanceID: 
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_EnemyWaterWeapon 1_Blue
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: Enemy_MegaArtilleryBot
+        instanceID: 1
+        level: 0
+        mintCount: 0
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          mining: 0
+          luck: 0
+          durability: 1
+        equipmentIDs:
+        - EquipmentItem_MegaArtilleryWeaponFire
+        attackTurn: 3
+  environment:
+    m_AssetGUID: 4c92da9e788fa7347baee2fa29c07928
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  matchGridEditorSavedLevelData: {fileID: 0}
+  totalMoveCount: 50
+  gaianiteCap: 10
+  stageBonus: 0.1
+  goalConditions: []

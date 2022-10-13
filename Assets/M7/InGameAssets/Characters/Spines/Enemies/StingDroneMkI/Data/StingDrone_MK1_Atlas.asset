@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: StingDrone_MK1_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 409c33f8e5117284e86cff33467d379d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 25036be7a8df21d458f6ad48aadc330c, type: 2}
+  - {fileID: 2100000, guid: 155ec5f490bb9b740b4f59a7ddf962c1, type: 2}
+  - {fileID: 2100000, guid: e9426b764a32e8344978061d3f9fe13b, type: 2}
+  - {fileID: 2100000, guid: f796ba7146d4e534f9607071fc4e8f9c, type: 2}
+  - {fileID: 2100000, guid: 295ffca99dabd2648961ff8c8c5080bb, type: 2}
+  - {fileID: 2100000, guid: ccf04999d4dd38e4697dd6caa92c78eb, type: 2}
+  - {fileID: 2100000, guid: f255a59b2d7b6b24783d36c3989622e6, type: 2}

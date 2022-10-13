@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/M7/Tools/Scripts/Editor/Skills/SkillsDashboardStyles.uss?fileID=7433441132597879392&amp;guid=fe55567de20669a4aa89237e43e03d74&amp;type=3#SkillsDashboardStyles" />
+    <ui:VisualElement name="main-container" style="flex-direction: column; flex-grow: 1; height: 100%;">
+        <uie:Toolbar name="toolbar">
+            <uie:ToolbarMenu display-tooltip-when-elided="true" text="New" name="new-skillobject-menu" />
+            <uie:ToolbarSpacer style="flex-grow: 1;" />
+            <uie:ToolbarButton text="Import" display-tooltip-when-elided="true" name="import-button" style="justify-content: center; align-items: center; -unity-text-align: middle-left;" />
+        </uie:Toolbar>
+        <ui:VisualElement name="main-content" style="flex-direction: row; flex-grow: 1; height: 100%;">
+            <SplitView fixed-pane-initial-dimension="200">
+                <ui:VisualElement style="min-width: 180px; width: 200px; max-width: 300px;">
+                    <uie:Toolbar>
+                        <uie:ToolbarSearchField focusable="true" name="search-field" style="width: 95%;" />
+                    </uie:Toolbar>
+                    <ui:ScrollView name="skills-list-container" style="flex-grow: 1;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="skill-details-container" style="flex-grow: 1;" />
+            </SplitView>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

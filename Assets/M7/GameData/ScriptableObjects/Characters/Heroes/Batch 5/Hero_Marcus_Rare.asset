@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Marcus_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Marcus
+    descriptionText: 
+    icon:
+      m_AssetGUID: ddfc4a16aa34e6347aac0e411499fd3d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 16135ff14f1f9a547a4f1a87d75c06b7
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: 6778e6dfc49dfd44b9a9f6a1e05e13a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 56d33e1884ead534299f00d83caaabd3
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bfc92cf0e46f0314983856ed00b5d155
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 568f95de50696164aafffdb7e45baec1
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 363e89147759b964eba70609d8e58cb2
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f8f8bf29c68da7748b74db2fa07b3acc
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a94c7d3b580d8ac4394412246198973e
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 011f1037a7300364482cbbb194b579aa
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60699f206349c4b41b0bdd76dc9cf275
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 57a4ab1055e22e04ea06c9196110f52f
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1535a5479d84a3a4f893ab70b7c42943
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f693954dee0a6ff4abecfdfa70638d0b
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12f5868e63af12e489691afec9a2e158
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3d562550aa9fa9b4892b1cb0cabaa1c6
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 55d99f257aa8c31478964dc73ccabae0
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 80a03b3e53d4ce442beaec9e64f92c4c
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fdc0230815b977b4b98944697a24f34a
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f32ba7245d3624040b45dbcba0855b53
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d8650eeda3a55d749a0c4ca27a0d1713
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 468b234638b408b4d9c3c9683981ac6c
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 23942de084756274693e4f253ad5421c
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6bed6958052e9634a98707220fec2977
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c94b843e3fd931d4287c0781e619c7ef
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2bb7585b36242204691a5459bff4d939
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 418845edc4bf3d743bcdcf3d62201b47
+        subObjectName: 
+      - assetName: 
+        objectTypeName: 
+        guid: 00000000000000000000000000000000
+        subObjectName: 
+      - assetName: 
+        objectTypeName: 
+        guid: 00000000000000000000000000000000
+        subObjectName: 
+      - assetName: 
+        objectTypeName: 
+        guid: 00000000000000000000000000000000
+        subObjectName: 
+      - assetName: 
+        objectTypeName: 
+        guid: 00000000000000000000000000000000
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 83879c85584b16843811b4a74328b160
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 49d665acb509e434a8e9d60e72d26b6a
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e87f237a7ec916440841a847734317c0
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5c2378c31712c604a89dde23500c5e2b
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2792b2d70788e084cbfc368863ee34ed
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b54a39edd30d7fb4db6c19dc2ac30c3a
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Marcus_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc0da16e2b8beee439f6322df39a04f2
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5c4ffa99ae4e40a4188c93223c56dc34
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9e37f5ba89d5f3f469a2047e4dce0316
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f0f02a47c402b1944a395a3626042696
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34d503528d4d22246a76860cde1d89a8
+        subObjectName: 
+      - assetName: EquipmentItem_Marcus_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4247dd06364dc0442bbf310ed7b3d2ee
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: b1b30b6ab90e279449ab061a6c7e638c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: dd94d3d2edd946c40b05af9711abff24, type: 2}

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5960736999149607964
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2120370072567462113}
+  - component: {fileID: 5996903179703260716}
+  m_Layer: 0
+  m_Name: PunManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2120370072567462113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960736999149607964}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5996903179703260716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960736999149607964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75556dd6532e0f44ba57be639006a1e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Client:
+    playerDisplayName: 
+    playerAvatarImageIndex: 0
+  Opponnet:
+    playerDisplayName: 
+    playerAvatarImageIndex: 0
+  ClientMMR:
+    MMR: 0
+    Rank: 
+  Player1NameText: {fileID: 0}
+  Player2NameText: {fileID: 0}
+  Player1Avatar: {fileID: 0}
+  Player2Avatar: {fileID: 0}
+  Player1: {fileID: 0}
+  Player2: {fileID: 0}
+  MainMenu: {fileID: 0}
+  WaitingRoom: {fileID: 0}
+  LoginPanel: {fileID: 0}
+  UsernameText: {fileID: 0}
+  Avatars:
+  - {fileID: 21300000, guid: 685b3dd6201ea7c4aa2c7d8eaa61e8ec, type: 3}
+  - {fileID: 21300000, guid: c00d7c92c2b119241ad5d0f39b704828, type: 3}
+  - {fileID: 21300000, guid: 7c9f137f7a0ec4a11b744bd399de8ba4, type: 3}
+  - {fileID: 21300000, guid: 2b4a865e1ba47e848b2fc95ef4128901, type: 3}
+  - {fileID: 21300000, guid: e3f944d372dc745ee819c69ba870c675, type: 3}
+  leaderBoard:
+    Board: []
+  gameverison: 1.0

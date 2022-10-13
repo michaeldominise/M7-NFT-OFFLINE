@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_LadyLuck_A06
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  iconSprite:
+    m_AssetGUID: 0bf351033b7e52f43b4d141eff0ad6da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: acc3b624ca402db45a2798bf3a1c2c50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: Jacket
+    slotKey: Jacket
+  - sprite:
+      m_AssetGUID: 392013c688c967f44b368ef40730d07c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: jacket_back
+    slotKey: jacket_back
+  - sprite:
+      m_AssetGUID: 5e034e336457d2f43965ecc209950785
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left_arm
+    slotKey: left_arm
+  - sprite:
+      m_AssetGUID: 4f1d53d5013884747b06646bf2e3360d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left_leg
+    slotKey: left_leg
+  - sprite:
+      m_AssetGUID: 97ff6eb94c4a2af41a2aac6a42308191
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: necktie
+    slotKey: necktie
+  - sprite:
+      m_AssetGUID: 3cc43f6a98b4b5f419a917792ae47821
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: ponytail
+    slotKey: ponytail
+  - sprite:
+      m_AssetGUID: a14ae23626489ac4d80996d83554dd43
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: Ponytail_back
+    slotKey: Ponytail_back
+  - sprite:
+      m_AssetGUID: efa37a8ec4e3802499cb4446e9bff37e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right_arm
+    slotKey: right_arm
+  - sprite:
+      m_AssetGUID: 092eaa55d83f47c45a7047b7848d5b18
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: rightleg
+    slotKey: rightleg
+  - sprite:
+      m_AssetGUID: 51baf97883462ea4a9abb47cab322a70
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: torso
+    slotKey: torso
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 1
+  isSubSpine: 0

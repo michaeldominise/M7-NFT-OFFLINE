@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: CorruptedDesertGuardBot_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 2ba5ed2745e7de7468f16865cce6461f, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ff3708e6bc632834499fdc3b4b66fd95, type: 2}
+  - {fileID: 2100000, guid: daf404dbc889cb04d8e5b2d6508cea78, type: 2}
+  - {fileID: 2100000, guid: 5f0079c5b23cd9e4e96849a9e1ce8fbd, type: 2}
+  - {fileID: 2100000, guid: 072ec8983dd4dee4daa1c9644fe14d2b, type: 2}

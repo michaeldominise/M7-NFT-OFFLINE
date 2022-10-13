@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f35a14d06db446a9aabad02a7a0210, type: 3}
+  m_Name: ComboIndicatorPVPPlayer
+  m_EditorClassIdentifier: 
+  multiplierSprites:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 9e36f930c3d344b60a22ef36d2120733, type: 3}
+  - {fileID: 21300000, guid: ffabcfee3552e49a9a59da5f8cd6b7d0, type: 3}
+  - {fileID: 21300000, guid: 102c108ad908149b9aaad04877dce93c, type: 3}
+  - {fileID: 21300000, guid: c3d860ca0819342eca63f4ad18dc2d4a, type: 3}
+  - {fileID: 21300000, guid: 6d54e96d90ef9f9438a897dafa61dcea, type: 3}
+  - {fileID: 21300000, guid: f03db936b2c98554f80a357cdf022372, type: 3}
+  - {fileID: 21300000, guid: 23e0fe4d2310c5a4586475ec94fbcf53, type: 3}
+  - {fileID: 21300000, guid: f41594eb507c0424daf0b6f4af729d9f, type: 3}
+  - {fileID: 21300000, guid: 4db19e3f74ee8504cb9d7ab7ab19582b, type: 3}
+  - {fileID: 21300000, guid: 6865c2903b6638843861615b638eedb8, type: 3}
+  multiplierComboSprites:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: f548e2045f1564e0c9a83ba9779b8b37, type: 3}
+  - {fileID: 21300000, guid: d7582de09a30643059a752938eab351b, type: 3}
+  - {fileID: 21300000, guid: b3aa1ebda1a844980b0a43a3248dffc1, type: 3}
+  - {fileID: 21300000, guid: 1af6362915aed4f2fbe21d12ce96fab8, type: 3}
+  - {fileID: 21300000, guid: 0d0d2bc3d964d4448bee36742f38a73d, type: 3}
+  - {fileID: 21300000, guid: 7f47c906589af4f1791462f1cccdda1b, type: 3}
+  - {fileID: 21300000, guid: deb296db59dd042ddbfba80d0167b9e5, type: 3}
+  - {fileID: 21300000, guid: efe1689d47bc9400b9e6ad43e239976b, type: 3}
+  - {fileID: 21300000, guid: 8c5de9203790144f6afee94c823845b3, type: 3}

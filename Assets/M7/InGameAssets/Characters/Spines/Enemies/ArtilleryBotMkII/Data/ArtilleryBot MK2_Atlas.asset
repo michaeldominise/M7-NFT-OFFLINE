@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: ArtilleryBot MK2_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 97cb0d8c9a542174a83af3c7d46d844e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 473d60febb97f854faafb57db709327f, type: 2}
+  - {fileID: 2100000, guid: 0f6574f4d1720024db1e100f97169258, type: 2}
+  - {fileID: 2100000, guid: 9d87b534c8cee6946a434a5177b702ad, type: 2}
+  - {fileID: 2100000, guid: 17acb4d3a5294e4478a9209f99e486d7, type: 2}
+  - {fileID: 2100000, guid: d3cb23606ce113540876c1cf75585453, type: 2}

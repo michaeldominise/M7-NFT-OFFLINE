@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Box">
+        <ui:VisualElement name="box-root" style="flex-grow: 1; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgba(0, 0, 0, 0.67); border-right-color: rgba(0, 0, 0, 0.67); border-top-color: rgba(0, 0, 0, 0.67); border-bottom-color: rgba(0, 0, 0, 0.67);">
+            <ui:VisualElement name="box-header" style="height: 30px; -unity-text-align: middle-left; justify-content: center; border-bottom-width: 1px; border-left-color: rgba(0, 0, 0, 0.67); border-right-color: rgba(0, 0, 0, 0.67); border-top-color: rgba(0, 0, 0, 0.67); border-bottom-color: rgba(0, 0, 0, 0.67); background-color: rgba(101, 101, 101, 255);">
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="header-label" style="margin-left: 8px; font-size: 14px; -unity-font-style: bold;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="box-content" style="flex-grow: 1; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding-bottom: 8px; background-color: rgba(75, 75, 75, 255);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

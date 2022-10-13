@@ -1,0 +1,1410 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &952204231461546855
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 952204231461546852}
+  - component: {fileID: 952204231461546853}
+  - component: {fileID: 5817825606636934400}
+  m_Layer: 11
+  m_Name: GridManagerTap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &952204231461546852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952204231461546855}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 952204232110199181}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &952204231461546853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952204231461546855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fsm:
+    dataVersion: 2
+    usedInTemplate: {fileID: 0}
+    name: FSM
+    startState: InitGrid
+    states:
+    - name: InitGrid
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 63.25
+        y: 234.78906
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: PopulateGrid
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.InitializeGrid
+        - M7.Match.PlaymakerActions.InitializeGrid
+        - M7.Match.PlaymakerActions.InitializeGrid
+        customNames:
+        - 
+        - 
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000300000006000000
+        actionHashCodes: 12a1870412a1870412a18704
+        unityObjectParams:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 000000000200000002000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 050000000500000007000000050000000500000007000000050000000500000007000000
+        paramName:
+        - matchGrid
+        - root
+        - neighborMode
+        - matchGrid
+        - root
+        - neighborMode
+        - matchGrid
+        - root
+        - neighborMode
+        paramDataPos: 000000000100000000000000020000000300000004000000040000000500000008000000
+        paramByteDataSize: 000000000000000004000000000000000000000004000000000000000000000004000000
+    - name: PopulateGrid
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 252.47656
+        y: 232.19531
+        width: 107
+        height: 32
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: SetupGridBackgroundBorders
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.PopulateGrid
+        - M7.Match.PlaymakerActions.PopulateGrid
+        - SpecialTileInstantiator
+        customNames:
+        - 
+        - 
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000400000008000000
+        actionHashCodes: 7d149f047d149f0400000000
+        unityObjectParams:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 11400000, guid: ff4482f320d34574aaceccec8e5d1e74, type: 2}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 11400000, guid: ff4482f320d34574aaceccec8e5d1e74, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 0000000000000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0500000005000000050000000700000005000000050000000500000007000000
+        paramName:
+        - matchGrid
+        - spawner
+        - baseTiles
+        - cellGridLocation
+        - matchGrid
+        - spawner
+        - baseTiles
+        - cellGridLocation
+        paramDataPos: 0000000001000000020000000000000003000000040000000500000004000000
+        paramByteDataSize: 0000000000000000000000000400000000000000000000000000000004000000
+    - name: TimerBasedMovement
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 927.5078
+        y: 265.41406
+        width: 163
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: WaitForTouchStartTimer
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.TimerBasedMovementAction
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: f9fe3401
+        unityObjectParams:
+        - {fileID: 0}
+        - {fileID: 0}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - 
+        - 
+        - 
+        - 
+        byteData: 0000000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0500000007000000010000000500000017000000170000001700000017000000
+        paramName:
+        - timerBasedMovementData
+        - timerType
+        - realTime
+        - outTouchedPoints
+        - onTimerEndEvent
+        - onTimerEndEventArena
+        - onActiveGridChanged
+        - onEndGameFinished
+        paramDataPos: 0000000000000000040000000100000000000000010000000200000003000000
+        paramByteDataSize: 0000000004000000010000000000000000000000000000000000000000000000
+    - name: ValidateGrid
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 719.91406
+        y: 234.73438
+        width: 109
+        height: 48
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnValidGrid
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: TimerBasedMovement
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnInvalidGrid
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: Shuffle
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.ScanPossibleMoves
+        - M7.Match.PlaymakerActions.ValidateGrid
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000002000000
+        actionHashCodes: fc0de8042ca62502
+        unityObjectParams:
+        - {fileID: 11400000, guid: fb80b487befea4c3ebf8933c31b0d091, type: 2}
+        - {fileID: 11400000, guid: fb80b487befea4c3ebf8933c31b0d091, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - OnValidGrid
+        - OnInvalidGrid
+        byteData: 01000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0500000007000000050000001700000017000000
+        paramName:
+        - possibleMoveList
+        - validateType
+        - possibleMoveList
+        - OnValidGrid
+        - OnInvalidGrid
+        paramDataPos: 0000000000000000010000000000000001000000
+        paramByteDataSize: 0000000004000000000000000000000000000000
+    - name: Shuffle
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 726.89844
+        y: 146.19531
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: ValidateGrid
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.ShuffleGrid
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 44e7c204
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.5
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 00
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0f00000001000000
+        paramName:
+        - time
+        - realTime
+        paramDataPos: 0000000000000000
+        paramByteDataSize: 0000000001000000
+    - name: WaitForTouchStartTimer
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1185.6094
+        y: 150.42188
+        width: 186
+        height: 112
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnTilesTouched
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: FindAllMatches
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnTimerEnd
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: 
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnTimerEndArena
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: GridOnMatchEnded
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnActiveGridChanged
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: ValidateGrid
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnSpecialSphereExecuted
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: GridOnMatchFirstExecuted
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnEndGameFinished
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: GridOnMatchFirstExecuted
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.WaitForTouchedTiles
+        - M7.Match.PlaymakerActions.StartHintCountdown
+        - M7.Match.PlaymakerActions.TimerBasedMovementAction
+        - M7.Match.PlaymakerActions.ExecuteSpecialSphereAction
+        customNames:
+        - 
+        - 
+        - 
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 0000000002000000040000000c000000
+        actionHashCodes: 0cc94a05facd5c05f9fe340188611604
+        unityObjectParams:
+        - {fileID: 11400000, guid: 20268ed4c75484ae4a82ec1c4c5ff337, type: 2}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 11400000, guid: 20268ed4c75484ae4a82ec1c4c5ff337, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - OnTilesTouched
+        - OnTimerEnd
+        - OnTimerEndArena
+        - OnActiveGridChanged
+        - OnEndGameFinished
+        - OnSpecialSphereExecuted
+        byteData: 000040400100000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 05000000170000000500000002000000050000000700000001000000050000001700000017000000170000001700000017000000
+        paramName:
+        - outTouchedPoints
+        - OnTouchedEvent
+        - hintManager
+        - countdownDuration
+        - timerBasedMovementData
+        - timerType
+        - realTime
+        - outTouchedPoints
+        - onTimerEndEvent
+        - onTimerEndEventArena
+        - onActiveGridChanged
+        - onEndGameFinished
+        - onExecuteEvent
+        paramDataPos: 00000000000000000100000000000000020000000400000008000000030000000100000002000000030000000400000005000000
+        paramByteDataSize: 00000000000000000000000004000000000000000400000001000000000000000000000000000000000000000000000000000000
+    - name: FindAllMatches
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1624.6953
+        y: 104.3125
+        width: 121
+        height: 48
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnFoundChain
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: GridOnMatchFirstExecuted
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnEmptyChain
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: WaitForTouchStartTimer
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.Wait
+        - M7.Match.PlaymakerActions.FindChains
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000003000000
+        actionHashCodes: 48c011012f62e405
+        unityObjectParams:
+        - {fileID: 11400000, guid: 75183cdd6495a8b4e912bde74c996d59, type: 2}
+        - {fileID: 11400000, guid: 20268ed4c75484ae4a82ec1c4c5ff337, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.01
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - 
+        - OnFoundChain
+        - OnEmptyChain
+        byteData: 000100000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0f0000001700000001000000050000000500000017000000170000000700000011000000110000001100000001000000
+        paramName:
+        - time
+        - finishEvent
+        - realTime
+        - chainMethod
+        - touchedPoints
+        - OnFoundChain
+        - OnEmptyChain
+        - findType
+        - executeOnMatchSwipe
+        - matchIndicatorClearDamage
+        - broadcastMatchResult
+        - dontAddChain
+        paramDataPos: 000000000000000000000000000000000100000001000000020000000100000000000000010000000200000005000000
+        paramByteDataSize: 000000000000000001000000000000000000000000000000000000000400000000000000000000000000000001000000
+    - name: GridOnMatchFirstExecuted
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 2017.4453
+        y: 253.79688
+        width: 190
+        height: 32
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: WaitCellStopedMoving
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.GridOnMatchEvents
+        - M7.Match.PlaymakerActions.GridOnMatchEvents
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000002000000
+        actionHashCodes: f726a005f726a005
+        unityObjectParams:
+        - {fileID: 11400000, guid: 9d5e14f0acec442559db6187d7dbf940, type: 2}
+        - {fileID: 11400000, guid: 9d5e14f0acec442559db6187d7dbf940, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 0100000002000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 07000000050000000700000005000000
+        paramName:
+        - type
+        - chainList
+        - type
+        - chainList
+        paramDataPos: 00000000000000000400000001000000
+        paramByteDataSize: 04000000000000000400000000000000
+    - name: WaitCellStopedMoving
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1973.5703
+        y: 351.5703
+        width: 165
+        height: 32
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnTilesStopped
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: GridOnMatchEnded
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.WaitWhileAnyTileMoving
+        - M7.Match.PlaymakerActions.WaitUntilSkillQueueFinished
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000001000000
+        actionHashCodes: 8861160400000000
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - OnTilesStopped
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 17000000
+        paramName:
+        - OnTilesFinishedMoving
+        paramDataPos: 00000000
+        paramByteDataSize: 00000000
+    - name: GridOnMatchEnded
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1872.8828
+        y: 431.6328
+        width: 145
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: ExecuteSpecialSphereActionExecute
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.GridOnMatchEvents
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: f726a005
+        unityObjectParams:
+        - {fileID: 11400000, guid: 9d5e14f0acec442559db6187d7dbf940, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 03000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0700000005000000
+        paramName:
+        - type
+        - chainList
+        paramDataPos: 0000000000000000
+        paramByteDataSize: 0400000000000000
+    - name: SetupGridBackgroundBorders
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 419.1328
+        y: 230.98438
+        width: 208
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: ValidateGrid
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.SetupGridBackground
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 9adc0004
+        unityObjectParams:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 050000000500000005000000
+        paramName:
+        - matchGrid
+        - bgBorderHandler
+        - fgBorderHandler
+        paramDataPos: 000000000100000002000000
+        paramByteDataSize: 000000000000000000000000
+    - name: SetEndTurnState
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1165.1406
+        y: 438.39844
+        width: 131
+        height: 32
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: TimerBasedMovement
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.SetEndTurnState
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 00000000
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 
+        paramName: []
+        paramDataPos: 
+        paramByteDataSize: 
+    - name: ValidateGrid 3
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1759.7812
+        y: 596.84375
+        width: 115
+        height: 48
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnValidGrid
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: ExecuteSpecialSphereActionExecute
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: OnInvalidGrid
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: Shuffle 3
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.ScanPossibleMoves
+        - M7.Match.PlaymakerActions.ValidateGrid
+        customNames:
+        - Scan Possible Moves
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000002000000
+        actionHashCodes: fc0de8042ca62502
+        unityObjectParams:
+        - {fileID: 11400000, guid: fb80b487befea4c3ebf8933c31b0d091, type: 2}
+        - {fileID: 11400000, guid: fb80b487befea4c3ebf8933c31b0d091, type: 2}
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - OnValidGrid
+        - OnInvalidGrid
+        byteData: 01000000
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0500000007000000050000001700000017000000
+        paramName:
+        - possibleMoveList
+        - validateType
+        - possibleMoveList
+        - OnValidGrid
+        - OnInvalidGrid
+        paramDataPos: 0000000000000000010000000000000001000000
+        paramByteDataSize: 0000000004000000000000000000000000000000
+    - name: Shuffle 3
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1514.125
+        y: 485.91406
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: ValidateGrid 3
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.ShuffleGrid
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 44e7c204
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.5
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 00
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0f00000001000000
+        paramName:
+        - time
+        - realTime
+        paramDataPos: 0000000000000000
+        paramByteDataSize: 0000000001000000
+    - name: ExecuteSpecialSphereActionExecute
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 1358.5312
+        y: 595.85156
+        width: 247
+        height: 32
+      isBreakpoint: 0
+      isSequence: 1
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: OnExecuteAttackFinish
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: SetEndTurnState
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - M7.Match.PlaymakerActions.DelayedExecuteAttack
+        customNames:
+        - Delayed Execute Attack
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 88611604
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - OnExecuteAttackFinish
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 17000000
+        paramName:
+        - OnExecuteAttackFinish
+        paramDataPos: 00000000
+        paramByteDataSize: 00000000
+    events:
+    - name: FINISHED
+      isSystemEvent: 1
+      isGlobal: 0
+    - name: TRIGGER STAY
+      isSystemEvent: 1
+      isGlobal: 0
+    - name: OnActiveGridChanged
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnDeathAnimFinished
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnEmptyChain
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnEndGameFinished
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnExecuteAttackFinish
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnFoundChain
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnInvalidGrid
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnSpecialSphereExecuted
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnTilesStopped
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnTilesTouched
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnTimerEnd
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnTimerEndArena
+      isSystemEvent: 0
+      isGlobal: 0
+    - name: OnValidGrid
+      isSystemEvent: 0
+      isGlobal: 0
+    globalTransitions: []
+    variables:
+      floatVariables: []
+      intVariables: []
+      boolVariables: []
+      stringVariables: []
+      vector2Variables: []
+      vector3Variables: []
+      colorVariables: []
+      rectVariables: []
+      quaternionVariables: []
+      gameObjectVariables: []
+      objectVariables: []
+      materialVariables: []
+      textureVariables: []
+      arrayVariables: []
+      enumVariables: []
+      categories:
+      - 
+      variableCategoryIDs: 
+    description: 
+    docUrl: 
+    showStateLabel: 0
+    maxLoopCount: 0
+    watermark: 
+    password: 
+    locked: 0
+    manualUpdate: 0
+    keepDelayedEventsOnStateExit: 0
+    preprocessed: 0
+    ExposedEvents: []
+    RestartOnEnable: 1
+    EnableDebugFlow: 0
+    EnableBreakpoints: 1
+    editorFlags: 225
+    activeStateName: 
+    mouseEvents: 0
+    handleLevelLoaded: 0
+    handleTriggerEnter2D: 0
+    handleTriggerExit2D: 0
+    handleTriggerStay2D: 0
+    handleCollisionEnter2D: 0
+    handleCollisionExit2D: 0
+    handleCollisionStay2D: 0
+    handleTriggerEnter: 0
+    handleTriggerExit: 0
+    handleTriggerStay: 0
+    handleCollisionEnter: 0
+    handleCollisionExit: 0
+    handleCollisionStay: 0
+    handleParticleCollision: 0
+    handleControllerColliderHit: 0
+    handleJointBreak: 0
+    handleJointBreak2D: 0
+    handleOnGUI: 0
+    handleFixedUpdate: 0
+    handleLateUpdate: 0
+    handleApplicationEvents: 0
+    handleUiEvents: 0
+    handleLegacyNetworking: 0
+    handleAnimatorMove: 0
+    handleAnimatorIK: 0
+  fsmTemplate: {fileID: 0}
+  eventHandlerComponentsAdded: 1
+--- !u!114 &5817825606636934400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952204231461546855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -104615663, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetFSMs:
+  - {fileID: 952204231461546853}
+--- !u!1 &952204232110199180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 952204232110199181}
+  - component: {fileID: 952204232110199218}
+  m_Layer: 0
+  m_Name: PlayMakerGUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &952204232110199181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952204232110199180}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 3.0488892, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 952204231461546852}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &952204232110199218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952204232110199180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -73581967, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  previewOnGUI: 1
+  enableGUILayout: 0
+  drawStateLabels: 1
+  enableStateLabelsInBuilds: 0
+  GUITextureStateLabels: 0
+  GUITextStateLabels: 0
+  filterLabelsWithDistance: 0
+  maxLabelDistance: 10
+  controlMouseCursor: 1
+  labelScale: 1

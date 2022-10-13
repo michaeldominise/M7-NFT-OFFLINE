@@ -1,0 +1,40 @@
+CENTIBOT.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+BODY
+bounds:2,2,525,303
+JAW
+bounds:358,307,423,327
+Layer 100
+bounds:238,654,118,100
+Layer 107
+bounds:498,636,284,118
+Layer 108
+bounds:2,660,234,94
+Layer 99
+bounds:358,648,138,106
+offsets:1,0,139,106
+RIGHT LEG 1
+bounds:784,603,151,186
+rotate:90
+TUBE THINGY
+bounds:2,512,354,140
+
+CENTIBOT_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+CHEST
+bounds:2,2,499,514
+rotate:90
+
+CENTIBOT_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+HEAD
+bounds:2,2,598,569

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lily_Animation_Controller
+  m_Controller: {fileID: 9100000, guid: decd4c20a1979c749a8a0a08efb81a88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 9146531902742547347, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -3208548038006657738, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: -5606539013438704022, guid: 5ee1eddc9346fdc4eb4fe77291e6c1ac, type: 2}
+    m_OverrideClip: {fileID: -8380078592878050497, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: -3760644281336881268, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -4503638693157686086, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: 2900425966320157111, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 2367874227777082083, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: -3334444367521475222, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -4706678897159346815, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: 3081813404227013163, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -4686945951330029447, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}
+  - m_OriginalClip: {fileID: 2049409672310465941, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -5561941710173895552, guid: 32634ff4aea49ab44b0712173c99d8fc, type: 2}

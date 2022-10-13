@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Tink_Uncommon
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Tink
+    descriptionText: 
+    icon:
+      m_AssetGUID: 6cb93a63a9218fb4bbe118c8a40754b5
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 30c4ec8cf424570488b2654e5a2d5b40
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 2
+    mainSpine:
+      m_AssetGUID: 858d1b21a62a51a4b80d8ba1d97768b2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b03daeeb47eb5d641b8a5c342c0e2212
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2efc204f91b94554ba930f795654db45
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 831202ab39492554ab72465cdeff274d
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2d4caf1ff735f434b8a7b9cd0b22d789
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92f820f8d79e2a247a0dcf063a88f111
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c33306b9a97e8da49b423b98f22ef145
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f09d3a7ad75e435429da13c1d2e7609c
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a74dcfdfad6094c47a0e9727fc60a361
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f86086295695169459e8505174de2a8e
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 07bdec69bfd696645857c19cb26a6b9c
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cdfb3808540351a41984b6e8d0d2ba8e
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e2d8ead4c5f041e4fb511c3117832cf9
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0bcfec1df6994704b952cb2f1d3a4eb3
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2bf7662155536ec4fa1c42f5e5d239b2
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 00f80f3eeed27a540af41013ce020f0d
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be7e88d84579acd4288ed755ac342e16
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18d8ab9d2d80ee54696712867e67b599
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6038378c83bc8fb449ab3cacbac0d921
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0440859131d599840a853c291f05315e
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 28fd1f4b05c05384491bf81fb95302ec
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1e46f17ff550e7745b70f618b3615062
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0dfaafe1e6d963c43b936896f59cd674
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e38055b05bbd504faad16f24bb0026e
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c6d991a44b6711043b852fc7a556504f
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 31358544c12bfa549ad0e1a2a99a15f2
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 776bbb9f04c16224a89f9c056e8e94e2
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 52981a823c44ce14582d7e1dc3bcd134
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 57450321f610e7a49a81337b2ae79b72
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8cc8984e6cb4c1647a9d4ca98840a59d
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 978e83d3e10df99408cde9bacb3e01c9
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Tink_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c4aa956663d5e6245a84e80ea32e3d4f
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bab55e2a7f179834091c96fe67a4d551
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb2563a992ce7174a96fc5b9287cae92
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9d3449dab43fd304f90c3f81901474d8
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4b2a80d46413f6c47a9668194ab0be1f
+        subObjectName: 
+      - assetName: EquipmentItem_Tink_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 995ca169bd9f9534a93077c444b8d0fe
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: ec7fe27aa6b96784fa3e0e64dd2ab355
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 215a5cfba97c37641b292198da6298ec, type: 2}

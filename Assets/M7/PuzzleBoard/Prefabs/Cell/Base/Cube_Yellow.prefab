@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4739524217507537799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4729853876062387378}
+  - component: {fileID: 3813250855098491185}
+  m_Layer: 0
+  m_Name: Cube_Yellow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4729853876062387378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4739524217507537799}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3813250855098491185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4739524217507537799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b78af66ac9c544439cc54de616d78d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileName: Yellow Cube
+  prefab: {fileID: 1923970204287494, guid: 004731f069da5428ca45f99998fa49d5, type: 3}
+  tileDimension: {x: 1, y: 1}
+  sprite: {fileID: 21300000, guid: e07858c0137530e4fa1c73ab1cc259f2, type: 3}
+  subSprite: {fileID: 0}
+  iconSprite: {fileID: 21300000, guid: 5f448852b28e92b48be209cd73ada948, type: 3}
+  hpBasedIconSprite: []
+  isTouchable: 1
+  isStatic: 0
+  isMatchable: 1
+  isVisible: 1
+  isDestroyable: 1
+  startingHp: 1
+  damageConditions:
+  - {fileID: -7247338733729833242, guid: 42758d4fa2b28be4f9aabf0f2fa00909, type: 3}
+  elementType: 2
+  baseColor: {r: 0.9245283, g: 0.7318522, b: 0.17880027, a: 1}
+  gridLocation: 0
+  specialTileCategory: 0
+  touchSkillOject: {fileID: 0}

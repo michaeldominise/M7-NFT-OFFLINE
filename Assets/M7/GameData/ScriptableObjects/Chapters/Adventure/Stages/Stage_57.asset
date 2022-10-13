@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2628730dd86778a43b5a3f74fd739d9e, type: 3}
+  m_Name: Stage_57
+  m_EditorClassIdentifier: 
+  gameMode: 0
+  teamData:
+    teamName: Default
+    waves:
+    - saveableCharacters:
+      - masterID: Enemy_AeroDrone_MkII_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 235
+          attack: 230
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_AeroDrone_MkII_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 235
+          attack: 230
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_Incinerator_Bot_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_Incinerator_Bot_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+    - saveableCharacters:
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: 
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_MechBandit_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_AeroDrone_MkII_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 235
+          attack: 230
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_MechBandit_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+    - saveableCharacters:
+      - masterID: Enemy_MechBandit_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_MechBandit_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 250
+          attack: 240
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_QuadruBot_Frost_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 240
+          attack: 250
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_QuadruBot_Frost_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 240
+          attack: 250
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_QuadruBot_Frost_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 240
+          attack: 250
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        equipmentIDs: []
+        attackTurn: 3
+  environment:
+    m_AssetGUID: fafe275772844fa4fbd9127305e20f3a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  matchGridEditorSavedLevelData: {fileID: 11400000, guid: 19099e2962f6a71458eba654afd67676, type: 2}
+  totalMoveCount: 29
+  goalConditions: []

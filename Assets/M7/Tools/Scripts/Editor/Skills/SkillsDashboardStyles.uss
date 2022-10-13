@@ -1,0 +1,38 @@
+#tabs {
+    flex-basis: 10%;
+    flex-direction: row;
+    background-color: rgb(229, 223, 223);
+    font-size: 12px;
+    -unity-font-style: bold;
+    font-size: 14px;
+}
+
+.tab {
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.currentlySelectedTab {
+    background-color: rgb(173, 166, 166);
+}
+
+#tabContent {
+    flex-basis: 90%;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.unselectedContent {
+    display: none;
+}
+
+.skill-item {
+}
+
+.skill-item:hover {
+    background-color: rgba(44, 93, 135, 0.78);
+}
+
+.skill-item-selected {
+    background-color: rgb(44, 93, 135);
+}

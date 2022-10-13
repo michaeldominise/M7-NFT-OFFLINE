@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86068a00e163fc74b94576a854f7f708, type: 3}
+  m_Name: MinterNFTData
+  m_EditorClassIdentifier: 
+  name: HERO #0000002
+  description: Genesis NFT Hero, use it in M7 Puzzle RPG
+  image: 
+  external_url: https://murasaki7.com
+  attributes:
+  - trait_type: Hero Name
+    value: Ellie
+  - trait_type: Hero type
+    value: Fire
+  - trait_type: Hero Rarity
+    value: Common
+  - trait_type: Level
+    value: 0
+  - trait_type: Hero-minting Count
+    value: 0/7
+  - trait_type: Attack
+    value: 1
+  - trait_type: Luck
+    value: 9
+  - trait_type: Passion
+    value: 6
+  - trait_type: HP
+    value: 4
+  - trait_type: Socket 1
+    value: Hp/locked/empty
+  - trait_type: Socket 2
+    value: Hp/locked/empty
+  - trait_type: Socket 3
+    value: Hp/locked/empty
+  - trait_type: Socket 4
+    value: Passion/locked/empty

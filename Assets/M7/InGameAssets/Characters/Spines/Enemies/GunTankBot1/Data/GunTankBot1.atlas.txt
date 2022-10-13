@@ -1,0 +1,49 @@
+GunTankBot1.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+GunTankBot1/arm L
+bounds:2,2,369,314
+GunTankBot1/arm R
+bounds:2,318,370,287
+GunTankBot1/body part A
+bounds:2,828,142,107
+offsets:1,1,144,109
+GunTankBot1/hip
+bounds:641,802,192,133
+offsets:1,1,194,135
+GunTankBot1/leg L
+bounds:362,803,277,132
+offsets:1,1,279,134
+GunTankBot1/leg R
+bounds:362,803,277,132
+offsets:1,1,279,134
+GunTankBot1/shoulder L
+bounds:374,204,312,364
+offsets:1,1,314,366
+rotate:90
+GunTankBot1/shoulder R
+bounds:492,518,282,356
+offsets:1,1,284,358
+rotate:90
+GunTankBot1/thigh L
+bounds:146,809,214,126
+GunTankBot1/thigh R
+bounds:146,809,214,126
+GunTankBot1/top side gun
+bounds:2,607,488,194
+offsets:1,1,490,196
+
+GunTankBot1_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+GunTankBot1/body
+bounds:2,2,617,459
+offsets:1,1,619,461
+GunTankBot1/head
+bounds:621,87,374,347
+offsets:1,1,376,349
+rotate:90

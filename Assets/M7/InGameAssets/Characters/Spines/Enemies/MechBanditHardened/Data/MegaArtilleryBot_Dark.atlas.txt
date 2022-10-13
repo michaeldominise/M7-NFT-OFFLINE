@@ -1,0 +1,263 @@
+MegaArtilleryBot_Dark.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/antenna
+bounds:2,957,35,86
+rotate:90
+Earth/antenna
+bounds:2,957,35,86
+rotate:90
+Fire/antenna
+bounds:2,957,35,86
+rotate:90
+Light/antenna
+bounds:2,957,35,86
+rotate:90
+Water/antenna
+bounds:2,957,35,86
+rotate:90
+Dark/bottom middle
+bounds:2,53,277,192
+offsets:0,0,277,193
+Dark/handle
+bounds:90,952,95,40
+Fire/handle
+bounds:90,952,95,40
+Light/handle
+bounds:90,952,95,40
+Water/handle
+bounds:90,952,95,40
+Dark/leg A parts A
+bounds:479,755,83,160
+rotate:90
+Dark/leg A parts B
+bounds:2,250,143,196
+rotate:90
+Dark/leg A parts C
+bounds:449,925,67,74
+rotate:90
+Earth/leg A parts C
+bounds:449,925,67,74
+rotate:90
+Fire/leg A parts C
+bounds:449,925,67,74
+rotate:90
+Light/leg A parts C
+bounds:449,925,67,74
+rotate:90
+Water/leg A parts C
+bounds:449,925,67,74
+rotate:90
+Dark/leg B parts A
+bounds:179,395,173,137
+Dark/leg B parts B
+bounds:707,657,127,93
+Earth/leg B parts B
+bounds:707,657,127,93
+Fire/leg B parts B
+bounds:707,657,127,93
+Light/leg B parts B
+bounds:707,657,127,93
+Water/leg B parts B
+bounds:707,657,127,93
+Dark/leg B parts C
+bounds:2,709,84,125
+rotate:90
+Fire/leg B parts C
+bounds:2,709,84,125
+rotate:90
+Dark/leg C parts A
+bounds:298,534,175,133
+Dark/leg C parts B
+bounds:230,864,97,77
+Fire/leg C parts B
+bounds:230,864,97,77
+Light/leg C parts B
+bounds:230,864,97,77
+Water/leg C parts B
+bounds:230,864,97,77
+Dark/leg C parts C
+bounds:836,651,99,146
+rotate:90
+Fire/leg C parts C
+bounds:836,651,99,146
+rotate:90
+Dark/leg D parts A
+bounds:284,943,49,85
+rotate:90
+Earth/leg D parts A
+bounds:284,943,49,85
+rotate:90
+Fire/leg D parts A
+bounds:284,943,49,85
+rotate:90
+Light/leg D parts A
+bounds:284,943,49,85
+rotate:90
+Water/leg D parts A
+bounds:284,943,49,85
+rotate:90
+Dark/leg D parts B
+bounds:371,936,56,76
+rotate:90
+Earth/leg D parts B
+bounds:371,936,56,76
+rotate:90
+Fire/leg D parts B
+bounds:371,936,56,76
+rotate:90
+Light/leg D parts B
+bounds:371,936,56,76
+rotate:90
+Water/leg D parts B
+bounds:371,936,56,76
+rotate:90
+Dark/leg D parts C
+bounds:656,837,78,157
+offsets:0,1,78,158
+rotate:90
+Dark/mini gun
+bounds:525,917,226,75
+offsets:0,0,227,75
+Earth/bottom middle
+bounds:281,44,277,192
+offsets:0,0,277,193
+Earth/handle
+bounds:187,952,95,40
+Earth/leg A parts A
+bounds:641,752,83,160
+rotate:90
+Earth/leg A parts B
+bounds:200,247,143,196
+rotate:90
+Earth/leg B parts A
+bounds:354,392,173,137
+Earth/leg B parts C
+bounds:453,669,84,125
+rotate:90
+Light/leg B parts C
+bounds:453,669,84,125
+rotate:90
+Earth/leg C parts A
+bounds:475,531,175,133
+Earth/leg C parts B
+bounds:329,857,97,77
+Earth/leg C parts C
+bounds:2,598,99,146
+rotate:90
+Light/leg C parts C
+bounds:2,598,99,146
+rotate:90
+Earth/leg D parts C
+bounds:815,837,78,157
+offsets:0,1,78,158
+rotate:90
+Earth/mini gun
+bounds:753,917,226,75
+offsets:0,0,227,75
+Fire/bottom middle
+bounds:560,2,277,192
+offsets:0,0,277,193
+Fire/leg A parts A
+bounds:803,752,83,160
+rotate:90
+Fire/leg A parts B
+bounds:398,238,143,196
+rotate:90
+Fire/leg B parts A
+bounds:529,383,173,137
+Fire/leg C parts A
+bounds:652,522,175,133
+Fire/leg D parts C
+bounds:2,795,78,157
+offsets:0,1,78,158
+rotate:90
+Fire/mini gun
+bounds:2,875,226,75
+offsets:0,0,227,75
+Water/mini gun
+bounds:2,875,226,75
+offsets:0,0,227,75
+Light/leg A parts A
+bounds:129,699,83,160
+rotate:90
+Light/leg A parts B
+bounds:596,232,143,196
+rotate:90
+Light/leg B parts A
+bounds:704,377,173,137
+Light/leg C parts A
+bounds:829,516,175,133
+Light/leg D parts C
+bounds:161,784,78,157
+offsets:0,1,78,158
+rotate:90
+Light/mini gun
+bounds:428,840,226,75
+offsets:0,0,227,75
+Water/leg A parts A
+bounds:291,675,83,160
+rotate:90
+Water/leg A parts B
+bounds:794,196,143,196
+rotate:90
+Water/leg B parts A
+bounds:879,341,173,137
+rotate:90
+Water/leg B parts C
+bounds:580,666,84,125
+rotate:90
+Water/leg C parts A
+bounds:2,439,175,133
+Water/leg C parts C
+bounds:150,574,99,146
+rotate:90
+Water/leg D parts C
+bounds:320,760,78,157
+offsets:0,1,78,158
+rotate:90
+
+MegaArtilleryBot_Dark_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/middle part
+bounds:559,474,438,204
+rotate:90
+Dark/upper gun
+bounds:2,721,555,191
+Earth/middle part
+bounds:195,281,438,204
+rotate:90
+Earth/upper gun
+bounds:2,164,555,191
+rotate:90
+Fire/middle part
+bounds:401,268,438,204
+Fire/upper gun
+bounds:389,75,555,191
+Light/bottom middle
+bounds:195,2,277,192
+offsets:0,0,277,193
+rotate:90
+Light/middle part
+bounds:765,474,438,204
+rotate:90
+
+MegaArtilleryBot_Dark_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Light/upper gun
+bounds:2,209,555,191
+Water/bottom middle
+bounds:559,208,277,192
+offsets:0,0,277,193
+Water/middle part
+bounds:559,2,438,204
+Water/upper gun
+bounds:2,16,555,191

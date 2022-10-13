@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: infantrybot bandit_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 3f20dd0e93ceac0429eb77e9859e6679, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 64b50bb3462727541923eea1fbacc71c, type: 2}
+  - {fileID: 2100000, guid: f4d9251b300fa1d43ad14c56cd04ec99, type: 2}
+  - {fileID: 2100000, guid: a9c3768d5a3c8af44a9876c07bb2db9a, type: 2}
+  - {fileID: 2100000, guid: c8303466b6d9d0b42a7a142916143986, type: 2}
+  - {fileID: 2100000, guid: d58e439f6f12e214788351bfcccffd97, type: 2}
+  - {fileID: 2100000, guid: 7d88ad3e74567694dac572489d976dcd, type: 2}
+  - {fileID: 2100000, guid: be2077b0725b7cc41a0cb5db3f6aa47d, type: 2}

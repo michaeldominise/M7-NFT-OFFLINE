@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: HammerheadStormBot_Dark_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: cc81e5b4d39f7c1468b3ec44a0037134, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 0f90a9fd192f02a40af71fce2fec57c0, type: 2}
+  - {fileID: 2100000, guid: 16b8f54f8b35587469dc17732d06cb31, type: 2}
+  - {fileID: 2100000, guid: 2d23703fd3256e64fa16471010b164f2, type: 2}
+  - {fileID: 2100000, guid: a4daebdd29eb12d4db3659695ff4dde0, type: 2}

@@ -1,0 +1,434 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2628730dd86778a43b5a3f74fd739d9e, type: 3}
+  m_Name: Stage_185
+  m_EditorClassIdentifier: 
+  gameMode: 0
+  teamData:
+    teamName: Default
+    waves:
+    - saveableCharacters:
+      - masterID: Enemy_MechBandit_Hardened_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 650
+          attack: 635
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_MechBandit_Hardened_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 650
+          attack: 635
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_SentryBot_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 635
+          attack: 650
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_StingDrone_MkII_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_SentryBot_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 635
+          attack: 650
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: Enemy_AeroDrone_MkII_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_AeroDrone_MkII_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_Cannon_Bot_Earth
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 635
+          attack: 650
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_SentryBot_Fire
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 635
+          attack: 650
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+      - masterID: Enemy_Cannon_Bot_Earth
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 635
+          attack: 650
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 3
+    - saveableCharacters:
+      - masterID: Enemy_Corrupted_GuardBot_MkII_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 650
+          attack: 635
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_Corrupted_GuardBot_MkII_Dark
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 650
+          attack: 635
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 2
+      - masterID: Enemy_StingDrone_MkII_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_StingDrone_MkII_Light
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+      - masterID: Enemy_StingDrone_MkII_Water
+        instanceID: 
+        displayName: 
+        mintCount: 0
+        level: 0
+        availableStatsPoints: 0
+        baseStats:
+          hp: 10
+          attack: 10
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        saveableStats:
+          hp: 630
+          attack: 625
+          defense: 0
+          passion: 0
+          luck: 0
+          durability: 1
+        ancestorData:
+          parentIDs: []
+          grandParentIDs: []
+        sockets: []
+        isNFT: 0
+        equipmentIDs: []
+        attackTurn: 1
+  environment:
+    m_AssetGUID: 62cb22e6e3046214eaeadca81bc5c3f6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  matchGridEditorSavedLevelData: {fileID: 11400000, guid: 19099e2962f6a71458eba654afd67676, type: 2}
+  totalMoveCount: 26
+  goalConditions: []

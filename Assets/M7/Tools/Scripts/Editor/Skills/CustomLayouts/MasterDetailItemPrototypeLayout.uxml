@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="MasterDetailItemPrototype" style="flex-direction: row; height: auto; background-color: rgb(88, 88, 88);">
+        <ui:VisualElement name="content-container" style="flex-grow: 1; min-height: 45px;">
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="item-label" style="flex-grow: 1; -unity-text-align: middle-left;" />
+        </ui:VisualElement>
+        <ui:Button text="&gt;" display-tooltip-when-elided="true" name="open-button" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; border-left-width: 1px; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-left-color: rgb(79, 79, 79);" />
+    </ui:VisualElement>
+</ui:UXML>

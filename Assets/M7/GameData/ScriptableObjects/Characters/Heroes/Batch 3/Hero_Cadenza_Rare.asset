@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Cadenza_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 5b3e8d81ada42d745aa3ca3c40c40535, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Cadenza
+    descriptionText: 
+    icon:
+      m_AssetGUID: 2bcb344c79755594e965b20b1ab1905f
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 00848668ea7269c4cabf1783b7763321
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: 4aa6110c04264fc448fc8d1f6ce717e6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 135dca11c891b9e43bca3a50666817df
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10e89192450284a49b7fdf94d3510a19
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 57a378cc34c62f04cbc287cccffa7834
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 299e89222fd5890488caaeffa1e2a798
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d87bfb9b2b6063244895b53d7e86f40f
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8036458c8d1268548aa4568d4167c546
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c22e280141a11b943aa9d5e3cda7a563
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3a0a0004860f24489d93698961136ce
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f00271b4361c6d4f920a33d0a82155f
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 098876edda81fd9418ceb36ff389496f
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 70daab5187b1339468bc97396f5d8609
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b05f63f4c27e3d24ba7bc035de27759f
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3952c8b8c4d51894b88a7740dd6f30f0
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 94a71ea49772a8240b8cda587dd095a2
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92cf2b13de3589442a8c67881e89337d
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ed9de261ce4a63d4da3e746a3abf18d0
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a763fb9e1947e3d48a49a2f97ca17224
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7fedb4b0db7156b4f817d42c31b74713
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a8155adf25d49b8419dd43d29f3f6b77
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bce043a337fcafa4a9394727bc956e98
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cb949a358639adf4daeefb7c7b4507a5
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3346621dec8ab140ab5de8b34c12b25
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5fc06b9fd33953b4cbc24aab1a4054b9
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f389a7b44c6a2514b982dfe2fe4bf501
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f132bf57180ed9046a841bc28fef5a9a
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cb0f43fe34e6584448a25c7f83aee36c
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86d45c4099e60404292b1e4efc5e4cf4
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aec58f2b96858eb4b81f1e431a311150
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 74ff102059d12734791a1591de7ea5e9
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5869764a306caa14499e9a9a8f479613
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Cadenza_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c249a233102e04c42afd3d7061781737
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8d90f5aeeebdadc46b4df00f90624bd4
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 058053536aa61294f94567c17bd9eccd
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fe9f9d1970b725448b46d371ce9bc5ba
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f529d30fc98ee6c4299cc72b1f70a610
+        subObjectName: 
+      - assetName: EquipmentItem_Cadenza_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fb115fcd201378742a5cee4240a29447
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: fa3c9709899dddc41942797ace299054
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 8d58ed249d5cf71499581c1bfeabb75d, type: 2}

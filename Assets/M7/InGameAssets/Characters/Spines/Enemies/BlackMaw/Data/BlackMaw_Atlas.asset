@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: BlackMaw_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 9a68956a13c07034b89eb404726764cf, type: 3}
+  materials:
+  - {fileID: 2100000, guid: b7be33f206dfb2048b35d119c330e2a3, type: 2}
+  - {fileID: 2100000, guid: 66d54a1aa88f0b14faabcccf9a3f62a8, type: 2}
+  - {fileID: 2100000, guid: cbe09b742849b53438c929b859437491, type: 2}
+  - {fileID: 2100000, guid: 4b08b1aaedb121e4dbfb9f8d6fbce675, type: 2}

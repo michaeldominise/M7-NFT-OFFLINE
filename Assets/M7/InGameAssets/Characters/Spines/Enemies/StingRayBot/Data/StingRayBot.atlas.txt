@@ -1,0 +1,31 @@
+StingRayBot.png
+size:312,152
+filter:Linear,Linear
+pma:true
+scale:0.1
+body
+bounds:171,59,91,83
+offsets:0,0,93,83
+rotate:90
+fin L
+bounds:109,29,121,62
+rotate:90
+fin R
+bounds:254,66,84,58
+rotate:90
+fin top
+bounds:109,0,29,40
+rotate:90
+head
+bounds:0,22,128,109
+rotate:90
+tail part A
+bounds:196,0,72,59
+tail part B
+bounds:149,1,28,47
+rotate:90
+tail part C
+bounds:21,1,40,21
+tail part D
+bounds:0,0,22,21
+rotate:90

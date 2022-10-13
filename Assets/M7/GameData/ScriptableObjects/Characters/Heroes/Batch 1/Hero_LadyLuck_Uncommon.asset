@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_LadyLuck_Uncommon
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Lady Luck
+    descriptionText: 
+    icon:
+      m_AssetGUID: 5e8a29b412d768046aa2bdeba76e505d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: bceab567695251347adea8728f4274ef
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 2
+    mainSpine:
+      m_AssetGUID: 8c15581a4d6677b48b0686bed98e0101
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 258b57538c9399146816cb86c5efa013
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 22055d66a81374c4eb7e8c52d1ed0580
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60beb6746b2fd904f97a92597dcd2155
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bd6cbc4f898e8024caf7d59306a23c69
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f4aacc8f4d306d7439ba63e60188c37d
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc274ebaa295bb24a83b4955f21d88fb
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45eb016c11eddee4cbe7516a854fdbcc
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 944e35dbce0a80a4ea3f5bf53e59f6c4
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb81663772167e245a94a2f48a6b32d9
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4cdd53428f4503c4ab7824567a98fcf2
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 45aaf4ae70107734c804459025727b45
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3d89e1853c1dd646b14714759a84340
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 932c47a02d6869749b0a37e0b9efb157
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dc61159ad89d32445b65e9ff18ea0c61
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1731f0cf1f3db2048a8e32c559923a1f
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 328de01180ab06a4eaf785a37c106249
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3df957eb17c2a164389edee9302257c2
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fef2f3085ee215641a7d88c2ffe01d31
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f5b4f6a771bfe6240b0bb873b6d62bd4
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fb1e58a921703594bbbe587787bfcb9d
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 771f3f54452b25c44a23dd9752de1246
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac28c0c80c59ce642a2c4d0bfa8e21f5
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ecc28288c18012f47b47a073dc792236
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9412004b11581b74e90a4a97b3ab03d3
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 69b3dfbfc34fe334ca2be93c209c69d1
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4cad645ea1e7b6a4887f171340016c35
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 566495f686c8c974a9a8e12f9b0af310
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 077edbe3ba04aa5479dbb1712f310f6f
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d3c5309cdd09e1e42af5f3a35ead9716
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ff1bfc79604535447a4dc9dee26fff6c
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_LadyLuck_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ebc59cd2ab9506b488276730212a1877
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b88f1ebafe379fd4cb09acc9cf2f822b
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 722ab864b650c184ebe6bb7f2758e487
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 17e93aa68cc8f584e82d9211f9cd7b57
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3e30326cdb7a583469dfa48bc2f8eeec
+        subObjectName: 
+      - assetName: EquipmentItem_LadyLuck_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1fa8febb5c4ef914b84f4bf3218311d3
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 651500cb7f9109c42af144cc2ec3e472
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 1d5efe98125d7a34a9cb217cfa4df80f, type: 2}

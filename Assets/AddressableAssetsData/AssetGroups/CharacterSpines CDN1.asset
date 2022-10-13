@@ -1,0 +1,2081 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharacterSpines CDN1
+  m_EditorClassIdentifier: 
+  m_GroupName: CharacterSpines CDN1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 02413f1fd764e3a4f82a46cb8438c3a7
+  m_SerializeEntries:
+  - m_GUID: 07f3f9fc82439294a9b2c69a8b4712e3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Riot/Prefab/Character_Riot_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3684d06c8ce7d4c4e8b110827386eed3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 4/Character_Kairi_Default_Rank1/Prefab/Character_Kairi_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50564673c8a0e4248a0ec7080d2d96bb
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Ellie_Default_Rank1/Prefab/Character_Ellie_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01f9c9ac64ec1f54383e9c2bc014be5f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 4/Character_Valiant_Default_Rank1/Prefab/Character_Valiant_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2128defa7a62ce74f8dee336c9fe8dba
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 4/Character_Jade_Default_Rank1/Prefab/Character_Jade_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1356fa5a12556946859048ea35f6993
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 2/Character_Aya_Default_Rank1/Prefab/Character_Aya_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3271db76530451647be9fb220057d16e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 1/Character_Dune_Default_Rank1/Prefab/Character_Dune_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 426aeb8fc3077b5418f09f7a0d4a8a14
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 3/Character_Sheba_Default_Rank1/Prefab/Character_Sheba_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d21b511bdcd2d0a4fa79e1c72b7fb3c1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Lexy_Default_Rank1/Prefab/Character_Lexy_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25a3e4ec661607944965440cdaea4bc9
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Lexy_Default_Rank1/Lexy_Weapon/Prefab/Character_Lexy_Weapon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 757c16c44cd84ea4c80dad2fbffb6198
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 4/Character_Michiko_Default_Rank1/Prefab/Character_Valiant_Michiko_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 858d1b21a62a51a4b80d8ba1d97768b2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 2/Character_Tink_Default_Rank1/Prefab/Character_Tink_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55a0d9da38e7f941a93e407d586ea74
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Hale_Default_Rank1/Prefab/Character_Hale_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5ebd9f1701214c42b0a0e6ef823d48f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 2/Character_Narcissa_Default_Rank1/Prefab/Character_Narcissa_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665226b8bbd567b4d99c583cdf27ba60
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 2/Character_Clover_Default_Rank1/Prefab/Character_Clover_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 388a2ffa0ca979b4fabeb7a9beaa593d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 4/Character_Claire_Default_Rank1/Prefab/Character_Claire_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58f4c2b997e92884ea580236dfdae6d3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 3/Character_Camellia_Default_Rank1/Prefab/Character_Camelia_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aa6110c04264fc448fc8d1f6ce717e6
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 3/Character_Cadenza_Default_Rank1/Prefab/Character_Cadenza_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b5e7776abd84fc41b6dadf558eca969
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 2/Character_Sabre_Default_Rank1/Prefab/Character_Sabre_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b2026a500bf8bf4497319116cb84f99
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Naomi_Default_Rank1/Prefab/Character_Naomi_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b6c75ff7c8d49b46a5697833724c62d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 3/Character_Holly_Default_Rank1/Prefab/Character_Holly_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb7273e643e702147af7ad9151a5ec03
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 0/Character_Lily_Default_Rank1/Prefab/Character_Lily_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c1f5777a48077647b3bf823fe5aaaad
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 1/Character_Alicia_Default_Rank1/Prefab/Character_Alicia_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d5339ef2505e6c4582118c11a6f2b2b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 3/Character_Brenda_Default_Rank1/Prefab/Character_Brenda_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e8bfe85ab0463243af331ff3c93422a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 1/Character_Eliza_Default_Rank1/Prefab/Character_Eliza_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f57b1b25dc3a6d419c49737a052c976
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 1/Character_Oya_Default_Rank1/Prefab/Character_Oya_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6778e6dfc49dfd44b9a9f6a1e05e13a8
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 5/Character_Marcus_Default_Rank1/Prefab/Character_Marcus_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745124a01c231e64eb9169994224f491
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 5/Character_Maven_Default_Rank1/Prefab/Character_Maven_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19fda7fba1a25b24fb84b1c75f241ae0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 5/Character_Neil_Default_Rank1/Prefab/Character_Neil_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f517390576705b14fa8c9cf49e930c08
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 5/Character_Silas_Default_Rank1/Prefab/Character_Silas_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b21e28678f1c43c4aa281be339cc837d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Heroes/Batch 5/Character_Zephyr_Default_Rank1/Prefab/Character_Zephyr_Default_Rank1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00e4cefbef0b9284eb4403c8db355694
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/WurmBot/Prefab/WurmBot_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00294f66e45363c4aae56b7171a1d5a3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Desert Guardian/Prefab/Desert
+      Guardian_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00dbdc64af312e04cb348e5b4e3844ae
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Mech Buccaneer/Prefab/Mech
+      Buccaneer Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 006e2b54bdedb89488f2bc4bb626860b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotGunner/Prefab/InfantryBotGunner
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1089a156ea6101245a7ee6991a01f507
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDestroyerMkII/Prefab/QuadruBotDestroyerMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3086552512424b84884ef9e3422af829
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MegaArtilleryBot/Prefab/MegaArtilleryBot
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 400018857765c894bb4555ee22aa9fd1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob1/Prefab/SentraSix2LeggedMob1_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90ee1e97dfd60564abc28c538078908d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ArtilleryBotMkII/Prefab/ArtilleryBotMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 902f05a8a906aca42b928e0cad42add9
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/TentacleBot2/Prefab/TentacleBot2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0fd9fd5641695a4ba66fc2ddcbb06f1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkI/Prefab/CorruptedGuardBotMkI
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f03123664f1eb9f4da7c0e613e5a860d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI/Prefab/InfantryBotMkI_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e86fc69e5a01c4c9e435365bd39cf4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/WurmBot/Prefab/WurmBot_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41a19a607bdc8684ab449d30b7b97b83
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob2/Prefab/SentraSix2LeggedMob2_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51d0f286c250a7c4da88f617c8767713
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ThrasherStormBot/Prefab/ThrasherStormBot
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5175241747a96d54a97019c1621447bf
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/EnforcerStormBot/Prefab/EnforcerStormBot
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71cd1d7096285c14eae7d80959f8a5c1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d15a0476cf6f2614f867fa5ea6093d93
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkI/Prefab/QuadruBotMkI
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12cb0c652f9ec4345b1ed916e29b7a1f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotGunner/Prefab/InfantryBotGunner
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12ad5d719646d624888a01b222b87929
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkII/Prefab/StingDroneMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22263014df036ef4996c97518dc20843
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDemolisherMkII/Prefab/QuadruBotDemolisherMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22bc025121bccba4699c3f4b7d4dd486
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotCowboy/Prefab/InfantryBotCowboy
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32ec05de23d91e54cbfc3b855e89da4f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkII/Prefab/StingDroneMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52ef09d3a33e5c94d8c18a95bfd41035
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62e4a96b25e000d42bb4c9ca9e41a0fc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBanditHardened/Prefab/MechBanditHardened
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c5b35c93dafce48b11bc669c7ca977
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotViking/Prefab/InfantryBotViking
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82d525dede0bf6140a6dafc4b931076e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FloatingValleyFlyingMob3/Prefab/FloatingValleyFlyingMob3_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 921d571634c3bb74d8e22d8695c7daa6
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FloatingValleyFlyingMob3/Prefab/FloatingValleyFlyingMob3_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a23337d1e85575041a75cb304cfc0066
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2378552777dd07469dfae85b227e3a7
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2c9900a97ed22e4ab6259fba046b576
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GunTankBot2/Prefab/GunTankBot2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2aeb19337bab254abeef0b15fd12f1d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob2/Prefab/SentraSix2LeggedMob2_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2413d5fe0aa78148a9387cb3f493b7c
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ArtilleryBotMkII/Prefab/ArtilleryBotMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2d8aa342bb7ab54080db315284cc3b0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotPirate/Prefab/InfantryBotPirate
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13682c27d3a2b9b4685aca58cfb7098e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a84ad16975ea9429b86c503a6cedda
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MegaArtilleryBot/Prefab/MegaArtilleryBot
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 339f8fea87b2910418e63e5ca4b19f87
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit_Desert/Prefab/MechBandit_Desert_Fighter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5336137aabcda9d40805109c92c5b6e0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotGunner/Prefab/InfantryBotGunner
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6398a649004cd0f448dbf65b92c15bf1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI/Prefab/InfantryBotMkI_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736cb0118cb4f5e4190a3d0881353706
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkII/Prefab/AeroDroneMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 933dbe557c422cb42a646f2b177ddd6f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedDesertGuardBot/Prefab/CorruptedDesertGuardBot_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b31f8c7049649d543bd77ac4d42057fc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDemolisherMkII/Prefab/QuadruBotDemolisherMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c301f15694280bf408c71f8b16628b8f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Omni.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3e35fed5188ca04c911447502ce9b18
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CentiBot/Prefab/CentiBot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3cca7f74dbf86c49b7ebbbdf88c61cc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Glacial_Cyclone_Stormbot/Prefab/Glacial_Cyclone_Stormbot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f31f7cf8d56aad84c8a648bebde35b6d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkII/Prefab/StingDroneMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44aca30bbbd5003438d0c673b98519bc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkI/Prefab/AeroDroneMkI_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64faa11c61fa1a8479ffecdd76c9a828
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI/Prefab/InfantryBotMkI_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74b3e85c41f74354281cad3567dd78d5
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotCowboy/Prefab/InfantryBotCowboy
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c440f6428d2842e489943b7c6e9c3a25
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotPirate/Prefab/InfantryBotPirate
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c418cbd9b10a0274daea00d9453d06e5
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDemolisherMkII/Prefab/QuadruBotDemolisherMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d446d928ccee65c498ec198a065da53b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob1/Prefab/SentraSix2LeggedMob1_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d43fff4381d312043bfcef1fbce642a6
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkII/Prefab/InfantryBotMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4302d9bcf022b343941748b1695c735
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotFrost/Prefab/QuadruBotFrost
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f45246558edc0c340aea0790448ba4b3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Desert Guardian/Prefab/Desert
+      Guardian_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 354e092e557df5a4eaffa6caee939294
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit/Prefab/MechBandit
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 957be49ddc752314096235313b3ae681
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Omni.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95ceda45ef259e44d994b1acbdea51ca
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Mech Scallywag/Prefab/Mech
+      Buccaneer Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e58b167a27713274fb35d53f50cef8a9
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkI/Prefab/AeroDroneMkI_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46059bd0497b9c2498a95a4138de9bd0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedDesertGuardBot/Prefab/CorruptedDesertGuardBot_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56cb09c8efccd41478808d9a656a035f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkII/Prefab/QuadruBotMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7693076ff7c3ad74197a7f8d24e523f0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Desert Guardian/Prefab/Desert
+      Guardian_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86f30bc1231d262439280e7b0b940d64
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentryBot/Prefab/SentryBot
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96a1024fe2b43974c855c3734f6081ed
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FloatingValleyFlyingMob3/Prefab/FloatingValleyFlyingMob3_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96893f5220c1f2c4aa7d8d5257d09d34
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBanditHardened/Prefab/MechBanditHardened
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a67b122876bd5d34e9f5449926c56b97
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDemolisherMkII/Prefab/QuadruBotDemolisherMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b66b768716e2c294092d42a3b6873e08
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedDesertGuardBot/Prefab/CorruptedDesertGuardBot_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6107d8beb5734349a9088cae29df673
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkI/Prefab/QuadruBotMkI
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e690ccb6630a52d4188850a481bd0af2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkI/Prefab/AeroDroneMkI_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e649e8cf5d9a3884b96729ebc4de5b5f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MegaArtilleryBot/Prefab/MegaArtilleryBot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6ee13b61376f2042b674374ac7297a5
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechPirate/MechPirate_Ranger/Prefab/MechPirate_Ranger.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6aff28276359984290adb0c65f87b73
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotCowboy/Prefab/InfantryBotCowboy
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07224f782ead83343a6aee90bf1d85f4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkI/Prefab/AeroDroneMkI_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 072f36e74cbc2b040aeb2ba4ce40aa04
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotGunner/Prefab/InfantryBotGunner
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1788ab38cbdd2c8489336f81eea2b81e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBanditHardened/Prefab/MechBanditHardened
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b047eb44410c04295b82ff8d969afb
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ArtilleryBotMkII/Prefab/ArtilleryBotMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37228c036bee4634ba1d72b92d2f4f59
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkII/Prefab/QuadruBotMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47ee826ca52a312498c9a6b8e8697c8a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkI/Prefab/CorruptedGuardBotMkI
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57d7b6dd14dd73744b06d36abf75230e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ecce6ddc62d3941ba95d2efdca123f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkI/Prefab/QuadruBotMkI
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67a5c1feedeb32d449ff8124e6192e0f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkI/Prefab/CorruptedGuardBotMkI
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 671ce531cc3a702479b7a8ef24072a9a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/BlazeQuadruBotMkII/Prefab/BlazeQuadruBotMkII_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7d416d0ec5530f4aa83bbae9a5bb46e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDestroyerMkII/Prefab/QuadruBotDestroyerMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b78636453f2254e46a870ab6d6c96ecf
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/BlackMaw/Prefab/BlackMaw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7f2032271c8a27449e79e4c577b26f2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotBandit/Prefab/InfantryBotBandit
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7cce288666acbf4a95e1650f671603c
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob2/Prefab/SentraSix2LeggedMob2_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d79fcf39b0bb0f948aaf167edf79f940
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkII/Prefab/StingDroneMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76948a75e11472459934f024a10402a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotViking/Prefab/InfantryBotViking
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 281c52b0aca5c1e498020ea192336303
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Rampage/Prefab/Rampage_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78141fe5e63346a40acdebd48f1d6084
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit_Desert/Prefab/MechBandit_Desert_Mechanic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8843d69f1cc37b4195ff031cdf49878
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ThrasherStormBot/Prefab/ThrasherStormBot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8562ac084c59cf48b55fbfe70589e59
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8620cbac19b9a741a8edd9dbf831347
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDestroyerMkII/Prefab/QuadruBotDestroyerMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8a8cb82a5bb3f645be67886ba789ccd
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Desert Guardian/Prefab/Desert
+      Guardian_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8b37fead0c6f844fa0f080812177d5b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentryBot/Prefab/SentryBot
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d895fb67e5cee2d449a7e6ba6a54cc4b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MegaArtilleryBot/Prefab/MegaArtilleryBot
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8dda4f73c2f582408f58b7be1b32dbd
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkII/Prefab/CorruptedGuardBotMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8e83fccf02574c4e9cf15322fc6f1a3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkII/Prefab/CorruptedGuardBotMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 399222b56884a6246a520fff39a94dad
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Rampage/Prefab/Rampage_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c3b3d9e5094fe4c9e1477e6f95dc54
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit/Prefab/MechBandit
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59205bb74ee7d39468a60287c546b17c
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ArtilleryBotMkII/Prefab/ArtilleryBotMkII
+      LIght.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 597c7cc5ae482f94cb24e16493f322a0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDemolisherMkII/Prefab/QuadruBotDemolisherMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9987e90f8feeec14b928ae189064705a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkII/Prefab/CorruptedGuardBotMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9809fbd6b7e5a94699ae88012a70ab8
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Rampage/Prefab/Rampage_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a958034ea2aa43d48af4e2e3b7b5703e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit/Prefab/MechBandit
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b98fa16d9fa130846b87e28dfdb756c4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkII/Prefab/AeroDroneMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d982ac663d3e2714eb41f9c472f33adf
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkI/Prefab/AeroDroneMkI_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9517e19cd75e224f86372f5a48a44b0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBanditHardened/Prefab/MechBanditHardened
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a25710ff368ed74f87f9275a71e7387
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a8a243c186076e46bb11425ff5a7d64
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkII/Prefab/InfantryBotMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a43f0b69faf02a46a588e7325dc441d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Rampage/Prefab/Rampage_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aaf6a77c8690ff4484bad036c20f87d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkI/Prefab/QuadruBotMkI
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ad17531b7ce73f419d974f346d7efab
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI/Prefab/InfantryBotMkI_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6addb7f0321244f90561d21fba9818
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI_DesertPrime/Prefab/InfantryBotMkI_DesertPrime_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a7cd1fd5d7b4cf478473894742b34c0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Desert Guardian/Prefab/Desert
+      Guardian_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2e9484b2da48e45b20e8a888c52b72
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedDesertGuardBot/Prefab/CorruptedDesertGuardBot_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a024b2e6a601454398c9dea9d5cfabe
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingRayBot/Prefab/StingRayBot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aad88a1524134c24fa2d5175dfae45c8
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FloatingValleyFlyingMob3/Prefab/FloatingValleyFlyingMob3_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cab28490669afd04f8307a8858a2ac51
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca7aa97b2a8beea40826c35df31a3356
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkII/Prefab/InfantryBotMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eab4efb193ee53b499efb59f30ae816e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotViking/Prefab/InfantryBotViking
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea682f7eb3edd4a44979fb84454bc939
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkII/Prefab/CorruptedGuardBotMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1b6312b7c75304ba013326e51e8a34
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotPirate/Prefab/InfantryBotPirate
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bad93dc87888a44dbeb0331118eba48
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotCowboy/Prefab/InfantryBotCowboy
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b6e72c202680044f98da43bae612ed1
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FloatingValleyFlyingMob3/Prefab/FloatingValleyFlyingMob3_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b2fdb53988b48e4c87a17b2e54d91e2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Mech Seadog/Prefab/Mech
+      Buccaneer Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b37f406eb20f4e4f9d483abdb418199
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotPirate/Prefab/InfantryBotPirate
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0fcc79291dc0d418fcab623c4dfe75
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkII/Prefab/StingDroneMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b8998be6ecf9924497613619a4bdfdc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDestroyerMkII/Prefab/QuadruBotDestroyerMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9baf14b1af25e9b49913d4c8bbe2b786
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI_DesertPrime/Prefab/InfantryBotMkI_DesertPrime_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abc00963ad1312e47ae4f123cb90f2bf
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechPirate/MechPirate_Mechanic/Prefab/MechPirate_Mechanic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe26e564b1d7224aa1c62fd57474ef4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4a89dbe943dbe4da0b2d5181989b1d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MegaArtilleryBot/Prefab/MegaArtilleryBot
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe649f1dc6452e45a549377a505a7f2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/TentacleBot1/Prefab/TentacleBot1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbecbad271f375343b731f19b1b60616
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ThrasherStormBot/Prefab/ThrasherStormBot
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbe865a415bcb8b4bb354a378673a8ff
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentryBot/Prefab/SentryBot
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cb16abfb0d42db4996df3bb813254e9
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SmasherStormBot/Prefab/SmasherStormBot
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c921223ef57b2e4a8f7a01b0a7e3186
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Rampage/Prefab/Rampage_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c8e5a4d7b75f5541b8cde3e9553854b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkII/Prefab/CorruptedGuardBotMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c77ea9a0238b004b988bbf8f3698850
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkII/Prefab/QuadruBotMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf45dd6d50bcf24ab29179d319db2f3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ca6fff110b7cda439e8404d6d35b9fa
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkII/Prefab/AeroDroneMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c4750bb1a582dd44afbff34cb315272
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AquaMantisBot/Prefab/AquaMantisBot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cb956a7a6e36c64f84b6152aa6eca65
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/WurmBot/Prefab/WurmBot_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c0a1f752341ca746903936c747170c5
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI_DesertPrime/Prefab/InfantryBotMkI_DesertPrime_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c2b0aa8c050a1044a4cd7eeadb2fe8d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob1/Prefab/SentraSix2LeggedMob1_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc63522727986674ba2c6b18267a196f
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotPirate/Prefab/InfantryBotPirate
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc565b5116906264bbc3313405e6e787
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotCowboy/Prefab/InfantryBotCowboy
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc77893c8339d994e831d33fd5d8010c
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3b5c7ba70ff324cbc887ac717e17a4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotDestroyerMkII/Prefab/QuadruBotDestroyerMkII
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc034f7ca0e6a88419494f3c56309949
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ArtilleryBotMkII/Prefab/ArtilleryBotMkII
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc6805ede547ec546bbf917b5b9416a7
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkII/Prefab/AeroDroneMkII
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d9ac83856de34847b284fcfe75f9a0d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/BlazeQuadruBotMkII/Prefab/BlazeQuadruBotMkII_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2df6c9c42518a4f4c8d76703574fe4e6
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/StingDroneMkI/Prefab/StingDroneMkI
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d15ac91c254f00498295d1b7a749f0e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentryBot/Prefab/SentryBot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3db8bf4a08cfe884dace0f04ce77ef8b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d99eb37aa2980f4786aa43c033992f8
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob1/Prefab/SentraSix2LeggedMob1_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d752f0a86aae2f4faffe18ec7aea519
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI/Prefab/InfantryBotMkI_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d3dd6ce67ef5fd48905b82fbc11a9bc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkII/Prefab/QuadruBotMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d35644d3a64b94439d22ca994c13ebc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI_DesertPrime/Prefab/InfantryBotMkI_DesertPrime_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d700663bfdcec247a4f2ecd026bedcf
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechPirate/MechPirate_Magitech/Prefab/MechPirate_Magitech.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdd254169d3cff4418d130e8de82693c
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotBandit/Prefab/InfantryBotBandit
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fde35a41d5ce2c74ca44180b44690268
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ThrasherStormBot/Prefab/ThrasherStormBot
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e2357438098c7e46b290385d863e02b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkI_DesertPrime/Prefab/InfantryBotMkI_DesertPrime_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e58dbc14f9094c47b2df3037500c9b0
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GrizClaw/Prefab/GrizClaw
+      Omni.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e93dfd0cab7ac94e945f14971710efc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/WurmBot/Prefab/WurmBot_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e1e21d43e2a7b04c887b3dce81e2865
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MagmaJaw/Prefab/MagmaJaw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ecacd2bb91431f439e681bdc712afc7
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit/Prefab/MechBandit
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ea450f1d86938548865a0d16a2e32f2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotBandit/Prefab/InfantryBotBandit
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e1ccf26c1ce58a4798b883a53b6ccdb
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/IncineratorBot/Prefab/IncineratorBot
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e93a4ccad65dc443a03ad099ebb69b3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/GunTankBot1/Prefab/GunTankBot1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eb6a2c63c79b93458dec8c5809136a9
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBandit/Prefab/MechBandit
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aefc5b8cda546574f830c6f6f54dbd77
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/AeroDroneMkII/Prefab/AeroDroneMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce11e07ba1167cd4580d246224f6534a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob2/Prefab/SentraSix2LeggedMob2_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce1b370b818138c4dae046e8d4353340
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/ThrasherStormBot/Prefab/ThrasherStormBot
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed6db4b52a745246888dcc1640c2507
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/FrostThrasherBot/Prefab/FrostThrasherBot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe5849d27d662c944b55a10508cfebf2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob2/Prefab/SentraSix2LeggedMob2_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb8b9f9bfc85624dbdf5b20706924db
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedDesertGuardBot/Prefab/CorruptedDesertGuardBot_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe6b6829681c79242b81fcf48549f61d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotBandit/Prefab/InfantryBotBandit
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f0bf8905a83df14ba4c78721d04500b
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/BlazeQuadruBotMkII/Prefab/BlazeQuadruBotMkII_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f005f40c5cb9d3428c58e56f8bcc038
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkI/Prefab/CorruptedGuardBotMkI
+      Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f9afd0fe7a92044497dcfcbe2572d93
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotViking/Prefab/InfantryBotViking
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f71ad6fa5f256f4c90ba5b73d24e4c4
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkI/Prefab/QuadruBotMkI
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f2f631fa238bce4fb9ef1f0e6ccdfce
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechPirate/MechPirate_Science/Prefab/MechPirate_Science.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ff950e6fd5b0fc45a51773b6312e369
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentryBot/Prefab/SentryBot
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f2bc3f59680409409966f6c2f1907b3
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkII/Prefab/InfantryBotMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fbb5cd49f95c564bbb431a5fa18a25d
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotBandit/Prefab/InfantryBotBandit
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f31bd75f0a90474d99a655f9a11c8cb
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotGunner/Prefab/InfantryBotGunner
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f8e1af265fc97b4b9b630e2d3f50712
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/QuadruBotMkII/Prefab/QuadruBotMkII
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb72a183efbb2f449aa58b9c9051111
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/SentraSix2LeggedMob1/Prefab/SentraSix2LeggedMob1_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfa2eba205ce28f4aa99bf088af38e24
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotMkII/Prefab/InfantryBotMkII
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf1f88863c7ca394dbeef544ecf42102
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/InfantryBotViking/Prefab/InfantryBotViking
+      Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df22131299992404cb66b7434067f24e
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/CorruptedGuardBotMkI/Prefab/CorruptedGuardBotMkI
+      Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df7bd3a86f2eb7841806cd481c10a117
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/HammerheadStormBot/Prefab/HammerheadStormBot
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc6cbac415fa7540a2da0630faf9ee2
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/MechBanditHardened/Prefab/MechBanditHardened
+      Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffd92efcdc9972c4cba1dc07fbbff3dc
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Enemies/Mech Harpooner/Prefab/Mech
+      Buccaneer Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f385d2e6d379fd42be6372a942b3329
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Sasha/Prefab/Character_Sasha_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d8607dee4fa91f48af49491a206ed82
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Lyana/Prefab/Character_Lyana_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa07211eb587fcb4d88f81c4b9023c9a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Nubia/Prefab/Character_Nubia_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b98cc933d581406469826aeb38ac9711
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Chameleon/Prefab/Character_Chameleon_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86d2b09c20c060a4b81e8af75d03e994
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Roana/Prefab/Character_Roana_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91a0277611ab31e418ec9b672ebf6d98
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Nubia/Nubia_Weapon/Prefab/Character_Nubia_Weapon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 005d96b518c69a944a8a932bd89fcd7a
+    m_Address: Assets/M7/InGameAssets/Characters/Spines/Villians/Ava/Prefab/Character_Ava_Default.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9463d3dac14dcab41a43d24ff54053f8
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Alicia_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37e75a8955182aa4492723060ba90225
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Alicia_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48f5924b52095da47960776ba2927283
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Alicia_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e96339c81e41635438865fe874305bb3
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Dune_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fa62ee0b429cce41b7982372ff9a585
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Dune_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 901046299b7d37e46adb2e2d63fa6b48
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Dune_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d57f74d71091b6344b8dd67382adc990
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Eliza_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 049ee304dd2f1914aae7b9d795d3602a
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Eliza_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a67a176afdcabc4487d966a53f3ba31
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Eliza_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b7cff1398ce8b429ccf2f55498b0be
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_LadyLuck_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d50324e55ea76f344829b804d820a812
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_LadyLuck_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e135177e39b12414e974713cc909f17b
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_LadyLuck_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19f412ebb52a89246bb57554bac73691
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Oya_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0848a1c6f706c2d449b03ca75a972faf
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Oya_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb45a5257f2af1f4b9568928343f28ea
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 1/Hero_Oya_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 400262a6c0357e44bb49c65a17f8679e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Aya_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b233a808446a31d419d63f95d1c2caff
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Aya_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42726c9cc02a9cd469c570705ebee6fa
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Aya_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a20ab1d5fd9abb45a8ffb3288ccf4d4
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Clover_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12735b3606d271d48bd5b11485752e64
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Clover_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a8f9c1a26c541243b98e5321b5e1b20
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Clover_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 847c5ec2c1a4fa842a9d3beb206ec413
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Narcissa_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c254fc881ee9e7649b361795e906ba7c
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Narcissa_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 909c9d3b125d1274ea0e005ae1801f84
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Narcissa_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f78d6f95be318a468194f8e152a528b
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Sabre_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fd3498d5d586de4b9c494e8d62d220c
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Sabre_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ba751893ad4fdc4fa3817965b9d2183
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Sabre_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a20fa4b7f24ada4ba077d5147185f57
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Tink_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b8a7de67f95d8146b7e3e9ebded7061
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Tink_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d134697ac6103564f9cafe638f49a8d9
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 2/Hero_Tink_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97c6eddbc71f8c24ebe4a152d3aea459
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Brenda_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03a40d01c46f008459781d2fd8387c32
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Brenda_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b838e322e700da4cbd165bbc8bb063a
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Brenda_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c20c4ce46f3b19f4a96e601b307a95d1
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Cadenza_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc2ce6bb9235fc944beb5cb48be7522e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Cadenza_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97332b1c56428e746b1713b7409f773e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Cadenza_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f8e57d92ec0e454cad8f63bf56c3590
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Camellia_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b2ae4d8620305489e493dfafd89ab1
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Camellia_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c95c362f3e85a14c801455f4e6eb338
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Camellia_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63a331618556cf545b89aed6420c21c6
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Holly_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20ab600336157d24aa73e1aabca4983d
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Holly_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6609fe3998c0e841aa40a1abeb02773
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Holly_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb51ef77fc48034983826a0decc7e34
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Sheba_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73b48e569c620ad4a9e3585715674613
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Sheba_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dd504a89bdd99a4c9d335ec7b4545fd
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 3/Hero_Sheba_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9e09f1de6687f34291283e81caf1084
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Claire_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14a485ee4ee12b643bfc7ca5cab56fc1
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Claire_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e382b845b699e246b3693f0b2d27eae
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Claire_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7690720c7cec90f428a1eca2c254da55
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Jade_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76392c8ae69c874a839ccd398534d6e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Jade_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db7b8bd4829c4584d81edff2d55d05d5
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Jade_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 097461f0ac40e2f42ba3f6e8373972af
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Kairi_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 423526c59510a1c43a8fb42cfeea89e3
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Kairi_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05d357dfbd4037146836946617ae3dcb
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Kairi_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e95f54f34a9b6445b5882d2e6678f26
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Michiko_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 735ff947470dc1c438733f4d85f72f57
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Michiko_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f051f98c67f460499a442c7ab5b157e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Michiko_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc7e41a1c3778174d9eec2d78ca59713
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Valiant_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7518aac7cebb75547a50d36cc093f1c1
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Valiant_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e54a63f591c551946ba6b2025149e8a5
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 4/Hero_Valiant_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 123643cb922f60342aa427ad91516ff1
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Marcus_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eda92d411ea783d469123b62679f3ae6
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Marcus_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84f2a4d879560314cbf6d0ace32c5b34
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Marcus_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7826e105b24ca104b93f5ef0e390704d
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Maven_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 671b7a389c9ca9d45926767b24520b4f
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Maven_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83be1604800835e4db656f8914a741dd
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Maven_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99deac850b2a6dc46ae491df0944533b
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Neil_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9288fd39298b3eb469155eb37673ff54
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Neil_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1510f448e5c5d5842be70faf54e6793e
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Neil_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e6130b39312d2842ae1d016d36130d5
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Silas_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22b2aca493fb62448bfae40d55723871
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Silas_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e12646166437a14fab0bb9730a3d8ab
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Silas_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da01caa282e170f4b89032bda82455df
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Zephyr_Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fca8af4704fa3284ba6ff10c1dc534ca
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Zephyr_Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45493dafb05e547439b9f555323bd61d
+    m_Address: Assets/M7/GameData/ScriptableObjects/Characters/Heroes/Batch 5/Hero_Zephyr_Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1d9aa4ac1ec31d742b1344bf7466e3c4, type: 2}
+    - {fileID: 11400000, guid: 3dd7bebac6a9db746bb499ffe7a3c0af, type: 2}

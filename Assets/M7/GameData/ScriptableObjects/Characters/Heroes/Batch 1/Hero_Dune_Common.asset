@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Dune_Common
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Dune
+    descriptionText: 
+    icon:
+      m_AssetGUID: 9adeb3b989afdc64088db98c33e4f919
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 39a42a4889ebaad46a480138c5c4b983
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 1
+    mainSpine:
+      m_AssetGUID: 3271db76530451647be9fb220057d16e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b605fc5b62151814b99aa08edc16da86
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 69489332e93fa264590a69a56c2a9f5f
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92a51b8e7e8a7004a9717e8ec126635b
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 69e65c6bca6477d4cb2baf4839206d6f
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 949e13c112bfa54489dec7c99f0afa6a
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c626e721a7f04f441a81d241e55db295
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 81fb3b6328176994799a2634ca6a3895
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d703e21afdc742643bfc6918d9582cbf
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 29eec96c9bc971045b8e136c596e102d
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aeb94ad6401109e458731acaf3aab1d5
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0572f5968c28e7445baac6aa4c7db4d2
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1f9c0d257db57d144ac79659ba69d218
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f6a145d7cf158a44695d9b1d35a6a7ca
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: df9a084c97977424db0142757951a02b
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18c119ecc46bda848894fd4d381369c1
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e42cec499c84d0b4fac78b59894b21ae
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a68eaf66afd5aa6478a73944855cf9f0
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0cf8d173879d65b4692855715dcf96be
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c7686da228ab6c84c9fa6865077314a1
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a52796182ce7784d8e52ea006aba0b8
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7250070c37e67f140a97db8a006e9935
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c38c56b2ee8d914fa9b47dc7e44f84b
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8c0ca8d8bf2de5a45bf5e9d9d7efc71b
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4dbf2905aeb0a53499a2f25d37316a56
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 28c9aeab1124f34489f1c56e26b0f3cb
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dd8d3a4dfe0bae94bada3a0e14575f9c
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b52fbd2e2bc8572448004588ad8d1940
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2e22215e368026c429feb06ba9ccd7bd
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6c31bbe0ae4c576499edaee73111a86e
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a2f9ad04313dea143b8c0edf6841d587
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Dune_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aff32ea94f6f08848a4b69a5bb2ccca3
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3be0c13a95f6f8f4494e0c68d337ea35
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 114925e10b9ce144296010f634475354
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 295fcbbc8ab53e8458d2fa83d5199a1d
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18f985734ebeed542acd403791ca7abe
+        subObjectName: 
+      - assetName: EquipmentItem_Dune_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 434f21212c2733647badd1b4e426d981
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 86c331f2f2dd7814ebe39a77660ad378
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 9cef3e06c6f9c7e4cb6f0c613c3f3e1d, type: 2}

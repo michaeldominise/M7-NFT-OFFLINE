@@ -1,0 +1,226 @@
+CORRUPTED GUARDBOT MK2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/CHEST
+bounds:692,745,265,260
+Dark/HEAD
+bounds:2,603,344,402
+Dark/LOWER BODY
+bounds:2,15,199,184
+Earth/CHEST
+bounds:692,485,263,258
+Earth/HEAD
+bounds:2,201,342,400
+Earth/LOWER BODY
+bounds:203,2,197,182
+rotate:90
+Fire/CHEST
+bounds:692,225,263,258
+Fire/HEAD
+bounds:348,605,342,400
+Fire/LOWER BODY
+bounds:387,19,197,182
+Light/HEAD
+bounds:348,203,342,400
+Light/LOWER BODY
+bounds:586,19,197,182
+Water/LOWER BODY
+bounds:785,26,197,182
+rotate:90
+
+CORRUPTED GUARDBOT MK2_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/LEFT FOOT
+bounds:777,5,140,70
+offsets:0,0,141,70
+Dark/LEFT HAND
+bounds:894,85,104,104
+Dark/LEFT LEG
+bounds:896,204,102,108
+offsets:0,0,102,109
+rotate:90
+Dark/LEFT LOWER ARM
+bounds:371,46,104,146
+rotate:90
+Dark/LEFT THIGH
+bounds:491,614,110,180
+rotate:90
+Dark/LEFT UPPER ARM
+bounds:692,884,130,178
+rotate:90
+Dark/RIGHT FOOT
+bounds:346,625,141,70
+Dark/RIGHT HAND
+bounds:663,192,117,114
+Dark/RIGHT LOWER ARM
+bounds:853,624,128,135
+offsets:0,0,128,136
+rotate:90
+Dark/RIGHT THIGH
+bounds:317,177,117,175
+Dark/RIGHT UPPER ARM
+bounds:346,869,145,172
+offsets:0,0,145,176
+rotate:90
+Earth/LEFT THIGH
+bounds:673,616,108,178
+rotate:90
+Earth/LEFT UPPER ARM
+bounds:692,754,128,176
+rotate:90
+Earth/RIGHT HAND
+bounds:782,191,115,112
+rotate:90
+Earth/RIGHT LOWER ARM
+bounds:870,756,126,133
+offsets:0,0,126,134
+rotate:90
+Earth/RIGHT THIGH
+bounds:137,69,115,173
+Earth/RIGHT UPPER ARM
+bounds:520,871,143,170
+offsets:0,0,143,174
+rotate:90
+Fire/LEFT THIGH
+bounds:532,332,108,178
+rotate:90
+Fire/LEFT UPPER ARM
+bounds:677,486,128,176
+rotate:90
+Fire/RIGHT HAND
+bounds:663,75,115,112
+rotate:90
+Fire/RIGHT LOWER ARM
+bounds:872,888,126,133
+offsets:0,0,126,134
+rotate:90
+Fire/RIGHT THIGH
+bounds:2,51,115,173
+Fire/RIGHT UPPER ARM
+bounds:520,726,143,170
+offsets:0,0,143,174
+rotate:90
+Light/CHEST
+bounds:2,354,263,258
+Light/LEFT THIGH
+bounds:137,244,108,178
+rotate:90
+Light/LEFT UPPER ARM
+bounds:712,308,128,176
+Light/RIGHT HAND
+bounds:546,40,115,112
+rotate:90
+Light/RIGHT LOWER ARM
+bounds:855,496,126,133
+offsets:0,0,126,134
+rotate:90
+Light/RIGHT THIGH
+bounds:254,2,115,173
+Light/RIGHT UPPER ARM
+bounds:346,697,143,170
+offsets:0,0,143,174
+Water/CHEST
+bounds:267,354,263,258
+Water/HEAD
+bounds:2,614,342,400
+Water/LEFT THIGH
+bounds:436,152,108,178
+Water/LEFT UPPER ARM
+bounds:842,308,128,176
+Water/RIGHT HAND
+bounds:777,77,115,112
+Water/RIGHT LOWER ARM
+bounds:2,226,126,133
+offsets:0,0,126,134
+rotate:90
+Water/RIGHT THIGH
+bounds:546,157,115,173
+Water/RIGHT UPPER ARM
+bounds:532,442,143,170
+offsets:0,0,143,174
+
+CORRUPTED GUARDBOT MK2_3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/RIGHT LEG
+bounds:2,138,102,108
+offsets:0,1,102,109
+rotate:90
+Earth/LEFT FOOT
+bounds:2,312,138,68
+offsets:0,0,139,68
+Earth/LEFT HAND
+bounds:112,106,102,102
+Earth/LEFT LEG
+bounds:143,210,100,106
+offsets:0,0,100,107
+rotate:90
+Earth/LEFT LOWER ARM
+bounds:216,106,102,144
+rotate:90
+Earth/RIGHT FOOT
+bounds:142,312,139,68
+Earth/RIGHT LEG
+bounds:251,210,100,106
+offsets:0,1,100,107
+rotate:90
+Fire/LEFT FOOT
+bounds:283,312,138,68
+offsets:0,0,139,68
+Fire/LEFT HAND
+bounds:362,106,102,102
+Fire/LEFT LEG
+bounds:359,210,100,106
+offsets:0,0,100,107
+rotate:90
+Fire/LEFT LOWER ARM
+bounds:466,106,102,144
+rotate:90
+Fire/RIGHT FOOT
+bounds:423,312,139,68
+Fire/RIGHT LEG
+bounds:467,210,100,106
+offsets:0,1,100,107
+rotate:90
+Light/LEFT FOOT
+bounds:564,312,138,68
+offsets:0,0,139,68
+Light/LEFT HAND
+bounds:612,106,102,102
+Light/LEFT LEG
+bounds:575,210,100,106
+offsets:0,0,100,107
+rotate:90
+Light/LEFT LOWER ARM
+bounds:716,106,102,144
+rotate:90
+Light/RIGHT FOOT
+bounds:704,312,139,68
+Light/RIGHT LEG
+bounds:683,210,100,106
+offsets:0,1,100,107
+rotate:90
+Water/LEFT FOOT
+bounds:845,312,138,68
+offsets:0,0,139,68
+Water/LEFT HAND
+bounds:862,106,102,102
+Water/LEFT LEG
+bounds:791,210,100,108
+rotate:90
+Water/LEFT LOWER ARM
+bounds:2,2,102,144
+rotate:90
+Water/RIGHT FOOT
+bounds:2,242,139,68
+Water/RIGHT LEG
+bounds:901,210,100,106
+offsets:0,1,100,107
+rotate:90

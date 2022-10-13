@@ -1,0 +1,53 @@
+GunTankBot2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+GunTankBot2/Gun
+bounds:205,45,194,108
+offsets:0,0,194,112
+rotate:90
+GunTankBot2/arm L_A
+bounds:943,203,85,82
+rotate:90
+GunTankBot2/arm L_B
+bounds:315,82,72,70
+GunTankBot2/arm L_C
+bounds:389,86,59,66
+GunTankBot2/arm L_D
+bounds:2,112,201,127
+GunTankBot2/arm R_A
+bounds:945,362,81,52
+GunTankBot2/arm R_B
+bounds:945,290,70,79
+rotate:90
+GunTankBot2/arm R_C
+bounds:943,142,59,74
+rotate:90
+GunTankBot2/arm R_D
+bounds:770,297,173,117
+GunTankBot2/back wheel A
+bounds:943,2,138,72
+rotate:90
+GunTankBot2/back wheel B
+bounds:753,52,138,72
+GunTankBot2/body
+bounds:2,241,316,173
+GunTankBot2/front wheel A
+bounds:315,154,138,72
+GunTankBot2/front wheel B
+bounds:455,88,138,72
+rotate:90
+GunTankBot2/head1
+bounds:582,229,185,186
+rotate:90
+GunTankBot2/head2
+bounds:320,228,260,186
+GunTankBot2/hip
+bounds:2,37,199,73
+GunTankBot2/shoulder L
+bounds:770,126,169,171
+rotate:90
+GunTankBot2/shoulder R
+bounds:582,84,143,169
+rotate:90

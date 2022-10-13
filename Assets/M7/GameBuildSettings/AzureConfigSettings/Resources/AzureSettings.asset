@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a9c08f899e57141a14b8313a748293, type: 3}
+  m_Name: AzureSettings
+  m_EditorClassIdentifier: 
+  profileName: LocalHost_Dev
+  hostKey: pmRbFB-Enim8LM7iB8phK4tikB42eWgmiYwf1qjkdF9HAzFu8w2sAw==
+  uri: http://localhost:7023/api/
+  azureCdnUri: https://m7storagedev.blob.core.windows.net/

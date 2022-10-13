@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &218289909403449751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 218289909403449750}
+  m_Layer: 0
+  m_Name: OnStart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &218289909403449750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218289909403449751}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7413444639966849753}
+  m_Father: {fileID: 218289910191272652}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &218289910191272654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 218289910191272652}
+  - component: {fileID: 218289910191272653}
+  m_Layer: 0
+  m_Name: _vfx_skill_earthAttack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &218289910191272652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218289910191272654}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.79991, y: 0.08597034, z: 4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 218289909403449750}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &218289910191272653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218289910191272654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac6a297f1766dc34fb3f239921f1c6e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: Enemy - AeroDroneMkI Attack
+    _targetParticle: {fileID: 0}
+  projectileVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: 
+    _projectileObject: {fileID: 0}
+    travelDuration: 0
+    playSimultaneously: 1
+    waitAllProjectileToFinish: 0
+    intervalPerProjectile: 0
+  endVfxTargetData:
+    _targetType: 1
+    _effectDelay: 0
+    _SFXDelay: 0
+    sfxName: 
+    _targetParticle: {fileID: 5172357803959838613}
+  onHitExecuteDelay: 0
+  onFinishExecuteDelay: 4
+  onMoveCounter: 0
+  closingSfxName: 
+  useCameraShake: 0
+  cameraShakeEvent: {fileID: 0}
+  SFXPlayer: {fileID: 0}
+  shakeTimes: 1
+  shakeIntervals: 1
+--- !u!1001 &2364940339947546060
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 218289909403449750}
+    m_Modifications:
+    - target: {fileID: 3250622992029662963, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370768662965963780, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+      propertyPath: m_Name
+      value: VFX_EarthAttack
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+--- !u!4 &7413444639966849753 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5057590943569399573, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+  m_PrefabInstance: {fileID: 2364940339947546060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &5172357803959838613 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 7428156182896722521, guid: 1cb4ed700992d485d9b67e80b8d24ad7, type: 3}
+  m_PrefabInstance: {fileID: 2364940339947546060}
+  m_PrefabAsset: {fileID: 0}

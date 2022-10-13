@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_South_Atlantean_Bay
+  m_EditorClassIdentifier: 
+  index: 6
+  displayName: South Atlantean Bay
+  bannerAssetReference:
+    m_AssetGUID: 3bd57cdf8d6ce2c4787da6e938081481
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: 1f770fba6a7be7b4eb1c0f510390ea6a, type: 2}
+  - {fileID: 11400000, guid: b6a6d6c47888ac44986ef47bfa2d4016, type: 2}
+  - {fileID: 11400000, guid: f99a51f532e8a8f45a13e3f414d49f88, type: 2}
+  - {fileID: 11400000, guid: 6e75b82ec918d814ea3c705675046573, type: 2}
+  - {fileID: 11400000, guid: d42e45eceecf1104888e2302ffe7aeca, type: 2}
+  - {fileID: 11400000, guid: 4377dabdc1c1c8f4ab42fe16908ed986, type: 2}
+  - {fileID: 11400000, guid: e073347b38cc1ac4fa0fd32c3429f180, type: 2}
+  - {fileID: 11400000, guid: 34be8e32bf1054543bc61cb02e1fdfa1, type: 2}
+  - {fileID: 11400000, guid: 876c342ddf1fcb34583f6b2e6ae6088e, type: 2}
+  - {fileID: 11400000, guid: 4f0aa32134ad2f947bbdaa489d7ad948, type: 2}
+  - {fileID: 11400000, guid: 2d49ff1e7b1983648b182d1c8c3c82f7, type: 2}
+  - {fileID: 11400000, guid: 11959dfb778e7fb40afa65591438a446, type: 2}
+  - {fileID: 11400000, guid: 03fa6ea09bb7e4b48afdbd36c0c9fe84, type: 2}
+  - {fileID: 11400000, guid: 8e290d3c524e2b04296a573d950b51f5, type: 2}
+  - {fileID: 11400000, guid: 56bba4d72f965044da920acc7dc3f393, type: 2}
+  - {fileID: 11400000, guid: 61363fd6c827a3f4a93ccf38a5c605dc, type: 2}
+  - {fileID: 11400000, guid: 4a9321b6fd5e81c428db3b2f0b91ac0c, type: 2}
+  - {fileID: 11400000, guid: 52e68b2f47465344294302d5f0230532, type: 2}
+  - {fileID: 11400000, guid: 085baf347a0a2e54aa572650d8038f64, type: 2}
+  - {fileID: 11400000, guid: e3c7c5b90458ea04b83d455b3efc67d8, type: 2}

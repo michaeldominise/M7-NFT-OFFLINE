@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Michiko_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Michiko
+    descriptionText: 
+    icon:
+      m_AssetGUID: 34a1bc474f0bc19468dab2c9c7b1b667
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 9376389df17db8c40867a40753762c20
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: 757c16c44cd84ea4c80dad2fbffb6198
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e80feb5b18ddb244fb1914f106d604e2
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2cf0bd8e2611bf140b777651a59785d0
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5720d954b3a15424db8e524a8bee2e9a
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 345109396e7222f4eb8772177ed42e58
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1ac7665f2093f3742b51ec05445464f7
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0cd91cb018d80b847929195c8f7e6a33
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 650ca7faabcf09c40ae1cc1346a5046d
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9c856585daa04a4a8a8caf4d1eacf14
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b23301288180d154482643acf928dc90
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6ed091e4593769b4980f608965ab1b1d
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: aac951e82557e954dac7d544932cb30d
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 38fcca2582497314ba785e03b8d56679
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e37cf4ad073feaa47bb87a5630a304a3
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c9243600be525774b850ae42e8bf5fc1
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9850c6f7da4d6047988c2e9971450b8
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f1efa87dd2ddb584fb166ed63de82c70
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a1d25775236faaf46a91c7928fd51370
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5554913e9573f414c82a72501460c76c
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4f789d012f13ea549a6d2bc8b53726fc
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 409eb61e532d6e545bbdcb3365dcb473
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c98dd23683f878049a3dfb4579236e0a
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 18be8fbcff160a54a9991422a634503f
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8b145c2e2fa483f46a5f3a81505b9d06
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8cb0163d73cf84b459ceea43b7af419f
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc659f414d6c71040a9652123eeef63a
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c3988cd73fb9be6459e4de63f18ab735
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c4a8b8df4756ae54ab46097bd372a951
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b223f676f2567c24896804749b7aac9a
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 296bd98f5949e4543ad762a526027d33
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 50519ff745ba8144ab892c5106241504
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Michiko_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be4c3304b6f2ee8418f5d88cde8c1cef
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cfaad6910ee6f8b44a1893f0562bb13d
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2721285390eef69449d976db56cca469
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a79af7d3deb3f184a8c28539e2fe105e
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2e95d0c4dd51b874d846159ec2842e2f
+        subObjectName: 
+      - assetName: EquipmentItem_Michiko_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3afa3df72949cf843ae2576b7deac548
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: f14d067dc8711a74099a26686d703339
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 21b08e6b4b2984c458500695cf0a3bbd, type: 2}

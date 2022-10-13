@@ -1,0 +1,968 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sound CDN2
+  m_EditorClassIdentifier: 
+  m_GroupName: Sound CDN2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8f5752556241e794db43022f8356aa07
+  m_SerializeEntries:
+  - m_GUID: 682c5c606d97cfb43b8439fc217390e8
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Dark Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a9fa80e57eac16439cf7144e05f79ad
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Dark Card Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 810b9d95fd609f8428539664fd122584
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Death 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ef53d8a88d670d4faf6eb93b7928dd9
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Death 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e94781744bab1746840c4871abc220a
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Fire Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 024f65bfcee35034c8962ec2308c8170
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Fire Card Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3887a6e77e4d62a4aa6247f42196c665
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f12907130c3507441a1764d61479105c
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b4fb39801113f4c90fde147a2b3eba
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48d387ebf1b410d4f93e5e38512440ed
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5d6bdf60ec6dfb4681f518adea4d3fd
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deccf6f07f19f2441bba7bac55174a71
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps A 6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d630b73e4cf8f64f84f74e51349fde2
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps B 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7d51f799035c2945a0a5cb4c8ab31d7
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps B 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d64d57d82f69a841be100606e0b4439
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps B 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523b61f3f7d32d940b11863d5f177f8c
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Footsteps B 4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6204505cb2652c74081c73abd6b938d4
+    m_Address: Assets/M7/SFX/Heroes/Heroes - FootstepsB 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 156e17e63cd555b41a81e215f7e89312
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Hit 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 769b9ec3d01e9f74897596452a379898
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Hit 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1af105b712ea98846981370e68dcbc03
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Hit 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de6a35c471f8ad243853e02355235de1
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Slash 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b33070a513f1294dbd0acafcb0e27f1
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Slash.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 079aedf8cff57964b9d6cf8b05c5c9ac
+    m_Address: Assets/M7/SFX/Heroes/Heroes - Stab B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f794f3f6fd88a94469f90475efe7eb18
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Death 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b3b2a1c62fddf147843ec01ac0fcbd6
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Death 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a66f3b0d3dc33941be9ab8a34198a9e
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Death 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 428476e0e71b4ca45b65464adce19013
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Hit 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17d42cbc52ac7034db1641cf16117f4e
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Hit 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c022fdff51e26cc48840650ffd7e1719
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Hit 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b52c9283fa745f44a8e0c55e524b896
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Slash 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d2a154fab066544bf1b31ec79d2f87
+    m_Address: Assets/M7/SFX/Enemies/Enemies - Slash.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbd2a537c386a0d429b701c80024c526
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Roana Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40c32350880556f4cbe605c5ac04c589
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Roana Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d59572e36f6874985fd392ef24d28b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cdf93056f7ab0a4aa8bdc7e6a094af3
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Attack 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46dab0a91917f2e4c9fb08b799052a4e
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff5c88abd7559b340acc3021bad59a47
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 088ad212ee5eb1745b4a43adb4afb837
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Skill 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0ec83391892ece4ab8cc412b4b68238
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Chameleon Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84c210a99beef9d49a7a4303996e9cc1
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Lyana Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4d1546011577cd499630a0870bac468
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Lyana Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 901ea7fba7a5b5540b91acefe3460b93
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Lyana Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7394cee51f483498e0656e756729c2
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Nubia Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d3a5d3ab8104214aaa985f56ea2e18d
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Nubia Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e6ab9d7f8ab6f841b8211bba486804a
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Nubia Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87f0834ffd033e743bac2ec9d6a7fce6
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Riot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de12179de39a6fd468b818f0b5adb796
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Riot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 091d77f22eac8ff4d8125a07406f965e
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Roana Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cc551f0eb5d1db45963bd02d88b7795
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Sasha Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14643050e0fc79540905d09fdde9bc51
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Sasha Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3741a25a7748d9444bbd3d3d837a2bcb
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Ava Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e9c63e214f69834aa1f1b2a79ab6af5
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Villains/Ava Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7316d93d64a5dbb408bee300fff268e0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Ellie Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe842b8a03211a740b884d5addee33a0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Ellie Legendary Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 957e4774cdf404e48b253ec9d3d461a3
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Ellie Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2da3800b8a25d1a4bb6cbc294bde49d0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Hale  Legendary Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c5c41822b153e4aaad7bfd45498167
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Hale Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 249c684c6e52e2a4dab72ab65d453df4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Hale Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fe843adaccbbe2499eeb633cd605ebc
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lexy Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3135f1920d0ef184095aff39731ed87a
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lexy Legendary Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c70619caad41f894ead7663f9e657dcb
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lexy Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4246492e5d87d004d988955c4d13fb66
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lily Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ac4ae2ab96892349863b0f65ec5a41b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lily Legendary Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35f31d662d197e4ab492bdf945e86e2
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Lily Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bdf88b5498227e4c87fbd66e96f24f1
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Naomi Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 379cb639605f4024ebbe63f19bfc5985
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Naomi Legendary Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba9a7498991846b4e925295b5cdfc3f0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Naomi Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1787d010748afa449935b513e644b7e0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/Mech Harpooner Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5937ff9c24071304fa93f4d6111d9d33
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/Mech Buccaneer Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ea6b86b8f301e42a684cbce13fd55b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/Mech Buccaneer Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4abfc4298f3faf549b04363d3020127c
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/IncineratorBot Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffff51af91428fd4f86bc6247b33add6
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/IncineratorBot Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59822b13ea7f07a4494a53a1138356be
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Dune Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17a047ebc26e94040b086106a16e3ca8
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Eliza Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a09efc41b4e23c44c96e49ed3544bfb9
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Eliza Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f57efb56d800a304a969e368cdd5ecfd
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Eliza Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 113fe6d55a1c22148b96303d47119d17
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Oya Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7890315a3bdba244a706c8c2807735e
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Oya Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe7c741d839e9d4bab9f6e0b3854345
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Oya Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a5acb047f7966d4989a42c91680aae6
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 1/Dune Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e534e06d321ca5e44a94cb1bc57b36a4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AeroDroneMkI Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ef9a18ae18b0ee4a93a02aed6c26f5f
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AeroDroneMkI Skill 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9207fe8208117814fb7eca8222ccf86b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AeroDroneMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0011437ca535c1a4ba66b547380646cb
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AeroDroneMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bffdd6ffa02c1a49bd2687267fc8d49
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AquaMantisBot Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9006173b1a4a5bf429a983d08f0a4e76
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/AquaMantisBot Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e524df8441ee6134ba1a0b4418c6c05e
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/ArtilleryBot Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2530d52da09e44b4eb6348110744d37b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/ArtilleryBot Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a8b5c617e85ebf418fbb9441014355c
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/BlackMaw Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 864b6b5cbf61b9d4c969650209673abb
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/BlackMaw Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79d8e78e80f694149ba32d41e0718e42
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CentiBot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c70e954164e3bd4f96c70c2ecf42fe0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CentiBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ae878ba2a53cc41999a240bfba29e4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CorruptedGuardBotMkI Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48eba48426b2c7b48a79c9d55ddc47d8
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CorruptedGuardBotMkI Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c1ecd6a46a81d4181f8253f7d5f526
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CorruptedGuardBotMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd872e55ca277b04ba3b7982770363b9
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CorruptedGuardBotMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b5340430839bb14da5fd657cfc08169
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CycloneStormBot Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699017f00484e2143a66bf9a58ed653d
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/CycloneStormBot Skill 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcc2c05de2fc84c43b64ec44078a96cc
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/Enemy Hit.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca0fd3b9271321841819200ce80697b6
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/EnforcerStormBot Attack 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4bf02134cdb25e488de9ccc88d1b6c0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/EnforcerStormBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad9af9b391fbde44dadeb62dc58479ee
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/FrostThrasherBot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 504d21473860e944c8bc1877654f27cb
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/FrostThrasherBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205e0d89ba14a29408f6129014e3d7cc
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/GrizClaw Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a18a2ab89d3d87345b162702cb4a3511
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/GrizClaw Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 968ff3d1102f2b14b9552b7bcd218804
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/HammerheadStormBot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc99a05cc01ed54080ef6f6b65f4005
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/HammerheadStormBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f57ba8262f0cab4685e2ce52e86026a
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotBandit Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 806a3641196addc49b830b91b2bec84b
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotBandit Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64f8a6d2eb6994b45abb742cc277255a
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotCowboy Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e540231a605517a4ab13cf174ae3a948
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotCowboy Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bcea5e812fa75d4bbf01233289d4980
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotGunner Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8866e027ff4aad4499838641d6a8be35
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotGunner Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6988cb1fbbd39504bad5b99ff1eb5552
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotMkI Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dc693a87297d4aa0a6beb6a43ac7217
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotMkI Death.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aad6a9a1c5e68a5488a8390530325cc9
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotMki Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84427328305bc9a4b84f47386edee762
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e4e93bd08f9dbb4e92127a67cc99e86
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 567c5671de02015478833bbc79e0be9f
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotPirate Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39dc1e138eb906845aaff0ead855e3dc
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotPirate Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9adcf4f5c0f9d3b4b934d5f27e85ab99
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotViking Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c5bf3972c54980438e52e1a2600204e
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/InfantryBotViking Skill 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8515d626c3573142a4aedcfeb4983a4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/Mech Harpooner Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2271d4a9f840fee4987ba0b2de9ea309
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechBandit Attack 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ac1076474861a24bacac56dbdf7b3ba
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechBandit Skill 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88b6afb2012ddae4eb056d031b0dbc44
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechBanditHardened Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99a30b586f9eaf479ba3ee061c3bef9
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechBanditHardened Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f0b76330b1b3a4c9a3c9444f3cc0f2
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechScallywag Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80e74b1043a1ed84a9bc5530d7d1e2e8
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechScallywag Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 277ea76b8474a98418876c1bb97353f3
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechSeadog Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5669ddd959098749964b3059b616da4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MechSeadog Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 019466a0bc83fbe47a8d473a74ad4826
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MegaArtilleryBot Attack 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e00295f24229794c8f096cea9420bf8
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/MegaArtilleryBot Skill 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d88c7d557e8c00c4c931dcd676457499
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotDemolisherMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfb2cd5dc87c15b46b73d9064cb9d411
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotDemolisherMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3725d1741a2c1942b718d55af40a5e8
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotDestroyerMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d21ca444a0d11f040b2b8e4003e68b92
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotDestroyerMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad22d3c2541ecd147ab8bbb229311e47
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotFrost Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c63166c2fe2aab429a73a8216e094fe
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotFrost Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87150f81b5fdbbb44ad977078b29c50a
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotMkI Attack 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab8f4941b4dee594bbb9132ef9a06158
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotMkI Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c1facc2a2144534e9ff1647ed315d80
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b736ddbb74cdbb458991596a36809ef
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/QuadruBotMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea85e3e749db1941be5381ce9bf7e12
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/SentryBot Attack 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16bd9c86419e60945bcb9be7556a6d1d
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/SentryBot Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b38ceb03adfca7044ab9d0bcd71daf47
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/SmasherStormBot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2e8e3416d34dc24c8ede24d61446e38
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/SmasherStormBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29e4e0f83386f8d4b91fbeadf19a41f4
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/StingDroneMkI Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c95c4a585c98f9544aaaf279d2074032
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/StingDroneMkI Skill 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4d4bf92231abc844b429aad073abd7d
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/StingDroneMkII Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0dd5fb1b7e10844eab4bd31be599206
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/StingDroneMkII Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65bed0d46177c8a45b5448989d9bfab0
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/ThrasherStormBot Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef487a59f99453a449a119dffb29da50
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Enemies/ThrasherStormBot Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718a7822f063d0b46913076e9522766d
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 2/Tink Skill.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d4164bad1e51ed418bb9b7c757a0144
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Batch 2/Tink Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b62b4d9cd3bdb04a834ceb8c76de108
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Heroes/Original 5/Lily Skill 4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8561a003ae88bfb448c5e7c5c9bb53e4
+    m_Address: Assets/M7/SFX/Prefab/MasterAudio/M7Puzzle_BattleScene/Villains/Villain
+      - Ava Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN2
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4be2bb0aefee7c04781d60a3a9c45658, type: 2}
+    - {fileID: 11400000, guid: 4aa9f5b0c63040644912bcbd7b763bec, type: 2}

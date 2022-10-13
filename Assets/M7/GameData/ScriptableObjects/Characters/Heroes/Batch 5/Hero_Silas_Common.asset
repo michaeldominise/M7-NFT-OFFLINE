@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Silas_Common
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Silas
+    descriptionText: 
+    icon:
+      m_AssetGUID: 511f969b0b4df1b4a97a2c72cbd6b0ba
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 7b429a0b6d9fce744a52b0c5f5457ee1
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 1
+    mainSpine:
+      m_AssetGUID: f517390576705b14fa8c9cf49e930c08
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eb1096799b545c449b7a4d092d6ed597
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 909c5ecc2b9e8734da1b8e3579acf49d
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 75a271c8c458309499ade7619ffcff9e
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8a305a81ffe6c494cb1bf895935f946a
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c210640562dd77c4f91bc4cc3ead7ea0
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a49672299fa09441ba1dd6ba8075ab2
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a84d81099484cfb4f928361035162c9b
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: acc037cd38fbc0b4186db15b1842f669
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 309a53e50d6958843907a3defc110ac0
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2930298cbfd70a345b405407330ed3ed
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d0e8211146b17db4589efb5021878331
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc416afc6bd93b04f82fd96b8ad7c6eb
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 141c29057ce344f46a936f726436df22
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc775a2216a60dc4da5e29c0f6f8b7f3
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 402f10b843ea4ff449352e4bba0f3355
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 31246efd6ebf92e4dae5e4eb88a150c3
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c48a3a1dfa0a66419d2db47f2a23b6a
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 66dc2cf0e44e7104189df2cc8b118825
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0377bbba678a2d34086215ac26bdd23f
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b76beb653cf498244a477e679baf20bf
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f56c1280816715f49aa836a536d666d4
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9e5ce12fce402754980db886c0ed1324
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6b256a96535ec884f9bac14f7f4ad374
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cdd046b86d5169f459e0fe79d37f6387
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 734d5ce2621772449855193078e5c15e
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5602ea4b54d013d4da82d62ac4c39a7b
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1ad8ca56d90d1c347896d175a1c1fbc4
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 291cef445bb1ce946bc92f20ddd239d4
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 495e4765fe9011a4aa7d78d0e8dd9245
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7a16597b1dfa00d4ca2b045cb14346df
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Silas_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c1e2e891a7e5d8c4da209ef559d5b94c
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d7fe65ca785384345b42de5956e44c1c
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6b7fb3766747b2e4c84cf5660d613f40
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ece8b7b246a08e843b68f543054abcc5
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b9947960194ee4645afbf219e2345b4c
+        subObjectName: 
+      - assetName: EquipmentItem_Silas_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 77ee5c0a11a1cfc4d9f731013c28ccbf
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 40d2d6eb2c12b6d468c41f08212409d9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: e869ed353e38290479e2489e60bee774, type: 2}

@@ -1,0 +1,292 @@
+QuadruBot_MK2_Destroyer.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/gun A_B
+bounds:852,808,80,105
+rotate:90
+Dark/gun B_A
+bounds:930,701,91,105
+Dark/leg A_A
+bounds:430,760,123,86
+Earth/leg A_A
+bounds:430,760,123,86
+Fire/leg A_A
+bounds:430,760,123,86
+Light/leg A_A
+bounds:430,760,123,86
+Water/leg A_A
+bounds:430,760,123,86
+Dark/leg A_B
+bounds:380,126,168,161
+Dark/leg A_C
+bounds:555,721,123,86
+Earth/leg A_C
+bounds:555,721,123,86
+Fire/leg A_C
+bounds:555,721,123,86
+Light/leg A_C
+bounds:555,721,123,86
+Water/leg A_C
+bounds:555,721,123,86
+Dark/leg A_D
+bounds:334,893,164,40
+Dark/leg B_A
+bounds:430,625,133,102
+rotate:90
+Earth/leg B_A
+bounds:430,625,133,102
+rotate:90
+Fire/leg B_A
+bounds:430,625,133,102
+rotate:90
+Light/leg B_A
+bounds:430,625,133,102
+rotate:90
+Water/leg B_A
+bounds:430,625,133,102
+rotate:90
+Dark/leg B_B
+bounds:428,475,164,140
+Dark/leg B_C
+bounds:534,617,133,102
+Earth/leg B_C
+bounds:534,617,133,102
+Fire/leg B_C
+bounds:534,617,133,102
+Light/leg B_C
+bounds:534,617,133,102
+Water/leg B_C
+bounds:534,617,133,102
+Dark/leg B_D
+bounds:590,932,164,39
+offsets:0,0,172,39
+Dark/leg C_A
+bounds:680,721,123,86
+Earth/leg C_A
+bounds:680,721,123,86
+Fire/leg C_A
+bounds:680,721,123,86
+Light/leg C_A
+bounds:680,721,123,86
+Water/leg C_A
+bounds:680,721,123,86
+Dark/leg C_B
+bounds:334,320,187,153
+offsets:0,11,187,164
+Dark/leg C_C
+bounds:805,720,123,86
+Earth/leg C_C
+bounds:805,720,123,86
+Fire/leg C_C
+bounds:805,720,123,86
+Light/leg C_C
+bounds:805,720,123,86
+Water/leg C_C
+bounds:805,720,123,86
+Dark/leg C_D
+bounds:2,935,145,36
+Dark/leg D_A
+bounds:630,809,79,109
+rotate:90
+Earth/leg D_A
+bounds:630,809,79,109
+rotate:90
+Fire/leg D_A
+bounds:630,809,79,109
+rotate:90
+Light/leg D_A
+bounds:630,809,79,109
+rotate:90
+Water/leg D_A
+bounds:630,809,79,109
+rotate:90
+Dark/leg D_B
+bounds:669,586,132,144
+rotate:90
+Dark/leg D_C
+bounds:741,809,79,109
+rotate:90
+Earth/leg D_C
+bounds:741,809,79,109
+rotate:90
+Fire/leg D_C
+bounds:741,809,79,109
+rotate:90
+Light/leg D_C
+bounds:741,809,79,109
+rotate:90
+Water/leg D_C
+bounds:741,809,79,109
+rotate:90
+Dark/leg D_D
+bounds:500,890,146,40
+Earth/gun A_B
+bounds:2,770,80,105
+rotate:90
+Earth/gun B_A
+bounds:2,677,91,105
+rotate:90
+Earth/leg A_B
+bounds:550,107,168,161
+Earth/leg A_D
+bounds:648,890,164,40
+Earth/leg B_B
+bounds:594,444,164,140
+Earth/leg B_D
+bounds:756,932,164,39
+offsets:0,0,172,39
+Earth/leg C_B
+bounds:523,289,187,153
+offsets:0,11,187,164
+Earth/leg C_D
+bounds:149,935,145,36
+Earth/leg D_B
+bounds:815,567,132,144
+rotate:90
+Earth/leg D_D
+bounds:814,890,146,40
+Fire/gun A_B
+bounds:109,770,80,105
+rotate:90
+Fire/gun B_A
+bounds:109,677,91,105
+rotate:90
+Fire/leg A_B
+bounds:720,107,168,161
+Fire/leg A_D
+bounds:2,852,164,40
+Light/leg A_D
+bounds:2,852,164,40
+Fire/leg B_B
+bounds:760,425,164,140
+Fire/leg B_D
+bounds:2,894,164,39
+offsets:0,0,172,39
+Light/leg B_D
+bounds:2,894,164,39
+offsets:0,0,172,39
+Fire/leg C_B
+bounds:712,270,187,153
+offsets:0,11,187,164
+Fire/leg C_D
+bounds:296,935,145,36
+Light/leg C_D
+bounds:296,935,145,36
+Fire/leg D_B
+bounds:2,543,132,144
+rotate:90
+Fire/leg D_D
+bounds:168,852,146,40
+Light/leg D_D
+bounds:168,852,146,40
+Light/gun A_B
+bounds:216,769,80,105
+rotate:90
+Light/gun B_A
+bounds:216,676,91,105
+rotate:90
+Light/leg A_B
+bounds:2,70,168,161
+Light/leg B_B
+bounds:2,400,164,140
+Light/leg C_B
+bounds:2,233,187,153
+offsets:0,11,187,164
+Light/leg D_B
+bounds:148,542,132,144
+rotate:90
+Water/gun A_B
+bounds:323,769,80,105
+rotate:90
+Water/gun B_A
+bounds:323,676,91,105
+rotate:90
+Water/leg A_B
+bounds:172,2,168,161
+Water/leg A_D
+bounds:316,851,164,40
+Water/leg B_B
+bounds:168,388,164,140
+Water/leg B_D
+bounds:168,894,164,39
+offsets:0,0,172,39
+Water/leg C_B
+bounds:191,165,187,153
+offsets:0,11,187,164
+Water/leg C_D
+bounds:443,935,145,36
+Water/leg D_B
+bounds:294,530,132,144
+Water/leg D_D
+bounds:482,848,146,40
+
+QuadruBot_MK2_Destroyer_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/body
+bounds:634,39,370,282
+Dark/gun A_A
+bounds:2,2,488,249
+Dark/head
+bounds:2,604,630,349
+Earth/head
+bounds:2,253,630,349
+Fire/head
+bounds:634,323,630,349
+rotate:90
+
+QuadruBot_MK2_Destroyer_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/gun B_B
+bounds:634,25,438,253
+rotate:90
+Earth/gun A_A
+bounds:634,465,488,249
+rotate:90
+Fire/gun A_A
+bounds:2,2,488,249
+Light/head
+bounds:2,604,630,349
+Water/head
+bounds:2,253,630,349
+
+QuadruBot_MK2_Destroyer_4.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Earth/body
+bounds:492,537,370,282
+rotate:90
+Fire/body
+bounds:2,286,370,282
+rotate:90
+Light/body
+bounds:2,2,370,282
+Light/gun A_A
+bounds:2,658,488,249
+Water/body
+bounds:374,2,370,282
+Water/gun A_A
+bounds:286,286,488,249
+
+QuadruBot_MK2_Destroyer_5.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Earth/gun B_B
+bounds:2,257,438,253
+Fire/gun B_B
+bounds:442,257,438,253
+Light/gun B_B
+bounds:2,2,438,253
+Water/gun B_B
+bounds:442,2,438,253

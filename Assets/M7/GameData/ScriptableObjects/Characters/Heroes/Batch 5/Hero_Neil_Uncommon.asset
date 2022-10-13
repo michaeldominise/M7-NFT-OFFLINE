@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Neil_Uncommon
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Neil
+    descriptionText: 
+    icon:
+      m_AssetGUID: 5be17860cebb8ea4ead4d77c8d3d08e1
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: b32ea9f62ef73c04cb83a830f4466b4d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 2
+    mainSpine:
+      m_AssetGUID: 19fda7fba1a25b24fb84b1c75f241ae0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 08b065a1d8c256d40a082c81ba9574e5
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48118ccf1f02c0640a08b3fa1231bcde
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c3f24af3286ddd74bbff4aa08faec905
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 00635ba9968843d438685f4215e63ea4
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a972cc1630e72824394189607015b624
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 46d94fdecca183f40b979a4a82b011d6
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e4b245689c0c0548b8478e93d5c90c5
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 08645f00cb521e649881a01840992af6
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 584d2ce1eeb3d07408c9ef9e59672043
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e660ccc5d277d204bb0a3d94ab38a07e
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c08a811c3a77f745a7345b60a279720
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5289ac959022dc742af3874593b48aa7
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9dc9949531b87504180c8079609c5ab3
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dba8ebe30ce34d045a83c1dc3dd8101c
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b127a21496ed0e048b6633697b07344e
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a5952d843ff2c7e49ad812c19ab30e4d
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6c3e5df66caa3bd40b191cd6e985abc4
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b88f0b08768dc2e4c80bcdd855a18e97
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 482b25e939c45d54cb12130681079a6b
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c0ea6a32580dda54796f4ac25dd70f9e
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 928ca486ecad28c4084dfadc5f8d997e
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2b012200dc8ecc14dbb89d9e95afb94a
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dc3bbc5b3a84c984aaa1185501ee5f81
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 539b3c4151125cd48b8286177a20f061
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4bae73b125cab0c4cb4d1980baa3b61d
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f10cd792961640742a7a8d6032a68cd0
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b64f7ce3095e1b34f8692c5b5c3404e8
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fd80bad8f8d6d164d972b4e44a6d96a7
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 08b1c34b5d9fa6d4095f861daf29ef30
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c2536443f77540a40b65b13ac10235cb
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Neil_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d110521314c786a46816fb086686cce0
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e093d52a4b2c37b4c98c58fb87a6c7d7
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 604de8c2fa3f1ed489e32f08cc52ef8f
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 260a90c9a61c13f46b63c555db301098
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 979e9e2efa979c245b94d77bda36a6fa
+        subObjectName: 
+      - assetName: EquipmentItem_Neil_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5058444c60ba6d04da0f3099bf94f53f
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 6a6cbf4ca9ec90645bb02af5ee820113
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 43c8142a90f32db4392536ffeebed2c0, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b007b4422d04edfa80938e6829980f0, type: 3}
+  m_Name: AzureProfileOverview
+  m_EditorClassIdentifier: 
+  profileList:
+  - profileName: LocalHost_Dev
+    hostKey: pmRbFB-Enim8LM7iB8phK4tikB42eWgmiYwf1qjkdF9HAzFu8w2sAw==
+    azureFunctionUri: http://localhost:7023/api/
+    azureCdnUri: https://m7storagedev.blob.core.windows.net/
+  - profileName: Dev
+    hostKey: pmRbFB-Enim8LM7iB8phK4tikB42eWgmiYwf1qjkdF9HAzFu8w2sAw==
+    azureFunctionUri: https://m7unitydev.azurewebsites.net/api/
+    azureCdnUri: https://m7storagedev.blob.core.windows.net/
+  - profileName: LocalHost_QA
+    hostKey: C-6-BL4o_O1fT72rgSk77gzlU9qowgrwBH3B66a9OqD5AzFukBLT7Q==
+    azureFunctionUri: http://localhost:7023/api/
+    azureCdnUri: https://m7storageqa.blob.core.windows.net/
+  - profileName: QA
+    hostKey: C-6-BL4o_O1fT72rgSk77gzlU9qowgrwBH3B66a9OqD5AzFukBLT7Q==
+    azureFunctionUri: https://m7unityqa.azurewebsites.net/api/
+    azureCdnUri: https://m7storageqa.blob.core.windows.net/
+  - profileName: Prod
+    hostKey: 7eR6BUBrqnqMKoqSz2Wo9BesqRziGDYI_LFbdVMQnED2AzFu7Mjtcw==
+    azureFunctionUri: https://m7unitydev.azurewebsites.net/api/
+    azureCdnUri: https://m7storageprod.blob.core.windows.net/

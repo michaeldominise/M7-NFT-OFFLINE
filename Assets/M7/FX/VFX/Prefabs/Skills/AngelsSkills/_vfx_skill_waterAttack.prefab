@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2582375893820631798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2582375893820631799}
+  m_Layer: 0
+  m_Name: OnStart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2582375893820631799
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582375893820631798}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3123807463124632635}
+  m_Father: {fileID: 2582375895180124589}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2582375895180124591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2582375895180124589}
+  - component: {fileID: 2582375895180124588}
+  m_Layer: 0
+  m_Name: _vfx_skill_waterAttack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2582375895180124589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582375895180124591}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.79991, y: 0.08597034, z: 4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2582375893820631799}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2582375895180124588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582375895180124591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac6a297f1766dc34fb3f239921f1c6e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _sFX: {fileID: 0}
+    _SFXDelay: 0
+    _targetParticle: {fileID: 0}
+  projectileVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _sFX: {fileID: 0}
+    _SFXDelay: 0
+    _projectileObject: {fileID: 0}
+    travelDuration: 0
+  endVfxTargetData:
+    _targetType: 1
+    _effectDelay: 0
+    _sFX: {fileID: 0}
+    _SFXDelay: 0
+    _targetParticle: {fileID: 756550645661796727}
+  onEffectActivateDelay: 0
+  onFisnishInterval: 1.5
+  SFXPlayer: {fileID: 0}
+  shakeTimes: 1
+  shakeIntervals: 1
+--- !u!1001 &2582375894909897601
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2582375893820631799}
+    m_Modifications:
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1645545686777318571, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_Name
+      value: VFX_WaterAttack
+      objectReference: {fileID: 0}
+    - target: {fileID: 7179629710595997276, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+--- !u!4 &3123807463124632635 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 616869348914548666, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+  m_PrefabInstance: {fileID: 2582375894909897601}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &756550645661796727 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 3002141715904676598, guid: 57afda261a772439b8ed29cf231d9430, type: 3}
+  m_PrefabInstance: {fileID: 2582375894909897601}
+  m_PrefabAsset: {fileID: 0}

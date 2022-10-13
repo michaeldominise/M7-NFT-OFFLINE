@@ -1,0 +1,24 @@
+{
+    "name": "Gamelogic.Grids.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:80c004edf15c6a44190ae1462a0c7e2a",
+        "GUID:d14f18051a46ff94fb6d057727204b39",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:436d5d00397a11041b7eb2311d449bbd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

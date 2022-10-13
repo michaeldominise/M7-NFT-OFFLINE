@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2784157827395174735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7987979242289904607}
+  - component: {fileID: 734526790478436068}
+  m_Layer: 11
+  m_Name: BackgroundBorderHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7987979242289904607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2784157827395174735}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &734526790478436068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2784157827395174735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20653e046af67604585f57f4dca9e528, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundTile: {fileID: 5310180771840326208, guid: a28d4944d02ab364fa6455d0b3121a22, type: 3}
+  rules:
+  - hasTiles: 256
+    deadCells: 73
+    borderTile: {fileID: 8178483061334548541, guid: 1abd40ad22f5e7a4bb057c4d192526d2, type: 3}
+  - hasTiles: 257
+    deadCells: 72
+    borderTile: {fileID: 3057279933973617923, guid: f61b5a1fa39b1a742947e60595609f7f, type: 3}
+  - hasTiles: 9
+    deadCells: 320
+    borderTile: {fileID: 4027000646623773700, guid: 10f99343872ba634bab730acf2b4b0ed, type: 3}
+  - hasTiles: 1
+    deadCells: 320
+    borderTile: {fileID: 7008390402419787912, guid: 621ea85c1d71ce84db1456c91578fee7, type: 3}
+  - hasTiles: 264
+    deadCells: 65
+    borderTile: {fileID: 7501388074046526816, guid: 1509a2a02f8ff914cbe74819412d830a, type: 3}
+  - hasTiles: 65
+    deadCells: 264
+    borderTile: {fileID: 7501388074046526816, guid: 0ba8fdd7340990f449fde06f1ee66a5e, type: 3}
+  - hasTiles: 8
+    deadCells: 321
+    borderTile: {fileID: 611282437806845037, guid: 435258ade6e32334a897872e528dd108, type: 3}
+  - hasTiles: 64
+    deadCells: 265
+    borderTile: {fileID: 611282437806845037, guid: 60c4ec718fd2b1b478df7c86313b7138, type: 3}
+  - hasTiles: 72
+    deadCells: 257
+    borderTile: {fileID: 3057279933973617923, guid: fdd06c7e4a7a97f47a0331ff8025a9dc, type: 3}
+  - hasTiles: 329
+    deadCells: 0
+    borderTile: {fileID: 5310180771840326208, guid: a28d4944d02ab364fa6455d0b3121a22, type: 3}
+  - hasTiles: 265
+    deadCells: 64
+    borderTile: {fileID: 2905707881004888692, guid: 5f081757f6b65a84b9b1daf36585950a, type: 3}
+  - hasTiles: 321
+    deadCells: 8
+    borderTile: {fileID: 2905707881004888692, guid: c848a3b36da876c48a36f13032931016, type: 3}
+  - hasTiles: 328
+    deadCells: 1
+    borderTile: {fileID: 2905707881004888692, guid: 619ab5277c52f5a48b1953f5c3791831, type: 3}
+  - hasTiles: 73
+    deadCells: 256
+    borderTile: {fileID: 2905707881004888692, guid: a7ffd92028baea046aff959a9232c8de, type: 3}
+  - hasTiles: 320
+    deadCells: 9
+    borderTile: {fileID: 7411943002861473535, guid: 26a1f9c31abbd914592b0fe6ca62bd3d, type: 3}

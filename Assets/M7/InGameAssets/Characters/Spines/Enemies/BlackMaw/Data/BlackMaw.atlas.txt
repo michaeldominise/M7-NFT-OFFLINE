@@ -1,0 +1,54 @@
+BlackMaw.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.1
+arm R
+bounds:2,25,79,82
+rotate:90
+foot L
+bounds:89,163,69,47
+foot R
+bounds:160,163,69,47
+hand L
+bounds:44,168,43,42
+hand R
+bounds:2,170,40,40
+shoulder L
+bounds:86,2,79,111
+rotate:90
+shoulder R
+bounds:142,83,78,93
+rotate:90
+thigh L
+bounds:2,111,55,68
+rotate:90
+thigh R
+bounds:72,106,55,68
+rotate:90
+
+BlackMaw_2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.1
+arm L
+bounds:2,66,105,82
+head
+bounds:109,2,132,146
+
+BlackMaw_3.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.1
+hip
+bounds:2,2,159,113
+
+BlackMaw_4.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.1
+body
+bounds:2,2,207,205

@@ -1,0 +1,1105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 334bb3aa2c9957a4980bf92714e69e36, type: 3}
+  m_Name: GlobalDatabase
+  m_EditorClassIdentifier: 
+  globalSettings:
+    stageAllData:
+      stageDataSettingsList:
+      - stageId: Stage_1
+        stageBonus: 0.0011
+        gaianiteCap: 5
+        totalMoveCount: 28
+      - stageId: Stage_2
+        stageBonus: 0.0012
+        gaianiteCap: 5
+        totalMoveCount: 30
+      - stageId: Stage_3
+        stageBonus: 0.0013
+        gaianiteCap: 5
+        totalMoveCount: 30
+      - stageId: Stage_4
+        stageBonus: 0.0014
+        gaianiteCap: 5
+        totalMoveCount: 20
+      - stageId: Stage_5
+        stageBonus: 0.0015
+        gaianiteCap: 5
+        totalMoveCount: 30
+      - stageId: Stage_6
+        stageBonus: 0.0016
+        gaianiteCap: 6
+        totalMoveCount: 35
+      - stageId: Stage_7
+        stageBonus: 0.0017
+        gaianiteCap: 6
+        totalMoveCount: 33
+      - stageId: Stage_8
+        stageBonus: 0.0018
+        gaianiteCap: 6
+        totalMoveCount: 35
+      - stageId: Stage_9
+        stageBonus: 0.0019
+        gaianiteCap: 6
+        totalMoveCount: 30
+      - stageId: Stage_10
+        stageBonus: 0.002
+        gaianiteCap: 6
+        totalMoveCount: 27
+      - stageId: Stage_11
+        stageBonus: 0.0021
+        gaianiteCap: 7
+        totalMoveCount: 29
+      - stageId: Stage_12
+        stageBonus: 0.0022
+        gaianiteCap: 7
+        totalMoveCount: 27
+      - stageId: Stage_13
+        stageBonus: 0.0023
+        gaianiteCap: 7
+        totalMoveCount: 27
+      - stageId: Stage_14
+        stageBonus: 0.0024
+        gaianiteCap: 7
+        totalMoveCount: 26
+      - stageId: Stage_15
+        stageBonus: 0.0025
+        gaianiteCap: 7
+        totalMoveCount: 32
+      - stageId: Stage_16
+        stageBonus: 0.0026
+        gaianiteCap: 8
+        totalMoveCount: 25
+      - stageId: Stage_17
+        stageBonus: 0.0027
+        gaianiteCap: 8
+        totalMoveCount: 30
+      - stageId: Stage_18
+        stageBonus: 0.0028
+        gaianiteCap: 8
+        totalMoveCount: 30
+      - stageId: Stage_19
+        stageBonus: 0.0029
+        gaianiteCap: 8
+        totalMoveCount: 32
+      - stageId: Stage_20
+        stageBonus: 0.003
+        gaianiteCap: 8
+        totalMoveCount: 27
+      - stageId: Stage_21
+        stageBonus: 0.0031
+        gaianiteCap: 9
+        totalMoveCount: 35
+      - stageId: Stage_22
+        stageBonus: 0.0032
+        gaianiteCap: 9
+        totalMoveCount: 33
+      - stageId: Stage_23
+        stageBonus: 0.0033
+        gaianiteCap: 9
+        totalMoveCount: 34
+      - stageId: Stage_24
+        stageBonus: 0.0034
+        gaianiteCap: 9
+        totalMoveCount: 35
+      - stageId: Stage_25
+        stageBonus: 0.0035
+        gaianiteCap: 9
+        totalMoveCount: 35
+      - stageId: Stage_26
+        stageBonus: 0.0036
+        gaianiteCap: 10
+        totalMoveCount: 29
+      - stageId: Stage_27
+        stageBonus: 0.0037
+        gaianiteCap: 10
+        totalMoveCount: 26
+      - stageId: Stage_28
+        stageBonus: 0.0038
+        gaianiteCap: 10
+        totalMoveCount: 34
+      - stageId: Stage_29
+        stageBonus: 0.0039
+        gaianiteCap: 10
+        totalMoveCount: 25
+      - stageId: Stage_30
+        stageBonus: 0.004
+        gaianiteCap: 10
+        totalMoveCount: 28
+      - stageId: Stage_31
+        stageBonus: 0.0041
+        gaianiteCap: 11
+        totalMoveCount: 35
+      - stageId: Stage_32
+        stageBonus: 0.0042
+        gaianiteCap: 11
+        totalMoveCount: 34
+      - stageId: Stage_33
+        stageBonus: 0.0043
+        gaianiteCap: 11
+        totalMoveCount: 35
+      - stageId: Stage_34
+        stageBonus: 0.0044
+        gaianiteCap: 11
+        totalMoveCount: 36
+      - stageId: Stage_35
+        stageBonus: 0.0045
+        gaianiteCap: 11
+        totalMoveCount: 26
+      - stageId: Stage_36
+        stageBonus: 0.0046
+        gaianiteCap: 11
+        totalMoveCount: 34
+      - stageId: Stage_37
+        stageBonus: 0.0047
+        gaianiteCap: 12
+        totalMoveCount: 33
+      - stageId: Stage_38
+        stageBonus: 0.0048
+        gaianiteCap: 12
+        totalMoveCount: 20
+      - stageId: Stage_39
+        stageBonus: 0.0049
+        gaianiteCap: 12
+        totalMoveCount: 22
+      - stageId: Stage_40
+        stageBonus: 0.005
+        gaianiteCap: 12
+        totalMoveCount: 35
+      - stageId: Stage_41
+        stageBonus: 0.0051
+        gaianiteCap: 12
+        totalMoveCount: 24
+      - stageId: Stage_42
+        stageBonus: 0.0052
+        gaianiteCap: 13
+        totalMoveCount: 28
+      - stageId: Stage_43
+        stageBonus: 0.0053
+        gaianiteCap: 13
+        totalMoveCount: 29
+      - stageId: Stage_44
+        stageBonus: 0.0054
+        gaianiteCap: 13
+        totalMoveCount: 35
+      - stageId: Stage_45
+        stageBonus: 0.0055
+        gaianiteCap: 13
+        totalMoveCount: 36
+      - stageId: Stage_46
+        stageBonus: 0.0056
+        gaianiteCap: 13
+        totalMoveCount: 19
+      - stageId: Stage_47
+        stageBonus: 0.0057
+        gaianiteCap: 14
+        totalMoveCount: 34
+      - stageId: Stage_48
+        stageBonus: 0.0058
+        gaianiteCap: 14
+        totalMoveCount: 36
+      - stageId: Stage_49
+        stageBonus: 0.0059
+        gaianiteCap: 14
+        totalMoveCount: 24
+      - stageId: Stage_50
+        stageBonus: 0.006
+        gaianiteCap: 14
+        totalMoveCount: 20
+      - stageId: Stage_51
+        stageBonus: 0.0061
+        gaianiteCap: 14
+        totalMoveCount: 24
+      - stageId: Stage_52
+        stageBonus: 0.0062
+        gaianiteCap: 15
+        totalMoveCount: 21
+      - stageId: Stage_53
+        stageBonus: 0.0063
+        gaianiteCap: 15
+        totalMoveCount: 33
+      - stageId: Stage_54
+        stageBonus: 0.0064
+        gaianiteCap: 15
+        totalMoveCount: 35
+      - stageId: Stage_55
+        stageBonus: 0.0065
+        gaianiteCap: 15
+        totalMoveCount: 18
+      - stageId: Stage_56
+        stageBonus: 0.0066
+        gaianiteCap: 15
+        totalMoveCount: 19
+      - stageId: Stage_57
+        stageBonus: 0.0067
+        gaianiteCap: 16
+        totalMoveCount: 29
+      - stageId: Stage_58
+        stageBonus: 0.0068
+        gaianiteCap: 16
+        totalMoveCount: 27
+      - stageId: Stage_59
+        stageBonus: 0.0069
+        gaianiteCap: 16
+        totalMoveCount: 19
+      - stageId: Stage_60
+        stageBonus: 0.007
+        gaianiteCap: 16
+        totalMoveCount: 25
+      - stageId: Stage_61
+        stageBonus: 0.0071
+        gaianiteCap: 16
+        totalMoveCount: 28
+      - stageId: Stage_62
+        stageBonus: 0.0072
+        gaianiteCap: 17
+        totalMoveCount: 18
+      - stageId: Stage_63
+        stageBonus: 0.0073
+        gaianiteCap: 17
+        totalMoveCount: 25
+      - stageId: Stage_64
+        stageBonus: 0.0074
+        gaianiteCap: 17
+        totalMoveCount: 17
+      - stageId: Stage_65
+        stageBonus: 0.0075
+        gaianiteCap: 17
+        totalMoveCount: 36
+      - stageId: Stage_66
+        stageBonus: 0.0076
+        gaianiteCap: 17
+        totalMoveCount: 34
+      - stageId: Stage_67
+        stageBonus: 0.0077
+        gaianiteCap: 18
+        totalMoveCount: 32
+      - stageId: Stage_68
+        stageBonus: 0.0078
+        gaianiteCap: 18
+        totalMoveCount: 26
+      - stageId: Stage_69
+        stageBonus: 0.0079
+        gaianiteCap: 18
+        totalMoveCount: 31
+      - stageId: Stage_70
+        stageBonus: 0.008
+        gaianiteCap: 18
+        totalMoveCount: 21
+      - stageId: Stage_71
+        stageBonus: 0.0081
+        gaianiteCap: 18
+        totalMoveCount: 20
+      - stageId: Stage_72
+        stageBonus: 0.0082
+        gaianiteCap: 18
+        totalMoveCount: 28
+      - stageId: Stage_73
+        stageBonus: 0.0083
+        gaianiteCap: 19
+        totalMoveCount: 19
+      - stageId: Stage_74
+        stageBonus: 0.0084
+        gaianiteCap: 19
+        totalMoveCount: 27
+      - stageId: Stage_75
+        stageBonus: 0.0085
+        gaianiteCap: 19
+        totalMoveCount: 22
+      - stageId: Stage_76
+        stageBonus: 0.0086
+        gaianiteCap: 19
+        totalMoveCount: 24
+      - stageId: Stage_77
+        stageBonus: 0.0087
+        gaianiteCap: 19
+        totalMoveCount: 32
+      - stageId: Stage_78
+        stageBonus: 0.0088
+        gaianiteCap: 20
+        totalMoveCount: 21
+      - stageId: Stage_79
+        stageBonus: 0.0089
+        gaianiteCap: 20
+        totalMoveCount: 24
+      - stageId: Stage_80
+        stageBonus: 0.009
+        gaianiteCap: 20
+        totalMoveCount: 22
+      - stageId: Stage_81
+        stageBonus: 0.0091
+        gaianiteCap: 20
+        totalMoveCount: 21
+      - stageId: Stage_82
+        stageBonus: 0.0092
+        gaianiteCap: 20
+        totalMoveCount: 27
+      - stageId: Stage_83
+        stageBonus: 0.0093
+        gaianiteCap: 21
+        totalMoveCount: 22
+      - stageId: Stage_84
+        stageBonus: 0.0094
+        gaianiteCap: 21
+        totalMoveCount: 28
+      - stageId: Stage_85
+        stageBonus: 0.0095
+        gaianiteCap: 21
+        totalMoveCount: 18
+      - stageId: Stage_86
+        stageBonus: 0.0096
+        gaianiteCap: 21
+        totalMoveCount: 21
+      - stageId: Stage_87
+        stageBonus: 0.0097
+        gaianiteCap: 21
+        totalMoveCount: 22
+      - stageId: Stage_88
+        stageBonus: 0.0098
+        gaianiteCap: 22
+        totalMoveCount: 23
+      - stageId: Stage_89
+        stageBonus: 0.0099
+        gaianiteCap: 22
+        totalMoveCount: 25
+      - stageId: Stage_90
+        stageBonus: 0.01
+        gaianiteCap: 22
+        totalMoveCount: 18
+      - stageId: Stage_91
+        stageBonus: 0.0101
+        gaianiteCap: 22
+        totalMoveCount: 24
+      - stageId: Stage_92
+        stageBonus: 0.0102
+        gaianiteCap: 22
+        totalMoveCount: 16
+      - stageId: Stage_93
+        stageBonus: 0.0103
+        gaianiteCap: 23
+        totalMoveCount: 32
+      - stageId: Stage_94
+        stageBonus: 0.0104
+        gaianiteCap: 23
+        totalMoveCount: 31
+      - stageId: Stage_95
+        stageBonus: 0.0105
+        gaianiteCap: 23
+        totalMoveCount: 22
+      - stageId: Stage_96
+        stageBonus: 0.0106
+        gaianiteCap: 23
+        totalMoveCount: 24
+      - stageId: Stage_97
+        stageBonus: 0.0107
+        gaianiteCap: 23
+        totalMoveCount: 31
+      - stageId: Stage_98
+        stageBonus: 0.0108
+        gaianiteCap: 24
+        totalMoveCount: 28
+      - stageId: Stage_99
+        stageBonus: 0.0109
+        gaianiteCap: 24
+        totalMoveCount: 33
+      - stageId: Stage_100
+        stageBonus: 0.011
+        gaianiteCap: 24
+        totalMoveCount: 25
+      - stageId: Stage_101
+        stageBonus: 0.0111
+        gaianiteCap: 24
+        totalMoveCount: 26
+      - stageId: Stage_102
+        stageBonus: 0.0112
+        gaianiteCap: 24
+        totalMoveCount: 31
+      - stageId: Stage_103
+        stageBonus: 0.0113
+        gaianiteCap: 25
+        totalMoveCount: 29
+      - stageId: Stage_104
+        stageBonus: 0.0114
+        gaianiteCap: 25
+        totalMoveCount: 24
+      - stageId: Stage_105
+        stageBonus: 0.0115
+        gaianiteCap: 25
+        totalMoveCount: 22
+      - stageId: Stage_106
+        stageBonus: 0.0116
+        gaianiteCap: 25
+        totalMoveCount: 28
+      - stageId: Stage_107
+        stageBonus: 0.0117
+        gaianiteCap: 25
+        totalMoveCount: 21
+      - stageId: Stage_108
+        stageBonus: 0.0118
+        gaianiteCap: 26
+        totalMoveCount: 29
+      - stageId: Stage_109
+        stageBonus: 0.0119
+        gaianiteCap: 26
+        totalMoveCount: 27
+      - stageId: Stage_110
+        stageBonus: 0.012
+        gaianiteCap: 26
+        totalMoveCount: 22
+      - stageId: Stage_111
+        stageBonus: 0.0121
+        gaianiteCap: 26
+        totalMoveCount: 34
+      - stageId: Stage_112
+        stageBonus: 0.0122
+        gaianiteCap: 26
+        totalMoveCount: 24
+      - stageId: Stage_113
+        stageBonus: 0.0123
+        gaianiteCap: 26
+        totalMoveCount: 26
+      - stageId: Stage_114
+        stageBonus: 0.0124
+        gaianiteCap: 27
+        totalMoveCount: 18
+      - stageId: Stage_115
+        stageBonus: 0.0125
+        gaianiteCap: 27
+        totalMoveCount: 25
+      - stageId: Stage_116
+        stageBonus: 0.0126
+        gaianiteCap: 27
+        totalMoveCount: 33
+      - stageId: Stage_117
+        stageBonus: 0.0127
+        gaianiteCap: 27
+        totalMoveCount: 21
+      - stageId: Stage_118
+        stageBonus: 0.0128
+        gaianiteCap: 27
+        totalMoveCount: 19
+      - stageId: Stage_119
+        stageBonus: 0.0129
+        gaianiteCap: 28
+        totalMoveCount: 18
+      - stageId: Stage_120
+        stageBonus: 0.013
+        gaianiteCap: 28
+        totalMoveCount: 16
+      - stageId: Stage_121
+        stageBonus: 0.0131
+        gaianiteCap: 28
+        totalMoveCount: 19
+      - stageId: Stage_122
+        stageBonus: 0.0132
+        gaianiteCap: 28
+        totalMoveCount: 34
+      - stageId: Stage_123
+        stageBonus: 0.0133
+        gaianiteCap: 28
+        totalMoveCount: 18
+      - stageId: Stage_124
+        stageBonus: 0.0134
+        gaianiteCap: 29
+        totalMoveCount: 26
+      - stageId: Stage_125
+        stageBonus: 0.0135
+        gaianiteCap: 29
+        totalMoveCount: 15
+      - stageId: Stage_126
+        stageBonus: 0.0136
+        gaianiteCap: 29
+        totalMoveCount: 31
+      - stageId: Stage_127
+        stageBonus: 0.0137
+        gaianiteCap: 29
+        totalMoveCount: 28
+      - stageId: Stage_128
+        stageBonus: 0.0138
+        gaianiteCap: 29
+        totalMoveCount: 21
+      - stageId: Stage_129
+        stageBonus: 0.0139
+        gaianiteCap: 30
+        totalMoveCount: 24
+      - stageId: Stage_130
+        stageBonus: 0.014
+        gaianiteCap: 30
+        totalMoveCount: 26
+      - stageId: Stage_131
+        stageBonus: 0.0141
+        gaianiteCap: 30
+        totalMoveCount: 20
+      - stageId: Stage_132
+        stageBonus: 0.0142
+        gaianiteCap: 30
+        totalMoveCount: 22
+      - stageId: Stage_133
+        stageBonus: 0.0143
+        gaianiteCap: 30
+        totalMoveCount: 27
+      - stageId: Stage_134
+        stageBonus: 0.0144
+        gaianiteCap: 31
+        totalMoveCount: 24
+      - stageId: Stage_135
+        stageBonus: 0.0145
+        gaianiteCap: 31
+        totalMoveCount: 28
+      - stageId: Stage_136
+        stageBonus: 0.0146
+        gaianiteCap: 31
+        totalMoveCount: 25
+      - stageId: Stage_137
+        stageBonus: 0.0147
+        gaianiteCap: 31
+        totalMoveCount: 15
+      - stageId: Stage_138
+        stageBonus: 0.0148
+        gaianiteCap: 31
+        totalMoveCount: 22
+      - stageId: Stage_139
+        stageBonus: 0.0149
+        gaianiteCap: 32
+        totalMoveCount: 21
+      - stageId: Stage_140
+        stageBonus: 0.015
+        gaianiteCap: 32
+        totalMoveCount: 19
+      - stageId: Stage_141
+        stageBonus: 0.0151
+        gaianiteCap: 32
+        totalMoveCount: 31
+      - stageId: Stage_142
+        stageBonus: 0.0152
+        gaianiteCap: 32
+        totalMoveCount: 34
+      - stageId: Stage_143
+        stageBonus: 0.0153
+        gaianiteCap: 32
+        totalMoveCount: 22
+      - stageId: Stage_144
+        stageBonus: 0.0154
+        gaianiteCap: 33
+        totalMoveCount: 15
+      - stageId: Stage_145
+        stageBonus: 0.0155
+        gaianiteCap: 33
+        totalMoveCount: 25
+      - stageId: Stage_146
+        stageBonus: 0.0156
+        gaianiteCap: 33
+        totalMoveCount: 23
+      - stageId: Stage_147
+        stageBonus: 0.0157
+        gaianiteCap: 33
+        totalMoveCount: 19
+      - stageId: Stage_148
+        stageBonus: 0.0158
+        gaianiteCap: 33
+        totalMoveCount: 17
+      - stageId: Stage_149
+        stageBonus: 0.0159
+        gaianiteCap: 33
+        totalMoveCount: 21
+      - stageId: Stage_150
+        stageBonus: 0.016
+        gaianiteCap: 34
+        totalMoveCount: 18
+      - stageId: Stage_151
+        stageBonus: 0.0161
+        gaianiteCap: 34
+        totalMoveCount: 26
+      - stageId: Stage_152
+        stageBonus: 0.0162
+        gaianiteCap: 34
+        totalMoveCount: 29
+      - stageId: Stage_153
+        stageBonus: 0.0163
+        gaianiteCap: 34
+        totalMoveCount: 21
+      - stageId: Stage_154
+        stageBonus: 0.0164
+        gaianiteCap: 34
+        totalMoveCount: 24
+      - stageId: Stage_155
+        stageBonus: 0.0165
+        gaianiteCap: 35
+        totalMoveCount: 22
+      - stageId: Stage_156
+        stageBonus: 0.0166
+        gaianiteCap: 35
+        totalMoveCount: 29
+      - stageId: Stage_157
+        stageBonus: 0.0167
+        gaianiteCap: 35
+        totalMoveCount: 21
+      - stageId: Stage_158
+        stageBonus: 0.0168
+        gaianiteCap: 35
+        totalMoveCount: 27
+      - stageId: Stage_159
+        stageBonus: 0.0169
+        gaianiteCap: 35
+        totalMoveCount: 21
+      - stageId: Stage_160
+        stageBonus: 0.017
+        gaianiteCap: 36
+        totalMoveCount: 24
+      - stageId: Stage_161
+        stageBonus: 0.0171
+        gaianiteCap: 36
+        totalMoveCount: 15
+      - stageId: Stage_162
+        stageBonus: 0.0172
+        gaianiteCap: 36
+        totalMoveCount: 34
+      - stageId: Stage_163
+        stageBonus: 0.0173
+        gaianiteCap: 36
+        totalMoveCount: 22
+      - stageId: Stage_164
+        stageBonus: 0.0174
+        gaianiteCap: 36
+        totalMoveCount: 22
+      - stageId: Stage_165
+        stageBonus: 0.0175
+        gaianiteCap: 37
+        totalMoveCount: 26
+      - stageId: Stage_166
+        stageBonus: 0.0176
+        gaianiteCap: 37
+        totalMoveCount: 14
+      - stageId: Stage_167
+        stageBonus: 0.0177
+        gaianiteCap: 37
+        totalMoveCount: 19
+      - stageId: Stage_168
+        stageBonus: 0.0178
+        gaianiteCap: 37
+        totalMoveCount: 21
+      - stageId: Stage_169
+        stageBonus: 0.0179
+        gaianiteCap: 37
+        totalMoveCount: 15
+      - stageId: Stage_170
+        stageBonus: 0.018
+        gaianiteCap: 38
+        totalMoveCount: 19
+      - stageId: Stage_171
+        stageBonus: 0.0181
+        gaianiteCap: 38
+        totalMoveCount: 33
+      - stageId: Stage_172
+        stageBonus: 0.0182
+        gaianiteCap: 38
+        totalMoveCount: 34
+      - stageId: Stage_173
+        stageBonus: 0.0183
+        gaianiteCap: 38
+        totalMoveCount: 18
+      - stageId: Stage_174
+        stageBonus: 0.0184
+        gaianiteCap: 38
+        totalMoveCount: 22
+      - stageId: Stage_175
+        stageBonus: 0.0185
+        gaianiteCap: 39
+        totalMoveCount: 21
+      - stageId: Stage_176
+        stageBonus: 0.0186
+        gaianiteCap: 39
+        totalMoveCount: 26
+      - stageId: Stage_177
+        stageBonus: 0.0187
+        gaianiteCap: 39
+        totalMoveCount: 17
+      - stageId: Stage_178
+        stageBonus: 0.0188
+        gaianiteCap: 39
+        totalMoveCount: 32
+      - stageId: Stage_179
+        stageBonus: 0.0189
+        gaianiteCap: 39
+        totalMoveCount: 26
+      - stageId: Stage_180
+        stageBonus: 0.019
+        gaianiteCap: 40
+        totalMoveCount: 22
+      - stageId: Stage_181
+        stageBonus: 0.0191
+        gaianiteCap: 40
+        totalMoveCount: 21
+      - stageId: Stage_182
+        stageBonus: 0.0192
+        gaianiteCap: 40
+        totalMoveCount: 16
+      - stageId: Stage_183
+        stageBonus: 0.0193
+        gaianiteCap: 40
+        totalMoveCount: 25
+      - stageId: Stage_184
+        stageBonus: 0.0194
+        gaianiteCap: 40
+        totalMoveCount: 22
+      - stageId: Stage_185
+        stageBonus: 0.0195
+        gaianiteCap: 40
+        totalMoveCount: 26
+      - stageId: Stage_186
+        stageBonus: 0.0196
+        gaianiteCap: 41
+        totalMoveCount: 32
+      - stageId: Stage_187
+        stageBonus: 0.0197
+        gaianiteCap: 41
+        totalMoveCount: 28
+      - stageId: Stage_188
+        stageBonus: 0.0198
+        gaianiteCap: 41
+        totalMoveCount: 20
+      - stageId: Stage_189
+        stageBonus: 0.0199
+        gaianiteCap: 41
+        totalMoveCount: 24
+      - stageId: Stage_190
+        stageBonus: 0.02
+        gaianiteCap: 41
+        totalMoveCount: 23
+      - stageId: Stage_191
+        stageBonus: 0.0201
+        gaianiteCap: 42
+        totalMoveCount: 24
+      - stageId: Stage_192
+        stageBonus: 0.0202
+        gaianiteCap: 42
+        totalMoveCount: 19
+      - stageId: Stage_193
+        stageBonus: 0.0203
+        gaianiteCap: 42
+        totalMoveCount: 25
+      - stageId: Stage_194
+        stageBonus: 0.0204
+        gaianiteCap: 42
+        totalMoveCount: 19
+      - stageId: Stage_195
+        stageBonus: 0.0205
+        gaianiteCap: 42
+        totalMoveCount: 16
+      - stageId: Stage_196
+        stageBonus: 0.0206
+        gaianiteCap: 43
+        totalMoveCount: 24
+      - stageId: Stage_197
+        stageBonus: 0.0207
+        gaianiteCap: 43
+        totalMoveCount: 13
+      - stageId: Stage_198
+        stageBonus: 0.0208
+        gaianiteCap: 43
+        totalMoveCount: 22
+      - stageId: Stage_199
+        stageBonus: 0.0209
+        gaianiteCap: 43
+        totalMoveCount: 18
+      - stageId: Stage_200
+        stageBonus: 0.021
+        gaianiteCap: 43
+        totalMoveCount: 23
+    playerAllLevelChartData:
+      playerLevelChartDataSettings:
+      - levels: 0
+        time: 0
+        gaiCost: 0
+        m7Cost: 0
+      - levels: 1
+        time: 1
+        gaiCost: 1
+        m7Cost: 0
+      - levels: 2
+        time: 2
+        gaiCost: 2
+        m7Cost: 0
+      - levels: 3
+        time: 3
+        gaiCost: 3
+        m7Cost: 0
+      - levels: 4
+        time: 4
+        gaiCost: 4
+        m7Cost: 0
+      - levels: 5
+        time: 5
+        gaiCost: 10
+        m7Cost: 10
+      - levels: 6
+        time: 6
+        gaiCost: 6
+        m7Cost: 0
+      - levels: 7
+        time: 7
+        gaiCost: 7
+        m7Cost: 0
+      - levels: 8
+        time: 8
+        gaiCost: 8
+        m7Cost: 0
+      - levels: 9
+        time: 9
+        gaiCost: 30
+        m7Cost: 30
+      - levels: 10
+        time: 10
+        gaiCost: 10
+        m7Cost: 0
+      - levels: 11
+        time: 11
+        gaiCost: 11
+        m7Cost: 0
+      - levels: 12
+        time: 12
+        gaiCost: 12
+        m7Cost: 0
+      - levels: 13
+        time: 13
+        gaiCost: 13
+        m7Cost: 0
+      - levels: 14
+        time: 14
+        gaiCost: 14
+        m7Cost: 0
+      - levels: 15
+        time: 15
+        gaiCost: 15
+        m7Cost: 0
+      - levels: 16
+        time: 16
+        gaiCost: 16
+        m7Cost: 0
+      - levels: 17
+        time: 17
+        gaiCost: 17
+        m7Cost: 0
+      - levels: 18
+        time: 18
+        gaiCost: 18
+        m7Cost: 0
+      - levels: 19
+        time: 19
+        gaiCost: 60
+        m7Cost: 60
+      - levels: 20
+        time: 20
+        gaiCost: 20
+        m7Cost: 0
+      - levels: 21
+        time: 21
+        gaiCost: 21
+        m7Cost: 0
+      - levels: 22
+        time: 22
+        gaiCost: 22
+        m7Cost: 0
+      - levels: 23
+        time: 23
+        gaiCost: 23
+        m7Cost: 0
+      - levels: 24
+        time: 24
+        gaiCost: 24
+        m7Cost: 0
+      - levels: 25
+        time: 25
+        gaiCost: 25
+        m7Cost: 0
+      - levels: 26
+        time: 26
+        gaiCost: 26
+        m7Cost: 0
+      - levels: 27
+        time: 27
+        gaiCost: 27
+        m7Cost: 0
+      - levels: 28
+        time: 28
+        gaiCost: 28
+        m7Cost: 0
+      - levels: 29
+        time: 29
+        gaiCost: 29
+        m7Cost: 29
+      - levels: 30
+        time: 30
+        gaiCost: 100
+        m7Cost: 100
+    recoveryCostAllChartData:
+      recoveryCostDataSettings:
+        common_cost:
+        - 0.3
+        - 0.31
+        - 0.32
+        - 0.33
+        - 0.35
+        - 0.36
+        - 0.37
+        - 0.38
+        - 0.4
+        - 0.41
+        - 0.42
+        - 0.44
+        - 0.46
+        - 0.48
+        - 0.5
+        - 0.52
+        - 0.54
+        - 0.56
+        - 0.58
+        - 0.6
+        - 0.62
+        - 0.64
+        - 0.67
+        - 0.7
+        - 0.72
+        - 0.75
+        - 0.78
+        - 0.81
+        - 0.83
+        - 0.87
+        - 0.9
+        uncommon_cost:
+        - 0.4
+        - 0.41
+        - 0.43
+        - 0.45
+        - 0.46
+        - 0.48
+        - 0.5
+        - 0.51
+        - 0.53
+        - 0.55
+        - 0.57
+        - 0.6
+        - 0.62
+        - 0.64
+        - 0.66
+        - 0.69
+        - 0.71
+        - 0.74
+        - 0.77
+        - 0.8
+        - 0.83
+        - 0.86
+        - 0.89
+        - 0.92
+        - 0.95
+        - 1
+        - 1.03
+        - 1.06
+        - 1.11
+        - 1.14
+        - 1.18
+        rare_cost:
+        - 0.5
+        - 0.5
+        - 0.53
+        - 0.55
+        - 0.57
+        - 0.59
+        - 0.61
+        - 0.64
+        - 0.67
+        - 0.69
+        - 0.72
+        - 0.75
+        - 0.77
+        - 0.8
+        - 0.83
+        - 0.86
+        - 0.9
+        - 0.93
+        - 0.96
+        - 1
+        - 1.04
+        - 1.08
+        - 1.12
+        - 1.16
+        - 1.2
+        - 1.25
+        - 1.29
+        - 1.34
+        - 1.39
+        - 1.45
+        - 1.52
+        epic_cost:
+        - 0.6
+        - 0.59
+        - 0.63
+        - 0.65
+        - 0.68
+        - 0.7
+        - 0.72
+        - 0.77
+        - 0.81
+        - 0.83
+        - 0.87
+        - 0.9
+        - 0.92
+        - 0.96
+        - 1
+        - 1.03
+        - 1.09
+        - 1.12
+        - 1.15
+        - 1.2
+        - 1.25
+        - 1.3
+        - 1.35
+        - 1.4
+        - 1.45
+        - 1.5
+        - 1.55
+        - 1.62
+        - 1.67
+        - 1.76
+        - 1.86
+        legendary_cost:
+        - 0.7
+        - 0.68
+        - 0.73
+        - 0.75
+        - 0.79
+        - 0.81
+        - 0.83
+        - 0.9
+        - 0.95
+        - 0.97
+        - 1.02
+        - 1.05
+        - 1.07
+        - 1.12
+        - 1.17
+        - 1.2
+        - 1.28
+        - 1.31
+        - 1.34
+        - 1.4
+        - 1.46
+        - 1.52
+        - 1.58
+        - 1.64
+        - 1.7
+        - 1.75
+        - 1.81
+        - 1.9
+        - 1.95
+        - 2.07
+        - 2.2

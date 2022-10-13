@@ -1,0 +1,286 @@
+CorruptedDesertGuardBot.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/HEAD
+bounds:2,592,413,434
+Dark/LEFT UPPER ARM
+bounds:2,4,150,180
+offsets:1,1,152,182
+rotate:90
+Dark/RIGHT FOOT
+bounds:962,489,122,52
+offsets:1,1,124,54
+rotate:90
+Dark/RIGHT HAND
+bounds:417,882,128,144
+Dark/RIGHT LOWER ARM
+bounds:417,166,119,130
+offsets:1,1,121,132
+Dark/RIGHT THIGH
+bounds:548,11,98,104
+offsets:1,1,100,106
+Fighter/HEAD
+bounds:2,156,413,434
+Fighter/LEFT UPPER ARM
+bounds:184,4,150,180
+offsets:1,1,152,182
+rotate:90
+Fighter/RIGHT FOOT
+bounds:962,365,122,52
+offsets:1,1,124,54
+rotate:90
+Fighter/RIGHT HAND
+bounds:417,736,128,144
+Fighter/RIGHT LOWER ARM
+bounds:648,2,119,130
+offsets:1,1,121,132
+rotate:90
+Mechanic/HEAD
+bounds:548,613,413,434
+rotate:90
+Mechanic/LEFT UPPER ARM
+bounds:366,4,150,180
+offsets:1,1,152,182
+rotate:90
+Mechanic/RIGHT FOOT
+bounds:962,241,122,52
+offsets:1,1,124,54
+rotate:90
+Mechanic/RIGHT HAND
+bounds:417,590,128,144
+Ranger/HEAD
+bounds:547,177,413,434
+Ranger/LEFT UPPER ARM
+bounds:780,25,150,180
+offsets:1,1,152,182
+rotate:90
+Ranger/RIGHT FOOT
+bounds:962,117,122,52
+offsets:1,1,124,54
+rotate:90
+Ranger/RIGHT HAND
+bounds:417,444,128,144
+Science/RIGHT FOOT
+bounds:548,123,122,52
+offsets:1,1,124,54
+Science/RIGHT HAND
+bounds:417,298,128,144
+
+CorruptedDesertGuardBot_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/LEFT FOOT
+bounds:2,881,117,52
+offsets:1,1,119,54
+Dark/LEFT LEG
+bounds:597,861,72,82
+offsets:1,1,74,84
+rotate:90
+Dark/LEFT THIGH
+bounds:402,785,94,96
+offsets:1,1,96,98
+rotate:90
+Dark/LOWER BODY
+bounds:716,622,177,137
+offsets:1,1,179,139
+Dark/RIGHT LEG
+bounds:2,805,78,74
+offsets:1,1,80,76
+Dark/RIGHT SHOULDER
+bounds:706,221,237,217
+offsets:1,1,239,219
+Dark/RIGHT UPPER ARM
+bounds:678,476,144,184
+offsets:1,1,146,186
+rotate:90
+Fighter/LEFT FOOT
+bounds:121,881,117,52
+offsets:1,1,119,54
+Fighter/LEFT LEG
+bounds:681,861,72,82
+offsets:1,1,74,84
+rotate:90
+Fighter/LEFT THIGH
+bounds:500,783,94,96
+offsets:1,1,96,98
+Fighter/LOWER BODY
+bounds:2,566,177,137
+offsets:1,1,179,139
+Fighter/RIGHT LEG
+bounds:82,805,78,74
+offsets:1,1,80,76
+Fighter/RIGHT SHOULDER
+bounds:2,158,237,217
+offsets:1,1,239,219
+Fighter/RIGHT THIGH
+bounds:890,761,98,104
+offsets:1,1,100,106
+rotate:90
+Fighter/RIGHT UPPER ARM
+bounds:2,380,144,184
+offsets:1,1,146,186
+Mechanic/LEFT FOOT
+bounds:240,881,117,52
+offsets:1,1,119,54
+Mechanic/LEFT LEG
+bounds:765,861,72,82
+offsets:1,1,74,84
+rotate:90
+Mechanic/LEFT THIGH
+bounds:596,765,94,96
+offsets:1,1,96,98
+rotate:90
+Mechanic/LOWER BODY
+bounds:181,526,177,137
+offsets:1,1,179,139
+rotate:90
+Mechanic/RIGHT LEG
+bounds:162,805,78,74
+offsets:1,1,80,76
+Mechanic/RIGHT LOWER ARM
+bounds:320,664,119,130
+offsets:1,1,121,132
+rotate:90
+Mechanic/RIGHT SHOULDER
+bounds:241,140,237,217
+offsets:1,1,239,219
+Mechanic/RIGHT THIGH
+bounds:2,705,98,104
+offsets:1,1,100,106
+rotate:90
+Mechanic/RIGHT UPPER ARM
+bounds:148,377,144,184
+offsets:1,1,146,186
+rotate:90
+Ranger/LEFT FOOT
+bounds:359,881,117,52
+offsets:1,1,119,54
+Ranger/LEFT LEG
+bounds:849,861,72,82
+offsets:1,1,74,84
+rotate:90
+Ranger/LEFT THIGH
+bounds:694,765,94,96
+offsets:1,1,96,98
+rotate:90
+Ranger/LOWER BODY
+bounds:320,523,177,137
+offsets:1,1,179,139
+Ranger/RIGHT LEG
+bounds:242,805,78,74
+offsets:1,1,80,76
+Ranger/RIGHT LOWER ARM
+bounds:452,662,119,130
+offsets:1,1,121,132
+rotate:90
+Ranger/RIGHT SHOULDER
+bounds:480,91,237,217
+offsets:1,1,239,219
+rotate:90
+Ranger/RIGHT THIGH
+bounds:108,705,98,104
+offsets:1,1,100,106
+rotate:90
+Ranger/RIGHT UPPER ARM
+bounds:334,359,144,184
+offsets:1,1,146,186
+rotate:90
+Science/LEFT FOOT
+bounds:478,881,117,52
+offsets:1,1,119,54
+Science/LEFT LEG
+bounds:933,861,72,82
+offsets:1,1,74,84
+rotate:90
+Science/LEFT THIGH
+bounds:792,765,94,96
+offsets:1,1,96,98
+rotate:90
+Science/LEFT UPPER ARM
+bounds:864,440,150,180
+offsets:1,1,152,182
+Science/LOWER BODY
+bounds:499,505,177,137
+offsets:1,1,179,139
+Science/RIGHT LEG
+bounds:322,805,78,74
+offsets:1,1,80,76
+Science/RIGHT LOWER ARM
+bounds:584,644,119,130
+offsets:1,1,121,132
+rotate:90
+Science/RIGHT SHOULDER
+bounds:699,2,237,217
+offsets:1,1,239,219
+Science/RIGHT THIGH
+bounds:214,705,98,104
+offsets:1,1,100,106
+rotate:90
+Science/RIGHT UPPER ARM
+bounds:520,330,144,184
+offsets:1,1,146,186
+rotate:90
+
+CorruptedDesertGuardBot_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/CHEST
+bounds:2,570,445,240
+offsets:1,1,447,242
+Dark/RIGHT LOWER ARM Copy
+bounds:709,486,324,307
+offsets:1,1,326,309
+rotate:90
+Dark/VINE
+bounds:449,570,258,240
+offsets:1,1,260,242
+Fighter/VINE
+bounds:449,570,258,240
+offsets:1,1,260,242
+Mechanic/VINE
+bounds:449,570,258,240
+offsets:1,1,260,242
+Ranger/VINE
+bounds:449,570,258,240
+offsets:1,1,260,242
+Science/VINE
+bounds:449,570,258,240
+offsets:1,1,260,242
+Fighter/CHEST
+bounds:2,328,445,240
+offsets:1,1,447,242
+Mechanic/CHEST
+bounds:449,244,445,240
+offsets:1,1,447,242
+Ranger/CHEST
+bounds:2,86,445,240
+offsets:1,1,447,242
+Science/CHEST
+bounds:449,2,445,240
+offsets:1,1,447,242
+
+CorruptedDesertGuardBot_4.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Fighter/RIGHT LOWER ARM Copy
+bounds:2,184,324,307
+offsets:1,1,326,309
+Mechanic/RIGHT LOWER ARM Copy
+bounds:417,620,324,307
+offsets:1,1,326,309
+Ranger/RIGHT LOWER ARM Copy
+bounds:417,311,324,307
+offsets:1,1,326,309
+Science/HEAD
+bounds:2,493,413,434
+Science/RIGHT LOWER ARM Copy
+bounds:328,2,324,307
+offsets:1,1,326,309

@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dcf3935c86bf44a698b61cd167ba8, type: 3}
+  m_Name: EquipmentItem_Brenda_A05
+  m_EditorClassIdentifier: 
+  displayName: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  iconSprite:
+    m_AssetGUID: 0bf351033b7e52f43b4d141eff0ad6da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  skillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bodyParts:
+  - sprite:
+      m_AssetGUID: c8b5ee8f3a294d147b0c730384e876a9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: back
+    slotKey: back
+  - sprite:
+      m_AssetGUID: 8f2dcd49e13f2114297d18c8a786f854
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: belt
+    slotKey: belt
+  - sprite:
+      m_AssetGUID: 0b76dd54a77eab040982a08cca8a8657
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-fur
+    slotKey: left-fur
+  - sprite:
+      m_AssetGUID: 47d6275f60a5f1b46b11d37f35b633ff
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-hand
+    slotKey: left-hand
+  - sprite:
+      m_AssetGUID: 0e81932f098081e429f12a1560f42fc2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-lower-leg
+    slotKey: left-lower-leg
+  - sprite:
+      m_AssetGUID: 29d1dfe286e44c44189c87cbfdf6c33a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-lower
+    slotKey: left-lower
+  - sprite:
+      m_AssetGUID: f09b3a2cc63fdba4ea26bb32581973e6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-upper-leg
+    slotKey: left-upper-leg
+  - sprite:
+      m_AssetGUID: 9433b1aed82483642a4ecfa38380dfd1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: left-upper
+    slotKey: left-upper
+  - sprite:
+      m_AssetGUID: 430d858f3dd02d34c85c64cd838a9945
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-fur
+    slotKey: right-fur
+  - sprite:
+      m_AssetGUID: da94c9de8cc18ef4595749e6027d7e5d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-hand
+    slotKey: right-hand
+  - sprite:
+      m_AssetGUID: 23758f01bf914cf4e97db47695453cc8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-lower-leg
+    slotKey: right-lower-leg
+  - sprite:
+      m_AssetGUID: af7986b8e46b8114fb3deb640d5c5965
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-lower
+    slotKey: right-lower
+  - sprite:
+      m_AssetGUID: 08b8b19b4b6b723479fb88109b9fdd5b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-upper-leg
+    slotKey: right-upper-leg
+  - sprite:
+      m_AssetGUID: 62491af7b3804ae409e3e37824b9f408
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: right-upper
+    slotKey: right-upper
+  - sprite:
+      m_AssetGUID: 1e7d8a69cdc609b43b346341a38c6fe9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    slot: torso
+    slotKey: torso
+  additionalStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+  equipmentType: 1
+  isSubSpine: 0

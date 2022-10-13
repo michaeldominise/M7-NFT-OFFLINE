@@ -1,0 +1,117 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="LevelEditorStylesheet.uss" />
+    <uie:Toolbar>
+        <uie:ToolbarMenu display-tooltip-when-elided="true" text="Create New" name="create-new-menu" />
+        <uie:ToolbarSpacer style="flex-grow: 1; display: flex; max-width: none;" />
+        <uie:ToolbarToggle label="Auto-Save" name="auto-save" tooltip="This halts the editor a bit to serialize the data." style="width: 74px; align-items: auto; justify-content: flex-start; -unity-text-align: middle-left;" />
+        <uie:ObjectField allow-scene-objects="false" name="selected-data" style="margin-left: 0;" />
+        <uie:ToolbarButton text="Save" display-tooltip-when-elided="true" name="save-button" />
+        <uie:ToolbarButton text="Save As" display-tooltip-when-elided="true" name="save-as-button" style="display: none;" />
+        <uie:ToolbarSpacer />
+        <uie:ToolbarButton text="Preview" display-tooltip-when-elided="true" name="preview-button" />
+    </uie:Toolbar>
+    <SplitView fixed-pane-index="1" fixed-pane-initial-dimension="150">
+        <ui:VisualElement>
+            <uie:Toolbar name="grid-toolbar">
+                <uie:ToolbarToggle label="Main" style="width: 45px;" />
+                <uie:ToolbarToggle label="SecondarySecondary" name="test-secondary-grid" style="width: 98px;" />
+                <uie:ToolbarButton text="+" display-tooltip-when-elided="true" style="margin-left: 3px;" />
+            </uie:Toolbar>
+            <uie:Toolbar>
+                <ui:TextField picking-mode="Ignore" label="Grid Name" value="filler text" text="filler text" name="grid-name" style="width: 40%;" />
+                <uie:ToolbarSpacer style="flex-grow: 1;" />
+                <uie:ToolbarToggle label="Settings" name="settings-toggle" />
+            </uie:Toolbar>
+            <ui:VisualElement style="flex-grow: 1;">
+                <ui:VisualElement name="puzzle-area" style="flex-grow: 1; background-color: rgb(32, 32, 32);">
+                    <M7.Tools.GridView name="main-grid" style="width: 500px; height: 500px; display: none; position: absolute;" />
+                    <M7.Tools.GridView name="secondary-grid" picking-mode="Ignore" style="width: 500px; height: 500px; display: none; position: absolute;" />
+                    <ui:VisualElement name="puzzle1" style="position: absolute; width: 702px; height: 502px; top: 106px; left: 218px; right: 168px; bottom: 153px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgb(89, 89, 89); border-right-color: rgb(89, 89, 89); border-top-color: rgb(89, 89, 89); border-bottom-color: rgb(89, 89, 89); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; display: none;">
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell cell-selected" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" style="background-image: url(&apos;/Assets/M7/PuzzleBoard/Art/Tiles/UI/NormalTiles/special tile.png&apos;);" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="row" class="puzzle-row">
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                            <ui:VisualElement name="col" class="puzzle-cell" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Label text="• Left-click cell to paint.&#10;• Right-click to erase cell. " display-tooltip-when-elided="true" style="left: 0; bottom: 0; position: absolute; color: rgb(55, 55, 55);" />
+                    <ui:VisualElement name="selected-brush-container" style="position: absolute; right: 10px; top: 25px; align-items: center;">
+                        <ui:Label text="Selected Brush" display-tooltip-when-elided="true" style="font-size: 10px;" />
+                        <ui:VisualElement name="selected-brush-preview" style="width: 65px; height: 76px; background-color: rgb(77, 77, 77); margin-top: 5px; align-items: center; -unity-background-scale-mode: scale-to-fit;">
+                            <ui:VisualElement name="VisualElement" style="width: 69%; height: 100%; -unity-background-scale-mode: scale-to-fit; margin-top: 25px; margin-bottom: 10px; background-image: none; position: relative;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button text="Center Fit" display-tooltip-when-elided="true" name="center-fit-button" style="position: absolute; top: 122px; right: 8px;" />
+                    <ui:Button text="Randomize" display-tooltip-when-elided="true" name="randomize-button" style="position: absolute; top: 145px; right: 8px; width: 70px;" />
+                    <ui:Button text="Clear" display-tooltip-when-elided="true" name="clear-button" style="position: absolute; top: 167px; right: 8px; width: 70px;" />
+                    <M7.Tools.GridViewCollections name="grid-collection" style="position: absolute; width: 500px; height: 500px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="settings-popup" style="position: absolute; top: 0; right: 0; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; background-color: rgb(60, 60, 60); display: flex; width: 350px; height: 50px;">
+                    <uie:ObjectField label="Cell Bag" name="cell-bag" />
+                    <uie:ObjectField label="Level Goal List Data" name="goals" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement style="background-color: rgb(56, 56, 56);">
+            <ui:VisualElement name="TileGroupBox" />
+            <uie:Toolbar>
+                <ui:Label text="Cells" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: none; -unity-font-style: bold;" />
+            </uie:Toolbar>
+            <ui:ScrollView name="tiles-scrollview" style="flex-grow: 1;" />
+        </ui:VisualElement>
+    </SplitView>
+</ui:UXML>

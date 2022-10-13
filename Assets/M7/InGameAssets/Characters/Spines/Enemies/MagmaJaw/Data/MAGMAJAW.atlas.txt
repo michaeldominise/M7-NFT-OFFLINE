@@ -1,0 +1,70 @@
+MAGMAJAW.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Magjaw/BODY
+bounds:2,205,336,251
+Magjaw/Eye
+bounds:891,256,56,80
+offsets:66,2,128,128
+rotate:90
+Magjaw/HEAD
+bounds:340,191,265,290
+rotate:90
+Magjaw/JAW
+bounds:2,13,283,190
+Magjaw/LEFT CLAW
+bounds:558,127,64,62
+offsets:1,1,66,64
+Magjaw/LEFT FOOT
+bounds:287,2,68,42
+offsets:1,1,70,44
+rotate:90
+Magjaw/LEFT LOWER ARM
+bounds:287,72,55,45
+offsets:1,1,57,47
+rotate:90
+Magjaw/LEFT LOWER LEG
+bounds:488,89,64,56
+offsets:1,1,66,58
+Magjaw/LEFT THIGH
+bounds:849,28,144,148
+offsets:1,1,146,149
+rotate:90
+Magjaw/LEFT UPPER ARM
+bounds:891,196,58,73
+offsets:1,1,60,75
+rotate:90
+Magjaw/LEFT UPPER LEG
+bounds:891,314,95,71
+offsets:1,1,97,73
+Magjaw/NECK
+bounds:632,67,208,215
+offsets:1,1,210,216
+rotate:90
+Magjaw/RIGHT CLAW
+bounds:287,129,49,74
+offsets:1,1,51,76
+Magjaw/RIGHT FOOT
+bounds:488,147,68,42
+offsets:1,1,70,44
+Magjaw/RIGHT LOWER ARM
+bounds:849,221,54,40
+offsets:1,1,56,42
+rotate:90
+Magjaw/RIGHT LOWER LEG
+bounds:973,249,53,63
+offsets:1,1,55,65
+Magjaw/RIGHT THIGH
+bounds:338,45,144,148
+offsets:1,1,146,149
+rotate:90
+Magjaw/RIGHT UPPER ARM
+bounds:966,174,58,73
+offsets:1,1,60,75
+Magjaw/RIGHT UPPER LEG
+bounds:891,387,99,69
+offsets:1,1,101,71
+Magjaw/TAIL
+bounds:632,277,257,179

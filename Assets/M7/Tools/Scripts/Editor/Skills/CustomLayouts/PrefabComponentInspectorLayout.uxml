@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="inspector-header" style="flex-direction: row; display: none;">
+            <ui:Label text="Target Manager" display-tooltip-when-elided="true" />
+            <ui:VisualElement style="flex-grow: 1;" />
+            <ui:Button text="New" display-tooltip-when-elided="true" name="new-button" style="background-color: rgb(52, 115, 52);" />
+        </ui:VisualElement>
+        <uie:Toolbar>
+            <uie:ToolbarMenu display-tooltip-when-elided="true" text="+" name="add-menu" style="font-size: 20px; -unity-text-align: middle-center; justify-content: center;" />
+            <ui:Label text="Target Manager" display-tooltip-when-elided="true" name="header-label" style="-unity-text-align: middle-left; margin-left: 3px;" />
+            <uie:ToolbarSpacer style="flex-grow: 1;" />
+            <uie:ToolbarButton text="Del" display-tooltip-when-elided="true" name="delete-button" />
+        </uie:Toolbar>
+        <ui:VisualElement name="content-view" style="border-left-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-color: rgb(35, 35, 35); border-right-color: rgb(35, 35, 35); border-top-color: rgb(35, 35, 35); border-bottom-color: rgb(35, 35, 35); padding-left: 8px; padding-right: 8px; padding-top: 8px; padding-bottom: 8px; flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

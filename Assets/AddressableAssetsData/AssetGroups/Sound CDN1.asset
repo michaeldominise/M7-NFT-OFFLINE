@@ -1,0 +1,486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sound CDN1
+  m_EditorClassIdentifier: 
+  m_GroupName: Sound CDN1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cf1f044424526a34288bb432f5b42288
+  m_SerializeEntries:
+  - m_GUID: 4a2bf360854914c63b03ddaf8b5d30b5
+    m_Address: Assets/M7/SFX/BGM/2019.7.24 - Murasaki 7 Win Draft 3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f20408055392f4e43adb73722686c98a
+    m_Address: Assets/M7/SFX/BGM/2019.7.18 - Murasaki 7 Adventure Final.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ff43de7d329c4e0490b0898b6b8bcbd
+    m_Address: Assets/M7/SFX/BGM/2019.7.18 - Murasaki 7 Lobby Final.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5611926f39c4ff147b878c64753bd6d2
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb + Bomb cube.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b99671f815dd1345aae3773b163a669
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Arrow Fly 1_1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f80e4ed924f2cca498d17e1ba0e9a82e
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/AttackCharge.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d51ddcd165b4f1abd0957f895b25cf
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Barrier Destroy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63a55bca1ce6e4355bc0c35e14472d74
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Big Bomb Lights.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fc5c22aa13646b4ea110455e3d28bb7
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Blaster Shooter 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 057375abfa5f3407c9a6ef5ee69cf153
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Blaster Shooter.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b40fa77b193de14eba8333ccb5bf9b6
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb + Bomb cube 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba49078c4c2c16041910a77caa8f7dda
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb + Bomb cube 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b310007f64558463d984c69d52e59f82
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb + Bomb cube combination 6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e528535e414714792bb3afe189a370d2
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb + Bomb cube combination.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a85b1f4ec7774deda05aa783620703d
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb cube usage.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f423d3517d4daef48ad3287e4ca5b336
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Bomb cube usage_2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5893440d0525a47aca0b78e3e69721ed
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Box Destroy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5645283a0706b846845677d33846d0f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Cast 16.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 467b446c27a914af49efa58c7e24ea98
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Color Bomb Defuse.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f94377f246ed34f2680e110f02955612
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Color Bomb On.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a78bf3bc8462c164dbaee2c84acb1c9d
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/CubeCharge.old.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5e075835c034214591f1a43c6a1ae44
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/CubeCharge.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e66d8f519b9d41c9861c505fb68aecd
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Drone Destroy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 600b33c9a86cdf74fbefe3e7a58784d1
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Elemental Cube Pop 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83f26d270f3bfee48a5b4c3b83fc56d2
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Elemental Cube Pop 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb76a556176ab8428b941d357855dc8
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Hammer Booster 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51731927605204888a4e63cdc400572c
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Hammer Booster.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8fe3683c8d031f4ba5a073b6fb1116b
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Laser Sabre Booster 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ba1f67f68edbf745aa09c5ee2fc2557
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Laser Sabre Booster 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a68515460c5224b598f26cb2f1282477
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Laser Sabre Booster.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11b32249d36cd4572917772555c16d2f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Light Switch Destroy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33f492191423343f5b13b9a09a604d0f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Light Switch On.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef94510a6e4f003488f995d13aaade3f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Match Error.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c2c2aa61994a49cfaa61ac47e4d56d4
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Medium&Strong Box Destroy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 989875cec66235340bb3e1a08a0322cb
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Positive Effect 6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbd1c0325ad915d429a67a8b4078f095
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism + Prism 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b359af3a244a1445e97ef1b908479d97
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism + Prism cube usage 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1a91ee339b054008b5393bf2e7f5f93
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism + Prism cube usage.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bb09058ec049784aa4a9be8ae2106af
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism + Prism.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96022dc1d339dee41b11dbd4288f7375
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Cube Dynamic.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37a604279976dea4d8f8e4f083bdede1
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/prism cube explosion.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f5c28bf932ef854b89f61d780d4f9a9
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Cube Static 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f224333daea8a649b5eaf33aad8b442
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Cube Static.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04c54e745a5f943ffaed5f09aa467fdc
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism cube usage.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a42b54fc414c64aac19701443c51a6
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Explode.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a0439fe31ea2314db91d24df9edb520
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Laser Orig 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6872c8cbf74ef2d44ab3ac6b4cc31d34
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Laser Orig.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7517e8af10eb22a44a0cb3916529cb10
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Prism Laser.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d7c82d97511247ccb6ea1bd6afef577
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Remaining moves Rocket.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed0824959f9c84d1997919d52ab18c75
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + Bomb cube combination.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 935f0508cc5acdb489fe75fa2317b733
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + Bomb2 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a24d11309b62db046a373e03cea8c356
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + Bomb2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9497ca6911358426a84a2731f3a0bbfd
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + rocket cube combination 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af2f5bd7f37a77f4793d41221554cbe3
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + rocket cube combination3
+      1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21c836a58c552c544b1d3eb4f839807f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket + rocket cube combination3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51354124bfec64a07829acf65f26f943
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket cube usage.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ee45b8b88b1ba946b20f6aeb8c5170a
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket cube usage2 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bf81e9b4a2ac6544b8bac10bfefe0b0
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket cube usage2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87ab12dd35e67ee4492c2706a7fc2672
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Shuffle Booster 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0357312847f1841d4a19010da237c580
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Shuffle Booster.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c50e29b91d0d07e4189a7cb78c16535d
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Special item creation 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db635edb9718e42999e5ecaed23094bf
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Special item creation.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e25a8dc0a575a5941be9d2c4d9cdd3bf
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Earth Skill Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b42e05688560644191e043801073e49
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Fire Skill Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e503627820b3ad3468bfd045489d6138
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Light Skill Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b6448c4bce3c074da6e6bbbb42eb8dc
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Shadow Skill Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21bdb195460ce0449469722c7260909
+    m_Address: Assets/M7/SFX/PuzzleGame/RPG/Water Skill Ready.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0cc2ad3bc35c2e4a95b458e5a4f54e2
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/woosh.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1912ed1349ffff04ca9de7fdc42b6009
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly sparkles.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29e8dac3439aba54db9bbd7622605bb3
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly sparkles
+      3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3a0bbf75c661dc4a9f9c90e86315de0
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly sparkles
+      4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bcbdf0489bb29d43ab7afafda71c335
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly sparkles
+      5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3bfb70ea46886042afbd5d3f7f0ab4f
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly sparkles
+      only.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 867ec82b107b0e34cb8661ee066a333a
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd8fc31175fd2f746933c9079a2ae688
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/End Remaining Rockets Fly 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71c3441ce272fe345801b006d972ab98
+    m_Address: Assets/M7/SFX/PuzzleGame/Puzzle/Rocket Generate.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7ea7dcfa692e8d94d83cbc47ca88c953, type: 2}
+    - {fileID: 11400000, guid: e72cdadb3bb12274993a01cc9f440105, type: 2}

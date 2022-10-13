@@ -1,0 +1,22 @@
+{
+    "name": "WalletConnect",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47a6419234171834491ba0f130f904f7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BouncyCastle.Crypto.dll",
+        "Newtonsoft.Json.dll",
+        "QRCoder.dll",
+        "QRCoder.Unity.dll",
+        "System.Drawing.Common.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

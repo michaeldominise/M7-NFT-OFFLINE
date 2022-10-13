@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Kairi_Uncommon
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Kairi
+    descriptionText: 
+    icon:
+      m_AssetGUID: 3f50e922c9c370145afbed5666b22457
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 30f058751910bfb46a4c04791908055a
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 2
+    mainSpine:
+      m_AssetGUID: 3684d06c8ce7d4c4e8b110827386eed3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 37b426945e5664145a5ad44d79fa7067
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a1b66f31b58d9f44d984a9c249614241
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60b5182af32e5a640974e6a20b557302
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d4183bef11ef2de4c8dc696e8b61ea61
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c045c3846a3ef894eb38fd71e435f5de
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 254960dbe1bdba947855aa55300b0130
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d18d70781707ea44ea4ac5d06a2f0321
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1800e54f51ebe3145bb9f98c6d0c02fb
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dbc4c31f695adbd449d082cdd028b387
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4823edcac47972b4aa491601218c5123
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b58c289bd7d430e478d2374074a2edb8
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 53d03cc0500112249a26a2d2cfdeaa53
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d076e3f824ddea4db1d8672f1161fed
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e4817e70430a5094abef3d4f78a26f62
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34ea6469e5d48974087b1e96070c2496
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a34255a29a079b54fb23235808618f14
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 130b147f704f41a48a72c7dfe70e0a2c
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2a3f1eabc9cb6a0468f8e6c01ed9a7b3
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a6929077af00be3439b00e7495af1ac0
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9cc3e46cc625acc4cb9737cb7d43a12c
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7e4ffd5eec404eb40b6cbf45fd64326a
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7ba0d5b4aa7e5fb40a80b96963cca4a0
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 58567be0a640921439b3e5730658ffd7
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6c133b17bacb1244d987c7c65552e7e8
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: de5cde73ed8d7124885c487330e79293
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6ca8ab9e210c4ba4686a0a6fa1e52d3e
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 41edadada5349e046a31e470c2c17055
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a3fb82d4bd56c43449851095d39ee455
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bdae1d33b10eda541ba62134dc8d78c5
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 51c3a3be14d7cac4e9e84a6cb4a1a195
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Kairi_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6fbfa0f78d968e049b1ca61599ea28f8
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ea9ab26313d69ea41a14d840479380a8
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f13e2e0cbd8b0df458eaa8862cbf40ca
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2a01b0ad8f9f995488c06c2b673fc24b
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a7a79615e23926d42abaef79e8eca8b1
+        subObjectName: 
+      - assetName: EquipmentItem_Kairi_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2fe488d3f52d0c44c99f06ccf1d2f874
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: e9d698cddb8019c4d9cba677b252ddaf
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 7545407e762211344850be02ae7e45a5, type: 2}

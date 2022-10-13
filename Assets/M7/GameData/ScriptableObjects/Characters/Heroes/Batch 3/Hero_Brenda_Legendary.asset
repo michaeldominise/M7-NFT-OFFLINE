@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Brenda_Legendary
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Brenda
+    descriptionText: 
+    icon:
+      m_AssetGUID: cb3c41cc35e3dc74980d3d4b447f0695
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 3dc35c9306ec40d419a09041abf41795
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 16
+    mainSpine:
+      m_AssetGUID: 5d5339ef2505e6c4582118c11a6f2b2b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0bd140e0982a5a04bb47cb8eb084cab3
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a1b90b9742c52ee4ca2396de2926c1f9
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c116374c0662aa849b18c28cf70140fd
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1735224d1c84a4a49994640703dc80a5
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d3aa0414bab8abf4599ec1582e5afd2d
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c80cb8cd60aa27b458b9ebbbb51e8844
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eb13ce8bfe63a264284b4af960777131
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c8c9de5d2c416541ba7de84c404722c
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eb847141e8cee7f418e602e95178f68f
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b56de5c8fda1bc44280901de3a2ff3b7
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 381b5371abd50214ea910bba192e0886
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9ba10abacde12a4ebd09a5ff095c08a
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e29c802492f29344f8790ad7549298ec
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8e6eb274054221b4ab46f0a1bdfec98a
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 245a146c234a0b547b0b44eebeb429ac
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: be3bfbfd11bd41f47bb497475eb6b4de
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b905b3b9823b2a04dbb116e70f368176
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fa05202980cc0ed4faf97dd198789efa
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 33db292ea599d324bb59d798bffa3a42
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e801988ac16266d47b83dde041e22e74
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60851c2056b321845b0893703a0fe2bb
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3bae38b7499a3ca4ab1e2c8815d63f01
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e642ee9de5e426f43abbb05bfe90a6f3
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a0b231aee018d6543b0459cc327e1fd4
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb2a1254f805bc54eb990e4a4399563c
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 424a4c8d8a3335340aec828b7b64c63e
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3fc002b4132a14646ab9f0acc442092b
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e31a9fd551f71314e88a7c94067792d2
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 71b0a1cb42d680d4ba9c10d715417b95
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e26c7ab661b32c547a8859b81a5e98dd
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Brenda_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5cd04b7e188b24d49b231d8fd8e41e5e
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 54931d13ecb91474fa244f6ba32330b4
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cfb53d49391d61447be3d40e08b3b5e1
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac3773ccc04423f4bae28a7a1fe0ec83
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34fb6c6add6423149b092eab5e23ba4a
+        subObjectName: 
+      - assetName: EquipmentItem_Brenda_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5c49128eb2a76544aa109b9946092895
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 97e26e1a55ff1904cb78ac07d35e937e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 4f8420a54aa928f42a4077096457fdfd, type: 2}

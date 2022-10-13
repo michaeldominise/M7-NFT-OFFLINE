@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Desert_Prime
+  m_EditorClassIdentifier: 
+  index: 9
+  displayName: Desert Prime
+  bannerAssetReference:
+    m_AssetGUID: e09a578e52de2ea418baa55356b23f45
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: 5a8895d70154a1046ba9582f36c0b895, type: 2}
+  - {fileID: 11400000, guid: d5d953ae3bf649d4898a7d3d13e09826, type: 2}
+  - {fileID: 11400000, guid: d2101e58df404234fb2435d997ffd786, type: 2}
+  - {fileID: 11400000, guid: 642bf732d6a3f9d4c8fbd08fada331e8, type: 2}
+  - {fileID: 11400000, guid: b4501c1674d323447afbee04b01857e2, type: 2}
+  - {fileID: 11400000, guid: f198b7535629493418d628fd10c817cc, type: 2}
+  - {fileID: 11400000, guid: 13527a29095e2e244808b3b9ee5c7404, type: 2}
+  - {fileID: 11400000, guid: c46a0bb3a9513604d93c877571a0afcf, type: 2}
+  - {fileID: 11400000, guid: cb86e4633026db342b219d77ef40a81c, type: 2}
+  - {fileID: 11400000, guid: ba722dc488f8e6d4cb34d2c819452807, type: 2}
+  - {fileID: 11400000, guid: 767b982f9649f97499f89e908433f52a, type: 2}
+  - {fileID: 11400000, guid: 050bb59625dd704488741672b942951d, type: 2}
+  - {fileID: 11400000, guid: 870d47164ae5be4489309cbc499f8efc, type: 2}
+  - {fileID: 11400000, guid: 3cc668a675f862949ab0567b8a0948ec, type: 2}
+  - {fileID: 11400000, guid: 80efc4dae0e33c44c9befbb3d0a99c72, type: 2}
+  - {fileID: 11400000, guid: 3764506af8d2a4c40841c6100326c004, type: 2}
+  - {fileID: 11400000, guid: 3421a1ab71b4e1b4fac7524aaaaa0f81, type: 2}
+  - {fileID: 11400000, guid: 0286a99b10197c84c8fbf79f5ccb77ac, type: 2}
+  - {fileID: 11400000, guid: 14a9d1f7673583b428c236b1c22c613e, type: 2}
+  - {fileID: 11400000, guid: 18470b0e76d17664386da6eba8269914, type: 2}

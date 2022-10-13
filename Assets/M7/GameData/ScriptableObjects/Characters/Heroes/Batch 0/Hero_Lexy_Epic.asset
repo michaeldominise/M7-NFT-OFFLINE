@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Lexy_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 62e9c50e5e7459b449fe5698d00d9c2e, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Lexy
+    descriptionText: 
+    icon:
+      m_AssetGUID: 591177c17fe7c2f4cb140fd8937f5f0e
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 3c5812644ee00c9458e7a551ac698de1
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: d21b511bdcd2d0a4fa79e1c72b7fb3c1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 25a3e4ec661607944965440cdaea4bc9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 504f67d203a7230468f0ce4fb1247daf
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ec42873009048bd4d9a2c70ae930e505
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4ba6e94fe20e1c041bcf73f8e7a58dc3
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f59783ee10787a94797891b097a6e86e
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86054a1917b73874db0b73fd3ad2014e
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9ab23f8735a79ba478215f10535a47b6
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0f3cdbd5feefa3043860c9d858a914f7
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 60c9e20ddf6618147b80b151e5e82c7d
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b13f71d1b92b35d42be24ac1a087f4d6
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c8d9bce8a93a4943a3f8fd74a985fda
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ed03eef4cd5101e4b8fc6d2ebce2c51c
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 052dd6e4737abba48bef295e8abc1c34
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_H13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5276c129a3023ca498ee338d094d109f
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5213b03650ac80e4b9a2c37d10c49f62
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c69aa0deb722ea941bef0856d9a1c237
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 51b597f51cab21b42aebf9cc56d31953
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1f5d5a2540744c7418721c1c256fcaa3
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 977352a9615dd4249bf7f7af13b253df
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 70c20413cfeb0fe4bbf52fced2c07bbc
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 888d18b3851f2b64e9ee611fdb553a5c
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 558cc3d0d02dc5943b6394229b32832f
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: faee7f123c9ebf6439fd71e0f0cee447
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 90d5bd86ac6c0f2448a20a5a52f64531
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9ba7dc46fa4a0be4ab2167920b599e2b
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e324eb69d3cc1534887246fc68c63450
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_A13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b97c84f93ab0d2848aa8b071210a436b
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 20809806921d47d468372e1f94594cf9
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2c4a33669cf4b5b4698a15231608ab22
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f06db5cf090c0444d99fb4bb34976dbf
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2aaa3546af6e56f46b88959ac9e07905
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a62f07b41240446468736724d18aad46
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 197dacc3e5883d145b14f6f0b6c1fb8b
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c8a57f33fea40324882d4de0c26fa3c1
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 09c1f2accd59f4d468099ef3966be827
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d5e9f4b37b0106b468f77e169b901b09
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf27afd014273d243975d45e0f14a1db
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 65d09b99a9c5f8e478c6f9cde443aef5
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 770e6f1ff6d332e44bc0d30fee9a29cb
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_G13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 93998f6c9366f7d4f8fd6c0951f150d4
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3bc1665f1b18e544fb5329eaa9e550c3
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b4d151ed528c4124da3342c58124f4a2
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 68210d9207d461843b7a9409ac7a3d92
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 81825fb584659e2499d5d5042b776033
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 884d1c16cd6e9334fafab510851df96b
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d096675824bf91d48933652e08320083
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 952283d6a5b5a8d4e9dff5d16a767d8e
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f769bbca64f8963488d98cd341ca6fc7
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fe3d82cdb4ab8d94abe6456b6d140ab8
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dd7af0c66b006214b863d052c1b1094c
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2626ca9b0379095428ea0f4fb6da9dd5
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fa173d341c7e7f441a5b6ce05ab3073a
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_W13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d2a915f3409f49c4b824c9424b41c4b0
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ee39f54ed31fb8d498c2b90521af245d
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7d69f440928aa1941ae7e3e794c6abe8
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bad07568dbcf33d43ad5ca09a4eeacda
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 846bf5a2f3ea37d4e825a5084e793b0a
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0e62f81e48dab0d4493c8d889089053f
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bfd80c930352c1b499929f977e8d9f25
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ecc930b10b6ba1742897348e0586a2d3
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 26960a455b979314d958be6e16a2385c
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f3b4248ec5d9ca945a5368afbd5e6aa9
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a49e83ddd9ed6d54499160c3ec4b238d
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 06e3c114a92dbd844a7294d0fb90f887
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 78f232db7a3538f408fe75df7437c225
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_AC13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ff6afa0688fc564498b0cd93cb5501ed
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Lexy_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: decd594ac129bca4a9f82918c5eb6761
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e98f478a042b1cd49bb1e637f1ecacd7
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 73a199c484ac0a24fa2b1cd7f3eee35f
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e8d0d59b3e7a7a48ac910a84bfc2e48
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cc43d2a4bb800384593be0fa2ebaede9
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6345514c97e881b49b724a9460387d46
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c5d79f5e78af16428caab94d9234926
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d4f5064d590faaa46b1d8e0fe21035c8
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5f733a6b1ca1ff0429d4d7d6ff2462be
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2f92cdd804705674f8ae6ad59bfd2e82
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6c0856de49d99e0479c0c32179b5b76a
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bab9cc0454a6fdf44be284f24f86a2cb
+        subObjectName: 
+      - assetName: EquipmentItem_Lexy_S13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: db2cf548624223646b84dc9e54d5c9d7
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: c2a5f9a4792162b42b894b83930cea8a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 22335b4bb57662243b735096b5b8fa8c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 108de44adf83a554a8e55ace79e9fafa, type: 2}

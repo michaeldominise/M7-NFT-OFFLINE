@@ -1,0 +1,59 @@
+WURMBOT.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/BEHIND
+bounds:241,680,212,78
+Dark/HEAD
+bounds:577,777,220,232
+offsets:1,1,222,234
+rotate:90
+Dark/LOWER BODY
+bounds:344,57,143,174
+rotate:90
+Dark/TAIL
+bounds:224,10,198,118
+rotate:90
+Dark/UPPER BODY
+bounds:2,663,237,334
+Earth/BEHIND
+bounds:338,466,212,78
+rotate:90
+Earth/HEAD
+bounds:2,190,220,232
+offsets:1,1,222,234
+Earth/LOWER BODY
+bounds:840,14,143,174
+Earth/TAIL
+bounds:2,70,198,118
+Earth/UPPER BODY
+bounds:2,424,237,334
+rotate:90
+Light/BEHIND
+bounds:338,252,212,78
+rotate:90
+Light/HEAD
+bounds:418,202,220,232
+offsets:1,1,222,234
+rotate:90
+Light/LOWER BODY
+bounds:694,601,143,174
+Light/TAIL
+bounds:520,2,198,118
+rotate:90
+Light/UPPER BODY
+bounds:241,760,237,334
+rotate:90
+Water/BEHIND
+bounds:224,210,212,78
+rotate:90
+Water/HEAD
+bounds:652,190,220,232
+offsets:1,1,222,234
+Water/LOWER BODY
+bounds:811,823,143,174
+Water/TAIL
+bounds:640,70,198,118
+Water/UPPER BODY
+bounds:455,424,237,334

@@ -1,0 +1,70 @@
+FLOATINGVALLEYBOSS.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+HEAD
+bounds:498,283,298,227
+offsets:1,1,300,229
+JAW
+bounds:768,512,248,239
+offsets:1,1,250,241
+LEFT FOOT
+bounds:422,788,148,113
+LEFT LEG
+bounds:80,833,70,68
+offsets:1,1,72,70
+LEFT THIGH
+bounds:294,799,102,126
+offsets:1,1,104,128
+rotate:90
+LEFT UP
+bounds:2,2,382,474
+rotate:90
+LOWER BODY
+bounds:535,542,231,209
+offsets:1,1,233,211
+NECK
+bounds:720,753,148,250
+offsets:1,1,150,252
+rotate:90
+NECK 2
+bounds:2,650,170,247
+offsets:1,1,172,249
+rotate:90
+NECK 3
+bounds:251,596,190,282
+offsets:1,1,192,284
+rotate:90
+RGHT THIGH
+bounds:152,822,79,140
+offsets:1,1,81,141
+rotate:90
+RIGHT FOOT
+bounds:572,759,142,146
+rotate:90
+RIGHT LEG
+bounds:2,849,76,52
+offsets:1,1,78,54
+TAIL
+bounds:2,386,208,494
+rotate:90
+
+FLOATINGVALLEYBOSS_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+LEFT DOWN
+bounds:2,506,373,642
+rotate:90
+RIGHT UP
+bounds:2,2,518,502
+
+FLOATINGVALLEYBOSS_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+RIGHT DOWN
+bounds:2,2,543,667

@@ -1,0 +1,77 @@
+aerodronemk1_fighter.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+fighter/Folder1
+bounds:2,805,166,145
+offsets:0,0,166,146
+fighter/Folder1 Copy
+bounds:2,57,430,397
+offsets:1,0,431,423
+fighter/Folder1 Copy dim
+bounds:734,585,182,208
+offsets:228,0,431,423
+rotate:90
+fighter/antena
+bounds:842,769,181,163
+offsets:2,1,183,165
+rotate:90
+magitech/Folder1
+bounds:170,805,166,145
+offsets:0,0,166,146
+magitech/Folder1 Copy
+bounds:434,2,430,397
+offsets:1,0,431,423
+magitech/Folder1 Copy dim
+bounds:2,456,182,208
+offsets:228,0,431,423
+rotate:90
+magitech/antena
+bounds:2,640,181,163
+offsets:2,1,183,165
+mechanic/Folder1
+bounds:338,805,166,145
+offsets:0,0,166,146
+mechanic/Folder1 Copy dim
+bounds:212,456,182,208
+offsets:228,0,431,423
+rotate:90
+mechanic/antena
+bounds:185,640,181,163
+offsets:2,1,183,165
+ranger/Folder1
+bounds:506,805,166,145
+offsets:0,0,166,146
+ranger/Folder1 Copy dim
+bounds:422,456,182,208
+offsets:228,0,431,423
+rotate:90
+ranger/antena
+bounds:368,640,181,163
+offsets:2,1,183,165
+science/Folder1
+bounds:674,805,166,145
+offsets:0,0,166,146
+science/Folder1 Copy dim
+bounds:632,401,182,208
+offsets:228,0,431,423
+rotate:90
+science/antena
+bounds:551,640,181,163
+offsets:2,1,183,165
+
+aerodronemk1_fighter_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+mechanic/Folder1 Copy
+bounds:2,401,430,397
+offsets:1,0,431,423
+ranger/Folder1 Copy
+bounds:2,2,430,397
+offsets:1,0,431,423
+science/Folder1 Copy
+bounds:434,401,430,397
+offsets:1,0,431,423

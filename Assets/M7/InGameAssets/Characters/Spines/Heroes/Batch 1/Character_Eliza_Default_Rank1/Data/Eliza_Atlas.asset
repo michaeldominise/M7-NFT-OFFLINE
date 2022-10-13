@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Eliza_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 619517afffeb44144899d221e502f1c9, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 7a3f389dd84ff4d4980a4a84ca4c8193, type: 2}
+  - {fileID: 2100000, guid: 7a9a2ef2dbf29344cb7ee8bb5e2971bc, type: 2}
+  - {fileID: 2100000, guid: 097825cab24ffdd4eb5a770686329141, type: 2}
+  - {fileID: 2100000, guid: 5540a4a93766c4f4da230202fbb0ea3e, type: 2}

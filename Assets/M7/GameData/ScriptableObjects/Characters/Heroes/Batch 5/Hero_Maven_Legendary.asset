@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Maven_Legendary
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: 1f6215e255133cc47aaa86013c80c269, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Maven
+    descriptionText: 
+    icon:
+      m_AssetGUID: ff0c423c57cfe8b4abcab5d7445ab13e
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 1a579f0e57df65b45993ca257cb9ee73
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 16
+    mainSpine:
+      m_AssetGUID: 745124a01c231e64eb9169994224f491
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 66eb54338d7b9134aaba70d936788275
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 35842124a1c42344fb9361972a54ee8e
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: afe3bbbe41fa8004192c1a70cffcf47b
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c4563db0310759e4981aa2208533bec7
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 982cc002d3c5e7c42a7aebf1a30c580a
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 10761ecd71a13a840a4c27bb0df9c0b0
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7c7da169d0265e74d95fe879861b75ae
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d04ba816d0009aa45b3ee77eebc9d637
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7adfcefa2b18624449e2de986374b0f3
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 21d6695361ba0f34f8390f80d6b2060c
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 522cac507469d84469d843ea99e5829b
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 23a3b877c9402e74895fab9947a95336
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b3f52651325af114c88e22cd3f4a08c7
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ce6dca64e3d4443428e229f637ee6780
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: da601bbf12b64494eb7326554b369e49
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 32c534b3c7000e04789f4b22ca7bf15d
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 94fe602571b7ef8489f753442e0584ec
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92ee29ab6123f7a47aed7d3ad57771c6
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 43560f76e8ea7bd46a4d3256a36d2831
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1d7a11dd631bf094da003e8cc1cd11c5
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 239be0aa317e6db4ab4aec2f8934ccdd
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c893c519490b0694cb615c9d5d1e6dc8
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d22c2b5237fed2347b6d5d3c8e519a0b
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b3435d978d81586469df0e8cac77650b
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 65a0e811adcb2be4fba595da45646d0c
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fd55f1261ffb89a47820e7a48d9660a8
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f73efad872a917140a45a381d2e8746b
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7400bde0c39b0fa4a8a0516646f193fc
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac37194ab9951f942bb5718706202c0b
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4f0a948adb7a2ee4d82cc99b1cc86db3
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Maven_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48baa381614747d4b94f2f186473d2b5
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 43b714daf26b92d4d913695c78abce67
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: de1817a8aa0b79e498720e072f800cfb
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: db362e81a74bc5c48b9882634dd6d257
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5808c295f16f0bf4e9cbeccae9c15a08
+        subObjectName: 
+      - assetName: EquipmentItem_Maven_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3c113f4d6292a144e96f99f0d1f9f674
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 6913868a1c542b24ba9235213630de05
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 55551d5940ec6ef49a3c87c6183f1a2d, type: 2}

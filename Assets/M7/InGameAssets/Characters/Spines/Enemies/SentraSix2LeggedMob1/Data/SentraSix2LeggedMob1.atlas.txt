@@ -1,0 +1,193 @@
+SentraSix2LeggedMob1.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/body part
+bounds:652,600,154,153
+offsets:1,1,156,155
+Dark/foot L
+bounds:2,941,113,47
+Dark/foot R
+bounds:117,941,113,47
+Dark/head
+bounds:2,510,254,150
+offsets:1,1,256,152
+Dark/hip
+bounds:232,861,121,78
+offsets:1,1,123,80
+Dark/hip part
+bounds:922,908,80,102
+rotate:90
+Dark/leg L
+bounds:210,768,109,91
+offsets:0,0,109,92
+Dark/leg R
+bounds:210,768,109,91
+offsets:0,0,109,92
+Earth/leg L
+bounds:210,768,109,91
+offsets:0,0,109,92
+Earth/leg R
+bounds:210,768,109,91
+offsets:0,0,109,92
+Fire/leg L
+bounds:210,768,109,91
+offsets:0,0,109,92
+Fire/leg R
+bounds:210,768,109,91
+offsets:0,0,109,92
+Light/leg L
+bounds:210,768,109,91
+offsets:0,0,109,92
+Light/leg R
+bounds:210,768,109,91
+offsets:0,0,109,92
+Water/leg L
+bounds:210,768,109,91
+offsets:0,0,109,92
+Water/leg R
+bounds:210,768,109,91
+offsets:0,0,109,92
+Dark/shield L
+bounds:2,2,289,475
+rotate:90
+Dark/thigh  R
+bounds:321,755,128,104
+Dark/thigh L
+bounds:451,755,128,104
+Earth/body part
+bounds:808,565,154,153
+offsets:1,1,156,155
+Earth/foot L
+bounds:232,941,113,47
+Earth/foot R
+bounds:347,941,113,47
+Earth/head
+bounds:258,497,254,150
+offsets:1,1,256,152
+Earth/hip
+bounds:355,861,121,78
+offsets:1,1,123,80
+Earth/hip part
+bounds:847,826,80,102
+rotate:90
+Earth/shield L
+bounds:479,2,289,475
+rotate:90
+Earth/thigh  R
+bounds:581,755,128,104
+Earth/thigh L
+bounds:711,755,128,104
+Fire/body part
+bounds:258,342,154,153
+offsets:1,1,156,155
+Fire/foot L
+bounds:462,941,113,47
+Fire/foot R
+bounds:577,941,113,47
+Fire/head
+bounds:514,448,254,150
+offsets:1,1,256,152
+Fire/hip
+bounds:478,861,121,78
+offsets:1,1,123,80
+Fire/hip part
+bounds:2,810,80,102
+rotate:90
+Light/hip part
+bounds:2,810,80,102
+rotate:90
+Fire/thigh  R
+bounds:841,720,128,104
+Fire/thigh L
+bounds:2,704,128,104
+Light/body part
+bounds:414,293,154,153
+offsets:1,1,156,155
+Light/foot L
+bounds:692,941,113,47
+Light/foot R
+bounds:807,941,113,47
+Light/head
+bounds:770,413,254,150
+offsets:1,1,256,152
+Light/hip
+bounds:601,861,121,78
+offsets:1,1,123,80
+Light/thigh  R
+bounds:132,662,128,104
+Light/thigh L
+bounds:262,649,128,104
+Water/body part
+bounds:570,293,154,153
+offsets:1,1,156,155
+Water/foot L
+bounds:2,892,113,47
+Water/foot R
+bounds:117,892,113,47
+Water/head
+bounds:2,358,254,150
+offsets:1,1,256,152
+Water/hip
+bounds:724,861,121,78
+offsets:1,1,123,80
+Water/hip part
+bounds:106,810,80,102
+rotate:90
+Water/thigh  R
+bounds:392,649,128,104
+Water/thigh L
+bounds:522,649,128,104
+
+SentraSix2LeggedMob1_2.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/body
+bounds:2,684,417,339
+Earth/body
+bounds:421,684,417,339
+Fire/body
+bounds:2,265,417,339
+rotate:90
+Light/body
+bounds:343,343,417,339
+Water/body
+bounds:343,2,417,339
+
+SentraSix2LeggedMob1_3.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dark/shield R
+bounds:479,2,311,451
+offsets:1,1,313,453
+rotate:90
+Earth/shield R
+bounds:479,2,311,451
+offsets:1,1,313,453
+rotate:90
+Fire/shield R
+bounds:479,2,311,451
+offsets:1,1,313,453
+rotate:90
+Light/shield R
+bounds:479,2,311,451
+offsets:1,1,313,453
+rotate:90
+Water/shield R
+bounds:479,2,311,451
+offsets:1,1,313,453
+rotate:90
+Fire/shield L
+bounds:2,315,289,475
+rotate:90
+Light/shield L
+bounds:479,315,289,475
+rotate:90
+Water/shield L
+bounds:2,24,289,475
+rotate:90

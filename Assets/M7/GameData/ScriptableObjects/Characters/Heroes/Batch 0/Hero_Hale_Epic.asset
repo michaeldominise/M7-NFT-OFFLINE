@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Hale_Epic
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: ca6e5c1bfac768243985d914b4230366, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Hale
+    descriptionText: 
+    icon:
+      m_AssetGUID: ee17b1bdd99bbcd4ab9711c270b8bfc3
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: 5c3ae528542633c499291c1468275c6f
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 8
+    mainSpine:
+      m_AssetGUID: d55a0d9da38e7f941a93e407d586ea74
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72dd5cf83054504448637c27f83f0688
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5335e53a707df0a42ad7aa42e522b1b0
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 121c8e8d52d25f5408092907061c3a9d
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 902079b83ba681147ab747e72a28e012
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 680a98f70f2dd5a408623a39a04b0f27
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c2b61a92c0698184fb27eabd368f9802
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7f26ea42783c6dd46b03165a31309479
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6b77bc85eb868b34fba068e082fcd6af
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 44d8e4c93adfa9142aee66a0e0727adc
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bdb972e1d6c5aa149af3d6bc5db2ecf9
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 21859cda53b2b0c48b1786e1c2cd03cc
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 776aa1f49fba26742af63731961731a6
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_H13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7468714dff152ad44985f5504885b4d7
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9c63932b7605d9479ce2a1788db47ab
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: add7d0fa6c644e44097c7d5ecd930842
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 14333afadcc3a9a449128774c9a9a7ed
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bea088ce46a207341810786c650e4444
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d46b724a99842b34e93c925a16301a1a
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3ddd10d89bbc1cc45bb7dfb5a139ac00
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8464651dd0440fa47ab2cffec6dfec14
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 84b6133c1f40b144599bc5a685b5d04a
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 49b5e63b97136724e8f00c5a00a90b60
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A010
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d90fe73242bbfda4ba515d0a9b72a4e7
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A011
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2efca03e2f353384e9a1e5022f1bab0f
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A012
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 02cabf3cd2319f6429aed09f6c6461ab
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_A013
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bf80f1feb7d6d594886c9b83491dd80f
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ea4122431d3e57f42bbda9277a0d3a95
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e64212c7bb44d9f4e89813f5e43d00e0
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f38c1c42586139e4b867354607a3eaf3
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cf03c520cd2184646b0e51ed69cb92d8
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 34db25da1bb2ff0458443f6a6c67a22c
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f2b5bdd2731ba63409208400868463d3
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d708ed30d52bb0c42b6fad8317f59a46
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac238ed2bd73d204888c555040ac094d
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c4ea472c126d05146a05b6ae553c26fd
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 54f91edcc802ab5439c31621a967ab4a
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2fffd4573d011364590f3cefe0ce262e
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bef767d9d765c994a8f71ff9346219cb
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_G13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4b533cdd55fbf984a9c5bfa64169ef71
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f24d81fc49e0e7549b5e2998df528f49
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b06b693cc1db9fe4d826a7d1c09f0d44
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 598c73ad19e44f7489acc472363fddd7
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb430c63be0fecd4da18ae1a66689e54
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0e7f1107a09161d4db523d135a074557
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6a6eddfc381a07740a360ec2924ee8e4
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9e376a22600e9dc44aa86b3ae1e66ddd
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48053ae41e8307f46a048ce8f698712c
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dcb47ae70d7684e4cac8fca7b8c9e79d
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ecd9c6ef95910d44ca04ce7d0e052485
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 301401a93a7c64e4facbb23b67862511
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9dab9f142d7fa74458ba7f9d43956c88
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_W13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 93f597097feb797439c4e73b50b91b9d
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a2ff6984ffad85441b937520268b1229
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1084e3a8026fdfe48ba05cacb0e4edde
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1cbf13622d0bed14f86dc87e3a295165
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 59accb3a41d4364488e5bb04693071de
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ea2073b3bae7d8c4ea92f5fcab82174e
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3b91e99f0509b4041acfb8fdd2524d20
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 70c39fb2a84375646a3a9fe399f459b4
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e299d29b7e15e854ba937f6a7e7b98f4
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 141b0473476736142908ddf5100d3071
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0ad26f5cd5627fc48b54a8695fa68380
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7aebc45659fbd6f479a2bce6533673a5
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8982abf252c98384184583b897c496b5
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_AC13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fab2822af2e9c1b49a710c1b20cb0ceb
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Hale_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 586ae89d62272f748929f344078cbddc
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c1338040155a5764bbdee7c74fa0f102
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f4d8892a4f8af7548b463ba35035777e
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 02ddbb2ffb4ea5b42aedd2fdf5adba19
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d6b04826892d1654e9a550cfd8c40a18
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 996f3a371c3573b48b6b41c2511bc2ed
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S07
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9b6f7b55301f33043be574a2e01f252a
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S08
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f98103ea4595f7f4da596b571156841f
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S09
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8a9fc9f7a6039844898f27355ba2b1f2
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S10
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c96fcc5450c394f409be3a35c0ef74fb
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S11
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a925aea2e94ee34d918996793572f88
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S12
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6321937075249ec45a6f9c6bc7791ed0
+        subObjectName: 
+      - assetName: EquipmentItem_Hale_S13
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c5c75b330fabae24b8f7a635e5fb1bc8
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: f592d4553b7dd4d4eb39ea1ee49ca95f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: bb20f362d1732e342bbef34b114b8a0e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: a8b3acae4dd34df40876c8269fbdf7f6, type: 2}

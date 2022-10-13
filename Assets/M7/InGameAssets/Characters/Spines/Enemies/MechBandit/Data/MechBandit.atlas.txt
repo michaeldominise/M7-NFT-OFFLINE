@@ -1,0 +1,492 @@
+MechBandit.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dessert02/foot R
+bounds:182,5,84,35
+offsets:0,1,84,37
+Dessert02/head
+bounds:381,678,303,343
+offsets:0,0,305,343
+Dessert02/leg R
+bounds:307,728,64,69
+offsets:1,0,67,70
+Dessert02/shoulder L part B
+bounds:304,2,105,107
+offsets:0,0,105,108
+rotate:90
+Dessert02/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Dessert03/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Fighter/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Frost/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Magitech/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Mechanic/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Ranger/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Science/shoulder L part C
+bounds:182,42,105,120
+rotate:90
+Dessert02/shoulder R
+bounds:2,6,141,178
+offsets:1,1,143,180
+rotate:90
+Dessert02/weapon
+bounds:2,799,377,222
+Dessert03/head
+bounds:2,454,303,343
+offsets:0,0,305,343
+Dessert03/shoulder L part B
+bounds:413,2,105,107
+offsets:0,0,105,108
+rotate:90
+Dessert03/weapon
+bounds:307,454,377,222
+Fighter/head
+bounds:686,678,303,343
+offsets:0,0,305,343
+Fighter/shoulder L part B
+bounds:522,2,105,107
+offsets:0,0,105,108
+rotate:90
+Magitech/shoulder L part B
+bounds:522,2,105,107
+offsets:0,0,105,108
+rotate:90
+Frost/head
+bounds:686,333,303,343
+offsets:0,0,305,343
+Magitech/head
+bounds:2,149,303,343
+offsets:0,0,305,343
+rotate:90
+Mechanic/head
+bounds:347,109,303,343
+offsets:0,0,305,343
+Ranger/head
+bounds:652,28,303,343
+offsets:0,0,305,343
+rotate:90
+
+MechBandit_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dessert02/arm L
+bounds:2,2,189,155
+offsets:0,0,191,155
+Dessert02/body
+bounds:2,479,318,294
+rotate:90
+Dessert02/foot L
+bounds:193,5,82,34
+offsets:1,1,84,37
+Dessert02/hip
+bounds:193,41,116,101
+offsets:1,1,118,104
+rotate:90
+Dessert02/shoulder R part A
+bounds:522,292,160,152
+offsets:0,1,161,153
+rotate:90
+Dessert02/thigh L
+bounds:298,687,81,110
+offsets:1,1,82,111
+Dessert03/body
+bounds:2,159,318,294
+rotate:90
+Dessert03/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Fighter/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Frost/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Magitech/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Mechanic/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Ranger/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Science/foot L
+bounds:438,39,82,34
+offsets:1,1,84,37
+Dessert03/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Fighter/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Frost/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Magitech/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Mechanic/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Ranger/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Science/foot R
+bounds:631,44,84,35
+offsets:0,1,84,37
+rotate:90
+Dessert03/leg R
+bounds:296,9,64,69
+offsets:1,0,67,70
+rotate:90
+Dessert03/shoulder R part A
+bounds:522,130,160,152
+offsets:0,1,161,153
+rotate:90
+Fighter/body
+bounds:677,358,318,294
+rotate:90
+Fighter/leg R
+bounds:367,9,64,69
+offsets:1,0,67,70
+rotate:90
+Fighter/weapon
+bounds:2,799,377,222
+Frost/body
+bounds:686,703,318,294
+rotate:90
+Frost/shoulder L part B
+bounds:522,23,105,107
+offsets:0,0,105,108
+rotate:90
+Frost/weapon
+bounds:298,454,377,222
+Magitech/body
+bounds:676,38,318,294
+rotate:90
+Magitech/weapon
+bounds:298,75,377,222
+rotate:90
+Science/head
+bounds:381,678,303,343
+offsets:0,0,305,343
+
+MechBandit_3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dessert02/arm R
+bounds:569,308,107,179
+offsets:0,1,109,181
+Dessert02/shoulder L
+bounds:701,605,184,178
+Dessert03/arm L
+bounds:701,448,189,155
+offsets:0,0,191,155
+Dessert03/arm R
+bounds:569,127,107,179
+offsets:0,1,109,181
+Dessert03/hip
+bounds:887,682,116,101
+offsets:1,1,118,104
+Dessert03/shoulder L
+bounds:383,309,184,178
+Dessert03/shoulder R
+bounds:864,111,141,178
+offsets:1,1,143,180
+Dessert03/thigh L
+bounds:892,418,81,110
+offsets:1,1,82,111
+rotate:90
+Fighter/arm L
+bounds:226,226,189,155
+offsets:0,0,191,155
+rotate:90
+Fighter/arm R
+bounds:383,20,107,179
+offsets:0,1,109,181
+rotate:90
+Fighter/hip
+bounds:854,8,116,101
+offsets:1,1,118,104
+Fighter/shoulder L
+bounds:383,129,184,178
+Frost/arm L
+bounds:226,35,189,155
+offsets:0,0,191,155
+rotate:90
+Frost/arm R
+bounds:892,501,107,179
+offsets:0,1,109,181
+Frost/hip
+bounds:869,315,116,101
+offsets:1,1,118,104
+Frost/shoulder L
+bounds:678,111,184,178
+Ranger/shoulder L
+bounds:678,111,184,178
+Magitech/arm L
+bounds:678,291,189,155
+offsets:0,0,191,155
+Magitech/arm R
+bounds:673,2,107,179
+offsets:0,1,109,181
+rotate:90
+Mechanic/body
+bounds:2,713,318,294
+Mechanic/shoulder L part B
+bounds:564,20,105,107
+offsets:0,0,105,108
+rotate:90
+Mechanic/weapon
+bounds:2,38,377,222
+rotate:90
+Ranger/body
+bounds:2,417,318,294
+Ranger/weapon
+bounds:642,785,377,222
+Science/body
+bounds:322,713,318,294
+Science/weapon
+bounds:322,489,377,222
+
+MechBandit_4.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+Dessert02/leg L
+bounds:946,507,62,71
+offsets:2,0,64,72
+Dessert02/shoulder L part A
+bounds:472,467,166,150
+rotate:90
+Dessert02/thigh R
+bounds:923,736,83,94
+offsets:2,1,86,97
+Dessert03/leg L
+bounds:773,326,62,71
+offsets:2,0,64,72
+rotate:90
+Dessert03/shoulder L part A
+bounds:553,860,166,150
+Dessert03/thigh R
+bounds:687,114,83,94
+offsets:2,1,86,97
+Fighter/leg L
+bounds:846,326,62,71
+offsets:2,0,64,72
+rotate:90
+Fighter/shoulder L part A
+bounds:553,708,166,150
+Magitech/shoulder L part A
+bounds:553,708,166,150
+Fighter/shoulder R
+bounds:624,499,141,178
+offsets:1,1,143,180
+rotate:90
+Fighter/shoulder R part A
+bounds:2,507,160,152
+offsets:0,1,161,153
+rotate:90
+Magitech/shoulder R part A
+bounds:2,507,160,152
+offsets:0,1,161,153
+rotate:90
+Fighter/thigh L
+bounds:772,11,81,110
+offsets:1,1,82,111
+Fighter/thigh R
+bounds:772,123,83,94
+offsets:2,1,86,97
+rotate:90
+Frost/leg L
+bounds:919,326,62,71
+offsets:2,0,64,72
+rotate:90
+Frost/leg R
+bounds:530,642,64,69
+offsets:1,0,67,70
+rotate:90
+Frost/shoulder L part A
+bounds:310,313,166,150
+rotate:90
+Frost/shoulder R
+bounds:721,832,141,178
+offsets:1,1,143,180
+Ranger/shoulder R
+bounds:721,832,141,178
+offsets:1,1,143,180
+Frost/shoulder R part A
+bounds:156,507,160,152
+offsets:0,1,161,153
+rotate:90
+Frost/thigh L
+bounds:687,2,81,110
+offsets:1,1,82,111
+Frost/thigh R
+bounds:868,112,83,94
+offsets:2,1,86,97
+Magitech/hip
+bounds:811,208,116,101
+offsets:1,1,118,104
+rotate:90
+Magitech/leg L
+bounds:954,434,62,71
+offsets:2,0,64,72
+Magitech/leg R
+bounds:601,642,64,69
+offsets:1,0,67,70
+rotate:90
+Magitech/shoulder L
+bounds:193,826,184,178
+rotate:90
+Magitech/shoulder R
+bounds:743,689,141,178
+offsets:1,1,143,180
+rotate:90
+Magitech/thigh L
+bounds:914,214,81,110
+offsets:1,1,82,111
+Magitech/thigh R
+bounds:855,27,83,94
+offsets:2,1,86,97
+rotate:90
+Mechanic/arm L
+bounds:2,855,189,155
+offsets:0,0,191,155
+Mechanic/arm R
+bounds:630,210,107,179
+offsets:0,1,109,181
+rotate:90
+Mechanic/hip
+bounds:569,107,116,101
+offsets:1,1,118,104
+Mechanic/leg L
+bounds:951,39,62,71
+offsets:2,0,64,72
+Mechanic/leg R
+bounds:672,642,64,69
+offsets:1,0,67,70
+rotate:90
+Mechanic/shoulder L
+bounds:2,669,184,178
+rotate:90
+Mechanic/shoulder L part A
+bounds:2,177,166,150
+rotate:90
+Mechanic/shoulder R
+bounds:864,832,141,178
+offsets:1,1,143,180
+Mechanic/shoulder R part A
+bounds:310,481,160,152
+offsets:0,1,161,153
+Mechanic/thigh L
+bounds:98,94,81,110
+offsets:1,1,82,111
+rotate:90
+Mechanic/thigh R
+bounds:516,22,83,94
+offsets:2,1,86,97
+rotate:90
+Ranger/arm L
+bounds:182,669,189,155
+offsets:0,0,191,155
+Ranger/arm R
+bounds:773,390,107,179
+offsets:0,1,109,181
+rotate:90
+Ranger/hip
+bounds:413,88,116,101
+offsets:1,1,118,104
+rotate:90
+Ranger/leg L
+bounds:953,141,62,71
+offsets:2,0,64,72
+Ranger/leg R
+bounds:804,514,64,69
+offsets:1,0,67,70
+rotate:90
+Ranger/shoulder L part A
+bounds:154,177,166,150
+rotate:90
+Ranger/shoulder L part B
+bounds:462,206,105,107
+offsets:0,0,105,108
+Ranger/shoulder R part A
+bounds:2,345,160,152
+offsets:0,1,161,153
+rotate:90
+Ranger/thigh L
+bounds:210,65,81,110
+offsets:1,1,82,111
+Ranger/thigh R
+bounds:409,3,83,94
+offsets:2,1,86,97
+rotate:90
+Science/arm L
+bounds:373,635,189,155
+offsets:0,0,191,155
+rotate:90
+Science/arm R
+bounds:804,580,107,179
+offsets:0,1,109,181
+rotate:90
+Science/hip
+bounds:306,86,116,101
+offsets:1,1,118,104
+rotate:90
+Science/leg L
+bounds:612,34,62,71
+offsets:2,0,64,72
+Science/leg R
+bounds:875,514,64,69
+offsets:1,0,67,70
+rotate:90
+Science/shoulder L
+bounds:373,826,184,178
+rotate:90
+Science/shoulder L part A
+bounds:462,315,166,150
+Science/shoulder L part B
+bounds:306,204,105,107
+offsets:0,0,105,108
+Science/shoulder R
+bounds:630,319,141,178
+offsets:1,1,143,180
+Science/shoulder R part A
+bounds:156,345,160,152
+offsets:0,1,161,153
+rotate:90
+Science/thigh L
+bounds:293,3,81,110
+offsets:1,1,82,111
+rotate:90
+Science/thigh R
+bounds:2,92,83,94
+offsets:2,1,86,97
+rotate:90

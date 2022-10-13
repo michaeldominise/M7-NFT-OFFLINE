@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jade_Animation_Controller
+  m_Controller: {fileID: 9100000, guid: decd4c20a1979c749a8a0a08efb81a88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 9146531902742547347, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 7923147059992017136, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: -5606539013438704022, guid: 5ee1eddc9346fdc4eb4fe77291e6c1ac, type: 2}
+    m_OverrideClip: {fileID: 1258604523090245814, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: -3760644281336881268, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -8726443359705432606, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: 2900425966320157111, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 5059691891732149685, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: -3334444367521475222, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 8404833114131814596, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: 3081813404227013163, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 330263660294371818, guid: c1766c58c07b7a54b9ba9448721ebe69, type: 2}
+  - m_OriginalClip: {fileID: 2049409672310465941, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -8085088667019438372, guid: 01aae36bcbac3bd43a61d3fa050e11c1, type: 2}

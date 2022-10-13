@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes CDN1
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes CDN1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2cb9934a7a57bec488c04034346bd9cb
+  m_SerializeEntries:
+  - m_GUID: 09cb5cfcd95ecce4184deed5a38147a2
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_MainMenuScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 364f56fc61834574c9d0223e8c0b0320
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_TeamInfoScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16116875922350c458b056f3bd515d24
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_TeamEditScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bcbf4233724a1a46b5cf03c5721d35d
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_StageInfoScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c85f672c9d133c4f8f837eab1671de6
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile_ChangePassword.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f854ef0965052774fb9cffd5da7f5427
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile_SelectAvatar.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2337e781857a2ba4db3bd7f14a13c43a
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile_Name.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5bbd0a8790e5eb49832ce552107ffd9
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile_Email.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 980240a14927ff2448adcbcb324a0113
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile_DeleteAccount.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c2f28d9930c22846905e495029b4408
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings_PlayerProfile.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bf5d2293f2941b49a5dd66e941abfb6
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Settings.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2478841fad3e3144b59110ad49458ce
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Map_Stages.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d76ac3c4110d3c8469184dd0e8fb0243
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_LeaderboardScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c3c0628023f8094abc61960cee3370c
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes_Incubators.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a02f6a19a70a8364d8d3564f34e3ae14
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes_Heroes_Profile_AddPoints.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c048d786456474f94e7836ba7b8380
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes_Heroes_Profile.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b74472c78a57a944fbbecf2df71a0016
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes_Heroes.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef59424a8901c54ea603e5dfda02b7b
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1ca350c320143e4e9cf39006891a6a1
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryGems.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a3836b849cce5b4993b155ce7413290
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryBoosters.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5310edbcbfe0b34a96b6e247a2340c1
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Inventory.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dedb307efae1df4387fb871135fca98
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Map.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41dc06ce6ab250449a7361435c942f3d
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_HomeScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d8c8dd607855e04db745bcf18411a49
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_BattleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b58672a70f94a2f4bb2ddf5c6e822d55
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_InventoryHeroes_Heroes_Profile_Mint.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86e759a7adb12a4419fd4eaee56d5ef1
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Shop.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2cb3ca01ee9994a8767c41bcd7e507
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Shop_GatchaReveal.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c9d90567b4634141bf4b13c809b9eec
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Shop_GatchaRate.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ed0a3d35e64ab4546a71c3db004be184, type: 2}
+    - {fileID: 11400000, guid: 1dfda8e333d54174cb3289d6c9c6f71d, type: 2}

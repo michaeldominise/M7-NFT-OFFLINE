@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: QuadruBot_Demolisher_MK2_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: f5b989f41d3123740931d82d98ecfc8c, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 512e251a015b50d4790ba93b54eecf75, type: 2}
+  - {fileID: 2100000, guid: 9542e095b054b1f41b1912487f9322b0, type: 2}
+  - {fileID: 2100000, guid: 0da99ea9ee994b341817594099dd76be, type: 2}
+  - {fileID: 2100000, guid: 64a8ad01fb843b44dbdfcaeca655978b, type: 2}
+  - {fileID: 2100000, guid: 7b2b2bfb184ec2c4b96d45617504e2e0, type: 2}
+  - {fileID: 2100000, guid: 6b8fbf84603e20449b16dacbdb732f77, type: 2}

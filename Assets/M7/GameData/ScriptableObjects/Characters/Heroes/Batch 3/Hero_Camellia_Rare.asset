@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Camellia_Rare
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Camellia
+    descriptionText: 
+    icon:
+      m_AssetGUID: 7a9e71a57b84a3644a40eef028c7447c
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: d9c6497f555a9ba42aa3a4f7bdf825c9
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 4
+    mainSpine:
+      m_AssetGUID: 58f4c2b997e92884ea580236dfdae6d3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b48a30ebf4d96804a8350e189279e186
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bfac9a31f410624408ecb68ba182ce69
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 7ec1662bd7c35964e96903190aa58d54
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b89575d3c9d556a48a900c7153e55e16
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 78671f1567a4c904f8398852a115eba6
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9a7ad4e7c6434ea488d5650ed06413d2
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 92c8afbfdf0525241970cf7bca7ceea4
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a5280d66b55da1c488fe6434b13117f2
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eaa66ab88a56aa44999c8e4513a50d89
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d76cd5223e6914646b5bd3d17bc1b572
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 86c4f53f31ef0b34fa950e49483bb8c5
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2154ad86ffa537f44942b8ce1dd8db4e
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 456d335308047c140a7432dde78110bc
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 8966022bae78a1844ab8eb25d82a0858
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a77203d0b6e65b042a925ca6f8f79b1c
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 97de527919528174b8850922668f3f83
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fdb373ffcabfcf846bfa18c6f6ea3a20
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: a4716225b611c8f479f2eb2ff6d39f5f
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 998dad1de8aa4524c83c580e4f9f11f3
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4e6f457c22bf4644fb4608322c2bfe31
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0357b27496f51734f934225f33249540
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: eec4c5f0477e79b40b3d1def376d9d19
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: d8d34b2a4936e2647a33898aad0d0800
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 511847e6bad8ef14383d645c9e8a3bb4
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: e3471f5faf4b5f64e979e6346b0cf800
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 19dedc24785f53b44b8f5d9ff2cff27c
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1f8490b00ebf80c4e8cd28c7a5b39a42
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 61da1b589d631284589700f52d8435e2
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 6e70bfc2dda850844af591fcc85f8186
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: dcd7c541996a13642b57faadf247df80
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Camellia_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 96ec6e10324d0104b991d88c44bf2c46
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 844fcc2ac3390604e9772bf44157495e
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f727ed9e492598045907b065a59e65d5
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bcac822891717df4eb87679ff60c2aee
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 72608b2f108e9294ca1522de50cdf859
+        subObjectName: 
+      - assetName: EquipmentItem_Camellia_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5107d31f46384c044a2152f154a71fbc
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 4cba2905db990ec4cbf5efcd1a685a55
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: 09a5a7d4e90971c46996b2036be50fb4, type: 2}

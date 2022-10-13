@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65270e813a77da499d300aa10ce57d1, type: 3}
+  m_Name: Hero_Valiant_Legendary
+  m_EditorClassIdentifier: 
+  element: {fileID: 11400000, guid: c8433a04590b79e458e2d1f6820bab8c, type: 2}
+  combatStats:
+    hp: 0
+    attack: 0
+    defense: 0
+    passion: 0
+    luck: 0
+    durability: 0
+    hpModifier: 3
+    attackModifier: 1
+    defenseModifier: 1
+    miningModifier: 1
+    luckModifier: 1
+    durabilityModifier: 1
+  displayStats:
+    displayName: Valiant
+    descriptionText: 
+    icon:
+      m_AssetGUID: 495e4c3b1d1a637479990046d4051f4d
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    avatar:
+      m_AssetGUID: e0cef96447593744aaacb514b38c2d7a
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    rarity: 16
+    mainSpine:
+      m_AssetGUID: 01f9c9ac64ec1f54383e9c2bc014be5f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    subSpine:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  equipments:
+    headgears:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_H01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3fb7cae41444a3d4b93a897248418236
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_H02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 12230eb25b350f54bbb033f7c372cab7
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_H03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9f44930cd623efb4fa9b2cf1abf1294b
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_H04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0c4927f3b4f54d048b0f84e8e269408e
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_H05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 62f87885554fe1b44a48c1d7411061d8
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_H06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 250e5678b8ed01b4ba83be0a0615211e
+        subObjectName: 
+    armors:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_A01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 77ddc077068b21e429e245d2d0898bee
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_A02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b6e5349cbae07244484667286c4fe799
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_A03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 795cd2a8dc870ce49b4f9c15eb4f6e03
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_A04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cbadbe6f171018742aece914f2acb8d9
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_A05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 17b49e2016a340f4980c79189b0ea638
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_A06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bb84da3494be1284ab8c61e0cde1dbc6
+        subObjectName: 
+    gloves:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_G01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f9f565a1ecf190e4daafe7969e829d4c
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_G02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: b240def68d408fc4e919e6ea13f29257
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_G03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 2ef1fea63036b964f867abe2900f7a85
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_G04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: cfbcb5825899c9f49bb02e248e87568f
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_G05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 3e4ed88b11424184eb7c1d8c0e903797
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_G06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 48dd7b525efdbdc48b0d6ee3dd7b2bb5
+        subObjectName: 
+    weapon:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_W01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ddc515585fcbd754cb7d28d5239d2efe
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_W02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: fe28a8198aa4276448e34fc13d79a48f
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_W03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 0d07b3d6e67a2bd40921213823fca536
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_W04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 44002c9dd05e7174193774100e502ef0
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_W05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: bc339a74aa5f175469ab24f9c77be5e8
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_W06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 873c5164af6d7254bba0ed432a9c7dcf
+        subObjectName: 
+    accessories:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_AC01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 9f6970b3286471049b9793207cb20ae4
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_AC02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 5bbafad471427074888922e40da6ac27
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_AC03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 4a88da4dc0838134e9a35e160dfe71b9
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_AC04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 048692c4611559941b2ea3bdbfab8660
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_AC05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: df14a43bb53f3464c86786e49f3fb4e6
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_AC06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ac4cb88dee70b084285c28dc0f1d6ec1
+        subObjectName: 
+    shoes:
+      assetReferences:
+      - assetName: EquipmentItem_Valiant_S01
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: c3258f2067b9d2044badd41d7392dc1a
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_S02
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 950654f60f8ecec4792406a450109ad1
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_S03
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 1613ecb827d52ef4883aa89cbb830d8e
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_S04
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: 823bf08e939e8c044bf13a6691aaff68
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_S05
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: ae97329f65053664987da013310b9b6e
+        subObjectName: 
+      - assetName: EquipmentItem_Valiant_S06
+        objectTypeName: <M7.GameData.EquipmentItem<M7.GameData.BaseAssetObject<UnityEngine.ScriptableObject<UnityEngine.Object<System.Object
+        guid: f7de3ffc67995fd4e9e8ee8817c2e432
+        subObjectName: 
+  meleeXOffset: 0
+  rangeXOffset: 0
+  basicAttackSkillObject:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillObject:
+    m_AssetGUID: 074c5b973680cb345beb78a1e492ea44
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  characterSkillConditionList:
+  - {fileID: 11400000, guid: a762f84aaf18a914080d1858005d0965, type: 2}

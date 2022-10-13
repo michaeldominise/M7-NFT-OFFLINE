@@ -1,0 +1,2818 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkillPref CDN1
+  m_EditorClassIdentifier: 
+  m_GroupName: SkillPref CDN1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6e8a7f17dfc9f124db7977d0370caf6e
+  m_SerializeEntries:
+  - m_GUID: ab641b1b1a48ce7468f3c844765d83e8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dark_Boost_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f247cb81b2261041a9444b978cf9724
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cyber_Restoration_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ab8945b621e9274bb0c4839ce005f58
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cyber_Restoration_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 873349ac226dc074ebcbf01c45b02a7b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cyber_Restoration_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d2d6eb2c12b6d468c41f08212409d9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cyber_Restoration_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2378d5c53571f01449c4ab605a85634e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Pillar_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b9b5ba9fb2c85840a361bc4852c2247
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Pillar_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c1649bb169ed2b4b9d1fbd756ad7904
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Pillar_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eb843a88ec96a849b2e2455e07a49de
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Pillar_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4163bdd6c0bc4e94ca702da90a7c2030
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fire_Vortex_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06ef0ce5afa201f4997bff5813d99781
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dark_Boost_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6913868a1c542b24ba9235213630de05
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fire_Vortex_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c26b3ee2c90cbd64ea2913d481080957
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fire_Vortex_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 735df19d6dd00f146858cb07dc17f5f2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fire_Vortex_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef3290ef2508ea479c24a040ac4b925
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Frenzy_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9d698cddb8019c4d9cba677b252ddaf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Frenzy_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3ff49d3a57194246aa71478465f1c87
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Frenzy_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6cd612687443c042ae1004bc9890593
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Frenzy_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbad65377547fa542ade86a682d60e8c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Front_Slash_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d7732ec32d18844ba82f48e05ef2721
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Front_Slash_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3225cfabf5666f745b8ed5cd11f51ee1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Front_Slash_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 947dac29963e6664f84174f9b3161121
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Front_Slash_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ef85ac340006e409f35758e086d048
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fury_Strikes_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f5977734a4d9844d8123895e8b2c8f5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fury_Strikes_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 410ba35e981b71747ba06f0bd2ac3f63
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fury_Strikes_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf9ec7a5114375a4494518815bb56e81
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Fury_Strikes_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6689a48c4b3304c4caf1d598bd4530e9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Gentle_Rain_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f14d067dc8711a74099a26686d703339
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Gentle_Rain_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 210daf2f096fad248ab6b473cc8b4295
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Gentle_Rain_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6144ab43ae5682146893bf4ff07f3b2e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Gentle_Rain_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56b9e4ac0c41c8541bfa7aaf1668eec1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Graviton_Swing_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f90a02a6e2e1b84b974808b5361492f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Graviton_Swing_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30a3f208b69132f4dae65e609415adfd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Graviton_Swing_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e41dd57a00466264d9fab069111981fe
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Graviton_Swing_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5422695e3cabee849935f8b96c68c051
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Hardware_Analysis_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01f83a64394166f4aa55b28932354c42
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Hardware_Analysis_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f7fd0a4cee9cec4e9e25f3f4d9a85f3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Hardware_Analysis_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf8687d6c38c8f64ba4f13bd7513a5d8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Hardware_Analysis_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44b1d642b8706504ca96637ce171e285
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Jetspeed_Cuts_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a6cbf4ca9ec90645bb02af5ee820113
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Jetspeed_Cuts_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63503dec22b6a0944817699838729bd7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Jetspeed_Cuts_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2989801fb8975f4fb2530fd92896d18
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Jetspeed_Cuts_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 988da50c31467ef41bac3274f3063153
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Maid's_Assistance_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1efcc450556b2914b804bebb1f191ab5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a257d0a1ca4ff440b9b1058743445bf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_HealV2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc47eb9432dcdb948ba08a2506860f2c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_ImpactEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caa48af45e1412a41bcc30daf9a981c2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cross_Wave_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 101f816b3e226544d86d899d69fc4593
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cross_Wave_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb27c8ec37241634d8b7516bcefab0e2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_Light_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285d16a0fddba5849b41c2135367d7c8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_Light_Cast
+      .prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0d8160d5fb2d6d4a891f4f0214c7cb2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_MeleeRangedAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d5cb2a1ff818c7459183be7478f6552
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_MeleeRangedCrit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e89e3eadcb5b37b4c866835cf0ebb6b8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Maid's_Assistance_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa54c0b896398dc4d8e12b35209ca8ec
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Maid's_Assistance_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 587d8090d677e1149a4b72da2c1685df
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Maid's_Assistance_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a867c2c4568f3146938ee57438aa31d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mechanical_Grudge_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec7fe27aa6b96784fa3e0e64dd2ab355
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mechanical_Grudge_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 487a316796b84f54a88917a58b8de492
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mechanical_Grudge_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eec6ee7928d26924894bc788e8fa5037
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Nova_Blaster_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e6d18712a2dd9b42a14d6ef2b477254
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mending_Aurora_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 735f7d2a68acbfa4c880c51688b1aa8d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mending_Aurora_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4cec3e469b0d814e8504bd684d5b88d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mending_Aurora_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555778a63a830504eb6d792fa7624c6e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mending_Aurora_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab8b755fde6942b4596334be1feed5d2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/ReferenceSkillObject.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e534d20038132d49a970bd3704a85f1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Temporary_Weld_(Lv3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 532bed07de80b724d9fb9c64a337724f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rock_Idol's_Chant_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 558e1af4d6b56da4fbef64f76b3a0ea7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dark_Boost_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c06ea9ddbb53b3b4593b3a72674b7f55
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dark_Boost_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b976ff822da5aac45b9b8e11cb9568c2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d311c435a825f44aba0de85db05253b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d7f1feb66c097045841a0a3b5bda43f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dissonant_Envy_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d4da8934b59ad440aa160384fb800e0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dissonant_Envy_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 064bd0c58ccdf124dba938fec77bbcbd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dissonant_Envy_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48a44c845e1c5f34b8db8c37b21d8ef0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Signature_Mix_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8514b74f18ae114c89bf6c4f80c55ff
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Signature_Mix_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95394bc35699ed34e92f41e16910da66
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Provoke_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f1fb849f1a3ab458e27e6848ab2db0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Provoke_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97e26e1a55ff1904cb78ac07d35e937e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Provoke_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebd4ae025bf99e94dbe4540b9bb59b2e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rose_Bloom_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22335b4bb57662243b735096b5b8fa8c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Dissonant_Envy_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76920d3c0949ea6439e56513b222f7a2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Cover_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d93f84cf23286f478c0fd922267d0e8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Cover_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 074c5b973680cb345beb78a1e492ea44
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Amethyst_Barrier_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51527ded17ec18745be91cdaf0e399b4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Amethyst_Barrier_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18fbdea1f0d269e479c6934bf949df1e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Sapping_Roots_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16f0c93aee5e1f4bb135d472a00cf4f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Temporary_Weld_(Lv1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d674e4472f8d7e04f80f5622dadbffe2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Supernova.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc6dcdf964466e4eb90e4510d661031
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Signature_Mix_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1b30b6ab90e279449ab061a6c7e638c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Temporary_Weld_(Lv2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3949ba8dfdf1644a8b9dfb6a794ae67
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Reign_of_Valor_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35a5db00c41e3e94b8251ef31f49e6c1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rock_Idol's_Chant_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0780a7e0c73290f48b68e2835e193ba5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickBoosterShuffle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15cb8cecdfafc2d4faed3e33e0ef67ac
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rose_Bloom_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb20f362d1732e342bbef34b114b8a0e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Nova_Blaster_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa3c9709899dddc41942797ace299054
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rock_Idol's_Chant_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ce671bbd75698643b309a9a60fb15bf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Provoke_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8895b039b89f2e84d85f835f4a8330c8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Nova_Blaster_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c603690689bdef42837ef26df888006
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Sapping_Roots_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dfa8a8b6eb02cf438203f9d42f6e91e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Resurrection.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d5c98c70d4ef684cb1d1bddce02bda4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Signature_Mix_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15f8642b3ac72994eadb3738aecaa0e7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Sapping_Roots_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f8147c4b0649204a815bbfcd25a4e63
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rose_Bloom_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6858a7d05c0cdb44aa09a430e320e61e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Reign_of_Valor_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60edae18c9da71240834aa1eec3746f9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Telekinetic_Barrier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b4a74a0ce8afb04586e8512e8555a8d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Temporary_Weld_(Lv4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f7873dcfa8d5514d9856418a1e83eb2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rose_Bloom_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0398aee12c3cdf449cf5f6bd9f731e6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Nova_Blaster_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88631a22ce84abe43b70ea81f22375c6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Reign_of_Valor_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dca0c4ba955ace844a83ffc2dc2d581b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Sapping_Roots_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 845d2e493d5ac6e4ba0d4f12eb86ceab
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Rock_Idol's_Chant_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e256bfcc1faa51b4bbc266fa28782634
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Reign_of_Valor_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 142cb5d71d25eda45b8cd51693d85f7b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateRocketVertical.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0131e71d7398e742a7b8d75d646a747
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Mechanical_Grudge_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acb0fa2adae4ac443a6bb69e1dd9c15f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Overdrives/SkillObject_Hale_OD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9693469147c8c2343b8c3f6ba6581bc2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Overdrives/SkillObject_Ellie_OD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d66502a36052fe44a89fc7be33729fe
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Naomi/SkillObject_NaomiSkillLegendary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 193062f882945354bbf69b32d4f1b022
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Naomi/SkillObject_NaomiSkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4502f7c76cea68f44b02ce1ff2f86c26
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Naomi/SkillObject_NaomiAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5140c43f71af35c4ea6b6fcf1d1fc02c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Overdrives/SkillObject_Lexy_OD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 634b31b9b64b04b4883945cc6e818b65
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lily/SkillObject_LilySkillLegendary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e149a97ea1e82a4d98c51a35a7389b0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lily/SkillObject_LilySkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ca0cafff94e79488df7043834ba656
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lily/SkillObject_LilyAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77b91b6535135ef4097df68a57bb0e14
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lexy/SkillObject_LexySkillLegendary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10cd6b2b27e1d954a9bc11264c7d4b1e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SkillObject_Earth_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72fcc31b44fb2ed4ebda1e4d75b9f6a4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lexy/SkillObject_LexySkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2a5f9a4792162b42b894b83930cea8a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Lexy/SkillObject_LexyAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04c219e2cfb88ea45b34ec1fce5c3b46
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Hale/SkillObject_HaleSkillLegendary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ead23aaad9c765d4c93e00b79c4af149
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Hale/SkillObject_HaleSkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c88625a5c785804e859ef824aeb5b47
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Overdrives/SkillObject_Naomi_OD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f592d4553b7dd4d4eb39ea1ee49ca95f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Hale/SkillObject_HaleAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da9640766a50cf43a643e333e23671f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Ellie/SkillObject_EllieSkillLegendary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6547816e1cb2d274f80a851f498c9bc6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Ellie/SkillObject_EllieSkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c768821ad2de148a7019b9b2e89f41
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Ellie/SkillObject_EllieAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a4dd107c07c50b47adba697e93eb844
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/Overdrives/SkillObject_Lily_OD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f35d52b24e033844fa3779bd8f29ea90
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Violent_Thorn_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f3731efaee69314d807dc9f6258ca4a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Violent_Thorn_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10aec61e549975844986cb360f7ad621
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Amethyst_Barrier_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d09836446e35cf44a61d8d6296b4a25
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Annihilate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cba2905db990ec4cbf5efcd1a685a55
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Violent_Thorn_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36583d0b98ea5c640938c5a5b7449175
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Violent_Thorn_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45ae45d17e4e8404a838116ba154ac92
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Azure_Blur_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08281ecaae7f4cb4eac1334463c6bd84
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Azure_Blur_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3db4f01181a30e548ba3a3adc68fe37c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cross_Wave_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a77f7d9a1ec8d9547876b333550a1238
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Cross_Wave_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce13b19b594fd3a41a632db0733fef2a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c5d5d23ebb7a74e8c9dad491da9e08
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Destiny_Shaper_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30c22d87344b4dc488009192e4be1f7c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97ac9f4a114e90e47b5638893546b598
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 651500cb7f9109c42af144cc2ec3e472
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Destiny_Shaper_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 245c89cac48f7974ab890ba1af9ae82e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbc44b6dccf0f17418925ba110748e4a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f994fe7c54fe9b14c8f9880c11f62ac7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Disintegration.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e031a7cdb57a18047a44c3b84cba2a4b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a866c4f03219564a9cd1f47e090fdf8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4772e5f14704d5f439a27a7d836f95dd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Destiny_Shaper_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b1f05ac581121c44bc6e6c59568933a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 127aee571b74d864b8b3517ad566bad6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Scallywag/SkillObject_Mech_Scallywag_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66458deb78328244fb117353e97190c5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Destiny_Shaper_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93970ef981d2b0a4383251e37aa6a75f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69fe4898ac0012e419f2ac1b1b8eb5de
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Amethyst_Barrier_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c0fd55cc28d07d4887c74b898afac1f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_Earth_Cast.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 344436687f198ce40870bb33534db224
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Tri_Starblade_(Lv_4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a18aa8091e5f331418af1bc572e9da57
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Tri_Starblade_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db012fb3c2dd25646b8851038f1b6af6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Tri_Starblade_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c4e244c3e564d04488355270298eaf6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Tri_Starblade_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f715de576035295478c4874013c77392
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateRocketHorizontal_EndGame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c331f2f2dd7814ebe39a77660ad378
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Azure_Blur_(Lv_1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62b8d123f614b1942822efe6e1da4380
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Azure_Blur_(Lv_2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abc4b2676e9911a479c116a2915736db
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_Test_3_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be1adb5de2d9c784e89413c8a9faf38a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad2e2eeab7ff27841973e335f2589ae5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 251f9733c7fa2dd4f848dd03729281d1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5f55b4581dab534d90ed8d2e0f3cb84
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9f490bc2e9fd4147a83c2c133041fe0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 148b0c7d1b0b1b744911b9cfb1bb0371
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be7c85ae0ea60bf458e2453f8c19aaca
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Cyclone_StormBot/SkillObject_Cyclone_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ec155fe851739d43ab472aa8e270949
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6b1e68e93c2fca4689120d972d14c16
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a8f0ad1678f9f44a74bde3b8c2f6de
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2781663b54d0e0e44ad9ce01309cbdc3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Harpooner/SkillObject_Mech_Harpooner_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 331f04ba9ba049146bbaad4220c69064
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b19d3530e9907244d88de870d5c0e3ac
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40cb775bcb754b344a1550e307967dc8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_Test_2_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41f23f5ce81bd284bbcd45b106f15b8e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_CharacterBasicAttackRange_Enemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 729e4f41ff769e842ae83a7aff0478d9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1c299e7dc6703048a32b14be34ced40
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bfc82e8e3854ef4bb810ecf304bebea
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05c114e4dac5bf84a900679f854564f0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de5ba5281cea6a140a9313c80a3926d7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c5f658a1a629c4fb0497c93e43fb17
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Dessert_Mechanic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2112d71c6cc3ffd4dac219692f329ab3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 423af836cadfc9f4293e148806bb96b4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4e379a798a9148468211d06542df240
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Smasher_StormBot/SkillObject_Smasher_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 362c05d417404734faeebc010cd3c2e0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c302ad4400aa1644905c585ae6ecb41
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c1a3fc5376fb2e409875874fe6dfc3e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Enforcer_StormBot/SkillObject_Enforcer_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4d8429e949480046b327ef8291afae4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6c053bd85373a34d89440a1422e85a0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2f202c6a6bdde14688b38b8dd90eb88
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed54d6e9d418ae4b8c922db08bd5158
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Incinerator_StormBot/SkillObject_Incinerator_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d09c00a00b416c74b82bc7f39b5f0a73
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71597094a668a2d48a6908d595def188
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41dc2775991671d47bf18f5c52b8412b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39fe7dfabf3d7564ab4b27ff130f03a8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Smasher_StormBot/SkillObject_Smasher_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42c82124911b75848a205fb96f1cea95
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1a7b18e2e3d07e42a28c76f7fb3f0dd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e49c2f08e80845143a02bf6966f2d16c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_MegaArtilleryAtackAll.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 934cbe399ab944540aa41d75de23400e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b86e0b9dd79222d498427cbe4ff0930e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 912a98c2f0ede1c49a1965f26e1b6efb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e0eeb16e2c542f4f8ab15e35cf3209d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5220ee0cc5009d46884928df49dabef
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ca5a56e101c59c4a9f3532d7ea96819
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Frost_ThrasherBot/SkillObject_Frost_ThrasherBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 214813e66d3e77f41813143d5240eb7f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c7e9e9acc64e5841b8ece3220ce260f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3efb13ff3c073545ba7d59d3bd64ecf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 231b64972526f2a4eba488b5c908c8c6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 579a7fcfebc51514c9e32d0499740ed4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da2a40665bca1d44abf891111cb3558e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 722c29703b75aa44894e4aeddbd9bf5f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7298fb5b19df024e808c9da37372f0d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Seadog/SkillObject_Mech_Seadog_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03125d5b735a80c46a3f4e8dac91ad1a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1007a34be37d1349b2e67723b1326cb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c2abe69b1ab7a34294264f5a30c23f2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36972f3fbfac5c4479fa6af0360bd8c0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/BasicAttack/SkillObject_CharacterBasicAttackMelee.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7e4a34fd995fc4d9e47ecdc2a7a07c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/BasicAttack/SkillObject_CharacterBasicAttackRange
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c7ff56493984eaca467e3c072a247d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/BasicAttack/SkillObject_CharacterBasicAttackRange.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e49d1a6dfdc09204c99eb3a52cba8e4e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/BasicAttack/SkillObject_CharacterSkillAttack
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1140c39f65ad716438c3736447d33698
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70dc870633cace34eae2cb0706ace30d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2674e8f1ab1841219c1d4646a9047b1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_EndGameFX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eab3bffb9e7a047a6bc54900c5b4f5df
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_ExecuteOnSpawn_GenerateRocketHorizontal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaff8385eced7e041a9db826fd2f76f0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateAngelAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f9d796233f54c4cb89074ebe22d8bf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateBomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e1fe18231176694b813d4a0c9635698
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateExplosionBlue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee06c6b4a490382498dd7b4cb9f6ff58
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateExplosionGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0aa3f5f5a6d2164aacad29d0a2127e9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateExplosionPurple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec701e118f9422b46b24ab540d2fe9ca
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateExplosionRed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee3e95f33b28269488dc3db7defdd096
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillObject_HealTest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316c6ca892116be4c908fadcd3aa0d98
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/TestRevive.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89ed43178ed031c499a63644e1d44d53
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Vibrant
+      Taste.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9af44ba1bf80c464e9ed276bc0dc5692
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Twinkle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29306184366e564d9e6c8308f4562fe
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Tear
+      Fragment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5eedbb2073915e43aafbd3084fe91bd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Talaria.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cd5c969494f9c4409912f21f2772748
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Storm
+      Surge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 847fb79b85d7e694b9d286571c907643
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Steelhammer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3da2d210cf6df244b13deb3df873c96
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Swift
+      Darkness.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c21fa411c6570a84db35bc38ac6443be
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Sugar
+      Party.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3b55ca3908b8344d85b1e2ead17d231
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Rousing
+      Notes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a04f66089a763c649b2665f1b98045f9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Rock
+      Solid.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdc0b9a21869a2d47bc9c68e2280073c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Roaring
+      Quack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6fea57603573af4688adbd23a484d5e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Quick
+      Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 383e368b85d75314b856395e9ef09a0d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Prism
+      Cover.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e98e3178d90c2a04584d566ab65ebf99
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Photon
+      Blast.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 682a7d0c3fdcdf24eb9d33cdf0c17fd3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Palliate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d396a5b87f2f93840a99c66dedd5ffdb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Mending
+      Aurora.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a953ee7e29c6d740b605fe96f3fe08d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateExplosionYellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e841d7f765b3c8f4483e43989c6b1e77
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateOmni.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e44a6cc489293524d923569bb4515636
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GeneratePrismBlue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0da4d3e8a7240444a80657e4476b2a6a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GeneratePrismGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a36b193857a0184fae316e652fbb5c3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Marionette
+      Hug.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49be3078839e8b14c8b8dcae4bae3175
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Low
+      Grab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d545c8332c5ef9c40ae3d661cf939076
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Life
+      Drain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b24d9f664545b3b48a4180fceacb1796
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Lethal
+      Iron.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c081b5f0b7c9744ab22af7332014162
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Growing
+      Power.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab8a4c45be2ebaa44aab26411131bfca
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Glove
+      Slap.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd8ee0c67bb627c4391728c0b3ca8243
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Fuzzy
+      Pounce.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd29f311c23e18f44a5ef3df50f15f63
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Focus
+      Specs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41ac3768cbc0d4c42a56754876bfc034
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Flock
+      Leader.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebce09509a6db0f4c99038b0d71feab9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Flame
+      Barrier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e704971a7fd38234389feeff2e2db573
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Feline
+      Jump.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3a611b405a8dcb40b20f3c614502c3a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Demolish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4e0c5b78c6696458ed28ff09ac8dff
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Dazing
+      Mirage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e95f3d728502c84cb6fe17f196d054f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Dark
+      Blade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 832b5ef4d1461204181f10c60c890a2e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Cursed
+      Crown.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab5f362ac0008a14e8eb1f232ee8bfe0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Comet
+      Dive.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b51df1d2d139a4888b21805c83446a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateRocketHorizontal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59c091cdf1d90bc4ab3e455d7006702a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateRedTileTest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 680d47b607c39004db92c57d42e7ade9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GeneratePrismYellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14fc153298fbd0747a3aac221add93db
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SkillObject_Water_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bf4ef278197af9458ab79412a9a404f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_RifleRangedAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d563a356a2c7714b8e4935c771a497f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_MeleeRangedShorterHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9cf76ecb7b886842a73360e2f7768a9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_MeleeRangedShorterCrit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20037d4954045664cb1d1a79372bd4f4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Aqua
+      Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d999c118a6ba1d1408eb682090e3600e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Agile
+      Paws.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96cf83f2c21aa4d4db2e691ff2421382
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/SkillObject_Adept
+      Footwork.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cba8e1d07161bb94488980434e3da134
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/HeroSkills/SkillCollections/_SKillObject_Water_Cast.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d0eeca592f5424489640f08d585b28d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GeneratePrismPurple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99ff8be04971e97488b43259d23742a1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GeneratePrismRed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0de3f2ef15683894c9281f4d5ff036f0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9658724ea1538bf468dc8afa08290bf3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37cbb21a205efab4aadbd3c4405783ee
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4e2c5fb1b12cb842963b178644937d6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc239ad451415ed47985037063f250a3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f278f3373042347ac4d5cb399f5e34
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Buccaneer/SkillObject_Mech_Buccaneer_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5002a30d2b4f6544909c3d20ad98bf2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8e5fa9d157a75f47ac9ad75d69b0fd8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboBomb+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9b7889f2464627429ed1259627022fd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b150e6c0b193e7f468fa4c22bb6034a3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09de701e5ba937a4a9de906da711e060
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismBlue+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd90f9fd4317da941b59256d49097cf1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismGreen+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 646541068ab514cc486d1971aae1d86c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickBoosterLaserSword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39123d3c6b4efa14eb4d4bafd68d3dfe
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrism+Prism.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cafc38dce8fb8d40b1e313c37780c47
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismPurple+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d179a3ec4d60a104f8166f3b250a86f4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismBlue+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac118196995956748a47c95bc402c9eb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickBoosterLaserGun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2073666abc01194ca7c3e42137f08b4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboRocket+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88e824022c7658d48b15bdb4b691e3ba
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismYellow+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3119d93595439594cac9e8b7ec7b5c14
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickPrismBlue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64731d25a361567469bf1eeee034ab1e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboRocket+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b781ac6787b914a48a18101d1de859d8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_AddSkillPoints.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60777b19305a37143a3994e08b1d104a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismRed+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b197217989e54f089d683ecaba6be7e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickRocketHorizontal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f9e8f9a448c291449ad6d8062862cd9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismRed+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31926c0d9889dc3419247485ea0a3e0b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickPrismYellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 280981ae047139749b98e1445cd9cd27
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickRocketVertical.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6c371411cee7874383252f4431278f9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismYellow+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba2c6ae937293f94fbbc336068126963
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickPrismPurple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1fb14b928922be4aa7cffc5e3a27a47
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickPrismRed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04c1c34dcdc56924f84fc23a21024923
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickPrismGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0144bf910ffa8a94282c6a66b96087a4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_AttackAllTest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae81d03e22dbdbe4e8558f014fa592f6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_DecreaseAttackTurn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01d18d1eaf146b14097251e100bc47e0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_AttackRange.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083316d8669a5a94b937a29b63e75253
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_AttackMelee.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb0008bc90fd5d2458a7489544357841
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_AddSkillPoints_Custom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d91389903f608224696f33bf1f5a4177
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_ResetInitialSkillPoints.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d7ae7d03d524664f8e571618e1ac6fd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickAngelAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed88f8382290a364b832a096e531b8eb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_ResetInitialSkillPoints_Custom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 997eb1c98884fcf49890a0b01e41f0ac
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_GenerateRocketVertical_EndGame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0d4a6170f32a304e83015c999f822c9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismPurple+Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d962526a34ceab64c8dd38e3c837951a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickComboPrismGreen+Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 113a1bb959c565b4796bab718e7ea7e0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_ResetCharacterDefense.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2b32e68572473a40a71fc91ef1b465e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Default/SkillObject_Defense.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87df45e1b18ac0946bd61993ffbdcf2e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickBoosterHammer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ffe3286769a2fd4894b34559e17fc4f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClickBomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 001841452d750483b8f21dd33be94b34
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/CubeSkills/SkillObject_OnClick.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba3016dbbf96c84f9bb4542ec020508
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e804e0c908c53814284b1ebab8b6abe9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e3030df76b4bd9418922c7563cd8514
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2d56adb1b85bd94b9f73c4f95a942df
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackRange_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a492aea77a2fe041a00262e182e08bc
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c12ce49631a08a4e829e1730f2d3425
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9d96f61d23d89a47b73258b3c5b8c86
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de9e02fd8dc407e4ebd4fadb304d7a23
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_Test_5_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ded5b492acd0c5428edd1c4386639d5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Frost/SkillObject_QuadruBot_Frost_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42200204bcb375a45b9689cc8bb75a79
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Scallywag/SkillObject_Mech_Scallywag_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d017686ccc6c1104ea9b29f1d900ff75
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db3377ad8cf74184ebca493d75ea86a2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b67ea22867c758c46b2449032d11581d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 901b4592b14bd9848a426e4538018472
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3099519b59754d947b86cb1f79022dd1
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a57af3257db52d54db52c406b4c447c6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AquaMantisBot/SkillObject_AquaMantisBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d219272213f82604b80b917e81973cd3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a837a09672d18244acc9f57ab07d52b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665f941307110724ea3bb1d2ecf08a3a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_CentiBot/SkillObject_CentiBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a02b74e6eeb1d242b19fc2af6bfad9e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74e70c347764b7043817d7926b5f35b8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45046ba14b7c905489bc1f44b020790e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b139bd5451f68c4085ec7f47145091d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f8760190e667e4887c39443547e956
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5cab4e4b9b3e744c80ae73e97fb3067
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eebc86d47289864fa928a8b0ef55d9e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c723be18d269324b8f53442f37e0e8f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Frost/SkillObject_QuadruBot_Frost_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76e71e563b2e9174cb127900afb53c1c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7711fc5fe8285e644a5f13d6f6b4dddc
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c23ea9c3db30bea4590791c3761a6446
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb4175567acfdd8478b3e9d428ae9d43
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AquaMantisBot/SkillObject_AquaMantisBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 830033c3524f3b94aa754232742040b7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22cf6cf0337f531449f0dbb244d57704
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Cyclone_StormBot/SkillObject_Cyclone_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c8fbe224d9158499cfd11a5bd626fa
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Cowboy/SkillObject_InfantryBot_Cowboy_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60d4b6021ef5af64cafba60493d786c5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1f72a5be83039c4bb268ec80e11f1fe
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Incinerator_StormBot/SkillObject_Incinerator_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5b9103e04e05804db5dc86853e30f68
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70d56a80f5cda9e44b79819081b3c4b9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0158642e35789ae48b73bb46042db203
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2be21ca1625b0bc41bc499740c8704ee
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d41074c9467583e4bb4ecb5212a85367
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_BlackMaw/SkillObject_BlackMaw_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc253d9601bdb9d43ab54bc7f419acec
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01be3b427bd95cc4188251b320c65dc0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackRange_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c22dba68cdd208428b841daa315cb13
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61de6c9c068555546bab6b42daf79eef
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ae009ae33f399143b6870596f9d6ae2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50f5ca9b396c69946bf0b28e4f6b0fb3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70b9cdd929df3a14585ffc3fc67954df
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeb0c93b2fffb6a4abc5be8719b0b4c5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f448f81759719da4a8b7a5ece9365ad7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit_Hardened/SkillObject_MechBandit_Hardened_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45eea7c5019286844ab55baccc18e9ba
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0adf3ebef10711647b4591181235aaa8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5d90096513113147a9b8451b8115686
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8eda655293a8c04e8c7cc90cd3768ee
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkII/SkillObject_AeroDrone_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d35bc72c6d2a2740b9ef0a8a184538c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Enforcer_StormBot/SkillObject_Enforcer_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4719c55f5e6a8e2439e61f96bb0758b8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 153ec695b9556a440a689d5c3f5630ac
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c45badb9b55e1fa42a23c6e2e2562ecf
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_ArtilleryBot_MkII/SkillObject_ArtilleryBot_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 998e88e856ac3734fbcafe8a70cc38cd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a445afb3d76dc04f92aa1f58cab3339
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkII/SkillObject_InfantryBot_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7b0082cf31dde478033dadc48549fd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cb3f159397e19c4fac7f5ad11fd437f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Buccaneer/SkillObject_Mech_Buccaneer_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c834a9ca872eb6e49889bd97ac3d6bae
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37db5fca0627de249bea9f5817b64ff9
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3466d27511fceef44adc19f8160afae8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89728250531fd7447921ad3e85d9eab4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5a8f869fa12251469bb1fa7280b187b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54733ab6273b11c409ccd1331185c349
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ba2a46940e578243a9a3b8867983cb6
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed13df1773d439459f310d9b700bfae
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5d4c00fc65c25a48afde9f27c372798
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Frost_ThrasherBot/SkillObject_Frost_ThrasherBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e14e62ce54ecb64f9a1a449239a8235
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e4ba6bce575b934ea01a0a77faaa4b4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Skill_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eefffb3263f95643b2532a32564f5ba
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c409e0ceec59e9c4499cebbcba05c3c4
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_MechBandit/SkillObject_MechBandit_Skill_Dessert_Fighter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 300245368fbc9ec40a3456114f229389
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f65cc9f77af13094dacdb55150c18724
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mega_ArtilleryBot/SkillObject_Mega_ArtilleryBot_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca2181a6eb812254cba8471c987feae7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_CentiBot/SkillObject_CentiBot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3538618d726edc4687b773a9b937d70
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_GrizzClaw/SkillObject_GrizzClaw_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ee59fb0184c62740831bd38fb1551f8
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2327214ff122541ad313056fbc6537
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_Test_4_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a1e082d495b87d4284b436c6ac46c6d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Harpooner/SkillObject_Mech_Harpooner_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83aa5aed510a896439d6095bc48f8d8a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b3c6ba407cda8a4a85977e9b0875fe5
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Thrasher_StormBot/SkillObject_Thrasher_StormBot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a37a9b98cd1d9443b2ef90dc80abf92
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Mech_Seadog/SkillObject_Mech_Seadog_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc1d22dae3d4d094bbc7e6ae49928d41
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03063dc97b98fa2498eea76502b0bf92
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Demolisher_MkII/SkillObject_QuadruBot_Demolisher_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8f2ec287a6904f4db487fe2860470ba
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_BlackMaw/SkillObject_BlackMaw_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aec9d78436294e4b8d2c0126f37a726
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_AeroDrone_MkI/SkillObject_AeroDrone_MkI_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94e5706eff90eb04f8c3945b0471bc40
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_SentryBot/SkillObject_SentryBot_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 112460c52b3a6a5449f9dc54ca152922
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0d0d80a800fa6f43b10f7fa1138c868
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24285f8c83b7ac240960c4424696d5cb
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkI/SkillObject_StingDrone_MkI_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b2b61cf1683f0b4d87278c8ee568c0f
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Hammerhead_StormBot/SkillObject_Hammerhead_StormBot_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 375ee9b6c3fdb0042be95f22ce906cbd
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bea50a3cdfd46542a8afa5929812a87
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkII/SkillObject_QuadruBot_MkII_Skill_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98359d53e38b6ad4481e4696d1918520
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Bandit/SkillObject_InfantryBot_Bandit_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5df6f47960b999444bfd67c20f92183a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Ava/SkillObject_Ava_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9755c4af9b1c3c240b76a252e9e5cb72
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Ava/SkillObject_Ava_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0948dc6ddc83cb4c9b352f9eb2ebee0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Lyana/SkillObject_Lyana_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d008df5e70b91db4da58f31284f89809
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Roana/SkillObject_Roana_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5254d31b2478b694dbc10cc1d65f7493
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Chameleon/SkillObject_Chameleon_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c810d207f55beef479335d455d4c7c2a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Riot/SkillObject_Riot_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 897dabad8f48b0b47af6fd526552237d
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Roana/SkillObject_Roana_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9cb172e7005d114982a70ee66c2afc0
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Riot/SkillObject_Riot_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9887e7c2c4dc714085959c7b4cc7888
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Nubia/SkillObject_Nubia_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ad5cf496448e674ea22b9bff20e0de2
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Chameleon/SkillObject_Chameleon_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c7c8418f5656a043bf7912209e596f7
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Nubia/SkillObject_Nubia_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eda7b1eb17e180f469423e721d74ae22
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Lyana/SkillObject_Lyana_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e25113c11b19bd45a3db20980a54555
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Sasha/SkillObject_Sasha_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ed745b0397fd314b81b2fe7d0d1a046
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Villians/Sasha/SkillObject_Sasha_Attack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fdcf752bd6734e42ae4edc688cff698
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkI/SkillObject_Corrupted_GuardBot_MkI_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f9a746760bd0024c9dde7812a6d5a81
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_StingDrone_MkII/SkillObject_StingDrone_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f2296f8b3a35314d8f89d0daa067402
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f754ff4bde831542b0ab0dbc2d7868a
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fff68d723887f94192ade92a9e2f926
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Viking/SkillObject_InfantryBot_Viking_Skill_Earth.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ffae1b9365655848b92862a4bbb91d3
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_MkI/SkillObject_InfantryBot_MkI_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f0d497f5bcf519419a6356cc9028334
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Gunner/SkillObject_InfantryBot_Gunner_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf8dc505e5d59c1479c69cdec346c244
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_InfantryBot_Pirate/SkillObject_InfantryBot_Pirate_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfdd744dbf891a2468923f128060f691
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_Destroyer_MkII/SkillObject_QuadruBot_Destroyer_MkII_Skill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df464b45b5cee57438b91fa8c83e7d8e
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_Corrupted_GuardBot_MkII/SkillObject_Corrupted_GuardBot_MkII_Skill_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfb668acbd7359940bcd264d4c0fcb44
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Old/SkillObject_AttackMelee_Test_1_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efd321c1be68c2c4da86d274da02560b
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/EnemySkills/Enemy_QuadruBot_MkI/SkillObject_QuadruBot_MkI_Skill_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4dad18325e40524b98a4469e301ad1c
+    m_Address: Assets/M7/Skills/Prefab/Skills/Skills/Heroes/Skill_Energy_Cover_(Lv_3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CDN1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 74dc65f66a5c9c74b9ca763531b8e432, type: 2}
+    - {fileID: 11400000, guid: 2f641efd48f529b438003de8e40b9c85, type: 2}

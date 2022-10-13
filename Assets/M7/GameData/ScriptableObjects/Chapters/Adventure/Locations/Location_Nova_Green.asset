@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Nova_Green
+  m_EditorClassIdentifier: 
+  index: 7
+  displayName: Nova Green
+  bannerAssetReference:
+    m_AssetGUID: 72ac4fdcbd2cc3d4f8614189bf9963f1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: f36d64cd965f85f4cb79d77223cbab73, type: 2}
+  - {fileID: 11400000, guid: e112abac572e5db40b7398694621bc9b, type: 2}
+  - {fileID: 11400000, guid: ad78f91d39a9c3e41a28e7bda2a60117, type: 2}
+  - {fileID: 11400000, guid: d86b129104860da429b19faef9fca4ed, type: 2}
+  - {fileID: 11400000, guid: e8f4304d4c3f98a4cb50f244602abee7, type: 2}
+  - {fileID: 11400000, guid: 0d1132f08a747b343a74c932c3c50da5, type: 2}
+  - {fileID: 11400000, guid: b1b806d8a0e8d10418785f3df646b7f1, type: 2}
+  - {fileID: 11400000, guid: 911cdfb7eac77174ebf08898e4c735bd, type: 2}
+  - {fileID: 11400000, guid: c8bcc94a0fe26b44699e17575421c277, type: 2}
+  - {fileID: 11400000, guid: 3046a8f84acdd374ba2fa900d0e45f54, type: 2}
+  - {fileID: 11400000, guid: d6817f7c4b7752447ade348dbfc1b66b, type: 2}
+  - {fileID: 11400000, guid: 94858e67e322f1a4981be048deeda239, type: 2}
+  - {fileID: 11400000, guid: cfeedf071e6efa74086bf9cac4d346cc, type: 2}
+  - {fileID: 11400000, guid: 1e4fdc019b4bc074899e4f1afe3b8611, type: 2}
+  - {fileID: 11400000, guid: b20958afc7ecb3f4bad5aedd5e279278, type: 2}
+  - {fileID: 11400000, guid: 6a6c5792022d1a64c910f86f63a6f160, type: 2}
+  - {fileID: 11400000, guid: 616c5c4cd15b1c941807faf5db7e36ca, type: 2}
+  - {fileID: 11400000, guid: 5c672277dfc2ca6409f10998cc32ba09, type: 2}
+  - {fileID: 11400000, guid: f9a583065128c124283bbc20e18201a7, type: 2}
+  - {fileID: 11400000, guid: ae406c5f3b01c0942b6c2e45fe697d93, type: 2}

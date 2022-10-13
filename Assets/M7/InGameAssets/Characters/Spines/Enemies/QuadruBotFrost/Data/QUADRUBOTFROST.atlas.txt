@@ -1,0 +1,27 @@
+QUADRUBOTFROST.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.25
+BEHIND RIGHT LEG
+bounds:857,62,150,237
+BEHIND RIGHT THIGH
+bounds:880,301,132,113
+BODY
+bounds:572,366,306,170
+FONT LEFT LEG
+bounds:572,107,128,223
+rotate:90
+FRONT ;RIGHT =LEG
+bounds:572,237,127,283
+rotate:90
+FRONT LEFT THIGH
+bounds:880,416,142,120
+FRONT RIGHT THIGH
+bounds:750,2,104,103
+HEAD
+bounds:2,89,568,447
+offsets:0,0,568,565
+LEG BEHIND
+bounds:572,28,77,176
+rotate:90

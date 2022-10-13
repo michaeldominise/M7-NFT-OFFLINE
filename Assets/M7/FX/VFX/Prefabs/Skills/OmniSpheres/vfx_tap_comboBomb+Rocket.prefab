@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7272911232602988176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4844801061856695820}
+  - component: {fileID: 3057812271743819259}
+  m_Layer: 7
+  m_Name: vfx_tap_comboBomb+Rocket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4844801061856695820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7272911232602988176}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2211143646314653870}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3057812271743819259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7272911232602988176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac6a297f1766dc34fb3f239921f1c6e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startVfxTargetData:
+    _targetType: 1
+    _effectDelay: 0
+    _sFX: {fileID: 8300000, guid: ed0824959f9c84d1997919d52ab18c75, type: 3}
+    sfxVolume: 0.13
+    _SFXDelay: 0
+    useSfxName: 1
+    sfxName: SpecialItems - Bomb+Rocket
+    _targetParticle: {fileID: 1359387755954052969}
+  projectileVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _sFX: {fileID: 0}
+    sfxVolume: 0
+    _SFXDelay: 0
+    useSfxName: 0
+    sfxName: 
+    _projectileObject: {fileID: 0}
+    travelDuration: 0
+    playSimultaneously: 1
+    waitAllProjectileToFinish: 0
+    intervalPerProjectile: 0
+  endVfxTargetData:
+    _targetType: 0
+    _effectDelay: 0
+    _sFX: {fileID: 0}
+    sfxVolume: 0
+    _SFXDelay: 0
+    useSfxName: 0
+    sfxName: 
+    _targetParticle: {fileID: 0}
+  onHitExecuteDelay: 1.65
+  onFinishExecuteDelay: 2.65
+  onMoveCounter: 0
+  closingSfxName: 
+  useCameraShake: 0
+  cameraShakeEvent: {fileID: 0}
+  SFXPlayer: {fileID: 0}
+  shakeTimes: 0
+  shakeIntervals: 0
+--- !u!1001 &6205870855948538400
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4844801061856695820}
+    m_Modifications:
+    - target: {fileID: 1625930095, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 488481026425292729, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1426183423285683778, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4405255654851530687, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5834352500230059275, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8189269494152323214, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_Name
+      value: VFX_Rocket+Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 8534719798276619597, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8618346930693899122, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151492589755773006, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+      propertyPath: simulationSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+--- !u!4 &2211143646314653870 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5237723508220459662, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+  m_PrefabInstance: {fileID: 6205870855948538400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &1359387755954052969 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 4954572429921553737, guid: f6f6aab82dc25d045a810e0284594e26, type: 3}
+  m_PrefabInstance: {fileID: 6205870855948538400}
+  m_PrefabAsset: {fileID: 0}

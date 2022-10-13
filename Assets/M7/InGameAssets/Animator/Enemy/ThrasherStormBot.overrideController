@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ThrasherStormBot
+  m_Controller: {fileID: 9100000, guid: decd4c20a1979c749a8a0a08efb81a88, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 9146531902742547347, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -3725546384232828576, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: -5606539013438704022, guid: 5ee1eddc9346fdc4eb4fe77291e6c1ac, type: 2}
+    m_OverrideClip: {fileID: 70433025997344732, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: -3334444367521475222, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -5477018841380595745, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: -3760644281336881268, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 6186433621849934707, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: 2900425966320157111, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: 7742152135908531954, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: 3081813404227013163, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -3725546384232828576, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}
+  - m_OriginalClip: {fileID: 2049409672310465941, guid: 00f776c43a0c6824b847f29a6cf95001, type: 2}
+    m_OverrideClip: {fileID: -3725546384232828576, guid: d3ed25b9cb35d0747b67fe02be235b1e, type: 2}

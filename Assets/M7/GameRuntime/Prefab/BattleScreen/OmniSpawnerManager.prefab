@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7978309147660518871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7611825900686964743}
+  - component: {fileID: 1771942611155696986}
+  m_Layer: 0
+  m_Name: OmniSpawnerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7611825900686964743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7978309147660518871}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1771942611155696986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7978309147660518871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7d52392e5034465c8124e6a7af9223b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPool: {fileID: 0}
+  omniSphereDataList:
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: e841d7f765b3c8f4483e43989c6b1e77, type: 3}
+    valueRange: {x: 5, y: 5}
+    elementType: 63
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: e44a6cc489293524d923569bb4515636, type: 3}
+    valueRange: {x: 6, y: 6}
+    elementType: 4
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: 0da4d3e8a7240444a80657e4476b2a6a, type: 3}
+    valueRange: {x: 6, y: 6}
+    elementType: 8
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: 2d0eeca592f5424489640f08d585b28d, type: 3}
+    valueRange: {x: 6, y: 6}
+    elementType: 16
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: ec701e118f9422b46b24ab540d2fe9ca, type: 3}
+    valueRange: {x: 6, y: 6}
+    elementType: 1
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: 8a953ee7e29c6d740b605fe96f3fe08d, type: 3}
+    valueRange: {x: 6, y: 6}
+    elementType: 2
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1
+  - skillObjectToActivate: {fileID: -8898731616888102752, guid: eaff8385eced7e041a9db826fd2f76f0, type: 3}
+    valueRange: {x: 7, y: 100}
+    elementType: 63
+    spawnCount: 1
+    mainTriggerType: 1
+    subTriggerType: 1

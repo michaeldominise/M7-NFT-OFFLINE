@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ec0263d3462d49b952446fa1aea16, type: 3}
+  m_Name: Location_Novian_Forest
+  m_EditorClassIdentifier: 
+  index: 8
+  displayName: Novian Forest
+  bannerAssetReference:
+    m_AssetGUID: f7c8ee6e70ae38b48939107371892042
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelDataList:
+  - {fileID: 11400000, guid: 72852d305dd644b42b0e6688a0454cbc, type: 2}
+  - {fileID: 11400000, guid: 26b364a7ce62e6d4bbf29cddd8661284, type: 2}
+  - {fileID: 11400000, guid: 62c326cc14397f747be44bf384f92524, type: 2}
+  - {fileID: 11400000, guid: 82a4b48f374a7604bbd686968758638b, type: 2}
+  - {fileID: 11400000, guid: 79f40ccbe2627fe42ab3394740383a4d, type: 2}
+  - {fileID: 11400000, guid: 57ae4dc0e6aec874b8300132d6dc1f5f, type: 2}
+  - {fileID: 11400000, guid: 25b5703df27392845a88cc2920dbc99d, type: 2}
+  - {fileID: 11400000, guid: bbec0a48c1606304cbb245c9b7fbe149, type: 2}
+  - {fileID: 11400000, guid: 50a2066f043163c47ad43951dcce8c60, type: 2}
+  - {fileID: 11400000, guid: 5c424d20e8e5163468367a1cf660eefb, type: 2}
+  - {fileID: 11400000, guid: e754cc4d7414825479e4b0e7ec1bd080, type: 2}
+  - {fileID: 11400000, guid: f30e2cb05e3c8d449b0af9f47dc4d9c6, type: 2}
+  - {fileID: 11400000, guid: e1944877a27ead64ea90999601ff485a, type: 2}
+  - {fileID: 11400000, guid: b91a90562429e0d4282fdf3d4c1ca38d, type: 2}
+  - {fileID: 11400000, guid: 3fddaf737553f814b88e1ea1e886e4a5, type: 2}
+  - {fileID: 11400000, guid: 399bed98e2731d64e89419cd914912f6, type: 2}
+  - {fileID: 11400000, guid: c89c7b9ac76fea94b95a6475ff68b860, type: 2}
+  - {fileID: 11400000, guid: 0a7c197413ed0b043897479dcfc224f6, type: 2}
+  - {fileID: 11400000, guid: 179b6b71b81b8384eb2c54e95784d4f9, type: 2}
+  - {fileID: 11400000, guid: 541feb8a9ac929b429731c524183c776, type: 2}

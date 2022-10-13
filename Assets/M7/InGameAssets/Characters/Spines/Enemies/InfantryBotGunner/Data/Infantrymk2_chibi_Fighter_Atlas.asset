@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Infantrymk2_chibi_Fighter_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: fdc2e4e3bc78aef4bbc95d99cfaaa73d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 2e714192531f588448ed6f8987b2448c, type: 2}
+  - {fileID: 2100000, guid: 0be1038aae02a9548ba9d70fe7a09251, type: 2}
+  - {fileID: 2100000, guid: 0f2ee57afcca31b4bb8a74876946eae6, type: 2}
+  - {fileID: 2100000, guid: 324919da9124e5041883bdd33997734a, type: 2}
+  - {fileID: 2100000, guid: 0c05c529b18e0444c8114960025f8391, type: 2}
+  - {fileID: 2100000, guid: 44f4ea35e1220574fb0e63b67c56d14e, type: 2}
+  - {fileID: 2100000, guid: e903d143e35f4b14d8efe7bbb38e3155, type: 2}
+  - {fileID: 2100000, guid: dc0c57f0e2964294a8d37146e42a4f2b, type: 2}
+  - {fileID: 2100000, guid: 40ed0604db4258b4a991e5796332f1ce, type: 2}
+  - {fileID: 2100000, guid: db4d32fc327955f479596bd894bb2015, type: 2}
+  - {fileID: 2100000, guid: 7037a9fbe7a0db0448b018e80da91ebb, type: 2}
+  - {fileID: 2100000, guid: 174f9f08adee9794c931a9ee09d66489, type: 2}
+  - {fileID: 2100000, guid: b2a9a64981ce64e40b43186c813f86a6, type: 2}
+  - {fileID: 2100000, guid: 6d05fa8834ad0b34eab7799f0e5397c2, type: 2}
+  - {fileID: 2100000, guid: d16a9df8dac62ec4a87aec467e408ea5, type: 2}
+  - {fileID: 2100000, guid: e5b630a363257654b8cbc2954e5ba62d, type: 2}
+  - {fileID: 2100000, guid: 18aa97810a1a4af42bfc95e8882028b2, type: 2}
+  - {fileID: 2100000, guid: 4e5088b3009f05d44903ec34abf6269e, type: 2}
+  - {fileID: 2100000, guid: c0b31418b0daaf24b8945c6c8f481ebe, type: 2}
+  - {fileID: 2100000, guid: aa30c9e00c7855b4b9d1f0e76f2329b0, type: 2}
+  - {fileID: 2100000, guid: 6fa7ca20516a7e749a213c256eef70ec, type: 2}
+  - {fileID: 2100000, guid: 8007f8cc6e77aab49b48c35d2d1652a6, type: 2}

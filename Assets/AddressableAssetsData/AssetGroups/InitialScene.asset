@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: InitialScene
+  m_EditorClassIdentifier: 
+  m_GroupName: InitialScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6c8bdd388ec454a849dd76050f3bd295
+  m_SerializeEntries:
+  - m_GUID: 5a1d69a52abb07f4fa74a370153581a4
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Loading_ActivationCode.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitialScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d1c2c5ab8f350a428104792161aa6b0
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Loading_LoginSignup.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitialScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 601754dfca6253e4996f511d7f4c9bb5
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Loading_LoginWithPassword.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitialScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef3cc9e263a9e4055b4ea19c0bd05702
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_LoadingScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitialScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 307c8e6c3ec9ae945af3f9f8660a61fb
+    m_Address: Assets/M7/GameRuntime/Scenes/M7Puzzle_Loading_SetPassword.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitialScene
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 282611ab52495df48bc4fefbb76bbe3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 16cbbd261d2384567a9c971e3a97f6de, type: 2}
+    - {fileID: 11400000, guid: 8090496c06f3940538e87b30a32ccbe5, type: 2}

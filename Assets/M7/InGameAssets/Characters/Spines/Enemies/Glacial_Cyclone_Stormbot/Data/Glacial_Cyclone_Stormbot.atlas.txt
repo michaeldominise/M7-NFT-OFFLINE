@@ -1,0 +1,34 @@
+Glacial_Cyclone_Stormbot.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+scale:0.25
+Stormbot/body
+bounds:427,54,132,165
+rotate:90
+Stormbot/foot_L
+bounds:561,399,63,93
+rotate:90
+Stormbot/foot_R
+bounds:653,682,59,79
+rotate:90
+Stormbot/head
+bounds:2,336,298,405
+Stormbot/tail
+bounds:469,188,274,90
+rotate:90
+Stormbot/thigh_L
+bounds:353,191,74,80
+Stormbot/thigh_R
+bounds:353,273,77,77
+Stormbot/wing_L_parts A
+bounds:2,2,332,349
+rotate:90
+Stormbot/wing_L_parts B
+bounds:302,352,110,165
+rotate:90
+Stormbot/wing_R_parts A
+bounds:353,21,72,168
+Stormbot/wing_R_parts B
+bounds:302,464,277,349
+rotate:90
