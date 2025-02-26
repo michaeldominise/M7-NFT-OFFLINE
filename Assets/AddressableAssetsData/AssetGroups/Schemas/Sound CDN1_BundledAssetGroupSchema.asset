@@ -34,12 +34,12 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 3
   m_BuildPath:
-    m_Id: 77bc68b0e9890334fb922dd51522932b
+    m_Id: 2e111ec8d09cd48d0bad84cded6f33bc
   m_LoadPath:
-    m_Id: e5a5a9a748c3dd047ad89cff67e37296
+    m_Id: 350ed329066824ed9ac7ae85bb31f688
   m_BundleMode: 0
   m_AssetBundleProviderType:
-    m_AssemblyName: M7, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    m_ClassName: M7.CDN.M7StorageAssetBundleProvider
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider
   m_BundleNaming: 0
   m_AssetLoadMode: 0

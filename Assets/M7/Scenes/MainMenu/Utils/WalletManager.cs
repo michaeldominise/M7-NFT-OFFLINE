@@ -56,6 +56,7 @@ namespace M7
 
         async void Start()
         {
+            return;
             if(walletConnect.gameObject.activeInHierarchy)
                 await walletConnect.Connect();
         }

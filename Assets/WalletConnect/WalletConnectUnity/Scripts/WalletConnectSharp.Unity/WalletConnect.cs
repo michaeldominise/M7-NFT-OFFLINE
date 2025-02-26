@@ -437,16 +437,19 @@ namespace WalletConnectSharp.Unity
 
         private async void OnDestroy()
         {
+            return;
             await SaveOrDisconnect();
         }
 
         private async void OnApplicationQuit()
         {
+            return;
             await SaveOrDisconnect();
         }
 
         private async void OnApplicationPause(bool pauseStatus)
         {
+            return;
             if (pauseStatus)
             {
                 await SaveOrDisconnect();

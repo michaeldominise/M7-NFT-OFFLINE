@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 55f10858e229c62449d88580c928dd87
   m_CachedHash:
     serializedVersion: 2
-    Hash: 81862865e533931231725dffb81bc9ec
+    Hash: d21312d98b983d870f63eb362b55d5c0
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -35,9 +35,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 77bc68b0e9890334fb922dd51522932b
+    m_Id: 2e111ec8d09cd48d0bad84cded6f33bc
   m_RemoteCatalogLoadPath:
-    m_Id: e5a5a9a748c3dd047ad89cff67e37296
+    m_Id: 350ed329066824ed9ac7ae85bb31f688
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -90,6 +90,10 @@ MonoBehaviour:
         m_Value: '[UnityEngine.Application.streamingAssetsPath]/[BuildTarget][M7.CDN.M7AddressableProfile.AddressableBuildNumber]'
       - m_Id: e5a5a9a748c3dd047ad89cff67e37296
         m_Value: '[M7.CDN.M7AddressableProfile.PlayfabCDNKey][BuildTarget][M7.CDN.M7AddressableProfile.CDNCurrentVersionKey]'
+      - m_Id: 2e111ec8d09cd48d0bad84cded6f33bc
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 350ed329066824ed9ac7ae85bb31f688
+        m_Value: '[M7.CDN.M7AddressableProfile.UnityCloudLink]'
     m_ProfileEntryNames:
     - m_Id: ed66c78c2faa5b946a14da2c304cb8dd
       m_Name: BuildTarget
@@ -123,6 +127,12 @@ MonoBehaviour:
       m_InlineUsage: 0
     - m_Id: e5a5a9a748c3dd047ad89cff67e37296
       m_Name: StreamingAssets.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 2e111ec8d09cd48d0bad84cded6f33bc
+      m_Name: UnityCloud.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 350ed329066824ed9ac7ae85bb31f688
+      m_Name: UnityCloud.LoadPath
       m_InlineUsage: 0
     m_ProfileVersion: 1
   m_LabelTable:

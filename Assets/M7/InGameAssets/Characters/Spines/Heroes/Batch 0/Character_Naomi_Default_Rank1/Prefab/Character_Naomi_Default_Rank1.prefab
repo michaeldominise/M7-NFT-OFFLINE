@@ -84,6 +84,7 @@ GameObject:
   - component: {fileID: 1952258120929182160}
   - component: {fileID: 5679229361146278747}
   - component: {fileID: 7151506089408092488}
+  - component: {fileID: 4117386638713796045}
   m_Layer: 0
   m_Name: CharacterSpine
   m_TagString: Untagged
@@ -127,14 +128,16 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2100000, guid: ab199bdc59267b749b8d49305085cc94, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: ab199bdc59267b749b8d49305085cc94, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
+  - {fileID: 2100000, guid: 8f23542ee303b1c45867ff9b82de6909, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -158,7 +161,7 @@ MeshRenderer:
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!95 &6714026147861713871
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -175,7 +178,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &1952258120929182160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -270,6 +274,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5685fa232ccd5354c9f5d2e76d45195f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!33 &4117386638713796045
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506296954048540}
+  m_Mesh: {fileID: 0}
 --- !u!1 &237042835064805300
 GameObject:
   m_ObjectHideFlags: 0

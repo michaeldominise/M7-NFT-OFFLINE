@@ -10,7 +10,7 @@ namespace M7.GameData
     [System.Serializable]
     public class TeamData_Player : TeamData
     {
-        [JsonProperty] [SerializeField] public List<WaveData_Player> waves = new List<WaveData_Player> { new WaveData_Player() };
+        [JsonProperty] [SerializeField] public List<WaveData_Player> waves;
         [JsonIgnore] public override List<WaveData> Waves => waves.Select(x => x as WaveData).ToList();
 
         public bool IsPlayable() => AllSaveableCharacters.FirstOrDefault(x => x != null) != null;

@@ -136,14 +136,15 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: c2fb491490ee80347965e538c22fce14, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
+  - {fileID: 2100000, guid: 8183f1ed393473f41852e463a29682e4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -167,7 +168,7 @@ MeshRenderer:
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!95 &6879754141356160967
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -184,7 +185,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &8358151630920521402
 MonoBehaviour:
   m_ObjectHideFlags: 0

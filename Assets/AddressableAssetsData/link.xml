@@ -38,7 +38,6 @@
     <type fullname="IAPProductIDManager" preserve="all" />
     <type fullname="InitialMenuManager" preserve="all" />
     <type fullname="M7.ActivationCodeSceneManager" preserve="all" />
-    <type fullname="M7.CDN.M7StorageAssetBundleProvider" preserve="all" />
     <type fullname="M7.DeselectUI" preserve="all" />
     <type fullname="M7.FX.ParticleWorldManager" preserve="all" />
     <type fullname="M7.FX.VFX.Scripts.VFXSkillSystem" preserve="all" />
@@ -293,6 +292,7 @@
     <type fullname="M7.GameData.InvetoryDataBoosters" preserve="nothing" serialized="true" />
     <type fullname="M7.GameData.InvetoryDataCurrencies" preserve="nothing" serialized="true" />
     <type fullname="M7.GameData.PlayerTeams" preserve="nothing" serialized="true" />
+    <type fullname="M7.GameData.SaveableBoosterData" preserve="nothing" serialized="true" />
     <type fullname="M7.GameData.SaveableCharacterData" preserve="nothing" serialized="true" />
     <type fullname="M7.GameData.SaveableCurrencyData" preserve="nothing" serialized="true" />
     <type fullname="M7.GameData.Scripts.Saveables.SaveableEnergyData" preserve="nothing" serialized="true" />
@@ -413,6 +413,7 @@
     <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[UnityEngine.Sprite]" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
@@ -520,6 +521,7 @@
     <type fullname="UnityEngine.Purchasing.IAPButton" preserve="all" />
     <type fullname="UnityEngine.Purchasing.IAPButton/OnPurchaseCompletedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Purchasing.IAPButton/OnPurchaseFailedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Purchasing.IAPButton/OnTransactionsRestoredEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.SpriteMask" preserve="all" />

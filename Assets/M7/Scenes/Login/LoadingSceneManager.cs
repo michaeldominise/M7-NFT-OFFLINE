@@ -45,7 +45,7 @@ using M7.GameData;
         public IEnumerator Init()
         {
             yield return new WaitForEndOfFrame();
-            PlayerDatabase.ResetLocalData();
+            //PlayerDatabase.ResetLocalData();
             PlayerDatabase.LoadLocalData();
             container.DOFade(1, fadeInDuration).onComplete += TryLogin;
         }

@@ -27,13 +27,33 @@ namespace M7.CDN
         public static string AddressableBuildNumber => Instance._AddressableBuildNumber;
         public static string PlayfabCDNKey => Instance._PlayfabCDNKey;
         public static string CDNCurrentVersionKey => Instance._CDNCurrentVersionKey;
+        public static string UnityCloudLink
+        {
+            get
+            {
+#if UNITY_WEBGL
+                return Instance.unityCloudLinkWebGL;
+#elif UNITY_ANDROID
+                return Instance.unityCloudLinkAndroid;
+#elif UNITY_IOS
+                return Instance.unityCloudLinkIOS;
+#else
+                return Instance.unityCloudLinkWindows;
+#endif
+            }
+        }
 
         [SerializeField] string _AddressableBuildNumber = "02";
         [SerializeField] string _PlayfabCDNKey = "https://playfab/";
         [SerializeField] string _CDNCurrentVersionKey = "$CDNCurrentVersion";
         [SerializeField] bool useCDNCurrentVersionOverride;
         string _CDNCurrentVersion { get; set; }
-        
+
+        [SerializeField, TextArea] string unityCloudLinkWebGL;
+        [SerializeField, TextArea] string unityCloudLinkAndroid;
+        [SerializeField, TextArea] string unityCloudLinkIOS;
+        [SerializeField, TextArea] string unityCloudLinkWindows;
+
         public static string CDNCurrentVersion
         {
             //get => Instance._CDNCurrentVersion;

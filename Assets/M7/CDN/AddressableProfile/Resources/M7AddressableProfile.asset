@@ -16,3 +16,7 @@ MonoBehaviour:
   _PlayfabCDNKey: https://azure/
   _CDNCurrentVersionKey: $CDNCurrentVersion
   useCDNCurrentVersionOverride: 1
+  unityCloudLinkWebGL: https://3a86cb2e-4372-4495-9932-3eb871eebb0b.client-api.unity3dusercontent.com/client_api/v1/environments/production/buckets/139330f9-569a-4884-a8c8-4f6f25dd8447/release_by_badge/latest/entry_by_path/content/?path=
+  unityCloudLinkAndroid: https://3a86cb2e-4372-4495-9932-3eb871eebb0b.client-api.unity3dusercontent.com/client_api/v1/environments/production/buckets/3ec4dafa-4983-4496-ad2d-3941dcd250f4/release_by_badge/latest/entry_by_path/content/?path=
+  unityCloudLinkIOS: 
+  unityCloudLinkWindows: https://3a86cb2e-4372-4495-9932-3eb871eebb0b.client-api.unity3dusercontent.com/client_api/v1/environments/production/buckets/6a135bd0-f3e2-466c-8717-ad098731a3fe/release_by_badge/latest/entry_by_path/content/?path=

@@ -34,7 +34,7 @@ namespace M7.GameRuntime.Scripts.OnBoarding.Game
             
             foreach (var stage in stages)
             {
-                if (_onBoardingManager.Stages.ContainsKey(stage.Key))
+                if (!string.IsNullOrWhiteSpace(stage.Key) && _onBoardingManager.Stages.ContainsKey(stage.Key))
                     _onBoardingManager.Stages[stage.Key].IsDone = stage.Value.IsDone;
             }
         }
